@@ -1,0 +1,198 @@
+---
+decision_id: "ag_spezialverwaltungsgericht_RV.2003.50227"
+court: "AG Spezialverwaltungsgericht"
+court_id: "ag_spezialverwaltungsgericht"
+chamber: "Abteilung Steuern"
+docket: "RV.2003.50227"
+decided: "2003-11-04"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/3945"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3945"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/642.11/art-018.md"]
+---
+
+# Spezialverwaltungsgericht / Abteilung Steuern — RV.2003.50227
+
+## Regeste
+
+Steuerstrafrecht; Strafbefehlsverfahren (§ 242 ff. StG).
+- Grundsätzlich besteht kein Anspruch auf eine persönliche Anhörung im Rahmen des Strafbefehlsverfahrens vor dem Kantonalen Steueramt.
+
+## Text
+
+350 
+Steuerrekursgericht 
+2003 
+92 
+Steuerstrafrecht; Strafbefehlsverfahren (§ 242 ff. StG). 
+- 
+Grundsätzlich besteht kein Anspruch auf eine persönliche Anhörung 
+im Rahmen des Strafbefehlsverfahrens vor dem Kantonalen Steuer-
+amt. 
+4. November 2003 in Sachen KStA gegen P. E., RV.2003.50227/K 8219 
+Aus den Erwägungen 
+1. a) Bei der Busse wegen Verletzung von steuerrechtlichen 
+Verfahrenspflichten handelt es sich um eine echte kriminalrechtliche 
+Strafe. Auf das Verfahren gelangen dementsprechend die Garantien 
+der EMRK, insbesondere Art. 6, zur Anwendung. Ebenfalls zu be-
+achten sind die entsprechenden strafprozessualen Grundsätze der 
+Bundesverfassung, insbesondere der Anspruch auf rechtliches Gehör 
+in Art. 29 Abs. 2 BV. Zu diesen den Angeschuldigten zustehenden 
+Rechten gehört nicht nur das Recht, sich zur Beschuldigung, zum 
+Beweisergebnis und zum Strafantrag zu äussern, sondern auch das 
+Recht auf persönliche Einvernahme. Die Angeschuldigten müssen 
+die Gelegenheit haben, sich im Verlauf des gesamten Verfahrens 
+mindestens einmal mündlich zu äussern (Entscheid des Verwaltungs-
+gerichts Zürich vom 27. September 2000, publiziert in StE 2001 
+A 21.13 Nr. 5, Erw. 2/a mit Hinweisen). 
+b) Das kantonale Steueramt kann im Strafbefehlsverfahren die 
+angeschuldigte Person befragen (§ 244 Abs. 1 StG). Eine Verpflich-
+tung zur persönlichen Anhörung ist indessen im Steuergesetz - anders 
+als im Verfahren vor dem Steuerrekursgericht (§ 249 f. StG) - nicht 
+vorgeschrieben, und zwar weder vor Ausfällung des Strafbefehls 
+noch vor der allfälligen Erhebung einer Anklage. Dies entspricht der 
+Regelung in § 196 Abs. 2 StPO, wo einzig in Bezug auf 
+Freiheitsstrafen vorgesehen ist, dass der Bezirksamtmann "in der 
+Regel" vorgängig die beschuldigte Person persönlich anhört und ihr 
+den Strafbefehl mündlich eröffnet. 
+c) Das Verfahren des Strafbefehls oder ähnliche Verfahren 
+zeichnen sich im allgemeinen dadurch aus, dass einerseits eine von 
+
+
+2003 
+Kantonale Steuern 
+351 
+der Strafuntersuchung getrennte materielle Beurteilung fehlt und 
+dass anderseits das entsprechende Erkenntnis vom Untersuchungs-
+richter oder von einer Verwaltungsbehörde ausgeht. Der Strafbefehl 
+wird rechtskräftig, wenn die betroffene Person keine Einsprache 
+einlegt; sie hat aber ohne Weiteres aufgrund einer blossen Einsprache 
+die Möglichkeit, die Durchführung eines ordentlichen Strafverfah-
+rens zu verlangen. 
+Der EuGH hat hierzu ausgeführt, im Hinblick auf die grosse 
+Zahl leichter Zuwiderhandlungen könne ein Vertragsstaat gute 
+Gründe dafür haben, seine Gerichte von der Verfolgung und Ahn-
+dung solcher Verstösse zu entlasten. Die Übertragung dieser Aufga-
+ben auf Verwaltungsbehörden verstosse umso weniger gegen die 
+Konvention, als die betroffene Person wegen jeder so ergangenen 
+Entscheidung ein Gericht anrufen könne, das die Garantien des Art. 6 
+EMRK biete (vgl. BGE 114 Ia 150 mit Hinweisen). Im Übrigen wird 
+im Strafbefehlsverfahren nicht über die Stichhaltigkeit einer straf-
+rechtlichen Anklage entschieden bzw. enthält der Strafbefehl keine 
+richterliche Tatsachen- und Schuldfeststellung. Dieser ist vielmehr 
+das Ergebnis einer Unterwerfung, mit welcher die angeschuldigte 
+Person auf die Garantien des Art. 6 EMRK verzichtet. Der Umstand, 
+dass der Strafbefehl einem rechtskräftigen Urteil gleichgestellt wer-
+den kann, vermag daran nichts zu ändern, weil die Möglichkeit zur 
+Einspracheerhebung besteht. Darin zeigt sich, dass der Strafbefehl 
+nur eine vorläufige Entscheidung ist, nach deren Erlass die ange-
+schuldigte Person das Recht hat, ihre Sache vor einem Richter unter 
+Einhaltung aller Garantien gemäss Art. 6 EMRK verhandeln zu las-
+sen (vgl. zum Ganzen: A. Donatsch, Gedanken zur Revision des 
+kantonalen Steuerstrafrechts, StR 1992 S. 526 mit Hinweisen). 
+Aus dem Gesagten folgt, dass nach Massgabe von Art. 6 EMRK 
+ein Anspruch auf persönliche Anhörung erst auf Stufe der allenfalls 
+angerufenen Gerichtsinstanz, nicht aber bereits auf Stufe der 
+Strafbefehlsbehörde besteht (vgl. BGE 119 Ib 311, Erw. 7/c [diesem 
+Entscheid liegt kein Strafbefehl, sondern eine erstinstanzliche 
+Verfügung zugrunde, gegen die ein vollkommenes Rechtsmittel offen 
+steht]; Entscheid der Bundessteuer-Rekurskommission Zürich vom 
+13. Mai 1992, publiziert in StE 1992 B 101.8 Nr. 8 lit. e). 
+
+
+352 
+Steuerrekursgericht 
+2003 
+d) Trotz der erwähnten Nichtanwendbarkeit von Art. 6 EMRK 
+ist es nach der Praxis des Verwaltungsgerichts Zürich bereits im 
+Rahmen des Strafbefehlsverfahrens unabdingbar, dass das kantonale 
+Steueramt eine persönliche Befragung der angeschuldigten Person 
+durchführt. Die Rechtsprechung wird damit begründet, dass die mit 
+der Angelegenheit befasste Behörde nur aufgrund einer persönlichen 
+Einvernahme einen Eindruck von der Persönlichkeit der angeschul-
+digten Person gewinnen, die inneren Tatumstände beurteilen (sub-
+jektiver Tatbestand, Verschulden, Beweggründe) und die unerlässli-
+chen Entscheidgrundlagen für die Strafzumessung (Gesundheitszu-
+stand, Lebensumstände, Strafempfindlichkeit, Charakter) erhalten 
+könne. Da bereits die den Sachverhalt als erste untersuchende und 
+beurteilende Behörde das Verschulden der angeschuldigten Person zu 
+ergründen und gegebenenfalls im Strafbefehl zu berücksichtigen 
+habe, müsse sie auch eine persönliche Befragung durchführen (StE 
+2001 A 21.13 Nr. 5 mit Hinweisen). 
+Die erwähnte Rechtsprechung ist ohne Weiteres in jenen Fällen 
+zu übernehmen, wo der Bussenentscheid stark individualisiert ist, 
+d.h. wo die Persönlichkeit der angeschuldigten Person, die inneren 
+Tatumstände und weitere für die Strafzumessung wesentliche Ent-
+scheidgrundlagen tatsächlich relevant sind. Demgegenüber erweist es 
+sich in Abweichung von dieser Praxis als gerechtfertigt, im Strafbe-
+fehlsverfahren auf eine persönliche Anhörung zu verzichten, wenn es 
+lediglich um eher geringfügige Strafen geht, bei deren Ahndung 
+regelmässig in schematisierter Art und Weise vorgegangen wird. 
+Dies gilt u.a. für die Bussen betreffend der Verletzung von steuer-
+rechtlichen Verfahrenspflichten, soweit sie den Charakter einer blos-
+sen Ordnungsbusse und nicht denjenigen einer eigentlichen Fiskal-
+strafe haben; eine weit gehende Schematisierung lässt sich in diesen 
+Fällen nicht beanstanden (Walter Kälin/Lisbeth Sidler, Verschul-
+densgrundsatz und Öffentlichkeitsprinzip: Die Strafsteuer im Lichte 
+von Verfassung und EMRK, publiziert in: ASA 60, S. 164 ff. mit 
+Hinweisen). 
+e) Eine generelle Pflicht, im Strafbefehlsverfahren den Ange-
+schuldigten persönlich zu befragen, ist folglich zu verneinen. Dieses 
+Resultat ergibt sich auch nach Massgabe von Art. 29 Abs. 2 BV. 
+
+
+2003 
+Kantonale Steuern 
+353 
+Danach ist wesentlich, dass die angeschuldigte Person spätestens mit 
+dem Erlass des Strafbefehls Kenntnis von der Einleitung des Straf-
+verfahrens erhält (§ 243 Abs. 2 StG), Akteneinsicht verlangen (§ 244 
+Abs. 2 StG) und Einsprache erheben kann (§ 247 Abs. 1 StG). Damit 
+ist der Anspruch auf Gewährung des rechtlichen Gehörs hinlänglich 
+erfüllt. 
+Zusammenfassend ergibt sich, dass sich die Regelung, wonach 
+im Strafbefehlsverfahren bzw. vor einer allfälligen Anklageerhebung 
+grundsätzlich keine Anhörung der angeschuldigten Person vorge-
+schrieben ist, nicht beanstanden lässt. Eine gegenteilige Verpflich-
+tung ergibt sich allenfalls im Einzelfall, soweit die Strafe nicht mehr 
+den Charakter einer blossen Ordnungsbusse, sondern denjenigen 
+einer eigentlichen Fiskalstrafe besitzt. Dies ist in concreto offen-
+sichtlich nicht der Fall. Auf eine Anhörung durfte das KStA folglich 
+verzichten. 
+
+
+2003 
+Bundessteuern 
+355 
+II. Bundessteuern 
+A. Bundesgesetz über die direkte Bundessteuer (DBG) vom 
+14. Dezember 1990 
+93 
+Wertzerlegungs-/Präponderanzmethode (Art. 18 DBG in der bis 31. De-
+zember 2000 geltenden Fassung). 
+- 
+Stichtag für den Wechsel von der Wertzerlegungs- zur Präponder-
+anzmethode im DBG ist der 1. Januar 1995. 
+15. Mai 2003 in Sachen M. + R.F., BB.2001.50012/E 5031 
+Aus den Erwägungen 
+1. a) Die vorliegende Beschwerde betrifft die Steuerperiode 
+1995/96. Für die Beurteilung massgebend ist somit das am 1. Januar 
+1995 in Kraft getretene Bundesgesetz über die direkte Bundessteuer 
+(DBG) vom 14. Dezember 1990. Dessen Art. 18 lautet in der bis 
+31. Dezember 2000 geltenden Fassung wie folgt: 
+"1 Steuerbar sind alle Einkünfte aus einem Handels-, Industrie-, Gewer-
+be-, Land- und Forstwirtschaftsbetrieb, aus einem freien Beruf sowie 
+aus jeder anderen selbständigen Erwerbstätigkeit. 
+ 2 Zu den Einkünften aus selbständiger Erwerbstätigkeit zählen auch alle 
+Kapitalgewinne aus Veräusserung, Verwertung oder buchmässiger 
+Aufwertung von Geschäftsvermögen. Der Veräusserung gleichgestellt 
+ist die Überführung von Geschäftsvermögen in das Privatvermögen 
+oder in ausländische Betriebe oder Betriebsstätten. Als Geschäftsver-
+mögen gelten alle Vermögenswerte, die ganz oder vorwiegend der 
+selbständigen Erwerbstätigkeit dienen. 
+ 3 (...) 
+ 4 (...)" 
+b) Nach Auffassung des Bundesgerichts (BGE 92 I 49) war eine 
+sachgemässe, der gesetzlichen Ordnung des bis Ende 1994 geltenden 
+Bundesratsbeschlusses über die Erhebung einer direkten Bundessteu-
