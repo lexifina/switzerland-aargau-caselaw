@@ -1,0 +1,353 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2008.71"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2008.71"
+decided: "2005-03-22"
+published: "2010-01-26"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/3087"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3087"
+cites_law: ["switzerland/bund/acts/700/art-019.md", "switzerland/bund/acts/843/art-006.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2008.71
+
+## Regeste
+
+Beitragsplan.
+Folgen eines erst nach Baubeginn öffentlich aufgelegten bzw. durch Einzelverfügung eröffneten Beitragsplans; Verwirkung der Beitragsansprüche.
+
+## Text
+
+2010 
+Abgaben 
+127 
+III. Abgaben 
+ 
+25 
+Beitragsplan. 
+Folgen eines erst nach Baubeginn öffentlich aufgelegten bzw. durch Ein-
+zelverfügung eröffneten Beitragsplans; Verwirkung der Beitragsan-
+sprüche. 
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 26. Januar 2010 in Sachen 
+Einwohnergemeinde X. gegen Y. und Z. (WBE.2008.71). 
+Aus den Erwägungen 
+1. 
+Seitens der Verfahrensbeteiligten ist allseits unbestritten, dass 
+mit den Bauarbeiten für die Verbindungsstrasse am 29. November 
+2004 begonnen wurde, der Beitragsplan "Verbindungsstrasse A.-B." 
+vom 14. Oktober 2004 den betroffenen Grundeigentümern jedoch 
+erst mit Einzelverfügung vom 22. März 2005 (versandt am 6. April 
+2005) eröffnet wurde. Zu beurteilen ist im vorliegenden Beschwer-
+deverfahren einzig die Frage, ob die erst nach Baubeginn erfolgte 
+Eröffnung des Beitragsplans zur Folge hat, dass der verfügte Bei-
+tragsanspruch des Gemeinwesens gegenüber den Beschwerdegeg-
+nern verwirkt ist. 
+2. (…) 
+3. 
+3.1. 
+Die Gemeinden sind gemäss § 34 Abs. 1 BauG (in der hier an-
+wendbaren Fassung vom 31. August 1999) im Sinne des Bundes-
+rechts (vgl. insbesondere Art. 19 RPG und Art. 6 WEG) verpflichtet, 
+von den Grundeigentümern – nach Massgabe der diesen erwach-
+senden wirtschaftlichen Sondervorteile – Beiträge an die Kosten der 
+Erstellung und Änderung von Strassen zu erheben. Die genaue Rege-
+
+
+128 
+Verwaltungsgericht 
+2010 
+lung erfolgt in einem Beitragsplan (§ 35 Abs. 1 BauG; sog. ur-
+sprünglicher Beitragsplan). Soweit keine kantonalen Vorschriften be-
+stehen, regeln die Gemeinden die Beitragserhebung selber (§ 34 
+Abs. 3 BauG). Von dieser Kompetenzzuweisung hat die Gemeinde 
+X. mit dem Erlass des Strassenreglements vom 29. November 2002 
+(Strassenreglement) Gebrauch gemacht. Gemäss § 5 Strassenregle-
+ment erhebt der Gemeinderat für die Kosten der Erstellung und Än-
+derung von Strassen von den Grundeigentümern Erschliessungsbei-
+träge (vgl. im Einzelnen auch §§ 6 ff. Strassenreglement). Im Bei-
+tragsplan sind alle relevanten Angaben und Berechnungen nachvoll-
+ziehbar darzustellen (§ 10 Abs. 1 und 2 Strassenreglement). Auf Ort 
+und Zeitpunkt der öffentlichen Auflage des Beitragsplans ist vor-
+gängig im amtlichen Publikationsorgan der Gemeinde hinzuweisen 
+(§ 11 Abs. 1 Strassenreglement). Den Beitragspflichtigen ist die Auf-
+lage zusammen mit der Höhe des Beitrags durch eingeschriebenen 
+Brief anzuzeigen (§ 11 Abs. 2 Strassenreglement). Zur Frage, zu wel-
+chem Zeitpunkt die öffentliche Auflage des Beitragsplans zu erfolgen 
+hat, äussert sich das Strassenreglement nicht. 
+3.2. 
+Das Baugesetz vom 2. Februar 1971 (aBauG) sah in § 32 Abs. 1 
+vor, dass Beitragspflicht und Höhe der einzelnen Beiträge vor der 
+Bauausführung aufgrund eines Kostenvoranschlages durch den Bei-
+tragsplan festgesetzt würden. § 32 Abs. 2 aBauG bestimmte, dass der 
+Beitragsplan nach Publikation und schriftlicher Anzeige an die 
+Pflichtigen während 30 Tagen öffentlich aufzulegen und binnen glei-
+cher Frist mit Beschwerde an den Regierungsrat weiterziehbar war. 
+Der Beitragplan war somit nicht erst nach Bauvollendung hinten-
+drein zu erstellen, sondern "vor der Bauausführung", d. h. vor deren 
+Beginn (so ausdrücklich Erich Zimmerlin, Baugesetz des Kantons 
+Aargau vom 2. Februar 1971, Kommentar, 2. Auflage, Aarau 1985, 
+N 1 zu § 32 aBauG). 
+§ 35 Abs. 1 des vorliegend geltenden BauG (Fassung vom 
+31. August 1999) lautet wie folgt: 
+"Der Gemeinderat, bei Gemeindeverbänden der Vorstand, bestimmt 
+die Beitragspflichtigen und deren einzelne Beiträge an die Grob- und 
+Feinerschliessung in einem Beitragsplan. Dieser wird während 30 
+
+
+2010 
+Abgaben 
+129 
+Tagen öffentlich aufgelegt. In Verfahren, die nur wenige Grundeigen-
+tümer betreffen, kann die öffentliche Auflage entweder durch eine auf 
+die Beteiligten beschränkte Auflage oder durch Einzelverfügungen mit 
+Zustellung des Kostenverteilers ersetzt werden." 
+Das BauG (in der massgebenden Fassung vom 31. August 
+1999) enthält somit anders als das Baugesetz von 1972 keine aus-
+drückliche Regelung mehr darüber, zu welchem Zeitpunkt der Bei-
+tragsplan festzusetzen ist. Aus den Gesetzesmaterialien zu dieser Be-
+stimmung geht nun aber klar hervor, dass der Gesetzgeber diesbe-
+züglich keine Änderung beabsichtigte und insbesondere auch nicht 
+eine nachträgliche Festsetzung und Auflage des ursprünglichen Bei-
+tragsplans ermöglichen wollte. Der Botschaft des Regierungsrats des 
+Kantons Aargau an den Grossen Rat vom 16. Dezember 1998 
+(Nr. 98.005747) zum Gesetz über Raumplanung, Umweltschutz und 
+Bauwesen vom 19. Januar 1993, Änderung der §§ 34, 35, 88, 166 
+und 169 (Erschliessungsfinanzierung), Bericht und Entwurf zur 
+1. Beratung, S. 14, ist zu entnehmen, "Dass dem Beitragsplan ein 
+Kostenvoranschlag zugrunde liegen und die Auflage vor Baubeginn 
+stattfinden muss, ergibt sich aus der Sache selbst; ein Hinweis im 
+Gesetz erübrigt sich". Insofern ist mit der Vorinstanz davon ausge-
+hen, dass das BauG auch ohne ausdrückliche Regelung von einer 
+Festsetzung und Auflage des (ursprünglichen) Beitragsplans vor 
+Baubeginn ausgeht und eine solche auch verlangt. 
+In diesem Sinne haben die Schätzungskommission nach Bauge-
+setz und das Verwaltungsgericht übereinstimmend festgehalten, aus 
+dem sachlogischen Zusammenhang mit den weiteren für die Reali-
+sierung einer Erschliessung notwendigen Verfahrensschritten (Er-
+schliessungsplan, Bauprojekt, Landerwerb) sei der Beitragsplan 
+frühestens nach Erstellung des auflagereifen Projekts mit Kosten-
+voranschlag und spätestens vor Baubeginn aufzulegen (VGE II/65 
+vom 5. Juli 2007 [WBE.2006.30], S. 6; AGVE 2002, S. 502 f. [Ent-
+scheid der Schätzungskommission nach Baugesetz vom 28. Mai 
+2002]; vgl. auch schon AGVE 1970, S. 215). 
+3.3. 
+Unterschiedliche Rechtsauffassungen zwischen den beiden Ge-
+richten bestehen jedoch offensichtlich bezüglich der Folgen einer erst 
+
+
+130 
+Verwaltungsgericht 
+2010 
+nach Baubeginn und damit angesichts der gesetzlichen Vorgabe kla-
+rerweise verspätet erfolgenden Auflage eines ursprünglichen Bei-
+tragsplans. Während die Schätzungskommission nach Baugesetz eine 
+Verwirkung des individuellen Beitragsanspruchs annimmt, hat das 
+Verwaltungsgericht eine solche in seiner bisherigen Rechtsprechung 
+verneint. In VGE II/65 vom 25. November 1980 [1979/229], S. 13, 
+hielt es diesbezüglich Folgendes fest: 
+"Gegen § 32 Abs. 1 BauG wurde im vorliegenden Fall insoweit ver-
+stossen, als mit der Bauausführung begonnen wurde, bevor auch nur 
+die Auflagefrist für den Beitragsplan abgelaufen war. Indessen liesse 
+es sich nicht rechtfertigen, hieran Verwirkungsfolgen zu knüpfen. Als 
+wesentliche Folge der vorzeitigen Bauausführung kann das Gemein-
+wesen nicht mehr auf den Bau verzichten, wenn ihm der verbleibende 
+Kostenanteil zu gross erscheint (…). § 32 Abs. 1 BauG soll damit in 
+erster Linie das Budgetrecht der Gemeinde wahren (vgl. AGVE 1970, 
+215). Ausserdem dürfte es – vom rein praktischen Gesichtspunkt aus 
+betrachtet – nach dem Bau schwerer fallen, Ausfälle auf Grund von 
+Beschwerdegutheissungen auf die anderen Privaten zu verteilen. Da-
+gegen erwachsen den Beitragspflichtigen aus der vorzeitigen Bauaus-
+führung keine Nachteile. Dass die Beiträge nach Massgabe der ent-
+standenen Kosten fällig werden (§ 33 Abs. 2 BauG; dazu Zimmerlin, 
+a.a.O., N. 2 zu § 33 BauG), kann selbstverständlich keine Fälligkeit 
+vor der Rechtskraft des Beitragsplanes bewirken." 
+ 
+In einem späteren Entscheid (VGE II/125 vom 22. Oktober 
+1992 [BE.92.00249], S. 8) führte das Verwaltungsgericht aus: 
+"Gemäss § 32 Abs. 1 BauG ist der Beitragsplan vor der Bauausfüh-
+rung aufzustellen; das bedeutet, dass mit dem Bau erst nach Eintritt 
+der Rechtskraft des Beitragsplans begonnen werden darf. Sinn und 
+Zweck dieser Bestimmung ist es, der Gemeinde das Budgetrecht zu 
+wahren (AGVE 1970, S. 215) und ihr zu ermöglichen, nachträglich auf 
+den Bau zu verzichten, wenn ihr der Anteil, welcher nach dem Be-
+schwerdeentscheid auf sie entfällt, zu hoch erscheint. Beginnt die 
+Gemeinde wie im vorliegenden Fall mit dem Bau vor Rechtskraft des 
+Beitragsplans, so bewirkt dies nicht dessen Ungültigkeit, sondern hat 
+lediglich zur Folge, dass die Gemeinde nicht mehr auf den Bau ver-
+
+
+2010 
+Abgaben 
+131 
+zichten kann (AGVE 1981, S. 152). Den beitragspflichtigen Privaten 
+dürfen aus der vorzeitigen Bauausführung jedenfalls keine Nachteile 
+erwachsen (VGE II/65 vom 25. November 1980 in Sachen Hartmann, 
+S. 13)." 
+Im 
+schon 
+erwähnten 
+VGE II/65 
+vom 
+5. Juli 
+2007 
+(WBE.2006.30), S. 6, schliesslich bezeichnete das Verwaltungsge-
+richt die von der Schätzungskommission in AGVE 2002, S. 503, 
+gemachte Feststellung, dass ein Beitragsplan bzw. dessen Auflage 
+nach dem Baubeginn nicht mehr möglich sei, als offenkundig unzu-
+treffend; es gehe um die Zulässigkeit der späteren Auflage, die das 
+Verwaltungsgericht in konstanter Rechtsprechung zum aBauG bejaht 
+habe. Im konkreten Fall seien die Folgen der späteren Auflage eines 
+ursprünglichen Beitragsplans nicht zu erörtern. 
+Die Schätzungskommission kritisiert die verwaltungsgerichtli-
+che Rechtsprechung zu Recht daraufhin, dass diese einzig die Seite 
+der Gemeinde beleuchte und die Seite der Grundeigentümer, welche 
+durch die Beitragspläne häufig sehr stark belastet würden, völlig 
+ausblende. Die Verpflichtung zur Auflage des Beitragsplans vor der 
+Bauausführung hat in der Tat nicht ausschliesslich die kommunale 
+Budgetwahrung zum Zweck; sie dient vielmehr auch dem Schutz der 
+betroffenen Grundeigentümer und der Rechtssicherheit (vor allem 
+auch im Hinblick auf allfällige Eigentümerwechsel). Das Bun-
+desgericht hat sich in zwei Entscheiden mit kantonalen Vorschriften 
+(aus den Kantonen Thurgau und Solothurn) befasst, die im Wesent-
+lichen mit § 32 aBauG übereinstimmen. Es erwog, bei der gesetzlich 
+statuierten Pflicht, zusammen mit dem Bauplan der zu erstellenden 
+oder zu korrigierenden Strasse auch das Verzeichnis der beitrags-
+pflichtigen Grundstücke aufzulegen bzw. deren Eigentümer über die 
+Beitragspflicht und die mutmasslichen Kosten zu informieren, handle 
+es sich keineswegs um eine blosse Ordnungsvorschrift von unterge-
+ordneter Tragweite, sondern um eine für den Schutz der Interessen 
+der Privaten wichtige Bestimmung. Durch die Festlegung der bei-
+tragspflichtigen Grundstücke sowie die Bekanntgabe der mutmass-
+lichen Kosten werde es den betroffenen Eigentümern ermöglicht, 
+sich rechtzeitig, nämlich vor Ausführung des Strassenbaues, darüber 
+schlüssig zu werden, ob sie dem Bauvorhaben stillschweigend zu-
+
+
+132 
+Verwaltungsgericht 
+2010 
+stimmen oder aber gegen das Projekt bzw. dessen Ausgestaltung und 
+die damit zusammenhängende Bildung von Interessenzonen Ein-
+sprache erheben wollten. Werde die Beitragspflicht erst nachträglich 
+bestritten, könnten solche Einwendungen nicht mehr oder nicht mehr 
+im gleichen Umfang erhoben werden (BGE 102 Ia 48; bestätigt in 
+BGE vom 17. Oktober 2005 [2P.84/2005], Erw. 2.4). Weiter hat das 
+Bundesgericht im Urteil vom 17. Oktober 2005 (2P.84/2005), 
+Erw. 2.5, festgehalten, wann für die aus einem erstellten öffentlichen 
+Werk einzelnen Grundeigentümern erwachsenden Sondervorteile ein 
+Verfahren zur Beitragserhebung einzuleiten sei bzw. bis zu welchem 
+Zeitpunkt ein solches Verfahren spätestens eingeleitet werden dürfe, 
+sollte durch die betreffende Gesetzgebung zweckmässigerweise aus-
+drücklich geregelt werden, zumal eine analoge Anwendung von Ver-
+jährungs- oder Verwirkungsfristen aus anderen Rechtsgebieten mit 
+erheblichen Unsicherheiten behaftet sei. 
+Diese Überlegungen sind grundsätzlicher Natur und lassen sich 
+ohne Weiteres auch auf das geltende aargauische Baugesetz übertra-
+gen. Daran ändert entgegen der Meinung der Beschwerdeführerin 
+nichts, dass dieses heute nicht mehr ausdrücklich verlangt, dass der 
+Beitragsplan vor der Bauausführung erstellt und aufgelegt wird. Wie 
+dargelegt, erachtete der Gesetzgeber es als keiner expliziten Rege-
+lung bedürfende Selbstverständlichkeit, dass die Festsetzung und 
+Auflage des Beitragsplans vor der Bauausführung erfolgen; keines-
+falls hat er damit eine in zeitlicher Hinsicht abweichende Regelung 
+treffen wollen (siehe vorne Erw. 3.2.). Das Erfordernis dieser zeitli-
+chen Abfolge folgt auch aus der kantonalen Praxis (siehe vorne 
+Erw. 3.2.). Es hat, wie die Vorinstanz zutreffend annimmt, nicht nur 
+zum Zweck, das Budgetrecht der Gemeinde zu schützen, sondern es 
+dient ebenfalls und in erster Linie dem Schutz der privaten Beitrags-
+pflichtigen und der Rechtssicherheit. Die betroffenen Grundeigentü-
+mer müssen die Möglichkeit haben, sich vor der Bauausführung ge-
+gen ihre persönliche Beitragspflicht wehren zu können. Unter Um-
+ständen gibt nämlich erst die Höhe der zu erwartenden Beiträge An-
+lass, sich gegen die Erschliessung zu wehren, sei es mit dem Argu-
+ment, ein Ausbau der Erschliessungsanlage sei gar nicht nötig oder 
+es seien billigere Varianten denkbar. Individuelle Beitragspflicht und 
+
+
+2010 
+Abgaben 
+133 
+Beitragsbemessung hängen zudem massgeblich von den Verhältnis-
+sen vor Baubeginn ab, welche sich im Nachhinein vielfach kaum 
+mehr zuverlässig eruieren lassen. Weiter gebietet die Rechtssicher-
+heit eine klare Regelung der Frage, bis zu welchem Zeitpunkt Grund-
+eigentümerbeiträge erhoben werden können, dies namentlich im Hin-
+blick auf allfällige Eigentümerwechsel. Mithin handelt es sich nicht 
+lediglich um eine blosse Ordnungsvorschrift zum Schutz des Budget-
+rechts, sondern um eine wesentliche Verfahrensvorschrift, welche die 
+Befugnis des Gemeinwesens zur Erhebung von Grundeigentümer-
+beiträgen durch eine zeitliche Vorgabe begrenzt (vgl. erwähnter BGE 
+vom 17. Oktober 2005 [2P.84/2005], Erw. 2.5). Ihre Missachtung 
+muss deshalb mit rechtlichen Konsequenzen verbunden sein. Die 
+öffentliche Auflage des Beitragsplans bzw. die Bekanntgabe durch 
+Einzelverfügung erst nach Bauausführung bewirkt zwar nicht per se 
+die Nichtigkeit des Beitragsplans als Ganzes, jedoch können die 
+betroffenen Grundeigentümer einspracheweise die Verwirkung des 
+ihnen gegenüber festgesetzten Beitragsanspruchs geltend machen. 
+3.4. 
+Nicht näher zu prüfen ist, ob und unter welchen Voraussetzun-
+gen eine Planauflage trotzdem erst nach Baubeginn zulässig sein 
+kann (z. B. wegen zeitlicher Dringlichkeit der auszuführenden Ar-
+beiten, System der Gesamtfinanzierung; vgl. erwähnter BGE vom 
+17. Oktober 2005 [2P.84/2005], Erw. 2.5). Im vorliegenden Fall lag 
+der Beitragsplan unbestrittenermassen bereits vor Baubeginn 
+(29. November 2005) vor, wurde aber erst rund vier bis fünf Monate 
+nach Baubeginn durch Einzelverfügungen eröffnet. Sachliche 
+Gründe für die spätere Auflage bzw. Eröffnung sind nicht ersichtlich 
+und wurden auch von der Beschwerdeführerin nicht geltend ge-
+macht. Diese verwies vor Vorinstanz einzig auf ihre – zwischen-
+zeitlich geänderte – Praxis. Mit anderen Worten bestand vorliegend 
+keine objektiv begründete Veranlassung, den betroffenen Grundei-
+gentümern den Beitragsplan erst während der Bauausführung bzw. 
+rund zwei Monate vor Abschluss der massgeblichen Bauarbeiten zu 
+eröffnen. Damit ist mit der Vorinstanz davon auszugehen, dass der 
+Beitragsplan im vorliegenden Fall jedenfalls vor Baubeginn hätte 
+
+
+134 
+Verwaltungsgericht 
+2010 
+aufgelegt bzw. eröffnet werden müssen und der individuelle Bei-
+tragsanspruch gegen die Beschwerdegegner somit verwirkt ist. 
+
+
+2010 
+Bau-, Raumentwicklungs- u. Umweltschutzrecht 
+135 
+IV. Bau-, Raumentwicklungs- und Umweltschutzrecht 
+ 
+26 
+Ehehafte Wasserrechte. 
+- 
+Im Kanton Aargau haben sich Nutzungsrechte an Gewässern aus 
+althergebrachten Rechtstiteln als privatrechtliche Eigentumsrechte 
+erhalten. 
+- 
+Begriff und Inhalt des dinglichen Rechts bestimmt das Privatrecht. 
+- 
+Die ehehaften Wasserrechte sind von der Eigentumsgarantie ge-
+schützt. 
+Urteil des Verwaltungsgerichts, 4. Kammer, vom 25. Januar 2010 in Sachen 
+J. gegen Regierungsrat (WBE.2006.368). 
+Aus den Erwägungen 
+5. 
+5.1. 
+Ehehafte Rechte sind nach Lehre und Rechtsprechung vorbe-
+standene, auf althergebrachten Rechtstiteln beruhende Rechte und 
+ehehafte Wasserrechte sind historische Rechte an öffentlichen Ge-
+wässern, die bis heute weiterbestehen (siehe BGE 131 I 321 Erw. 5; 
+BGE vom 24. März 2003 [2P.256/2002], Erw. 1.2.2 und 3; 
+BGE 88 II 498; AGVE 1983, S. 167; Peter Liver, Die ehehaften Was-
+serrechte in der Schweiz, in: Privatrechtliche Festabhandlungen, 
+Festgabe zum 70. Geburtstag des Verfassers am 21. August 1972, 
+Bern 1972, S. 466 [Liver, Wasserrechte]; Peter Liver, Die Entwick-
+lung des Wasserrechts in der Schweiz seit 100 Jahren, in: ZSR 
+71/1952, Band 1, S. 339 [Liver, ZSR], Dominik Strub, Wohlerworbe-
+ne Rechte, Insbesondere im Bereich des Elektrizitätsrechts, Diss. 
+Freiburg 2001, S. 85 und S. 201 f. mit Hinweisen). Zur Zeit ihrer Be-
+gründung galten ehehafte Wasserrechte als private Rechte und bis ins 
+19. und noch anfangs des 20. Jahrhunderts galt das verliehene Was-
