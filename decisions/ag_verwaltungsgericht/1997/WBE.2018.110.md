@@ -1,0 +1,262 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2018.110"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "WBE.2018.110"
+decided: "1997-01-31"
+published: "2018-06-14"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2360"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2360"
+cites_decisions: ["2C_689/2010", "BGE 92 I 461"]
+cites_law: ["switzerland/bund/acts/642.11/art-026.md", "switzerland/bund/acts/642.14/art-009.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — WBE.2018.110
+
+## Regeste
+
+Liegenschaftsunterhaltskosten 
+Keine Gewährung einer Liegenschaftenhändlerpauschale für Gemeinkosten am Hauptsteuerdomizil im Nebensteuerdomizil, wenn keine Kosten nachgewiesen sind bzw. sämtliche Kosten bereits im Liegenschaftskanton berücksichtigt wurden
+
+## Text
+
+Ein solcher Entscheid muss und darf aber nur dann gefällt
+werden, wenn die kantonale Steuerhoheit als solche, d.h. der Bestand
+der subjektiven Steuerpflicht, in Frage steht. Ist das Bestehen einer
+subjektiven Steuerpflicht ohnehin zu bejahen und lediglich noch
+streitig, ob eine der Steuerhoheit eines Kantons unterworfene Person
+beschränkt oder unbeschränkt steuerpflichtig ist, so betrifft dies nicht
+den Bestand, sondern den Umfang der subjektiven Steuerpflicht. Ein
+Vorentscheid betreffend den Umfang der subjektiven Steuerpflicht ist
+somit weder bundes noch kantonalrechtlich geboten und, wie die
+Vorinstanz zutreffend erkannt hat, auch gar nicht zulässig (ebenso
+bereits das Verwaltungsgericht des Kantons Zürich, Urteil vom
+31.Januar 1997 = StE 1997 B 11.3 Nr.10; vgl. auch Urteil vom
+18.Dezember 2002 = StE 2003 B 92.51 Nr.9; ausserdem PETER
+LOCHER, Kommentar DBG, I. Teil, Therwil 2004, Einführung zu
+Art.3ff. N10 sowie MARTIN ZWEIFEL/HUGO CASANOVA, Schwei
+zerisches Steuerverfahrensrecht, Zürich 2008, S.256 §20 Rz9). Zu
+Recht hat die Vorinstanz daher den Feststellungsentscheid der
+Steuerkommission Y., wonach der Beschwerdeführer in Y. lediglich
+der beschränkten Steuerpflicht unterliegt, aufgehoben und damit den
+Rekurs implizit teilweise gutgeheissen.
+8 Liegenschaftsunterhaltskosten
+Keine Gewährung einer Liegenschaftenhändlerpauschale für Gemein
+kosten am Hauptsteuerdomizil im Nebensteuerdomizil, wenn keine Kos
+ten nachgewiesen sind bzw. sämtliche Kosten bereits im Liegenschafts
+kanton berücksichtigt wurden
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom 14.Juni
+2018, in Sachen A. gegen KStA und Gemeinderat Z. (WBE.2018.110).
+
+Aus den Erwägungen
+1.
+Der Streit dreht sich allein um die Gewährung der sog. Liegen
+schaftenhändlerpauschale, d.h. um die Frage, ob und gegebenenfalls
+in welchem Umfang ein solcher Abzug vom Gewinn aus dem Ver
+kauf der Stockwerkeigentumseinheiten in Z., für den die Besteue
+rungszuständigkeit allein dem Kanton Aargau als Belegenheitskanton
+zusteht, zuzulassen ist.
+1.1.
+Den vom Liegenschaftenhändler erzielten Gewinn ganz dem
+Kanton der gelegenen Sache zuzuweisen, lässt sich sachlich nur
+rechtfertigen, wenn alle Aufwendungen, die dem Händler im Hin
+blick auf die Gewinnerzielung erwachsen, von diesem Kanton zum
+Abzug zugelassen werden müssen und deshalb vom Kanton, in dem
+der Händler zufolge Wohn oder Geschäftssitz sein übriges Einkom
+men zu versteuern hat, nicht berücksichtigt zu werden brauchen (so
+schon BGE 92 I 461 E. 2a S.467). Im Sinn eines interkantonalen
+Ausgleichs hat daher nach konstanter bundesgerichtlicher Recht
+sprechung zum interkantonalen Doppelbesteuerungsverbot der Lie
+genschaftskanton einen Anteil an den allgemeinen Unkosten (Um
+triebe beim Ankauf, der Erschliessung und Überbauung sowie beim
+Verkauf in Form von Personal und Sachauslagen, Reisespesen,
+Telefongebühren, Büromietkosten, Porti usw.) am steuerrechtlichen
+Wohnsitz bzw. Sitz des interkantonalen gewerbsmässigen Liegen
+schaftenhändlers zu übernehmen, der im entsprechenden Umfang
+dem Wohnsitz bzw. Sitzkanton zusteht. Dabei handelt es sich nur
+um einen interkantonalen Ausgleich, d.h. im selben Ausmass, in dem
+der Liegenschaftskanton allgemeine Unkosten zu übernehmen hat,
+wird der Wohnsitz /Sitzkanton von deren Berücksichtigung als Auf
+wand bei der allgemeinen Gewinn bzw. Einkommenssteuer entlastet
+(vgl. FELIX RICHER/WALTER FREI/STEFAN KAUFMANN/HANS
+ULRICH MEUTER, Kommentar zum Zürcher Steuergesetz, 3. Aufl.,
+Zürich 2013, §221 Rz 164; Urteil des Bundesgerichts vom 4.April
+2011 [2C_689/2010] Erw.2.1).
+1.2.
+
+Die Liegenschaftenhändlerpauschale soll einerseits die "verän
+derlichen" d.h. auf das einzelne Rechtsgeschäft bezogenen Kosten
+und andererseits einen Anteil der "festen Kosten" (Gemeinkosten)
+berücksichtigen. Sie soll mithin einen Anteil an jenen Unkosten des
+Liegenschaftenhändlers am Hauptsitz übernehmen, die mit dem Ver
+kauf von Liegenschaften zusammenhängen. Von dem als Faustregel
+aufzufassenden Satz von 5 % kann abgewichen werden, wenn hin
+reichende Anhaltspunkte dafür vorliegen, dass er zu tief oder zu hoch
+ist. Ein niedriger Satz kann sich etwa rechtfertigen, wenn Vermitt
+lungsprovisionen und Dienstleistungshonorare an Dritte zum Abzug
+gebracht werden (Urteil des Bundesgerichts vom 4.April 2011
+[2C_689/2010] Erw.2.1 mit Hinweisen).
+2.
+2.1.
+Der Beschwerdeführer hat mit der Steuererklärung 2011 Ein
+künfte aus unselbstständiger Erwerbstätigkeit von Fr.191'511.00 so
+wie unter Ziff.120 des Steuererklärungsformulars "andere Entschä
+digungen" von Fr.297'000.00 deklariert. Für die zuletzt genannten
+Einkünfte lag der Steuererklärung ein Beiblatt bei, in dem erläuternd
+ausgeführt wurde:
+"Position 120, Verwaltungskosten zu Gunsten Sitzkanton
+A.Strasse yy, Z.
+Fr.220'000. zugunsten Sitzkanton (5% Verwaltungskosten wurden
+nicht voll ausgeschöpft)
+B.Strasse, W.
+Fr.77'500. zugunsten Sitzkanton (5% Verwaltungskosten)
+Total Verwaltungskosten zu Gunsten Sitzkanton Fr.297'000. "
+Der Kanton Q. hat, wie sich aus der in den Akten liegenden
+Interkantonalen Steuerausscheidung ergibt, einen Betrag von insge
+samt (Fr.191'511.00 + Fr.297'000.00 =) Fr.488'511.00 als Einkom
+men aus unselbstständiger Erwerbstätigkeit erfasst und in den Kan
+ton Q. allokiert.
+
+Eine Buchhaltung für die Einkünfte aus Liegenschaftenhandel
+wurde nicht eingereicht. In den Akten findet sich hingegen die Bau
+kostenabrechnung der Architektur A. AG für die Stockwerkeigen
+tumseinheiten in Z., aus der sich Gesamtbaukosten von
+Fr.5'407'939.45 ergeben. Gemäss einer ebenfalls in den Akten
+liegenden Berechnung betrug der Preis für das Grundstück
+Fr.1'525'000.00, so dass Gesamtkosten im Zusammenhang mit dem
+Erwerb und der Überbauung der Liegenschaft von (Fr.5'407'939.45
++ Fr.1'525'000.00 =) Fr.6'932'939.45 bzw. – nach Abzug der (bloss)
+kalkulatorischen Position Eigenmittelverzinsung von Fr. 200'000.00
+– Fr.6'732'939.45 resultieren. Diesen Gesamtkosten für das Baupro
+jekt stehen Verkaufserlöse von insgesamt Fr.6'950'231.40 gegenüber,
+so dass sich ein Gewinn von Fr.217'291.45 aus dem Bauprojekt
+ergibt.
+2.2.
+Der – pauschale (mittels Liegenschaftenhändlerpauschale) oder
+effektive – Abzug von auf den Wohnsitzkanton des Liegenschaften
+händlers entfallenden Kosten kommt nur dann infrage, wenn am
+Wohnsitz auch entsprechende Kosten entstanden sind. Da es vor
+allem für nicht einem individuellen Bauprojekt zuordenbare Kosten
+schwerfällt exakt zu quantifizieren, in welchem Ausmass sie die Lie
+genschaft betreffen, welche veräussert wurde (und hinsichtlich des
+dabei erzielten Gewinns der Belegenheitskanton ein Besteuerungs
+recht in Anspruch nehmen kann), drängt es sich insbesondere für
+diese "festen" oder Gemeinkosten auf, den auf den Liegen
+schaftskanton entfallenden Anteil zu schätzen und mittels einer
+Pauschale zu berücksichtigen. Auch insoweit ist indessen Voraus
+setzung für die Gewährung eines Abzugs im Liegenschaftskanton –
+welcher umgekehrt im Wohnsitzkanton die steuerliche Nicht
+berücksichtigung der entsprechenden Aufwendungen nach sich zieht
+–, dass entsprechende Kosten tatsächlich angefallen sind.
+2.2.1.
+Die Zielsetzung der Liegenschaftenhändlerpauschale besteht
+darin, Kosten, welche im Zusammenhang mit einem Gewinn aus
+Liegenschaftenhandel entstehen, angemessen zwischen dem Liegen
+schaftskanton und dem Hauptsteuerdomizil zu verteilen: Soweit im
+
+Zusammenhang mit der Erzielung eines solchen Gewinns entstan
+dene Kosten – seien es nun das konkrete Projekt betreffende "verän
+derliche" Kosten oder Gemeinkosten des Liegenschaftenhändlers –
+in der Buchhaltung eines Liegenschaftenhändlers auftauchen, drängt
+es sich auf, den Liegenschaftskanton ganz oder teilweise mit diesen
+Kosten zu belasten.
+Bereits vor Vorinstanz wie nun auch mit der Beschwerde ans
+Verwaltungsgericht hat der Beschwerdeführer zwar geltend gemacht,
+es seien entsprechende Kosten im Wohnsitzkanton angefallen. Diese
+Kosten hat er indessen in keiner Weise substanziiert. Vor allem hat er
+nicht einmal behauptet – und darauf wäre es angesichts der Ziel
+setzung der Liegenschaftenhändlerpauschale angekommen –, dass
+direkte Kosten im Zusammenhang mit der Erstellung und dem Ver
+kauf der Stockwerkeigentumseinheiten in Z. oder Gemeinkosten aus
+der Liegenschaftenhändlertätigkeit des Beschwerdeführers im Kan
+ton Q. als Aufwand verbucht und steuerlich geltend gemacht worden
+seien, der Kanton Q. diesen Aufwand jedoch im Hinblick auf die Ge
+währung einer Liegenschaftenhändlerpauschale im Zusammenhang
+mit dem Gewinn aus dem Verkauf der Stockwerkeigentumseinheiten
+in Z. gekürzt hätte.
+2.2.2.
+Nach Lage der Dinge ist im vorliegenden Fall auszuschliessen
+bzw. mindestens nicht einmal ansatzweise nachgewiesen, dass es mit
+Bezug auf die verkauften Stockwerkeigentumseinheiten in Z. solche
+Kosten gab, welche dem Kanton Aargau zu belasten wären. Aus der
+Baukostenabrechnung der Architektur A. AG ergibt sich vielmehr,
+dass der Baukostenabrechnung sämtliche im Zusammenhang mit der
+Erstellung der Stockwerkeigentumseinheiten in Z. verbundenen
+Kosten belastet wurden (z.B. Architektenhonorar [BKP 291], Kosten
+für Bewilligungen, Baugespann [BKP 511], Kosten für Vervielfäl
+tigungen, Plankopien [BKP 524]; Kosten für Inserate [BKP 527],
+Versicherungsprämien [BKP 534], Kosten für Telefon und Porto
+[BKP 535], Verkaufsprovisionen [BKP 597]). Darauf hat bereits das
+KStA im Rekursverfahren hingewiesen und die Vorinstanz hat dies
+im angefochtenen Entscheid ebenfalls zutreffend erkannt. Damit sind
+diese Kosten steuermindernd in die Berechnung des im Kanton Aar
+
+gau als Belegenheitskanton steuerbaren Gewinns eingeflossen und es
+fällt ausser Betracht, sie unter dem Titel der Liegenschaftenhändler
+pauschale (nochmals) geltend zu machen.
+Nichts anderes kann für Gemeinkosten des Beschwerdeführers
+gelten. Er hat – auch im verwaltungsgerichtlichen Beschwerde
+verfahren – keine seine Liegenschaftenhändlertätigkeit betreffende
+Erfolgsrechnung vorgelegt, welche allgemeine Aufwandpositionen
+enthalten würde, welche im Kanton Q. steuerlich als Aufwand gel
+tend gemacht worden wären bzw. dort wegen des im Kanton Aargau
+erzielten Liegenschaftsgewinns teilweise nicht als Aufwand aner
+kannt worden wären und deshalb im Kanton Aargau im Rahmen der
+Gewährung einer Liegenschaftenhändlerpauschale steuermindernd
+zu berücksichtigen wären.
+2.2.3.
+Der Beschwerdeführer bzw. sein Rechtsvertreter unterliegt
+einem grundlegenden Missverständnis, wenn er davon ausgeht, allein
+weil der Kanton des Hauptsteuerdomizils (zu Unrecht) im Ergebnis
+eine Liegenschaftenhändlerpauschale der Besteuerung unterwirft
+(und nicht etwa ansonsten steuerlich zu berücksichtigenden Aufwand
+infolge Gewährung einer Liegenschaftenhändlerpauschale im Lie
+genschaftskanton nicht berücksichtigt), müsse der Liegenschafts
+kanton im gleichen Umfang eine Liegenschaftenhändlerpauschale
+gewähren d.h. den bei ihm zu besteuernden Gewinn um diesen Be
+trag reduzieren. Der Sinn der Liegenschaftenhändlerpauschale be
+steht darin, Kosten im Zusammenhang mit einem Liegenschafts
+gewinn angemessen zwischen dem Hauptsteuerdomizil und dem
+Liegenschaftskanton zu verteilen. Sind jedoch im Kanton des Haupt
+steuerdomizils steuerlich gesehen gar keine solchen Kosten ent
+standen, sondern sind die entsprechenden Kosten wie hier sämtlich
+direkt bei der Ermittlung des steuerbaren Gewinns im Liegen
+schaftskanton berücksichtigt worden, indem sie als Aufwand dem
+Verkaufserlös gegenüber gestellt wurden, so kann die Gewährung
+einer Liegenschaftenhändlerpauschale nicht infrage kommen, hat
+doch der Liegenschaftskanton damit die tatsächlich angefallenen
+Kosten bei der Ermittlung des steuerbaren Gewinn bereits voll
+berücksichtigt.
+
+9 Weiterbildungskosten; Unterhaltszahlungen
+Vorliegen von Weiterbildungskosten (Berufsaufstiegskosten), wenn
+die Grundausbildung absolviert und gearbeitet wurde. Keine Rolle
+spielt, dass die Weiterbildung nicht zu einer Arbeit im betreffenden
+Beruf führte (Erw.1).
+Steuerliche Berücksichtigung von Unterhaltsnachzahlungen (Erw.2)
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom 18.Juli
+2018, in Sachen C. gegen KStA und Gemeinderat X. (WBE.2018.116).
+Aus den Erwägungen
+1.
+1.1.
+Umstritten ist zunächst, ob die Vorinstanz den geltend gemach
+ten Abzug für Weiterbildungskosten zu Recht abgelehnt hat mit dem
+Hinweis, es lägen nichtabzugsfähige, im Hinblick auf die beabsich
+tigte Aufnahme einer selbstständigen Erwerbstätigkeit angefallene
+Ausbildungskosten vor. Der Beschwerdeführer macht geltend, die
+Weiterbildung sei nicht ausschliesslich im Hinblick auf die Auf
+nahme der selbstständigen Erwerbstätigkeit erfolgt, sondern es sei
+auch eine Anstellung in Frage gekommen, wenn eine solche denn ge
+funden worden wäre.
+1.2.
+Gemäss dem in der Steuerperiode 2013 gültigen §35 Abs.1
+lit.e StG (übereinstimmend mit Art.26 Abs.1 lit.d DBG [Fassung
+in Kraft bis 31.Dezember 2015] und Art.9 Abs.1 StHG) können die
+mit dem Beruf zusammenhängenden Weiterbildungs und Umschu
+lungskosten als Berufskosten abgezogen werden. Nach der Recht
+sprechung zu den erwähnten Bestimmungen, sind als Weiterbil
+dungskosten alle Kosten abziehbar, die objektiv mit dem ge
+genwärtigen Beruf des Steuerpflichtigen im Zusammenhang stehen
