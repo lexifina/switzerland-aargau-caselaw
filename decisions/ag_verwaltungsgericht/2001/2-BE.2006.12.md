@@ -1,0 +1,134 @@
+---
+decision_id: "ag_verwaltungsgericht_2-BE.2006.12"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "1. Kammer"
+docket: "2-BE.2006.12"
+decided: "2001-04-01"
+published: "2007-04-30"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/3480"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3480"
+---
+
+# Obergericht / Verwaltungsgericht / 1. Kammer — 2-BE.2006.12
+
+## Regeste
+
+Lohndekret, Übergangsregelung.
+- Der Lohn, welcher per 1. April 2001 überführt wurde, kann nicht mittels Beschwerde gegen die auf dieses Datum hin ausgestellte neue Lohnverfügung in Frage gestellt werden (Erw. II/2.4 und 3).
+
+## Text
+
+2007 
+Besoldung 
+369 
+II. Besoldung 
+ 
+104 Lohndekret, Übergangsregelung. 
+- 
+Der Lohn, welcher per 1. April 2001 überführt wurde, kann nicht 
+mittels Beschwerde gegen die auf dieses Datum hin ausgestellte neue 
+Lohnverfügung in Frage gestellt werden (Erw. II/2.4 und 3). 
+Aus dem Entscheid des Personalrekursgerichts vom 30. April 2007 in Sa-
+chen v. A. gegen Regierungsrat des Kantons Aargau (2-BE.2006.12). 
+Aus den Erwägungen 
+2.4. In Bezug auf das Übergangsrecht ist wesentlich, dass die 
+früheren Besoldungen grundsätzlich per 1. April 2001 unverändert in 
+das neue Lohnsystem gemäss Lohndekret überführt wurden (Aus-
+nahme: die frühere Besoldung lag unter dem Minimum oder über 
+dem Maximum der neuen Lohnstufe und die Voraussetzungen betref-
+fend Wahrung des Besitzstands waren nicht erfüllt; vgl. Ziffer 1 ff. 
+des Anhangs III Lohndekret). Die erstmaligen individuellen Lohnan-
+passungen erfolgten per 1. Januar 2002 (Ziffer 5 Anhang III Lohn-
+dekret). Eine explizite Bestimmung, bis zu welchem Zeitpunkt das 
+neue Lohnsystem vollumfänglich eingeführt bzw. durch die Überfüh-
+rung perpetuierte oder neu entstandene Lohnungleichheiten elimi-
+niert sein müssen, lässt sich den einschlägigen Erlassen nicht ent-
+nehmen. 
+3. 
+3.1. Der Beschwerdeführer rügt, die umstrittene Lohnverfügung 
+per 1. April 2001 sei zu korrigieren, da er bereits nach Massgabe des 
+alten Rechts (Dekret über das Dienstverhältnis und die Besoldung 
+der Staatsbeamten vom 24. November 1971 [Besoldungsdekret] und 
+dessen Folgeerlasse) nicht korrekt besoldet worden sei. Die 1:1-
+Überführung sei insofern nicht gerechtfertigt. 
+
+
+370 
+Personalrekursgericht 
+2007 
+3.2. Per 1. Januar 2001 wurde der Lohn des Beschwerdeführers 
+um Fr. 4'488.25 erhöht und auf Fr. 88'696.50 festgelegt. Die ent-
+sprechende Verfügung wurde nicht angefochten und erwuchs in 
+Rechtskraft. Der Beschwerdeführer verzichtet darauf, im Zusam-
+menhang mit dem vorliegenden Verfahren eine formelle Über-
+prüfung der erwähnten Verfügung zu verlangen. Tatsächlich bestünde 
+ein derartiger Anspruch (welcher in concreto vor der Anstellungsbe-
+hörde als seinerzeitige "letzte Instanz" hätte geltend gemacht werden 
+müssen) nur unter den Voraussetzungen der Wiederaufnahme gemäss 
+§ 27 VRPG. 
+3.3. Mit der umstrittenen Lohnverfügung per 1. April 2001 
+wurde gemäss Ziffer 1 Abs. 1 Anhang III LD der bisherige, d.h. der 
+per 1. Januar 2001 verfügte Lohn überführt. 
+Der Beschwerdeführer geht mit seiner Rüge (vgl. Erw. 3.1 hie-
+vor) implizit davon aus, die Lohnverfügung per 1. April 2001 lasse 
+sich nicht nur in Bezug darauf überprüfen, ob die Überführung 
+korrekt vorgenommen wurde, sondern auch in Bezug darauf, ob der 
+Lohn seinerzeit (nach Massgabe des alten Rechts) rechtmässig fest-
+gelegt wurde. Dem Wortlaut der Übergangsregelungen lässt sich 
+diesbezüglich nichts entnehmen, ebenso wenig den einschlägigen 
+Materialien. Auch nach Massgabe der Gesetzessystematik lassen sich 
+keine relevanten Schlüsse ziehen. 
+Nach Sinn und Zweck der gesetzlichen Regelung ergibt sich, 
+dass – zusätzlich zur Einteilung der Mitarbeitenden in die einzelnen 
+Lohnstufen – die hauptsächliche Zielsetzung der Lohnverfügungen 
+per 1. April 2001 in der Festlegung bestand, ob der bisherige Lohn 
+unverändert überführt wurde (Ziffer 1 Abs. 1 Anhang III LD) oder ob 
+Differenzzahlungen angeordnet werden mussten (Ziffern 2 und 3 
+Anhang III LD). Der Inhalt der Verfügung war mithin nicht die ori-
+ginäre Festlegung des Lohns, sondern die Regelung der Überfüh-
+rungsmodalitäten ("1:1-Überführung" oder Überführung mit Diffe-
+renzzahlung). Daraus ergibt sich, dass die bisherige Besoldung im 
+Sinne von Ziffer 1 Anhang III LD, welche mittels Verfügung rechts-
+kräftig festgesetzt worden ist, grundsätzlich nicht mehr mittels Be-
+schwerde gegen die Lohnverfügung per 1. April 2001 in Frage ge-
+stellt werden kann. 
+
+
+2007 
+Besoldung 
+371 
+Die skizzierte Regelung hat zur Folge, dass die Unrechtmässig-
+keit einer allenfalls nicht korrekt festgelegten bisherigen Besoldung 
+über den 1. April 2001 perpetuiert wird. Dies ist indessen als Konse-
+quenz der formellen Rechtskraft der seinerzeitigen Verfügung in 
+Kauf zu nehmen. Wie gesehen (Erw. 3.2 hiervor) kann der Lohn, 
+welcher zu Recht unverändert überführt wurde, nur dann auf seine 
+Rechtmässigkeit überprüft werden, wenn gegenüber der massgeben-
+den früheren Lohnverfügung die Voraussetzungen einer Wiederauf-
+nahme gemäss § 27 VRPG erfüllt sind. 
+3.4. Gründe, welche eine Wiederaufnahme des Verfahrens be-
+treffend Lohn per 1. Januar 2001 rechtfertigen würden, sind weder 
+erkennbar noch wurden sie vom Beschwerdeführer je geltend ge-
+macht. Im Weiteren ist offensichtlich und unbestritten, dass die Über-
+führung korrekt vorgenommen wurde. Die Beschwerde gegen die 
+Lohnverfügung per 1. April 2001 ist somit abzuweisen, soweit darauf 
+eingetreten werden darf. 
+105 Lohnfestsetzung innerhalb einer bestimmten Stufe. 
+- 
+Werden Mitarbeitende von einer tieferen in eine höhere Lohnstufe 
+umgeteilt, besteht kein Anspruch darauf, den bisherigen Leistungs-
+anteil beizubehalten (Erw. II/1-4). 
+Aus dem Entscheid des Personalrekursgerichts vom 25. September 2007 in 
+Sachen A. gegen Gerichtspräsidium K. (2-BE.2006.28). Gegen den Entscheid 
+ist eine Beschwerde beim Bundesgericht hängig. 
+Aus den Erwägungen 
+1. Gemäss § 4 LD setzt sich der Lohn zusammen aus einem Po-
+sitionsanteil, einem Leistungsanteil und allfälligen Lohnzulagen. 
+Umstritten ist im vorliegenden Fall die Höhe des Leistungsanteils ab 
+dem 1. Januar 2002. 
+2. 
+2.1. Im Anhang I zum Lohndekret legte der Grosse Rat den 
+Lohnstufenplan fest, welcher das Minimum (Positionsanteil) und das
