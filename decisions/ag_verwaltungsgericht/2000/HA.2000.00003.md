@@ -1,0 +1,165 @@
+---
+decision_id: "ag_verwaltungsgericht_HA.2000.00003"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "HA.2000.00003"
+decided: "2000-01-21"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/4389"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/4389"
+cites_law: ["switzerland/bund/acts/142.31/art-008.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — HA.2000.00003
+
+## Regeste
+
+Ausschaffungshaft; Verletzung der Mitwirkungspflicht als Haftgrund.
+- Die Verletzung der Mitwirkungspflicht nach Art. 8 Abs. 4 AsylG stellt einen Haftgrund im Sinne von Art. 13b Abs. 1 lit. c ANAG dar (Erw. II/3).
+
+## Text
+
+2000 
+Zwangsmassnahmen im Ausländerrecht 
+483 
+I. Zwangsmassnahmen im Ausländerrecht 
+ 
+115 
+Ausschaffungshaft; Verletzung der Mitwirkungspflicht als Haftgrund. 
+- 
+Die Verletzung der Mitwirkungspflicht nach Art. 8 Abs. 4 AsylG stellt 
+einen Haftgrund im Sinne von Art. 13b Abs. 1 lit. c ANAG dar (Erw. 
+II/3). 
+Aus dem Entscheid des Präsidenten des Rekursgerichts im Ausländerrecht 
+vom 21. Januar 2000 in Sachen Fremdenpolizei des Kantons Aargau gegen 
+K.N. betreffend Haftüberprüfung (HA.2000.00003). 
+Sachverhalt 
+Der Gesuchsgegner stellte am 15. Juni 1998 ein Asylgesuch, 
+das am 30. September 1998 vom Bundesamt für Flüchtlinge (BFF) 
+abgelehnt wurde. Mit Schreiben vom 16. November 1998 teilte die 
+Fremdenpolizei dem Gesuchsgegner mit, er müsse die Schweiz bis 
+am 30. November 1998 verlassen und forderte ihn auf, sich gültige 
+Reisedokumente zu beschaffen, ansonsten Zwangsmassnahmen an-
+geordnet werden könnten. 
+Auf die gegen den abschlägigen Asylentscheid erhobene Be-
+schwerde des Gesuchsgegners trat die Asylrekurskommission (ARK) 
+am 6. Januar 1999 infolge Nichtleisten des Kostenvorschusses nicht 
+ein. Am 11. Januar 1999 teilte das BFF dem Gesuchsgegner die Neu-
+ansetzung der Ausreisefrist auf den 15. Februar 1999 mit und for-
+derte ihn auf, sich zwecks Beschaffung von Reisedokumenten unver-
+züglich und persönlich mit der zuständigen Vertretung des Heimat-
+staates in Verbindung zu setzen. Mit Schreiben vom 13. Januar 1999 
+wurde der Gesuchsgegner von der Fremdenpolizei aufgefordert, sich 
+im Hinblick auf die Ausreisefrist gültige Reisedokumente zu ver-
+schaffen und sich bei der Amtsstelle zu melden. Ferner wurde er 
+
+
+484 
+Rekursgericht im Ausländerrecht 
+2000 
+darauf aufmerksam gemacht, dass er mit der Anwendung von 
+Zwangsmassnahmen rechnen müsste, falls er den Ausreisetermin 
+unbenutzt verstreichen lassen würde. Am 16. Februar 1999 forderte 
+die Fremdenpolizei den Gesuchsgegner auf, sich bis zum 23. Februar 
+1999 nach telefonischer Anmeldung bei der nigerianischen Botschaft 
+einzufinden, um sich Reisepapiere zu beschaffen. Gleichzeitig wur-
+den sowohl die polizeiliche Zuführung zur Botschaft wie auch die 
+Anordnung von Zwangsmassnahmen in Aussicht gestellt, sollte der 
+Gesuchsgegner der Anordnung keine Folge leisten. Gleichentags 
+wurde die nigerianische Botschaft gebeten, dem Gesuchsgegner Rei-
+sedokumente auszustellen. 
+Die ARK trat am 26. Februar 1999 auf ein Revisionsgesuch des 
+Gesuchsgegners nicht ein. Am 22. Dezember 1999 forderte die 
+Fremdenpolizei den Gesuchsgegner auf, sich bis zum 10. Januar 
+2000 bei der Botschaft Reisedokumente zu beschaffen. Er wurde auf 
+seine Mitwirkungspflicht hingewiesen und es wurde ihm angedroht, 
+er werde in Ausschaffungshaft genommen, sollte er sich weiterhin 
+weigern, bei der Botschaft vorzusprechen. 
+Der Gesuchsgegner wurde am 19. Januar 2000 in Obermumpf 
+verhaftet und der Fremdenpolizei zugeführt, welche gleichentags 
+eine dreimonatige Ausschaffungshaft anordnete. 
+Aus den Erwägungen 
+II. 3. Die Gesuchstellerin stützt ihre Haftanordnung auf Art. 13b 
+Abs. 1 lit. c ANAG, wonach ein Haftgrund dann vorliegt, wenn kon-
+krete Anzeichen befürchten lassen, dass sich der betroffene Auslän-
+der der Ausschaffung entziehen will, insbesondere weil sein bisheri-
+ges Verhalten darauf schliessen lässt, dass er sich behördlichen An-
+ordnungen widersetzt. Ob im Sinne dieser Gesetzesbestimmung kon-
+krete Anzeichen befürchten lassen, dass sich ein Ausländer der Aus-
+schaffung entziehen will, ist aufgrund des ganzen bisherigen Verhal-
+
+
+2000 
+Zwangsmassnahmen im Ausländerrecht 
+485 
+tens, insbesondere auch gegenüber den Behörden, sowie seiner eige-
+nen Aussagen zu beurteilen. Auch wenn einzelne Fakten für sich eine 
+Ausschaffungshaft nicht rechtfertigen, kann dies aufgrund der 
+Gesamtheit der Vorkommnisse der Fall sein. Erforderlich sind ge-
+wichtige Anhaltspunkte dafür, dass der Ausländer sich der Ausschaf-
+fung entziehen und untertauchen will. Die blosse Vermutung, dass er 
+sich der Wegweisung entziehen könnte, genügt nicht; deren Vollzug 
+muss erheblich gefährdet erscheinen (vgl. BGE 122 II 49, E. 2a, S. 
+50 f.). Nach Vorliegen eines vollziehbaren Wegweisungsentscheides 
+sind die betroffenen Personen verpflichtet, bei der Beschaffung gül-
+tiger Reisepapiere mitzuwirken (sog. Mitwirkungspflicht, Art. 8 Abs. 
+4 des Asylgesetzes [AsylG] vom 26. Juni 1998). 
+Der Gesuchsgegner vertritt die Ansicht, es bestünde kein genü-
+gender Haftgrund. Zur Begründung zitierte er BGE 122 II 49 ff., 
+wonach es zur Anordnung der Ausschaffungshaft weder genüge, dass 
+sich der Betroffene illegal in der Schweiz aufhalte, noch dass er 
+keine Papiere besitze und nur mangelhaft an deren Beschaffung mit-
+wirke. Mit Änderung des Asylgesetzes vom 26. Juni 1998 wurde die 
+Pflicht zur Mitwirkung bei der Beschaffung gültiger Reisepapiere 
+explizit statuiert (Art. 12b Abs. 6 des Asylgesetzes [aAsylG] vom 5. 
+Oktober 1979, neu Art. 8 Abs. 4 AsylG). Da der zitierte höchstrich-
+terliche Entscheid aus dem Jahre 1996 stammt und ihm somit heute 
+nicht mehr gültiges Recht zugrunde liegt, kann damit nicht argumen-
+tiert werden, das Nichtmitwirken bei der Beschaffung von Reisepa-
+pieren stelle für sich alleine keinen Haftgrund dar. 
+Der Gesuchsgegner kam Anordnungen des BFF und der Frem-
+denpolizei, sich gültige Reisedokumente zu beschaffen, trotz mehr-
+maliger Aufforderung nicht nach. Er verletzte somit die Mitwir-
+kungspflicht gemäss Art. 8 Abs. 4 AsylG. Sein unkooperatives und 
+gesetzwidriges Verhalten stellt ein konkretes Anzeichen dafür dar, 
+dass er sich dem Vollzug der Wegweisung entziehen will. Dies umso 
+mehr, als er aufgrund der angedrohten Zwangsmassnahmen hätte 
+wissen müssen, dass die mehrfache Aufforderung zur Papierbeschaf-
+
+
+486 
+Rekursgericht im Ausländerrecht 
+2000 
+fung und Vorsprache bei der Botschaft ernst zu nehmende behördli-
+che Anordnungen darstellten. Die blosse Angst vor Verfolgung recht-
+fertigt sein Verhalten im vorliegend zu beurteilenden Verfahren in 
+keiner Weise. Andere Rechtfertigungsgründe wurden nicht geltend 
+gemacht. Damit ist der Haftgrund von Art. 13b Abs. 1 lit. c ANAG 
+erfüllt. 
+116 
+Ausschaffungshaft; Nichtbefolgen einer fremdenpolizeilichen Anordnung. 
+- 
+Einmaliges Nichtbefolgen einer Vorladung stellt vorliegend keinen 
+Haftgrund im Sinne von Art. 13b Abs. 1 lit. c ANAG dar (Erw. II/3b-
+d). 
+Aus dem Entscheid des Präsidenten des Rekursgerichts im Ausländerrecht 
+vom 24. Februar 2000 in Sachen Fremdenpolizei des Kantons Aargau gegen 
+B.I. betreffend Haftüberprüfung (HA.2000.00010). 
+Sachverhalt 
+Der Gesuchsgegner stellte am 20. Juli 1999 ein Asylgesuch, 
+welche das Bundesamt für Flüchtlinge (BFF) am 27. August 1999 
+ablehnte. Das BFF ordnete gleichzeitig die Wegweisung des Ge-
+suchsgegners an und setzte ihm einen Ausreisetermin. Am 30. Sep-
+tember 1999 wurde dem Gesuchsgegner das Schreiben "Rückkehr-
+programm Kosovo" ausgehändigt. Mit Schreiben vom 15. Oktober 
+1999 wurde er auf die Ausreisefrist hingewiesen und aufgefordert, 
+sich gültige Reisedokumente zu beschaffen, ansonsten Zwangsmass-
+nahmen angeordnet werden könnten. Nachdem der Linienflugbetrieb 
+von Zürich nach Pristina wieder aufgenommen wurde und die Bun-
+desbehörden die entsprechenden Reisedokumente ausstellen konnten, 
+wurde der Gesuchsgegner mit Schreiben vom 1. Februar 2000 aufge-
+fordert, sich zwecks Flugbuchung unverzüglich auf der Amtsstelle 
+der Fremdenpolizei zu melden. Gleichzeitig wurde er darauf hinge-
+wiesen, dass er mit der Anwendung von Zwangsmassnahmen rech-
