@@ -1,0 +1,442 @@
+---
+decision_id: "ag_spezialverwaltungsgericht_BB.1999.50001"
+court: "AG Spezialverwaltungsgericht"
+court_id: "ag_spezialverwaltungsgericht"
+chamber: "Abteilung Steuern"
+docket: "BB.1999.50001"
+decided: "1940-12-09"
+published: "2000-06-22"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/4380"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/4380"
+cites_law: ["switzerland/bund/acts/455.1/art-076.md", "switzerland/bund/acts/455/art-029.md"]
+---
+
+# Spezialverwaltungsgericht / Abteilung Steuern — BB.1999.50001
+
+## Regeste
+
+Einkommenssteuer; gewerbsmässiger Handel mit Wertschriften (Art. 21 Abs. 1 lit. a BdBSt).
+- Kriterien für die Gewerbsmässigkeit und deren Gewichtung.
+
+## Text
+
+2000 
+Bundessteuern 
+447 
+II. Bundessteuern 
+A. Bundesratsbeschluss über die Erhebung einer direkten 
+Bundessteuer vom 9. Dezember 1940 (BdBSt) 
+106 Einkommenssteuer; gewerbsmässiger Handel mit Wertschriften (Art. 21 
+Abs. 1 lit. a BdBSt). 
+- 
+Kriterien für die Gewerbsmässigkeit und deren Gewichtung. 
+22. Juni 2000 in Sachen W., BB.1999.50001/E 4041 
+Aus den Erwägungen 
+2. a) Gewinne, die bei der Veräusserung oder Verwertung von 
+Vermögensstücken erzielt werden (sog. Kapitalgewinne), unterliegen 
+der direkten Bundessteuer, wenn sie im Betrieb eines zur Führung 
+kaufmännischer Bücher verpflichteten Unternehmens erzielt werden 
+(Art. 21 Abs. 1 lit. d BdBSt). Kapitalgewinne, die bei der privaten 
+Verwaltung eigenen Vermögens oder in Ausnützung einer sich zufäl-
+lig bietenden Gelegenheit erzielt werden, sind steuerfrei. Beruht der 
+Gewinn indessen auf einer Tätigkeit, die in ihrer Gesamtheit auf 
+Erwerb (Verdienst) gerichtet ist, wird er als Erwerbseinkommen be-
+steuert. Dieses unterliegt nach Art. 21 Abs. 1 lit. a BdBSt der Ein-
+kommenssteuer, unabhängig davon, ob die Tätigkeit im Haupt- oder 
+Nebenberuf, regelmässig, wiederkehrend oder nur einmal ausgeübt 
+wird. In der Praxis können neben Gewinnen aus Liegenschaftsver-
+käufen insbesondere auch solche aus Wertpapier-, Gold- und Devi-
+sengeschäften gestützt auf Art. 21 Abs. 1 lit. a BdBSt besteuert 
+werden. 
+b) Ob der Kauf und Verkauf von Wertschriften eine auf Erwerb 
+gerichtete Tätigkeit darstellt, ist unter Berücksichtigung der gesam-
+ten Umstände des Einzelfalles zu beurteilen. Dabei weisen nament-
+
+
+448 
+Steuerrekursgericht 
+2000 
+lich die folgenden Indizien auf eine (Erwerbs-) Tätigkeit hin, welche 
+über die blosse Vermögensverwaltung hinausreicht: systematisches 
+oder planmässiges Vorgehen (insbesondere das Bemühen, die Ent-
+wicklung des Marktes zur Gewinnerzielung auszunützen), Häufigkeit 
+der Transaktionen, eine kurze Besitzesdauer, ein enger Zusammen-
+hang mit der beruflichen Tätigkeit des Steuerpflichtigen, der Einsatz 
+spezieller Fachkenntnisse oder erheblicher fremder Mittel zur Finan-
+zierung der Geschäfte sowie die Wiederanlage des erzielten Gewin-
+nes in gleichartigen Vermögensgegenständen. Nicht entscheidend ist, 
+ob der Steuerpflichtige die Wertschriftengeschäfte selber oder durch 
+eine bevollmächtigte Drittperson abwickelt. Nicht nötig ist ferner 
+eine sichtbare Teilnahme am wirtschaftlichen Verkehr. Entscheidend 
+für die Annahme einer Erwerbstätigkeit ist, dass die pflichtige Person 
+eine Tätigkeit entfaltet, die - aufgrund des Gewichts eines oder meh-
+rerer der genannten oder ähnlicher Indizien - in ihrer Gesamtheit auf 
+Erwerb ausgerichtet erscheint (StE 1999 B 23.1 Nr. 43, mit Hinwei-
+sen auf die Rechtsprechung). Die für eine Erwerbstätigkeit sprechen-
+den Indizien müssen beim Wertschriftenhandel besonders deutlich 
+erfüllt sein (StR 1997 S. 27). Wird die Aktivität eines Steuerpflichti-
+gen im Wertpapier- und Derivatgeschäft als Erwerbstätigkeit qualifi-
+ziert, so sind folgerichtig auch die in diesem Zusammenhang erlitte-
+nen Kapitalverluste, soweit sie verbucht wurden, zu berücksichtigen 
+und zum Abzug zuzulassen (ASA 68 S. 641 ff.). 
+3. Die Vorinstanz ist gestützt auf Vermögenszunahmen zwi-
+schen dem 1. Januar 1989 und dem 1. Januar 1993 davon ausgegan-
+gen, dass der Beschwerdeführer aus gewerbsmässigem Wertschrif-
+tenhandel steuerbares Einkommen erzielt hatte. Sie hat daher nach 
+Ermessen für die Steuerperiode 1991/92 (Bemessungsjahre 1989/90) 
+nicht 
+versteuerte 
+Gewinne 
+aus 
+Börsentermingeschäften 
+von 
+Fr. 50'000.-- und für die Steuerperiode 1993/94 (Bemessungsjahre 
+1991/92) von Fr. 75'000.-- nachbesteuert. Nach Auffassung der Ver-
+treterin des Beschwerdeführers liegt kein gewerbsmässiger Wert-
+schriftenhandel vor. Im Folgenden ist auf die von der Rechtspre-
+
+
+2000 
+Bundessteuern 
+449 
+chung entwickelten Indizien des gewerbsmässigen Wertschriftenhan-
+dels (vgl. oben Ziff. 2 b) einzugehen. 
+a) planmässiges Vorgehen 
+aa) Der Beschwerdeführer hat mit einem Startkapital von 
+Fr. 20'000.-- mit einem norwegischen Geschäftsfreund sowie drei 
+weiteren Personen mit ausländischem Wohnsitz (deren Identität der 
+Beschwerdeführer aus Diskretionsgründen nicht bekanntgeben will) 
+während mehr als zwanzig Jahren Börsentermingeschäfte ab-
+gewickelt. Der Anstoss für die einzelnen Geschäfte ist jeweils vom 
+norwegischen Geschäftsfreund ausgegangen. Wenn nicht alle Betei-
+ligten ihre Zustimmung zu einem vorgeschlagenen Geschäft gegeben 
+haben, ist es nicht abgeschlossen worden. Der norwegische Ge-
+schäftsfreund hat nicht nur die Geschäfte abgewickelt, sondern auch 
+die Verwaltung übernommen; eine Entschädigung hat er dafür nicht 
+bezogen. Die Absprachen sind stets mündlich erfolgt. Dem Be-
+schwerdeführer sind aufgrund des langjährigen Vertrauensverhältnis-
+ses nie schriftliche Abrechnungen über die getätigten Geschäfte und 
+die erzielten Gewinne vorgelegt worden. Die Vorinstanz ist der Auf-
+fassung, dass unter diesen Umständen nicht vom Ausnützen einer 
+sich bietenden Gelegenheit im Rahmen einer blossen privaten Ver-
+mögensverwaltung gesprochen werden kann, sondern planmässiges 
+Vorgehen vorliege. Demgegenüber liegt nach Ansicht der Vertreterin 
+des Beschwerdeführers kein planmässiges Vorgehen vor. Zur Be-
+gründung wird im Wesentlichen ausgeführt, dass der Beschwerde-
+führer die jeweiligen Anlageentscheide in aller Regel auf Initiative 
+des norwegischen Geschäftsfreundes, letztlich aber in eigener Ver-
+antwortung getroffen habe. Der norwegische Geschäftsfreund, wel-
+cher mit Halbfabrikaten, nicht aber mit reinen Metallen handelte, 
+habe dann jeweils einen ihm bekannten Broker mit der Ausführung 
+des Auftrages beauftragt. Die geringe Intensität der Anlagetätigkeit 
+belege, dass es dem Beschwerdeführer lediglich darum gegangen sei, 
+zufällig sich bietende Gelegenheiten zu nutzen. 
+
+
+450 
+Steuerrekursgericht 
+2000 
+ab) Die Planmässigkeit kann nicht isoliert betrachtet werden, da 
+wie jede Liegenschaftstransaktion auch jede Wertschriftentransaktion 
+eine minimale Planmässigkeit voraussetzt. In diesem Sinne ist die 
+Planmässigkeit 
+als 
+solche 
+nur 
+ein 
+bedingt 
+taugliches 
+Abgrenzungskriterium zur Abgrenzung gegenüber der privaten Ver-
+mögensverwaltung (P. Stocker, Die steuerliche Abgrenzung der selb-
+ständigen Erwerbstätigkeit von der privaten Vermögensverwaltung, 
+Diss. Basel 1992, S. 154 bzw. 112). Es werden daher in der Literatur 
+und Rechtsprechung (z.B. StR 1999 S. 315, StE 1989 B 23.1 Nr.16) 
+die Indizien "Planmässigkeit" und "Häufigkeit" zum Teil zusammen 
+behandelt. Eine Kombination der Kriterien "Häufigkeit" und "Plan-
+mässigkeit" bildet ein kaum widerlegbares Indiz für das Vorliegen 
+eines gewerbsmässigen Vorgehens (P. Stocker, a.a.O., S. 158). Dem-
+gegenüber wird man bei einem Steuerpflichtigen, der nur gelegent-
+lich und vereinzelt Börsengeschäfte tätigt, kaum von einer anhalten-
+den und planmässigen Aktivität sprechen können (StE 1989 B 23.1 
+Nr. 16). 
+ac) Planmässigkeit wird gelegentlich schon angenommen, wenn 
+eine konkrete Anlagestrategie verfolgt wird, so dass das einzelne 
+Geschäft als Teil eines sinnvollen Ganzen erscheint (B. Hirt, 
+Grundfragen der Einkommensbesteuerung, Bern 1998, S. 320). Dies 
+dürfte auch beim Beschwerdeführer zutreffen, gleichzeitig aber 
+praktisch bei allen Vermögensanlagen, da sich die meisten Anleger 
+eine gewisse Vorstellung darüber machen, ob sie eher konservative 
+oder risikoreichere Anlagen tätigen wollen. Die Verfolgung einer 
+Anlagestrategie gehört nicht nur zu einer gewerbsmässigen, sondern 
+auch zu einer seriösen privaten Vermögensverwaltung. Allein ge-
+stützt darauf darf nicht auf Gewerbsmässigkeit geschlossen werden. 
+So gesehen ist die Planmässigkeit kein sehr aussagekräftiges Krite-
+rium (vgl. RGE vom 30. Juni 1999 in Sachen H. = AGVE 1999 
+S. 395 ff.). Es muss heute ein systematisches und planmässiges Vor-
+gehen auch bei der schlichten Vermögensverwaltung als üblich gel-
+ten (Steuerpraxis des Kantons Schwyz, Heft 1, Mai 2000, S. 6). 
+
+
+2000 
+Bundessteuern 
+451 
+Der Umstand, dass der Beschwerdeführer auf Anraten eines 
+(sachkundigen) Geschäftsfreundes durch denselben Börsenterminge-
+schäfte abwickeln liess, kann angesichts der paar wenigen Transak-
+tionen, welche der Beschwerdeführer pro Jahr tätigte, nicht als plan-
+mässiges Vorgehen bezeichnet werden. Wer bloss Anlageempfehlun-
+gen berücksichtigt, selber jedoch das Wirtschaftsleben und die Kurs-
+entwicklung nicht regelmässig beobachtet und bloss vereinzelt Bör-
+sengeschäfte tätigt, handelt nicht planmässig (B. Hirt, a.a.O., S. 320). 
+Der Beschwerdeführer investierte lediglich Vermögen, gleich einer 
+Privatperson, die auf Spekulationsgewinne hofft. 
+b) Einsatz spezieller Fachkenntnisse/Zusammenhang mit der 
+hauptberuflichen Tätigkeit 
+ba) Der Beschwerdeführer hat die Börsentermingeschäfte als 
+auch die physischen Metallkäufe und -verkäufe auf Anraten seines 
+norwegischen Geschäftsfreundes, einem Kaufmann, getätigt. Dieser 
+hat die Geschäfte dank bestehender Verbindungen und Zugang zur 
+Börse auch abgewickelt. Nach Auffassung der Vorinstanz konnte so 
+der Beschwerdeführer dank dem vorhandenen Fachwissen (sowohl 
+das eigene, welches sich der Beschwerdeführer im Rahmen seiner 
+hauptberuflichen Tätigkeit als Altstoffhändler aneignen konnte, als 
+auch desjenigen des norwegischen Geschäftsfreundes) die jeweils 
+bestehenden Marktverhältnisse für die Gewinnerzielung ausnutzen. 
+Die Vertreterin vertritt demgegenüber die Auffassung, dass der 
+Beschwerdeführer über kein berufsspezifisches Fachwissen im 
+Reinmetallbereich verfüge, welches für die vorliegend zur 
+Diskussion stehende Vermögensanlage relevant sei. Sein Fachwissen 
+liege ausschliesslich im Bereich "Altmetall". 
+bb) Es muss davon ausgegangen werden, dass der Be-
+schwerdeführer aufgrund seiner hauptberuflichen Tätigkeit als Alt-
+stoffhändler im Metallbereich (sowohl Rein- als auch Altmetall be-
+treffend) ein überdurchschnittliches Wissen hat. Seine Börsentermin-
+geschäfte im Metallbereich können jedoch nicht allein deshalb als 
+gewerbsmässig angesehen werden, weil er von Berufes wegen mit 
+
+
+452 
+Steuerrekursgericht 
+2000 
+Metallen zu tun hat und dadurch andern privaten Anlegern etwas 
+voraus hat. Es besteht kein allgemeiner Grundsatz, wonach jedes 
+Geschäft, das vom Steuerpflichtigen unter Ausnutzung beruflicher 
+Erfahrungen, Kenntnisse oder Verbindungen getätigt wird, vom pri-
+vaten in den geschäftlichen Bereich fällt (StR 1999 S. 316 f.). Der 
+allfällige Einsatz von Spezialkenntnissen allein reicht nicht aus, die 
+Tätigkeiten als Handel zu qualifizieren. Er kann allenfalls Hinweis 
+auf die Planmässigkeit des Vorgehens sein, so wenn der Steuer-
+pflichtige spezielle Marktkenntnisse nutzt (StE 1990 B 23.1 Nr. 21). 
+Gesamthaft gesehen muss das Kriterium "Zusammenhang mit der 
+hauptberuflichen Tätigkeit" trotz vorhandener Ausnahmen als zweit-
+rangiges Kriterium taxiert werden, welches an Bedeutung hinter den 
+Kriterien der "Häufigkeit" und der "Planmässigkeit" zurücksteht. 
+Grundsätzlich ist dieses Kriterium isoliert betrachtet weniger stark zu 
+gewichten als beim Liegenschaftenhändler (P. Stocker, a.a.O., 
+S. 160). 
+c) Wiederanlage des erzielten Gewinnes in gleichartige Vermö-
+gensgegenstände 
+ca) Die Vorinstanz sieht im Umstand, dass der Be-
+schwerdeführer die erzielten Erlöse überwiegend wieder für den 
+Abschluss neuer Börsentermingeschäfte verwendete bzw. seinem 
+norwegischen Geschäftsfreund für weitere Geschäfte zur Verfügung 
+stellte, ein weiterer Hinweis für das Vorliegen einer auf Erwerb ge-
+richteten Tätigkeit. 
+cb) Die Investition des Verkaufserlöses in gleichartige 
+Vermögenswerte gilt in der Rechtsprechung als Indiz für die Ge-
+werbsmässigkeit (vgl. StE 1999 B 23.1 Nr. 43). In der Literatur wird 
+dieses Indiz z.T. gar nicht erwähnt (vgl. StR 1999 S. 315) oder es 
+wird ihm eine absolut untergeordnete Bedeutung zugemessen 
+(P. Stocker, a.a.O., S. 162 f.) bzw. sogar vollständig abgelehnt 
+(E. Höhn/R. Waldburger, Steuerrecht, Band II, 8. Auflage, 1999, 
+Rz 29 zu § 34). 
+
+
+2000 
+Bundessteuern 
+453 
+ 
+d) Häufigkeit der Transaktionen/Besitzesdauer 
+da) Die Vorinstanz misst den Indizien "Häufigkeit der 
+Transaktionen" und "Besitzesdauer" kein allzu grosses Gewicht bei, 
+weil selbst bei der privaten Vermögensverwaltung verschiedene 
+Strategien (langfristige Investitionen oder eine aktive Bewirtschaf-
+tung des Portefeuilles mit kürzeren Besitzesdauern) verfolgt werden 
+können. Sie hält aber immerhin fest, dass unter Berücksichtigung der 
+erzielten Gewinne davon ausgegangen werden müsse, dass die Zahl 
+der getätigten Börsentermingeschäfte das vom Beschwerdeführer 
+behauptete Ausmass übersteigt. Die Vertreterin des Beschwerdefüh-
+rers hält fest, dass bei jährlich zwei bis maximal drei Geschäften 
+nicht von häufigen Transaktionen im Sinne der bundesgerichtlichen 
+Rechtsprechung gesprochen werden könne. Sie will jedoch berück-
+sichtigt haben, dass es sich bei den vom Beschwerdeführer erworbe-
+nen Optionen um Anlagen mit einem längerfristigen Zeithorizont 
+gehandelt habe, was gemäss bundesgerichtlicher Rechtsprechung für 
+eine private Vermögensverwaltung spreche. 
+db) Wohl können die vom Bundesgericht zum Liegen-
+schaftenhandel entwickelten Kriterien übernommen werden, doch ist 
+bei ihrer Gewichtung den mannigfachen rechtlichen und tatsächli-
+chen Unterschieden Rechnung zu tragen, die zwischen Wertpapieren 
+und Grundstücken bestehen. Insbesondere müssen an die Häufigkeit 
+von Kauf und Verkauf bei Wertpapieren in der Regel erhöhte Anfor-
+derungen gestellt werden. Denn im Unterschied zu Liegenschaften 
+können bei Wertschriften einzelne Verkäufe, auch wenn sie aus-
+schliesslich in der Absicht der Gewinnerzielung erfolgen, vielfach 
+noch als Akt der Vermögensverwaltung betrachtet werden (StE 1989 
+B 23.1 Nr. 17). Auch bei den Diskussionen im Zusammenhang mit 
+einer allfälligen Revision von Art. 18 des Bundesgesetzes vom 
+14. Dezember 1990 über die direkte Bundessteuer (DBG) wurde als 
+Kriterium eine "unverhältnismässig hohe Anzahl von Transaktionen" 
+gefordert (Neuhaus/Agner/Steinmann, Der gewerbsmässige Liegen-
+
+
+454 
+Steuerrekursgericht 
+2000 
+schaften- und Wertschriftenhandel nach dem Stabilisierungspro-
+gramm 1998, in: Der Schweizer Treuhänder 1999 S. 593 ff., insbe-
+sondere S. 596). Liegt nur eine einzige Transaktion vor, so spricht 
+dies zwar grundsätzlich für die private Natur des Geschäfts. Es kön-
+nen jedoch die andern Indizien für eine Erwerbstätigkeit im Sinne 
+von Art. 21 Abs. 1 lit. a BdBSt überwiegen (StE 1999 B 23.1 Nr. 43). 
+Das Abgrenzungskriterium "kurze Besitzesdauer" ist meistens 
+im Abgrenzungskriterium "Häufigkeit der Transaktionen" mitent-
+halten. Dies ist insbesondere dann der Fall, wenn es um die Beurtei-
+lung einer grossen Anzahl von Wertschriftentransaktionen innerhalb 
+einer kurzen Zeitspanne geht. Dass sich die Wertschriften in einem 
+derart gelagerten Fall nur während kurzer Zeit im Portefeuille befin-
+den, erklärt sich von selbst (P. Stocker, a.a.O., S. 165 f.). Bei gewis-
+sen Geschäften (z.B. Derivaten) ist eine kurze Besitzesdauer üblich, 
+und zwar sowohl beim gewerbsmässigen Wertschriftenhandel als 
+auch bei der privaten Vermögensverwaltung. Das Abgrenzungskrite-
+rium "kurze Besitzesdauer" taugt daher im Bereich des Wertschrif-
+tenhandels nicht zur Abgrenzung der Gewerbsmässigkeit von der 
+privaten Vermögensverwaltung (StR 1997 S. 323). 
+e) Einsatz von Fremdkapital 
+ea) Die Vorinstanz ist darauf nicht näher eingegangen, weil sie 
+diesem Kriterium untergeordnete Bedeutung zumisst und davon 
+ausgeht, dass der Beschwerdeführer kein Fremdkapital einsetzte. 
+eb) Bei der Abgrenzung von der gewerbsmässigen zur privaten 
+Vermögensverwaltung kann die Inanspruchnahme von Fremdkapital 
+ein wichtiges Indiz darstellen. Je grösser der Fremdkapitalanteil ist, 
+desto stärker tritt das Merkmal der Vermögensverwaltung in den 
+Hintergrund. 
+Im 
+Wertschriftenbereich 
+ist 
+der 
+Einsatz 
+von 
+Fremdmitteln im Gegensatz zum Liegenschaftenbereich keineswegs 
+alltäglich. Dem Einsatz von Fremdkapital im Wertschriftenbereich ist 
+daher mehr Gewicht beizumessen als im Liegenschaftenbereich 
+(P. Stocker, a.a.O., S. 161 f.). Er deutet im besonderen Masse auf 
+eine Erwerbstätigkeit im Sinne von Art. 21 Abs. 1 lit. a BdBSt hin 
+
+
+2000 
+Bundessteuern 
+455 
+(StE 1999 B 23.1 Nr. 43). So wird denn auch in der Praxis von ver-
+schiedenen Steuerverwaltungen bei Vorliegen einer Fremdfinanzie-
+rung auf Gewerbsmässigkeit geschlossen (vgl. Steuerpraxis des 
+Kantons Schwyz, Heft 1, Mai 2000, S. 5 ff.; CASH Nr. 21, 26. Mai 
+2000, S. 43 ff. und S. 107 ff.). 
+4. a) Das StRG ist der Auffassung, dass der Beschwerdeführer 
+unter Berücksichtigung der dargelegten Indizien und deren Gewich-
+tung aufgrund des von der Vorinstanz erhobenen Sachverhaltes 
+(weitere Abklärungen dazu seitens des StRG erübrigen sich, da die 
+Vorinstanz bereits mehrere Einvernahmen durchführte und keine 
+neuen Erkenntnisse zu erwarten wären) nicht als gewerbsmässiger 
+Wertschriftenhändler bezeichnet werden kann. Die Vorinstanz geht 
+wohl zu Recht davon aus, dass der Beschwerdeführer pro Jahr mehr 
+als nur zwei bis drei Börsentermingeschäfte abwickelte. Die Anzahl 
+der Geschäfte hat aber mit an Sicherheit grenzender Wahrscheinlich-
+keit nie das Ausmass erreicht, wie es den Fällen, welche vom Bun-
+desgericht als gewerbsmässiger Handel beurteilt wurden, zugrunde-
+liegt (vgl. die Übersicht von Othmar Huber in StR 1998 S. 22 f.; den 
+dort aufgeführten Fällen liegen zwischen 128 und ca. 750 Transak-
+tionen [innert 2 bis 7 Jahren] zugrunde). Aufgrund der doch eher 
+geringen Anzahl der vom Beschwerdeführer getätigten Transaktionen 
+kann nicht von einer planmässigen Aktivität gesprochen werden, 
+welche das Ausmass einer seriösen privaten Vermögensverwaltung 
+übersteigt. Die restlichen Indizien ("Einsatz spezieller Fachkennt-
+nisse/Zusammenhang mit der hauptberuflichen Tätigkeit" und "Wie-
+deranlage des erzielten Gewinnes in gleichartige Vermögensgegen-
+stände") sind zu wenig gewichtig, um trotzdem auf Gewerbsmässig-
+keit zu schliessen oder sprechen sogar eher gegen ein gewerbsmässi-
+ges Handeln (fehlender Einsatz von Fremdkapital). Nach Auffassung 
+des StRG hat der Beschwerdeführer eine durch seine berufliche Si-
+tuation geprägte, jedoch rein private Vermögensverwaltung betrie-
+ben. 
+
+
+456 
+Steuerrekursgericht 
+2000 
+b) Die Vorinstanz verweist zur Begründung der Gewerbs-
+mässigkeit auf den BGE vom 9. November 1990 (StE 1991 B 23.1 
+Nr. 22), wonach Termingeschäfte den Rahmen einer privaten Vermö-
+gensverwaltung in der Regel schon ihrer Natur wegen sprengen. Im 
+vom BGr beurteilten Fall handelte es sich um systematisch betrie-
+bene Termindifferenzgeschäfte, d.h. der Steuerpflichtige hat die auf 
+Termin erworbenen oder verkauften Positionen innerhalb der laufen-
+den Fristen mit gleichartigen Gegengeschäften jeweils wieder ausge-
+glichen und dabei pro Jahr mehr als 100 (Devisen- und Gold-)Trans-
+aktionen getätigt. Es kann also weder die Art der Geschäfte noch 
+deren Anzahl mit dem vorliegenden Fall verglichen werden. Allein 
+aus dem Umstand, dass jedes Termingeschäft namhafte Verlustrisi-
+ken in sich birgt, darf nicht automatisch auf gewerbsmässigen Han-
+del geschlossen werden; dazu müssen weitere Indizien vorliegen. Es 
+muss einem Steuerpflichtigen im Rahmen rein privater Vermögens-
+verwaltung der Abschluss vereinzelter risikoreicher Geschäfte offen-
+stehen. Auch die private Vermögensverwaltung ist in der Regel nicht 
+bloss auf die reine Werterhaltung, sondern darüber hinaus auf die 
+Erzielung einer angemessenen Rendite ausgerichtet. Grundsätzlich 
+ohne Belang ist dabei, ob diese mit einer konservativen Anlagestra-
+tegie oder durch Investitionen in Wertschriften und derivative Fi-
+nanzinstrumente angestrebt wird, auch wenn dies mit einem höheren 
+Verlustrisiko verbunden ist (ASA 68 S. 641 ff.). 
+
+
+ 
+Landwirtschaftliche Rekurskommission 
+
+
+2000 
+Direkzahlungen 
+459 
+I. Direktzahlungen 
+ 
+107 Bedeutung der tierschutzrechtlichen Ausnahmebewilligung für die 
+Direktzahlungen (IP-Beiträge). 
+- 
+Eine tierschutzrechtliche Ausnahmebewilligung nach Art. 76 Abs. 1ter 
+TSchV gilt nicht auch als Dispens von den direktzahlungsrechtlichen 
+Anforderungen, da bei letzteren eine Ausnahme nicht vorgesehen ist 
+(Erw. 2.2.4.). 
+- 
+Das Fehlen einer entsprechenden Information durch die Abteilung 
+Landwirtschaft stellt nicht ohne weiteres einen vertrauensbegrün-
+denden Tatbestand dar (Erw. 3.). 
+Aus einem Entscheid der Landwirtschaftlichen Rekurskommission vom 
+2. November 2000 in Sachen P. W. gegen Finanzdepartement (Abteilung 
+Landwirtschaft). 
+Aus den Erwägungen 
+...2.2.4. 
+Welche Bedeutung kommt der Gewährung der Aus-
+nahmebewilligung hinsichtlich der IP-Anforderungen zu? 
+Die Ausnahmebewilligung legalisiert die Abweichung oder 
+Nichteinhaltung der in der Tierschutzgesetzgebung grundsätzlich 
+vorgeschriebenen Auslaufgewährungspflicht. Diese Legalisierung 
+zeigt ihre Wirkung darin, dass die aufgrund von Art. 29 TSchG an 
+sich gegebene strafrechtliche Sanktionierung (Busse) des von der 
+Ausnahmebewilligung erfassten Verhaltens, das heisst der Nichtge-
+währung des Auslaufs, entfällt. Die Ausnahmebewilligung ändert 
+aber nichts daran, dass die Mindestbestimmung der TSchV über den 
+regelmässigen Auslauf nicht eingehalten wurde. Der Grund für die 
+Erteilung der Ausnahmebewilligung liegt nicht darin, dass die unun-
+terbrochene Anbindung bis zu 80 Tagen als artgerechter qualifiziert 
+wurde als der regelmässige Auslauf, sondern in der Stärkergewich-
