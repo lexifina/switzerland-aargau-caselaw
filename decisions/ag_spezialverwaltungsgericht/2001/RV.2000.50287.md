@@ -1,0 +1,184 @@
+---
+decision_id: "ag_spezialverwaltungsgericht_RV.2000.50287"
+court: "AG Spezialverwaltungsgericht"
+court_id: "ag_spezialverwaltungsgericht"
+chamber: "Abteilung Steuern"
+docket: "RV.2000.50287"
+decided: "2001-08-30"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/4238"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/4238"
+cites_law: ["switzerland/bund/acts/910.1/art-170.md", "switzerland/bund/acts/910.13/art-070.md"]
+---
+
+# Spezialverwaltungsgericht / Abteilung Steuern — RV.2000.50287
+
+## Regeste
+
+Doppelbesteuerung, interkantonal.
+- Sog. Durchgriff durch Immobiliengesellschaft auf Alleinaktionär im interkantonalen Verhältnis.
+
+## Text
+
+2001 
+Kantonale Steuern 
+419 
+derweitig erzielten Verlusten auch gerechtfertigt, weil die ihr zu-
+grundeliegenden Beiträge an die berufliche Vorsorge gemäss § 26 
+Abs. 1 aStG vom Roheinkommen abgezogen werden können. 
+96 
+Doppelbesteuerung, interkantonal. 
+- 
+Sog. Durchgriff durch Immobiliengesellschaft auf Alleinaktio-
+när im interkantonalen Verhältnis. 
+30. August 2001 in Sachen Z., RV.2000.50287/K 6261 
+Aus den Erwägungen 
+2. Die Rekurrenten sind Alleinaktionäre der M. AG mit Sitz in 
+N./AG. Gemäss "Bilanz zum 31.12.1996" der M. AG belief sich das 
+Darlehen des Rekurrenten zu diesem Zeitpunkt auf Fr. 601'683.40. 
+Gemäss den Ausführungen des Rekurrenten hat die M. AG mit einem 
+Teil des Darlehens in A./GR eine Eigentumswohnung für 
+Fr. 300'000.-- gekauft. Aufgrund des sog. "Durchgriffs" der bündner 
+Steuerbehörden haben jedoch die Rekurrenten, und nicht die M. AG 
+als zivilrechtliche Eigentümerin, die Wohnung in A./GR zu versteu-
+ern. Die Rekurrenten sind daher der Auffassung, dass das im Kanton 
+Aargau steuerbare Gesamtvermögen von Fr. 1'045'934.-- um einen 
+Teilbetrag des Darlehens von Fr. 300'000.-- auf (abgerundet) 
+Fr. 745'000.-- zu reduzieren sei, ansonsten eine unzulässige Doppel-
+besteuerung vorliege. 
+3. a) Ob bei der Besteuerung einer Liegenschaft ein "Durch-
+griff" durch die Immobiliengesellschaft auf den Alleinaktionär zuläs-
+sig ist, beurteilt sich im interkantonalen Verhältnis nach den bundes-
+gerichtlichen Normen zur Vermeidung der Doppelbesteuerung. Diese 
+lassen den "Durchgriff" zu, soweit die Immobiliengesellschaft allein 
+Zwecken der Steuerumgehung dient. In Doppelbesteuerungsfällen 
+wird Steuerumgehung angenommen, wenn 
+a) die vom Steuerpflichtigen gewählte Rechtsgestaltung als un-
+gewöhnlich ("insolite"), sachwidrig, oder absonderlich, jedenfalls der 
+wirtschaftlichen Gegebenheit völlig unangemessen erscheint, 
+
+
+420 
+Steuerrekursgericht 
+2001 
+b) anzunehmen ist, dass diese Wahl missbräuchlich, lediglich 
+deshalb getroffen worden ist, um Steuern einzusparen, welche bei 
+sachgemässer Ordnung der Verhältnisse geschuldet wären, 
+c) das gewählte Vorgehen tatsächlich zu einer erheblichen Steu-
+erersparnis führen würde, sofern es von der Steuerbehörde hinge-
+nommen würde. 
+Sind diese Voraussetzungen erfüllt, so wird der Besteuerung 
+auch dann, wenn die gewählte Rechtsform unter dem Gesichtswinkel 
+des Zivilrechts als gültig und wirksam erscheint, nicht diese Gestal-
+tung zugrunde gelegt, sondern die Ordnung, welche der sachgemässe 
+Ausdruck des von den Beteiligten erstrebten wirtschaftlichen Zwecks 
+gewesen wäre. 
+b) In dem in ASA 40 S. 210 ff. beurteilten Sachverhalt war ein 
+Ferienhaus das einzige Aktivum der Aktiengesellschaft, und die Im-
+mobiliengesellschaft hatte keinen andern Zweck als die Verwaltung 
+dieses Hauses. Bei Annahme einer Steuerumgehung fiel die Aktien-
+gesellschaft als Steuersubjekt überhaupt dahin. Beim in StR 38 
+S. 239 ff. beurteilten Sachverhalt stand die Existenz der Aktienge-
+sellschaft als solcher steuerrechtlich nicht in Frage. Sie besass noch 
+andere Aktiven (unter anderem auch Liegenschaften in verschiede-
+nen Kantonen, davon ein Mehrfamilienhaus mit Ferienwohnungen 
+im Kanton Graubünden), deren steuerliche Zurechnung an die Akti-
+engesellschaft nicht zur Diskussion stand. Es fragte sich einzig, ob 
+darin, dass die Aktiengesellschaft auch noch Eigentümerin eines 
+Ferienhauses war, welches vom Steuerpflichtigen persönlich benutzt 
+wurde, eine Steuerumgehung liege, die zur Folge hätte, dass dieses 
+Aktivum steuerlich nicht ihr, sondern dem Steuerpflichtigen zuzu-
+rechnen wäre. Der "Durchgriff" wurde mangels Nachweises der be-
+haupteten Steuerersparnis als unzulässig beurteilt. 
+c) Die M. AG hat ausser der Wohnung in A./GR (Buchwert 
+Fr. 300'000.--) noch Land in V./AG (Buchwert Fr. 267'940.--) und in 
+R./AG (Fr. 50'000.--). Ausserdem gehören zum Anlagevermögen 
+Fahrzeuge und Maschinen/Mobiliar. Die M. AG weist für das Jahr 
+1995 einen Liegenschaftsertrag von Fr. 39'400.-- und für das Jahr 
+1996 von Fr. 46'488.-- (gemäss handschriftlicher Notiz inkl. A./GR 
+Fr. 10'000.--) aus. Bei der Annahme einer Steuerumgehung würde 
+
+
+2001 
+Kantonale Steuern 
+421 
+also die M. AG als Steuersubjekt nicht dahin fallen, weil die Eigen-
+tumswohnung in A./GR nicht das einzige Aktivum ist. Unter diesen 
+Umständen kann analog zum Sachverhalt, welcher dem in der StR 38 
+S. 239 ff. beurteilten Fall zugrunde liegt, nur durch die M. AG auf 
+die Rekurrenten "hindurchgegriffen" werden, wenn der Kanton 
+Graubünden durch die Einschaltung der Immobiliengesellschaft eine 
+erhebliche Steuerersparnis nachweisen könnte. Ein solcher Nachweis 
+wurde jedoch nicht erbracht. Die Eigentumswohnung in A./GR ist 
+daher aus aargauischer Sicht steuerlich (entsprechend den zivilrecht-
+lichen Eigentumsverhältnissen) der M. AG und nicht den Rekurren-
+ten zuzuweisen. Sie ist bei der aargauischen Steuerausscheidung 
+nicht zu berücksichtigen, und das steuerbare Vermögen der Rekur-
+renten ist nicht um den (im Kanton Graubünden versteuerten) Wert 
+der Eigentumswohnung in A./GR zu reduzieren. 
+4. a) Die Rekurrenten machen geltend, es gehe nicht an, dass 
+sie die Eigentumswohnung in A./GR im Kanton Graubünden und das 
+gleiche Vermögenssubstrat von Fr. 300'000.-- nochmals als Darle-
+hensguthaben gegenüber der M. AG im Kanton Aargau versteuern 
+müssen. Es liege im Umfang von Fr. 300'000.-- eine unzulässige 
+Doppelbesteuerung vor. 
+b) Die Rekurrenten dürfen an sich bei direkter Besteuerung im 
+Kanton Graubünden für die Eigentumswohnung in A./GR nicht 
+gleichzeitig im Kanton Aargau über die Beteiligung an der M. AG 
+bzw. das dieser gewährte Darlehen für die Liegenschaft in A./GR 
+besteuert werden (vgl. StR 38 S. 244). Da der von den bündner Steu-
+erbehörden vorgenommene "Durchgriff" nach Auffassung des StRG 
+nicht zulässig ist, haben die aargauischen Steuerbehörden auf diesen 
+"Durchgriff" jedoch keine Rücksicht zu nehmen. Ergibt sich durch 
+die Veranlagungen in beiden Kantonen (vorliegend Kt. GR und Kt. 
+AG) insgesamt eine unzulässige Doppelbesteuerung, können sich die 
+Steuerpflichtigen noch nach Eröffnung der Veranlagung im zweiten 
+Kanton (vorliegend Kt. AG) mit einer Doppelbesteuerungsbe-
+schwerde zur Wehr setzen (vgl. VGE vom 9. September 1996 in 
+Sachen V. mit Hinweis auf ASA 64 S. 169 ff.; StR 52 S. 534 ff.); es 
+wird dann auch die mitangefochtene frühere, im andern Kanton er-
+gangene Veranlagung in das Beschwerdeverfahren einbezogen. 
+
+
+ 
+Landwirtschaftliche Rekurskommission 
+
+
+2001 
+Direktzahlungen 
+425 
+I. Direktzahlungen 
+ 
+97 
+Auswirkungen einer Tierschutzverletzung auf die Direktzahlungen. 
+- 
+Das Ausmass der Sanktion bestimmt sich nicht unmittelbar aus 
+Art. 170 Abs. 1 LwG-CH bzw. Art. 70 Abs. 1 DZV, sondern aus 
+der Bedeutung der verletzten Norm (Erw. 2.5.4.2.). 
+- 
+Frage der direktzahlungsrechtlichen Sanktion und Anwend-
+barkeit des Sanktionsschemas bei Tierschutzverletzungen. 
+Nicht jede Tierschutzverletzung hat eine vollständige Strei-
+chung der Direktzahlungen zur Folge. Die im Sanktionsschema 
+vorgesehenen Sanktionen werden grundsätzlich als unterste 
+Limite betrachtet; bei entsprechend gravierenden Tierschutz-
+verletzungen ist eine vollständige Streichung vorzunehmen 
+(Erw. 2.5.4.3.ff.). 
+Aus einem Entscheid der Landwirtschaftlichen Rekurskommission vom 
+24. August 2001 in Sachen F.H. gegen Finanzdepartement (Abteilung Land-
+wirtschaft). 
+Aus den Erwägungen 
+2.2.1. 
+Seit 1. Juli 1997 schreibt Art. 18 der Tierschutzver-
+ordnung (TSchV) vom 27. Mai 1981 (SR 455.1) in Konkretisierung 
+von Art. 3 des Tierschutzgesetzes (TSchG) vom 9. März 1978 (SR 
+455) vor, dass Rindvieh, welches ansonsten angebunden gehalten 
+wird, regelmässig, mindestens jedoch an 90 Tagen pro Jahr, Gele-
+genheit geboten werden muss, sich ausserhalb des Stalles zu bewe-
+gen. 
+ (...) 
+2.5.4.1. 
+Betreffend Verletzung der Auslaufvorschrift sieht das 
+Sanktionsschema [d.h. die von der interkantonalen Landwirt-
+schaftsdirektorenkonferenz an der Sitzung vom 1. Juli 1999 verab-
