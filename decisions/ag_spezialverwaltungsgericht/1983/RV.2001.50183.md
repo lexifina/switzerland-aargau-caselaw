@@ -1,0 +1,151 @@
+---
+decision_id: "ag_spezialverwaltungsgericht_RV.2001.50183"
+court: "AG Spezialverwaltungsgericht"
+court_id: "ag_spezialverwaltungsgericht"
+chamber: "Abteilung Steuern"
+docket: "RV.2001.50183"
+decided: "1983-12-13"
+published: "2002-11-22"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/4092"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/4092"
+---
+
+# Spezialverwaltungsgericht / Abteilung Steuern — RV.2001.50183
+
+## Regeste
+
+Geschäftsverluste (§ 24 lit. b Ziff. 3 aStG)
+- Verluste auf Beteiligungen sind nur abziehbar, wenn Geschäftsvermögen vorliegt, d.h. wenn die Beteiligung der selbstständigen Erwerbstätigkeit des Steuerpflichtigen gedient hat.
+
+## Text
+
+2002
+Kantonale Steuern
+435
+I. Kantonale Steuern
+A. Gesetz über die Steuern auf Einkommen, Vermögen,
+Grundstückgewinnen, Erbschaften und Schenkungen (aStG) vom
+13. Dezember 1983
+109
+Geschäftsverluste (§ 24 lit. b Ziff. 3 aStG)
+-
+Verluste auf Beteiligungen sind nur abziehbar, wenn Geschäftsver-
+mögen vorliegt, d.h. wenn die Beteiligung der selbstständigen Er-
+werbstätigkeit des Steuerpflichtigen gedient hat.
+22. November 2002 in Sachen G., RV.2001.50183/K 6313
+Aus den Erwägungen
+5. a) Beteiligungen und Darlehen gehören zu den sog. Alterna-
+tivgütern, d.h. Vermögenswerten, die auf Grund ihrer Beschaffenheit
+und Verwendungsmöglichkeit sowohl Geschäfts-, als auch Privat-
+vermögen sein können (F. Cagianut/E. Höhn, Unternehmungssteuer-
+recht, 3. Auflage, Bern 1993, S. 255 ff. und 268 ff.; Baur/Klö-
+ti/Koch/Meier/Ursprung, Kommentar zum Aargauer Steuergesetz,
+Muri-Bern 1991, N 187, 190, 200 ff. zu § 22 aStG; AGVE 1980
+S. 207; StE 1986 B 23.2 Nr. 3, 1987 B 23.2 Nr. 4; RGE vom 24. Juni
+1992 in Sachen M., vom 29. Juni 1994 in Sachen S. und vom
+4. September
+1996
+in
+Sachen
+R.). Ausschlaggebend
+für
+die
+Zuordnung eines Wirtschaftsgutes zum Geschäfts- oder Privatver-
+mögen sind nicht einzelne Kriterien wie das Erwerbsmotiv, die Her-
+kunft der Mittel, die buchmässige Behandlung, die alle nur die Be-
+deutung von Indizien haben, sondern die Gesamtheit der tatsächli-
+chen Verhältnisse, wie sie objektiv feststellbar sind (AGVE 1987
+S. 170 und 355, 1993 S. 263). Der subjektive Wille des Steuerpflich-
+tigen ist für sich allein genommen nicht massgebend, sondern nur
+soweit er sich in der tatsächlichen Gestaltung der Verhältnisse nie-
+derschlägt. Letztlich ist die objektive Beziehung zum Geschäft, die
+
+
+436
+Steuerrekursgericht
+2002
+technisch-wirtschaftliche Funktion, entscheidend dafür, ob Beteili-
+gungen und Darlehen zum Geschäftsvermögen zu zählen sind
+(ASA 63 S. 37 ff.; die neue Steuerpraxis 1995 S. 93 ff.; AGVE 1989
+S. 339 ff.; M. Reich, in: Kommentar zum Schweizerischen Steuer-
+recht, Band I/2a, Basel 2000, DBG Art. 18 N 48; VGE vom 7. Fe-
+bruar 2001 in Sachen M.).
+b) Geschäftsvermögen kann grundsätzlich nur haben, wer eine
+selbstständige Erwerbstätigkeit ausübt (Baur/Klöti/Koch/Meier/Ur-
+sprung, a.a.O., N 183 zu § 22 aStG; RGE vom 29. Juni 1994 in
+Sachen S.; RGE vom 21. März 2002 in Sachen K.). In der Regel
+kann auch nur Geschäftsvermögen sein, was zivilrechtlich Eigentum
+des Geschäftsinhabers ist (BGE 110 Ib 121, 95 I 169 ff., 83 I 337 ff.;
+ASA 39 S. 93 ff.; Baur/Klöti/Koch/Meier/Ursprung, a.a.O., N 188 zu
+§ 22 aStG). Diese Voraussetzungen sind beim Rekurrenten erfüllt, da
+er
+als
+Liegenschaftenhändler
+selbstständig
+erwerbstätig
+und
+(teilweise zusammen mit der Rekurrentin) Eigentümer der Beteili-
+gungen war.
+c) aa) Die Aktien der X. AG und der Y. AG gehörten nach
+Ansicht der Rekurrenten zu ihrem Geschäftsvermögen, weil der als
+Nebenerwerb ausgeübte Liegenschaftenhandel im Zusammenhang
+mit der Architektur- und Generalunternehmertätigkeit der beiden
+Gesellschaften gestanden, deren Marktangebot erweitert und ihnen
+als Arbeitsreserve gedient habe. Das mag zutreffen, doch wird damit
+die Sachlage aus der Sicht der Aktiengesellschaften betrachtet, was
+hier nicht relevant ist. Um Geschäftsvermögen zu sein, müssten die
+Beteiligungen der selbstständigen Tätigkeit des Rekurrenten gedient
+haben, nicht umgekehrt. Das ist indessen nicht nachgewiesen. Der
+Liegenschaftenhandel des Rekurrenten war nicht von der Existenz
+der beiden Gesellschaften abhängig. Als Aktionär und leitender An-
+gestellter der X. AG und der Y. AG zog der Rekurrent aus seinem
+Liegenschaftenhandel möglicherweise gewisse Vorteile. Als selbst-
+ständig Erwerbender war er jedoch auf diese Firmen nicht angewie-
+sen. Architektur- und Generalunternehmerleistungen hätte er leicht
+auch von Dritten erlangen können, wenn er nicht über eigene, in
+diesem Bereich aktive Unternehmen verfügt hätte. Dass solche Auf-
+träge nach Möglichkeit der X. AG und der Y. AG erteilt wurden,
+
+
+2002
+Kantonale Steuern
+437
+versteht sich angesichts der Eigentumsverhältnisse zwar von selbst,
+verbesserte aber einzig deren Auftragslage, nicht die Erträge aus der
+selbstständigen Erwerbstätigkeit. In einem vergleichbaren Fall hat
+das Steuerrekursgericht die Beteiligungen an zwei Bauunternehmun-
+gen nicht als Geschäftsvermögen eines (nebenberuflichen) Liegen-
+schaftenhändlers erachtet (RGE vom 22. November 2002 in Sachen
+S.). Auch eine Lastwagengarage in Form einer Aktiengesellschaft hat
+nach Ansicht des Steuerrekursgerichtes einem als Einzelfirma ge-
+führten Kieswerk, das dort seine schweren Fahrzeuge warten liess,
+keinen unmittelbaren geschäftlichen Nutzen gebracht (RGE vom
+7. Juni 2001 in Sachen F.; die Zugehörigkeit der Aktien der Garage
+zum Geschäftsvermögen des Kieswerkbesitzers wurde letztlich aus
+anderen, hier nicht vorliegenden Gründen bejaht). Schliesslich hat
+das Zürcher Verwaltungsgericht sogar die Beteiligung eines selbst-
+ständig erwerbenden Architekten an einer Immobilienfirma nicht als
+Erweiterung von dessen Geschäftsbetrieb betrachtet, weil der ge-
+schäftliche Nutzen nicht nachgewiesen war (StE 1999 B 23.45.2
+Nr. 1). Blosse Zusammenarbeit reicht somit nicht aus, wenn nicht
+dargetan
+ist,
+dass
+die
+Beteiligung
+der
+selbstständigen
+Erwerbstätigkeit auch wirklich technisch-wirtschaftlich gedient und
+geholfen hat, deren Marktauftritt und Ertragslage zu verbessern.
+bb) ...
+d) Zusammenfassend sind deshalb die Aktien der X. AG und
+der Y. AG nicht als Geschäftsvermögen der Rekurrenten zu qualifi-
+zieren. Der entsprechende Verlust ist als privater Kapitalverlust nicht
+abziehbar.
+110
+Rechtliches Gehör; Aktenbeizug (§ 127 aStG).
+-
+Zieht die Steuerbehörde Akten bei, die ihr als Entscheidgrundlage
+dienen, hat sie die Betroffenen darüber zu orientieren.
