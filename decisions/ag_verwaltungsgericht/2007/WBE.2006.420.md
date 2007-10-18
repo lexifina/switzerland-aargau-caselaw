@@ -1,0 +1,324 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2006.420"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "1. Kammer"
+docket: "WBE.2006.420"
+decided: "2007-10-18"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/3423"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3423"
+cites_law: ["switzerland/bund/acts/514.54/art-005.md", "switzerland/bund/acts/514.54/art-008.md", "switzerland/bund/acts/514.54/art-017.md", "switzerland/bund/acts/514.54/art-027.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 1. Kammer — WBE.2006.420
+
+## Regeste
+
+Erwerb einer Seriefeuerwaffe zu Sammelzwecken.
+- Voraussetzungen für die Erteilung einer Ausnahmebewilligung (Erw. 1.2).
+- Sammelzweck als Ausnahmesituation (Erw. 2.3-2.4).
+
+## Text
+
+2007 
+Waffenrecht 
+203 
+VII. Waffenrecht 
+ 
+47 
+Erwerb einer Seriefeuerwaffe zu Sammelzwecken. 
+- 
+Voraussetzungen für die Erteilung einer Ausnahmebewilligung 
+(Erw. 1.2). 
+- 
+Sammelzweck als Ausnahmesituation (Erw. 2.3-2.4). 
+Urteil des Verwaltungsgerichts, 4. Kammer, vom 18. Oktober 2007 in 
+Sachen R.W. gegen den Regierungsrat (WBE.2006.420). 
+Aus den Erwägungen 
+1. 
+1.1. 
+Das Bundesgesetz über Waffen, Waffenzubehör und Munition 
+vom 20. Juni 1997 (Waffengesetz, WG; SR 514.54) unterstellt die 
+Handänderung von Waffen im gewerbsmässigen Handel einer ge-
+nerellen Bewilligungspflicht. Für den Erwerb von Waffen, wesentli-
+chen Waffenbestandteilen, Waffenzubehör, Munition sowie Muniti-
+onsbestandteilen bei einem Waffenhändler oder einem Büchsen-
+macher ist daher ein Waffenerwerbsschein erforderlich. Vorausset-
+zung für die Erteilung eines Waffenerwerbsscheins ist insbesondere 
+das Fehlen der in Art. 8 Abs. 2 WG genannten Hinderungsgründe. 
+Für den Erwerb von Seriefeuerwaffen und zu halbautomati-
+schen Hand- oder Faustfeuerwaffen umgebauten Seriefeuerwaffen 
+sowie ihren besonders konstruierten Bestandteilen gelten von den 
+allgemeinen, in Art. 8–16 WG definierten Waffenerwerbsbestim-
+mungen abweichende Regelungen. So ist gemäss Art. 5 Abs. 1 lit. a 
+WG der Erwerb dieser Waffen und ihrer Bestandteile, mit Ausnahme 
+des Erwerbs durch Erbgang oder falls es sich um zu halbautomati-
+schen Handfeuerwaffen abgeänderte schweizerische Ordonnanz-Se-
+riefeuerwaffen handelt (Art. 5 Abs. 5 und Abs. 6 WG), grundsätzlich 
+
+
+204 
+Verwaltungsgericht 
+2007 
+verboten. Allerdings können die Kantone in begründeten Einzelfällen 
+Ausnahmen bewilligen (Art. 5 Abs. 3 lit. a WG; Art. 48 Abs. 1 der 
+Verordnung über Waffen, Waffenzubehör und Munition vom 
+21. September 1998 [Waffenverordnung, WV; SR 514.541]). Gemäss 
+der Botschaft zum Waffengesetz vom 24. Januar 1996 sollen die 
+Ausnahmen insbesondere für Personen gelten, die Waffen sammeln, 
+jagen oder für Sicherheitsdienste arbeiten (BBl 1996 I 1060). Auch 
+wenn dies der Botschaft und der bundesrechtlichen Gesetzgebung 
+nicht klar zu entnehmen ist, ergibt sich aufgrund des Sicherheitsge-
+dankens klar, dass neben den genannten objektiven Umständen auch 
+das Motiv des Waffenerwerbs ausschliesslich im Sammeln von Waf-
+fen, im Gebrauch für die Jagd oder für die Tätigkeit im Sicherheits-
+dienst liegen muss und eine anderweitige Verwendung der verbote-
+nen Waffe ausgeschlossen bleiben soll. 
+Von der Möglichkeit zur Erteilung von Ausnahmebewilligungen 
+hat der Kanton Aargau Gebrauch gemacht und in § 12 Abs. 1 der 
+Vollziehungsverordnung zur Bundesgesetzgebung über Waffen, Waf-
+fenzubehör und Munition vom 25. November 1998 (SAR 560.111; 
+nachfolgend: Vollziehungsverordnung) u.a. den Erwerb von Serie-
+feuerwaffen in besonderen Fällen geregelt. Die Bewilligung kann 
+unter anderem gemäss § 12 Abs. 1 der Vollziehungsverordnung er-
+teilt werden, sofern der Erwerb zu Sammelzwecken erfolgt, beim 
+Gesuchsteller keine Hinderungsgründe gemäss Art. 8 Abs. 2 WG 
+vorliegen und sofern Gewähr für einen sorgsamen Umgang mit der 
+Waffe besteht. Zuständig für die Erteilung der Bewilligungen ist das 
+Polizeikommando. 
+1.2. 
+Bei der kantonalen Bewilligung zum Erwerb einer verbotenen 
+Waffe gemäss § 12 Abs. 1 Vollziehungsverordnung handelt es sich 
+um eine Ausnahmebewilligung. Für die Erteilung einer Ausnahme-
+bewilligung gelten die allgemeinen verwaltungsrechtlichen Grund-
+sätze (vgl. hiezu und zum Folgenden Ulrich Häfelin / Georg Müller / 
+Felix Uhlmann, Allgemeines Verwaltungsrecht, 5. Auflage, Zürich 
+2006, Rz. 2539 f.). Eine solche Bewilligung bedarf zunächst einer 
+ausdrücklichen gesetzlichen Grundlage, die Erteilung der Ausnah-
+mebewilligung darf sodann dem mit dem Gesetz verfolgten Zweck 
+
+
+2007 
+Waffenrecht 
+205 
+und den damit zu schützenden öffentlichen Interessen nicht zuwider 
+laufen, und schliesslich muss die vom Gesetz verlangte Ausnahme-
+situation vorliegen. 
+Die Voraussetzungen der Bewilligung, mitunter der Sam-
+melzweck, das Fehlen von Hinderungsgründen gemäss Art. 8 Abs. 2 
+lit. d WG und der sorgsame Umgang sind begrifflich unbestimmte 
+Rechtssätze bzw. Tatbestände (vgl. hiezu Häfelin / Müller / Uhl-
+mann, a.a.O., Rz. 445 f.; Fritz Gygi, Verwaltungsrecht, Bern 1986, 
+S. 145 f.). Auslegung und richtige Handhabung dieser Begriffe sind 
+Rechtsfragen und können von Verwaltungsgericht überprüft werden. 
+Hinsichtlich der Beurteilung der konkreten Umstände im Einzelfall 
+steht dem Polizeikommando allerdings ein Beurteilungsspielraum zu, 
+weil es die persönlichen Verhältnisse eines Gesuchstellers und die 
+konkrete Situation insbesondere im Hinblick auf das Sicherheitsri-
+siko besser beurteilen kann. Die Entscheidung darüber, ob einem Ge-
+suchsteller bei Erfüllung der Voraussetzungen eine Bewilligung er-
+teilt wird oder nicht, liegt aber nicht im (freien) Ermessen der Ver-
+waltung. Insofern besteht ein Rechtsanspruch auf Erteilung einer 
+Ausnahmebewilligung für den Erwerb einer verbotenen Waffe für 
+einen Gesuchsteller, welcher die Voraussetzungen von § 12 der Voll-
+ziehungsverordnung vollständig erfüllt. Im Ermessen der Verwaltung 
+liegt die inhaltliche Ausgestaltung der Ausnahmebewilligung, welche 
+wie jede Ermessensbetätigung die allgemeinen Rechtsgrundsätze zu 
+befolgen hat. Eine Ausnahmebewilligung darf deshalb nicht will-
+kürlich zugestanden oder verweigert werden, und auch das Gebot der 
+Rechtsgleichheit und der Verhältnismässigkeit sind zu beachten (vgl. 
+hierzu Häfelin / Müller / Uhlmann, a.a.O., Rz. 441 f.; Hans Wüst, 
+Schweizer Waffenrecht, Zürich 1998, S. 61 f.). 
+2.1.-2.2. (…) 
+2.3. 
+2.3.1. 
+Eine Ausnahmesituation für den Erwerb einer verbotenen Serie-
+feuerwaffe begründet gemäss § 12 Abs. 1 der Vollziehungsverord-
+nung, wie bereits erwähnt (siehe vorne Erw. 1), der Erwerb zu Sam-
+melzwecken. Weitere Anforderungen an diese Ausnahme sind dem 
+kantonalen Recht und dem Bundesrecht nicht zu entnehmen. Art. 48 
+
+
+206 
+Verwaltungsgericht 
+2007 
+WV verlangt, dass die Ausnahmebewilligung nach kantonalem Recht 
+"nur in begründeten Einzelfällen, für eine bestimmte Person und 
+grundsätzlich nur für eine einzige Waffe (…) erteilt werden kann". 
+Mit dem Sammelzweck ist der "begründete Einzelfall" und damit 
+auch die Ausnahmesituation abschliessend umschrieben, weshalb aus 
+der bundesrechtlichen Bestimmung nicht auf zusätzliche Einschrän-
+kungen geschlossen werden kann. Wie sich auch aus den Gesetzes-
+materialien ergibt, ging es dem Gesetzgeber gerade darum, für die 
+Sammler von Waffen die durch das generelle Verbot entstandene 
+Härte einzelfallgerecht zu mildern (siehe vorne Erw. 1.1). 
+Mit dieser Umschreibung der Zweckbestimmung wird das Mo-
+tiv eines Gesuchstellers zur zentralen Frage für das Vorliegen der 
+Ausnahmesituation. Dabei ist mit der Vorinstanz davon auszugehen, 
+dass für die Begründung eines Sammelzweckes die blosse Absichts-
+erklärung eines Gesuchstellers nicht genügt, sondern dafür sachliche 
+Umstände in Zeitpunkt des Gesuches vorliegen müssen, welche auch 
+objektiv auf den Sammelzweck des Erwerbs schliessen lassen. Diese 
+Umstände können in einer bestehenden Waffensammlung, waffen-
+spezifischen oder besonderen weiteren Umständen (Waffenserie, 
+Marke, Militärausrüstung, Umgang mit Waffen, besondere Art der 
+Aufbewahrung und Inventarisierung der Waffen etc.) oder in persön-
+lichen Merkmalen eines Gesuchstellers bestehen, welche für einen 
+Waffensammler charakteristisch sind. Das Fehlen solcher Umstände 
+oder die Erkennbarkeit einer eigentlichen Sammelleidenschaft 
+schliessen anderseits den Sammelzweck nicht zum vornherein aus. 
+Die Ausnahmesituation kann auch gegeben sein, wenn eine Samm-
+lung erst aufgebaut wird oder eine bestehende Sammlung von Faust- 
+und Handfeuerwaffen mit einer Seriefeuerwaffe ergänzt werden soll. 
+Da es zur Abgrenzung auf das Motiv des Gesuchstellers ankommt 
+und die (subjektiven) Beweggründe für das Sammeln ihrer Natur die 
+unterschiedlichsten Sammelarten und -ziele erfassen können, ist eine 
+abschliessende positive Umschreibung der Ausnahmesituation, d.h. 
+des Sammelzwecks, nicht möglich. 
+Die Absicht zur Sammlung ist ein innerer Vorgang, der seiner 
+Natur nach einem strikten Nachweis nicht zugänglich ist, weshalb sie 
+von den Gesuchstellenden zumindest glaubhaft zu machen ist (vgl. 
+
+
+2007 
+Waffenrecht 
+207 
+die Bestimmungen in Art. 27 Abs. 1 lit. b WG; Art. 26 lit. d und e 
+sowie Art. 27 lit. e und d WV für vergleichbare Situationen). Für das 
+Glaubhaftmachen genügen äussere Umstände, die für den Erwerb ei-
+ner Seriefeuerwaffe auf einen Sammelzweck schliessen lassen. Sol-
+che können bei der Erweiterung oder Vervollständigung einer be-
+stimmten Waffenserie oder Militärausrüstung vorliegen. Für einen 
+erkennbaren Sammelzweck müssen zudem auch objektive Anhalts-
+punkte nach sachlichen Kriterien vorliegen. Es ist jedoch weder § 12 
+der Vollziehungsverordnung noch den Bestimmungen der bundes-
+rechtlichen Waffengesetzgebung oder der Botschaft zum Waffenge-
+setz zu entnehmen, dass eine bestehende Waffensammlung von einer 
+bestimmten Qualität sein oder sich auf Waffen einer bestimmten 
+Marke beschränken muss, um die Ausnahmesituation zu begründen. 
+Der Ausnahmecharakter der Bewilligung verlangt keine "restriktive" 
+Auslegung, sondern diese Bewilligungsvoraussetzung ist nach dem 
+Zweck der gesetzlichen Bestimmung auszulegen. Entgegen der Auf-
+fassung der Vorinstanz kann der Sammelzweck auch dann erfüllt 
+sein, wenn eine Waffensammlung besteht, die als "Querbeetsamm-
+lung" zu qualifizieren ist oder ein Sammler von nicht verbotenen 
+Handfeuerwaffen aus technischem Interesse mit der Sammlung von 
+Seriefeuerwaffen beginnt. Auch solche Umstände können den Sam-
+melzweck und damit eine Ausnahmesituation zureichend begründen. 
+Eine beschränkte Auslegung des Sammelzweckes aufgrund von 
+Qualitätskriterien der Sammlung ergibt sich aus § 12 Abs. 1 Vollzie-
+hungsverordnung und dem Ausnahmecharakter der Bewilligung je-
+denfalls nicht. 
+Der Sicherheitsgedanke der Waffengesetzgebung verlangt aber, 
+dass die Ausnahmebewilligungen nur dann erteilt werden, wenn der 
+Sammelzweck das alleinige und ausschliessliche Motiv für den Er-
+werb darstellt. Strenge Anforderungen sind daher insoweit gerecht-
+fertigt, als Umstände, die auf einen andern Zweck oder einen uner-
+laubten Gebrauch der verbotenen Waffe schliessen lassen, die Aus-
+nahmesituation zum vornherein ausschliessen, selbst wenn daneben 
+auch ein Sammelzweck glaubhaft erscheint. 
+
+
+208 
+Verwaltungsgericht 
+2007 
+2.3.2. 
+Der Beschwerdeführer verfügt bereits über eine Waffensamm-
+lung. Im Zeitpunkt der Gesuchseinreichung umfasste sie 17 Waffen, 
+und die Existenz einer Waffensammlung wird denn auch von der 
+Vorinstanz grundsätzlich anerkannt. Insofern bestehen objektive Um-
+stände, welche die Ausführungen des Beschwerdeführers, wonach er 
+seine Sammlung mit einer Seriefeuerwaffe, die als Kriegswaffe in 
+verschiedenen Armeen zum Einsatz gekommen sei, ergänzen will, 
+als glaubhaft erscheinen lassen. Die sachgerechte Anwendung von 
+§ 12 Abs. 1 der Vollziehungsverordnung erfordert keine besondere 
+Systematik der Sammlung nach Hersteller, Waffentyp oder Kaliber, 
+und das Sammeln von Waffen aus einem technischen Interesse ver-
+mag den Anforderungen zu genügen. Auch ein erkennbarer "innerer" 
+Zusammenhang zwischen einer bestehenden "Querbeetsammlung" 
+und der nachgesuchten Seriefeuerwaffe ist bei einem erstmaligen 
+Gesuch – wie hier – kein taugliches Kriterium, weil damit zum vorn-
+herein einem Waffensammler die Möglichkeit zum Aufbau einer 
+Sammlung von Seriefeuerwaffen verwehrt bliebe. 
+Dafür, dass der Beschwerdeführer die zu erwerben beantragte 
+Waffe nicht ausschliesslich zu Sammelzwecken, sondern auch an-
+derweitig, wie beispielsweise zur Selbstverteidigung oder für Han-
+delsgeschäfte erwerben will, bestehen in den Akten keine ausrei-
+chenden Hinweise. Insbesondere kann einzig aufgrund der Veräusse-
+rung von Teilen der Waffensammlung nicht geschlossen werden, der 
+Beschwerdeführer betreibe einen bewilligungspflichtigen Waffen-
+handel (Art. 17 WG). Zur Sammeltätigkeit gehört, dass einzelne 
+Waffen einer Sammlung gegen andere, in der Sammlung fehlende 
+ausgetauscht oder Waffen veräussert werden, um andere Waffen er-
+werben zu können. 
+Die Spannungen innerhalb der Familie des Beschwerdeführers 
+können Anhaltspunkte für eine Dritt- oder Selbstgefährdung begrün-
+den. Die Ausnahmebewilligung ist alsdann gestützt auf § 12 Abs. 1 
+Vollziehungsverordnung i.V.m. Art. 8 Abs. 2 lit. c WG oder wegen 
+Zweifel am sorgfältigen Umgang zu verweigern. Das Fehlen von 
+Hinderungsgründen und die Gewährleistung der notwendigen Sorg-
+falt im Umgang mit der Seriefeuerwaffe sind kumulativ zum Er-
+
+
+2007 
+Waffenrecht 
+209 
+werbszweck notwendige Voraussetzungen für eine Ausnahmebewil-
+ligung und können deshalb bereits aus systematischen Gründen nicht 
+zur Auslegung des Sammelzweckes herangezogen werden. 
+Der Beschwerdeführer verfügt sodann über geeignete Behält-
+nisse für das Aufbewahren der Waffen zu Sammelzwecken. Er ist 
+aktiver Schütze, Schützenmeister sowie Revisor des Pistolenclubs 
+X., und dieses intensiv betriebene Hobby kann sein Interesse an Waf-
+fen und einer Sammlung verschiedener Waffen und einer Serie-
+feuerwaffe erklären. 
+2.4. 
+Zusammenfassend ist entgegen der Vorinstanz der Sammel-
+zweck als Ausnahmesituation glaubhaft gemacht. Es ist daher davon 
+auszugehen, dass der Beschwerdeführer zur Ergänzung seiner be-
+stehenden Waffensammlung eine Seriefeuerwaffe erwerben will. 
+Indem die Vorinstanz einen Sammelzweck verneint hat und objektive 
+Umstände, die auf eine anderweitige Nutzung der zu erwerbenden 
+Waffe hindeuten, fehlen, ist die Verweigerung der Ausnahmebewilli-
+gung in diesem Punkt mit § 12 der Vollziehungsverordnung unver-
+einbar. 
+
+
+2007 
+Verwaltungsrechtspflege 
+211 
+VIII. Verwaltungsrechtspflege 
+ 
+48 
+Nachweis des Vertretungsverhältnisses. Zustellungsfiktion. 
+- 
+Aus der Bekanntgabe eines Vertretungsverhältnisses für eine be-
+stimmte Steuerperiode muss die Behörde nicht auf die Vertretung in 
+einem hängigen, eine frühere Steuerperiode betreffenden Verfahren 
+schliessen (Erw. 1.1). 
+- 
+Voraussetzungen der Fristwiederherstellung (Erw. 2). 
+- 
+Die Vermutung der Kenntnis des Verfügungsinhalts als Folge der Zu-
+stellungsfiktion kann dem Adressaten erst entgegengehalten werden, 
+wenn die Verfügung in Rechtskraft erwachsen bzw. vollstreckbar ist 
+(Erw. 3). 
+Entscheid des Verwaltungsgerichts, 2. Kammer, vom 24. Januar 2007 in Sa-
+chen S.K. gegen Steuerrekursgericht (WBE.2006.360). 
+Aus den Erwägungen 
+1.1. Die Beschwerdeführerin behauptet, die Veranlagungsverfü-
+gungen vom 26. August 2004 seien unkorrekt eröffnet worden, da 
+diese an sie persönlich statt an ihre Vertreterin adressiert gewesen 
+seien. Zwar habe auf der Übergangs-Steuererklärung 2001-Ü eine 
+Rubrik für die Bezeichnung eines Vertreters gefehlt; doch habe sie 
+später auf der Steuererklärung 2001 die F. AG als Vertreterin be-
+zeichnet. Dieses Vertretungsverhältnis sei nie widerrufen worden und 
+habe beim Versand der Veranlagungsverfügungen nach wie vor be-
+standen. 
+Die Beschwerdeführerin reichte ihre Steuererklärung 2001-Ü 
+(auf der die streitigen Veranlagungen zu gesonderten Jahressteuern 
+1999 und 2000 basieren; siehe § 263 Abs. 6 StG) im Juli 2001 ein. 
+Jeder Hinweis auf ein Vertretungsverhältnis fehlt; die Angabe eines 
+solchen wäre selbstverständlich auch ohne spezielle Rubrik möglich
