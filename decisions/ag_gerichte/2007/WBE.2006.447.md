@@ -1,0 +1,370 @@
+---
+decision_id: "ag_gerichte_WBE.2006.447"
+court: "AG Gerichte"
+court_id: "ag_gerichte"
+chamber: "WBE"
+docket: "WBE.2006.447"
+decided: "2007-12-20"
+language: "de"
+source_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3422"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3422"
+cites_law: ["switzerland/bund/acts/514.54/art-005.md", "switzerland/bund/acts/514.54/art-008.md"]
+---
+
+# AG Gerichte WBE.2006.447
+
+## Regeste
+
+Kantonsbeitrag an die Kosten der materiellen Hilfe.
+- Auslegung von § 47 Abs. 3 und § 49 SPG.
+
+## Text
+
+2007 
+Sozialhilfe 
+195 
+halb nur dann geboten, wenn sich besondere tatsächliche oder recht-
+liche Schwierigkeiten stellen. 
+Der Stadtrat X. hat die Kürzung der Sozialhilfe damit begrün-
+det, der Beschwerdeführer habe gegen die Mitwirkungs- und Melde-
+pflicht verstossen, indem er die Fragen im Schreiben des Stadtrats X. 
+vom 26. Juni 2007, welche der Berechnung des Lebensunterhalts für 
+die Monate Juni und Juli 2007 dienen sollten, nicht oder nur ungenü-
+gend beantwortet habe. Es handelte sich dabei um Fragen betreffend 
+den Aufenthalt der Ehefrau und des Kindes nach dem Vorfall von 
+häuslicher Gewalt, die Daten der Semesterferien 2007 und die Ar-
+beitsbemühungen in dieser Zeit, die Bemühungen um zinslose Dar-
+lehen sowie die Prüfungsergebnisse und Semesterzeugnisse. Im Zu-
+sammenhang mit der Kürzung der Sozialhilfe stellen sich somit 
+keine besonderen tatsächlichen und rechtlichen Schwierigkeiten. 
+Soweit der Beschwerdeführer darauf hinweist, er sei nicht deutscher 
+Muttersprache, so ergibt sich aus den diversen Eingaben des Be-
+schwerdeführers an die Sozialbehörde, das Bezirksamt Brugg und 
+das Verwaltungsgericht, dass seine Deutschkenntnisse ausreichen, 
+um die Vorwürfe des Stadtrats X. zu verstehen und dazu Stellung zu 
+nehmen. Die Bestellung eines unentgeltlichen Rechtsvertreters ist 
+deshalb nicht notwendig, und die Vorinstanz hat das Gesuch des Be-
+schwerdeführers zu Recht abgewiesen. 
+46 
+Kantonsbeitrag an die Kosten der materiellen Hilfe. 
+- 
+Auslegung von § 47 Abs. 3 und § 49 SPG. 
+Urteil des Verwaltungsgerichts, 4. Kammer, vom 20. Dezember 2007 in 
+Sachen Einwohnergemeinde K. und Mitb. gegen den Regierungsrat 
+(WBE.2006.447). 
+Aus den Erwägungen 
+1. 
+Der Kantonale Sozialdienst hat für die Kosten der materiellen 
+Hilfe, der Massnahmen zur wirtschaftlichen Verselbständigung, der 
+
+
+196 
+Verwaltungsgericht 
+2007 
+Elternschaftsbeihilfe, der Bevorschussung von Unterhaltsbeiträgen 
+und für die Kosten der Beschäftigungsprogramme gestützt auf § 47 
+Abs. 3 und Abs. 4 SPG sowie § 49 Abs. 1 und 2 SPG den Kantons-
+beitrag für die einzelnen Gemeinden festgelegt. Gemäss Rechnungs-
+blatt "Lastenausgleich für Sozialhilfekosten nach § 47 ff. Sozialhilfe- 
+und Präventionsgesetz für das Jahr 2005" wurde der Kantonsbeitrag 
+an die einzelnen Gemeinden auf der Grundlage der Einwohnerzahl, 
+der Anzahl Fälle sowie der Nettokosten ermittelt und nach einer 
+mathematischen Formel in prozentuale Beiträge der Nettokosten am 
+gesamten Kantonsbeitrag berechnet. Gegen die der Berechnung der 
+Gemeindebeiträge zugrunde gelegten Einwohnerzahlen, die Netto-
+kosten und Fallzahlen erheben die Beschwerdeführerinnen keine 
+Einwendungen, und an der Richtigkeit dieser Zahlen bestehen auch 
+keine Zweifel. Umstritten ist vielmehr das in Anwendung von § 47 
+lit. a und b SPG gewählte Modell, mit dem der Kantonsbeitrag an die 
+Beschwerdeführerinnen im Einzelnen bestimmt wurde. 
+2. 
+2.1. 
+Die Beschwerdeführerinnen machen geltend, die Festsetzung 
+ihres Kantonsbeitrags verletze in mehrfacher Weise die gesetzliche 
+Ausgestaltung des Lastenausgleichssystems nach § 47 Abs. 3 SPG. 
+Die angefochtenen Vergütungen bewirkten, dass die Nettoaufwen-
+dungen pro Einwohner zum Teil sehr deutlich unter die Grenze des 
+kantonalen Mittelwertes absänken. Aus der gesetzlichen Ausgestal-
+tung des Lastenausgleichs ergebe sich unmissverständlich eine obere 
+Grenze des Ausgleichs bei den jeweiligen kantonalen Mittelwerten. 
+Die gesetzliche Konzeption bezwecke den Ausgleich von Spitzen-
+belastungen und Sonderkosten oberhalb der kantonalen Durch-
+schnittswerte und verbiete Vergütungen mit der Wirkung, dass in 
+einzelnen Gemeinden die Nettoaufwendungen pro Einwohner deut-
+lich unter die Grenze des kantonalen Mittelwertes absänken. Mit dem 
+Lastenausgleich dürften nach dem Willen des Gesetzgebers einzelne 
+Gemeinden nicht zu Lasten anderer subventioniert werden, und es 
+dürfe nicht zu Lastenverschiebungen zwischen einzelnen Gemeinden 
+führen. Die Lastenverschiebung zwischen Kanton und Gemeinden 
+und zwischen den einzelnen Gemeinden verletze § 47 Abs. 3 SPG. 
+
+
+2007 
+Sozialhilfe 
+197 
+Weiter rügen die Beschwerdeführerinnen eine Verletzung der gesetz-
+lichen Bestimmungen über die Aufgabenteilung zwischen Kanton 
+und Gemeinden (Gesetz I über die Aufgabenteilung zwischen Kanton 
+und Gemeinden vom 2. Juli 2002 [GAT I; SAR 691.100], Gesetz II 
+vom 20. Mai 2003 [GAT II; SAR 692.100] sowie GAT III und daran 
+anschliessende Dekrete [DAT I bis DAT III; SAR 691/692/693.110]). 
+Die Grundsätze über die Aufgabenteilung verlangten annähernde 
+Kostenneutralität und schlössen einen indirekten Finanzausgleich 
+über Umwege aus. Selbst wenn das SPG von den Erlassen über die 
+Aufgabenteilung ausgeklammert bliebe, werde in den angefochtenen 
+Beschlüssen das gesetzliche Lastenausgleichssystem nicht zutreffend 
+umgesetzt. 
+Ergänzend machen sie schliesslich geltend, die Kostenvertei-
+lung für das Jahr 2005 verstosse gegen das Rechtsgleichheitsgebot, 
+das Willkürgebot und gegen das Gebot der Verhältnismässigkeit. 
+2.2. 
+Der Regierungsrat führt zur Festlegung der Beitragsstufen im 
+Wesentlichen aus, dass das Lastenausgleichssystem des SPG zwei 
+selbstständige und gleichwertige (Lastenausgleichs-)Komponenten 
+enthalte, welche es mit sich brächten, dass Gemeinden, welche eher 
+tiefe Nettoaufwendungen hätten, bei einer Anzahl Sozialhilfefälle 
+über dem Kantonsmittel einen markant über das gesetzliche Mini-
+mum hinausgehenden Kantonsbeitrag erhielten und damit ihre Netto-
+aufwendungen reduziert würden. Die gesetzliche Regelung sehe 
+keine Nivellierung auf der Höhe des kantonalen Mittelwerts vor, und 
+der Gesetzgeber habe sich auch für eine Entlastung von Gemeinden 
+mit hoher Fallzahl entschieden. Das Lastenausgleichssystem berück-
+sichtige auch die hohen Kosten von Gemeinden in Folge des Einbe-
+zugs der Ausländerinnen und Ausländer. Keine Lastenverschiebung 
+dürfe im Verhältnis Kanton und allen Gemeinden stattfinden, weil 
+der Lastenausgleich nur zwischen Kanton und Gemeinden erfolge. 
+Aus den Materialien zum Projekt Aufgabenteilung (GAT I bis 
+GAT III) ergäbe sich in keinem Zusammenhang eine Verletzung der 
+Grundsätze der Aufgabenteilung durch das Lastenausgleichssystem 
+des SPG. Der Gesetzgeber habe sich bewusst gegen eine Überfüh-
+
+
+198 
+Verwaltungsgericht 
+2007 
+rung des Lastenausgleichs im SPG in den allgemeinen Finanz- und 
+Lastenausgleich ausgesprochen. 
+3. 
+3.1. 
+Der Kanton vergütet den Gemeinden an die Kosten der Sozial-
+hilfe und sozialen Prävention einen Beitrag, welcher sich einerseits 
+mit einem Anteil zwischen 5 bis 30 % nach der Anzahl der Fälle be-
+zogen auf die Bevölkerungszahl richtet (§ 49 Abs. 1 i.V.m. § 47 
+Abs. 3 lit. a SPG), andererseits sich mit einem Anteil zwischen 5 bis 
+35 % nach den Nettoaufwendungen im Vergleich zum Kantonsmittel 
+(§ 49 Abs. 1 i.V.m § 47 Abs. 3 lit. b SPG) bemisst. Der Regierungsrat 
+hat die jährlichen Beitragsstufen so festzulegen, dass die Gemeinden 
+72 % und der Kanton 28 % der Gesamtkosten tragen (§ 49 Abs. 2 
+SPG). 
+Nach dem Wortlaut der erwähnten Bestimmungen (§§ 47 und 
+49 SPG) sind daher folgende Randbedingungen bei der Festlegung 
+und Bemessung des Kantonsbeitrags für die Sozialhilfe zwingend: 
+Der Kantonsbeitrag darf und muss 28 % der gesamten Nettoaufwen-
+dungen aller Gemeinden betragen (§ 49 Abs. 2 SPG). Der kantonale 
+Beitrag gemäss § 47 Abs. 3 lit. a SPG beträgt mindestens 5 %, jener 
+nach § 47 Abs. 3 lit. b SPG mindestens 5 % der Nettoaufwendungen 
+(§ 49 Abs. 1 SPG). Die Obergrenze für die Bemessung des Kantons-
+beitrags an einzelne Gemeinden beträgt für den Kantonsbeitrag nach 
+§ 47 Abs. 3 lit. a SPG 30 %, für denjenigen nach § 47 Abs. 3 lit. b 
+SPG 35 % (§ 49 Abs. 1 SPG). 
+Innerhalb dieser Randbedingungen legt der Regierungsrat die 
+Beitragsstufen jährlich fest (§ 49 Abs. 2 SPG). Für den Kostenver-
+teiler, insbesondere die Festsetzung der Beitragsstufen, lassen sich 
+darüber hinaus dem SPG unmittelbar keine weiteren Bestimmungen 
+entnehmen. Der Gesetzeswortlaut lässt damit für die Festsetzung der 
+Beitragsstufen und die Verteilung unter die Gemeinden verschiedene 
+Möglichkeiten zu. 
+3.2. 
+Im Rahmen des Gesetzgebungsverfahrens legte der Regierungs-
+rat eine Variante vor, nach welcher sich die Beitragsstufen für die 
+beiden Kriterien linear veränderten. Für das Kriterium 1 (Anzahl So-
+
+
+2007 
+Sozialhilfe 
+199 
+zialhilfefälle in der Gemeinde in % der Einwohnerzahl; § 47 Abs. 3 
+lit. a SPG) fing der Beitragssatz im Falle von bis zu 0,5 % von Fällen 
+pro Einwohner bei 10 % an. Bei einer Erhöhung der Fälle pro Ein-
+wohner um 0,5 % erhöhte sich der Beitragssatz um 5 %, wobei er bei 
+über 2 % von Fällen pro Einwohner konstant bei 30 % lag. Für das 
+Kriterium 2 (Sozialhilfekosten pro Einwohner im Verhältnis zum 
+Kantonsmittel; § 47 Abs. 3 lit. b SPG) begannen die Beitragsstufen 
+im Falle von Nettoaufwendungen bis 100 % des Kantonsmittels bei 
+10 %, wobei eine Erhöhung der Nettoaufwendungen um 20 % den 
+Beitragssatz um 5 % ansteigen liess. Bei Nettoaufwendungen von 
+über 180 % des Kantonsmittels betrug der Beitragssatz generell 35 % 
+(Botschaft des Regierungsrats vom 30. Juni 1999 [99.226], S. 15). 
+Im "Zusatzbericht zur Kostenverteilung Kanton – Gemeinden" wird 
+ergänzend ausgeführt, dass dieses lineare Stufenmodell nicht 
+zwingend sei. Die offene Formulierung des SPG erlaube eine diffe-
+renzierte Ansetzung der Beitragsstufen, "um so das Lastenaus-
+gleichssystem zu Gunsten von überproportional stark belasteten Ge-
+meinden noch griffiger auszugestalten (Botschaft des Regierungsrats 
+vom 27. September 2000 [Zusatzbericht zu Nr. 99.226], S. 4). In den 
+Beratungen des Grossen Rats wurde die Finanzierung und Kosten-
+verteilung in der ersten Lesung zwar kontrovers, aber eher grund-
+sätzlich diskutiert. In den Eintretensvoten wurde die Notwendigkeit 
+eines wirksamen Lastenausgleichs zwischen den Gemeinden und die 
+Entlastung derjenigen Gemeinden mit hohen Sozialhilfekosten auch 
+– oder vor allem – mit Blick auf die materielle Unterstützung von 
+Ausländerinnen und Ausländern betont (Protokoll der 167. Sitzung 
+des Grossen Rats vom 24. Oktober 2000 [Art. 2274], S. 3483 f. [Vo-
+tum Barbara Roth], S. 3484 [Votum Esther Egger-Wyss] und 
+S. 3485 f. [Votum Dr. Rudolf Jost]). Insbesondere Regierungsrat 
+Ernst Hasler wies auf die besondere Situation von Zentrumsgemein-
+den in der Sozialhilfe einerseits und die erheblichen Belastungen 
+durch einzelne Unterstützungsfälle andererseits hin. Mit dem Kosten-
+verteiler sollten diese einseitigen Belastungen aufgefangen werden 
+(Protokoll der 168. Sitzung des Grossen Rats vom 24. Oktober 2000 
+[Art. 2275], S. 3488 f.). Über die konkreten finanziellen Auswirkun-
+gen für die einzelnen Gemeinden herrschte auch in der Detailbera-
+
+
+200 
+Verwaltungsgericht 
+2007 
+tung Unklarheit, worauf der Regierungsrat für die zweite Lesung 
+weitere Abklärungen in Aussicht stellte (Protokoll der 170. Sitzung 
+des Grossen Rats vom 31. Oktober 2000 [Art. 2289], S. 3534 [Votum 
+Rudolf Kalt] und S. 3535 [Votum Regierungsrat Ernst Hasler]). 
+Trotz dieser Unsicherheiten wurde den Bestimmungen von § 47 
+Abs. 3 SPG und § 49 SPG in der zweiten Lesung ohne Ergänzungen 
+durch die vorberatende Grossratskommission und ohne eine Detail-
+beratung zugestimmt mit der einzigen Anregung, dass das Lasten-
+ausgleichssystem im Rahmen der Aufgabenteilung nochmals einge-
+hend überprüft wird (Protokoll der 187. Sitzung des Grossen Rats 
+vom 6. März 2001 [Art. 2487], S. 3876 [Votum Esther Egger-Wyss]). 
+Nach den Materialien zu schliessen, gaben zusätzliche Erläuterungen 
+des Kantonalen Sozialdiensts Anlass zur vorbehalts- und dis-
+kussionslosen Annahme. Der Kantonale Sozialdienst hat der Gross-
+ratskommission einen Bericht zum Kostenverteiler nach § 47 Abs. 3 
+SPG erstattet. Dieser Bericht vom 21. November 2000 stellte klar, 
+dass der Kostenverteiler einen Ausgleich hoher Fallkosten und hoher 
+Fallzahlen, aber auch einen Lastenausgleich unter den Gemeinden 
+schaffen soll. Im Zusatzbericht findet sich bereits die Abkehr vom li-
+nearen Stufenmodell aus der Botschaft zu einem nichtlinearen steti-
+gen Modell zur Bestimmung der Beitragsstufen (erwähnter Bericht, 
+S. 2 f.). 
+Zusammenfassend lässt sich feststellen, dass sich den Materia-
+lien über die im Gesetzeswortlaut erwähnten Randbedingungen hin-
+aus für die Festsetzung der Beitragsstufen durch den Regierungsrat 
+keine zwingenden Vorgaben entnehmen lassen. Insbesondere sind – 
+entgegen der Auffassung der Beschwerdeführerinnen – der kantonale 
+Mittelwert der Fallzahlen und die Nettoaufwendungen pro Einwoh-
+ner im Durchschnitt keine absoluten Grenzen für die Betragsberech-
+tigung. Auch eine Auslegung, wonach zwischen den Gemeinden 
+keine Lastenverschiebungen zulässig seien, findet in den Materialien 
+keine Stütze. Im Gegenteil: Das gewählte System ist ausdrücklich 
+darauf ausgerichtet, Gemeinden mit hohen Sozialhilfekosten und ei-
+ner hohen Anzahl von Sozialhilfefällen durch das Lastenausgleichs-
+system besonders zu entlasten. Das zentrale Problem sah der Gesetz-
+geber in den Sozialhilfekosten für Ausländer, welche sich nicht ho-
+
+
+2007 
+Sozialhilfe 
+201 
+mogen auf alle aargauischen Gemeinden verteilen (vgl. erwähnter 
+Bericht, S. 3 f.). Das Lastenausgleichssystem gemäss §§ 47 ff. SPG 
+sieht deshalb gerade keine Nivellierung auf der Höhe des kantonalen 
+Mittelwerts der Aufwendungen vor. Nicht zu verkennen ist, dass die-
+ses System mit zwei selbstständigen Faktoren zur Folge hat, dass Ge-
+meinden, die bei der Anzahl der Sozialhilfefälle im Vergleich zum 
+Kantonsmittel eher hoch, aber im Bereich der Nettoaufwendungen 
+eher tief sind, einen Beitrag erhalten, welcher erheblich über das ge-
+setzliche Minimum hinausgeht, was im Ergebnis wiederum die Net-
+toaufwendungen sinken lässt. 
+Weder der Gesetzeswortlaut noch die Materialien erlauben aber 
+den Schluss, dass der Gesetzgeber den Kantonsbeitrag an die einzel-
+nen Gemeinden auf der Grenze des kantonalen Mittelwerts der Net-
+toaufwendungen pro Einwohner beschränken bzw. Vergütungen ver-
+bieten wollte, welche zur Senkung der Nettoaufwendungen pro Ein-
+wohner unter den kantonalen Mittelwert führen. 
+3.3. 
+Der Lastenausgleich wird in § 49 Abs. 2 SPG normiert, indem 
+der kantonale Beitrag an alle Gemeinden mit 28 % an den Ge-
+samtaufwendungen aller Gemeinden (§ 49 Abs. 1 SPG und § 48 
+Abs. 2 SPG) festgelegt ist. Diese Grenze ist in den angefochtenen 
+Verfügungen eingehalten und damit auch der Grundsatz der Kosten-
+neutralität im Sinne des Gesetzgebers gewahrt. Entgegen den Be-
+schwerdeführerinnen geht es beim Lastenausgleichssystem im SPG 
+auch nicht um eine annähernde (horizontale) Kostenneutralität zwi-
+schen den einzelnen Gemeinden. Der Gesetzgeber war sich dieser 
+Konsequenz des Lastenausgleichssystems im SPG durchaus bewusst. 
+Nebst den Materialien (siehe vorne Erw. 3.2) wurde auch in den 
+späteren Beratungen zum Projekt Aufgabenteilung auf eine Ände-
+rung des Lastenausgleichssystems im SPG ausdrücklich verzichtet. 
+Der Regierungsrat hatte im Rahmen des 2. Pakets der Aufgabentei-
+lung (GAT II) eine Ablösung des Lastenausgleichs im SPG durch 
+eine Ausgleichsregelung unter Einbezug des Ertrags der ordentlichen 
+Gemeindesteuern vorgeschlagen (Botschaft des Regierungsrats vom 
+11. September 2002 [Nr. 02.315], S. 2 f. und 15 f.). Auf diese Ände-
+rung wurde in der Folge ausdrücklich verzichtet (Botschaft des Re-
+
+
+202 
+Verwaltungsgericht 
+2007 
+gierungsrats vom 19. März 2003 [03.71], S. 10). Sowohl im SPG als 
+auch in der Gesetzgebung über die Aufgabenteilung (GAT) um-
+schreibt die Kostenneutralität das Verhältnis des Kantons zu allen 
+Gemeinden vor und nach der Zuweisung neuer Aufgaben, d.h. dem 
+Kanton und allen Gemeinden zusammen dürfen aus der Aufgaben-
+teilung per Saldo keine zusätzlichen Kosten anfallen (vgl. Zusatzbe-
+richt vom 27. September 2000, S. 2 f.; vgl. auch Antworten des Re-
+gierungsrats zur Interpellation Dr. Marcel Guignard betreffend Aus-
+wirkungen des NFA auf GAT III und die Gemeinden vom 10. Januar 
+und 16. Februar 2005 [GR.04.336]). 
+3.4. 
+Zusammenfassend ist festzuhalten, dass in den gesetzlichen Be-
+stimmungen und den Materialien die von den Beschwerdeführerin-
+nen angewandte kostenorientierte Optik am Ergebnis und nach 
+Leistung des Kantonsbeitrags keine Stütze findet. Mit der Beitrags-
+bemessung nach der Anzahl der Sozialhilfefälle (§ 47 Abs. 3 lit. a 
+SPG) wird zudem der Belastung der Gemeinden mit den Infrastruk-
+tur- und Betriebskosten (§ 52 lit. a SPG) Rechnung getragen. Diese 
+Kosten sind in Gemeinden mit vielen Unterstützungsbedürftigen hö-
+her. Weitere Vorgaben zur Ausübung des Ermessens enthält das Ge-
+setz nicht. Soweit die Beschwerdeführerinnen eine Verletzung von 
+§ 47 Abs. 3 SPG rügen oder geltend machen, die Bestimmungen des 
+SPG über den Lastenausgleich seien in den jeweiligen Verfügungen 
+bzw. mit dem angewandten Berechnungsmodell verletzt, sind die Be-
+schwerden somit abzuweisen. 
+
+
+2007 
+Waffenrecht 
+203 
+VII. Waffenrecht 
+ 
+47 
+Erwerb einer Seriefeuerwaffe zu Sammelzwecken. 
+- 
+Voraussetzungen für die Erteilung einer Ausnahmebewilligung 
+(Erw. 1.2). 
+- 
+Sammelzweck als Ausnahmesituation (Erw. 2.3-2.4). 
+Urteil des Verwaltungsgerichts, 4. Kammer, vom 18. Oktober 2007 in 
+Sachen R.W. gegen den Regierungsrat (WBE.2006.420). 
+Aus den Erwägungen 
+1. 
+1.1. 
+Das Bundesgesetz über Waffen, Waffenzubehör und Munition 
+vom 20. Juni 1997 (Waffengesetz, WG; SR 514.54) unterstellt die 
+Handänderung von Waffen im gewerbsmässigen Handel einer ge-
+nerellen Bewilligungspflicht. Für den Erwerb von Waffen, wesentli-
+chen Waffenbestandteilen, Waffenzubehör, Munition sowie Muniti-
+onsbestandteilen bei einem Waffenhändler oder einem Büchsen-
+macher ist daher ein Waffenerwerbsschein erforderlich. Vorausset-
+zung für die Erteilung eines Waffenerwerbsscheins ist insbesondere 
+das Fehlen der in Art. 8 Abs. 2 WG genannten Hinderungsgründe. 
+Für den Erwerb von Seriefeuerwaffen und zu halbautomati-
+schen Hand- oder Faustfeuerwaffen umgebauten Seriefeuerwaffen 
+sowie ihren besonders konstruierten Bestandteilen gelten von den 
+allgemeinen, in Art. 8–16 WG definierten Waffenerwerbsbestim-
+mungen abweichende Regelungen. So ist gemäss Art. 5 Abs. 1 lit. a 
+WG der Erwerb dieser Waffen und ihrer Bestandteile, mit Ausnahme 
+des Erwerbs durch Erbgang oder falls es sich um zu halbautomati-
+schen Handfeuerwaffen abgeänderte schweizerische Ordonnanz-Se-
+riefeuerwaffen handelt (Art. 5 Abs. 5 und Abs. 6 WG), grundsätzlich
