@@ -1,0 +1,186 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2007.176"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "WBE.2007.176"
+decided: "2008-01-23"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/3284"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3284"
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — WBE.2007.176
+
+## Regeste
+
+Berufskosten (Gewinnungskosten); Fahrtkosten eines Wochenaufenthalters.
+- Zumutbarer zeitlicher Mehraufwand für die Benützung des öffentlichen Verkehrs.
+- Berechnung der Zeitersparnis.
+
+## Text
+
+2008 
+Kantonale Steuern 
+75 
+III. Kantonale Steuern 
+ 
+17 
+Berufskosten (Gewinnungskosten); Fahrtkosten eines Wochenaufenthal-
+ters. 
+- 
+Zumutbarer zeitlicher Mehraufwand für die Benützung des öffentli-
+chen Verkehrs. 
+- 
+Berechnung der Zeitersparnis. 
+Urteil des Verwaltungsgerichts, 2. Kammer, vom 23. Januar 2008 in Sachen 
+Kantonales Steueramt gegen M. (WBE.2007.176). Zur Publikation vorgese-
+hen in StE 2009. 
+Aus den Erwägungen 
+3. 
+Gemäss § 35 Abs. 1 lit. a StG werden die notwendigen Kosten 
+für Fahrten zwischen Wohn- und Arbeitsstätte als Berufskosten ab-
+gezogen. Steht kein öffentliches Verkehrsmittel zur Verfügung oder 
+ist dessen Benutzung objektiv nicht zumutbar, so können die Kosten 
+des privaten Fahrzeugs abgezogen werden (§§ 12 ff. StGV i.V.m. 
+Art. 5 Abs. 3 der Verordnung des EFD über den Abzug von Berufs-
+kosten der unselbständigen Erwerbstätigkeit bei der direkten Bun-
+dessteuer 
+vom 
+10. 
+Februar 
+1993 
+[Berufskostenverordnung, 
+SR 642.118.1]). Grundsätzlich sind also in erster Linie die Kosten 
+des öffentlichen Verkehrs abziehbar. 
+4. 
+4.1 
+Die Kosten des privaten Fahrzeuges werden steuerlich dann be-
+rücksichtigt, wenn die Benützung des öffentlichen Verkehrsmittels 
+nicht zumutbar ist. Dies trifft namentlich zu bei: 
+"- Krankheit oder körperlichen Gebrechen 
+- beachtlicher Entfernung der nächsten Haltestelle 
+
+
+76 
+Verwaltungsgericht 
+2008 
+- schlechten Bahn- oder Busverbindungen 
+- Arbeitsbeginn oder -schluss ausserhalb der Verkehrszeiten 
+- erheblichem zeitlichem Mehraufwand bei Benützung der 
+ 
+ 
+öffentlichen Verkehrsmittel" 
+(Philip Funk, in: Kommentar zum Aargauer Steuergesetz, 
+2. Auflage, Muri-Bern 2004, § 35 N 7 mit Hinweisen) 
+Soweit es um das Kriterium des erheblichen zeitlichen Mehr-
+aufwands bei Benützung der öffentlichen Verkehrsmittel geht, wird 
+nach der Rechtsprechung die Benützung des öffentlichen Verkehrs 
+als zumutbar erachtet, wenn der damit verbundene Zeitverlust, ver-
+glichen mit der Benützung des privaten Fahrzeuges, weniger als eine 
+Stunde pro Tag beträgt (AGVE 1997, S. 406 m.H.). Die genannte 
+Zeitersparnis von einer Stunde stellt einen Richtwert dar, der nicht 
+sklavisch zu befolgen ist. Massgebend sind die Umstände des Einzel-
+falles (BGE vom 25. April 1995 in Sachen R., publiziert in: Die neue 
+Steuerpraxis 1995, S. 84), insbesondere die Quantität (Fahrplan-
+dichte) und Qualität (direkte Verbindungen, S-Bahn oder Bummel-
+züge) des Angebotes an öffentlichen Verkehrsmitteln, die Umsteige-
+verhältnisse und die Distanzen zu den Haltestellen. Lässt sich bei 
+Benützung des Privatfahrzeugs mehr als eine Stunde pro Tag einspa-
+ren, so deutet dies indessen auf ungenügende öffentliche Verbindun-
+gen hin (AGVE 2005, S. 364 f.; 1997, S. 409). 
+4.2. 
+4.2.1 
+Diese Rechtsprechung bezieht sich auf Pendler, welche den Ar-
+beitsweg täglich zurücklegen. Sie lässt sich auf Wochenaufenthalter 
+sinngemäss übertragen. Auch hier sind die Kosten des privaten Fahr-
+zeugs abzugsfähig, wenn dessen Benützung für den Arbeitsweg not-
+wendig - oder anders ausgedrückt, wenn die Benützung der öffentli-
+chen Verkehrsmittel nicht zumutbar ist. Dabei gilt es zu bestimmen, 
+welcher zeitliche Mehraufwand beim Benützen der öffentlichen Ver-
+kehrsmittel noch als zumutbar erachtet werden kann. Das KStA ist 
+der Meinung, dieser sei auf ungefähr fünf Stunden pro Woche fest-
+zulegen, da dies umgerechnet einer Stunde pro Arbeitstag ent-
+spreche; bei Wochenaufenthaltern führt dies zu einem zumutbaren 
+Mehraufwand von 2,5 Stunden pro Wegstrecke. Die Vorinstanz er-
+
+
+2008 
+Kantonale Steuern 
+77 
+achtet demgegenüber gleich wie beim Pendler eine Stunde Mehrauf-
+wand pro Tag - was beim Wochenaufenthalter auf eine Stunde Mehr-
+aufwand pro Wegstrecke hinausläuft - als Grenze des Zumutbaren. 
+4.2.2. 
+Es erscheint angezeigt, beim Wochenaufenthalter gleich wie 
+beim Pendler die Hin- und Rückfahrt insgesamt zu bewerten, denn 
+letztlich steht für ihn der gesamte Zeit- bzw. Mehraufwand am 
+Wochenende im Zentrum. 
+Die vom KStA vorgenommene Umrechnung vermag nicht zu 
+überzeugen. Der auf (rund) eine Stunde festgelegte zumutbare Mehr-
+aufwand pro Arbeitstag ist nicht aus der Überlegung entstanden, wie 
+viele Stunden einem Pendler in der Woche zuzumuten sind. Wesent-
+lich ist vielmehr die Zumutbarkeit, den öffentlichen Verkehr zu be-
+nützen, was von dessen Quantität und Qualität abhängt. Es liegt auf 
+der Hand, dass bei einem zeitlichen Unterschied von 2,5 Stunden für 
+eine Wegstrecke (was auf eine Reisezeit von 5 Stunden oder mehr 
+mit den öffentlichen Verkehrsmitteln schliessen lässt) grundsätzlich 
+nicht mehr von einem genügenden Angebot an öffentlichen Ver-
+kehrsmitteln gesprochen werden kann. Zu beachten ist auch, dass 
+beim Wochenaufenthalter die Fahrten auf das Wochenende und damit 
+auf eine für die Erholung besonders wertvolle Zeit fallen können. 
+Andererseits ist zu berücksichtigen, dass der Wochenaufenthalter nur 
+zwei Mal wöchentlich eine solche Fahrt absolvieren muss, und über-
+dies geschieht die Hin- und Rückfahrt nicht gleichentags, summiert 
+sich also nicht an einem einzigen Tag. 
+In einer Gesamtwürdigung rechtfertigt es sich, die vom Steuer-
+rekursgericht beachtete Grenze etwas zu erhöhen und den zeitlich 
+zumutbaren Mehraufwand für die Benützung der öffentlichen Ver-
+kehrsmittel bei Wochenaufenthaltern, für Hin- und Rückfahrt zu-
+sammengenommen, auf 2,5 Stunden festzusetzen. Im Weiteren dürfte 
+- was hier allerdings nicht endgültig entschieden werden muss - die 
+Benützung der öffentlichen Verkehrsmittel generell unzumutbar sein, 
+wenn es nicht möglich ist, nach Arbeitsschluss noch am Freitagabend 
+nach Hause zurückzukehren. 
+ 
+ 
+
+
+78 
+Verwaltungsgericht 
+2008 
+4.3. 
+4.3.1. 
+Massgeblich sind selbstverständlich die Fahrpläne des Jahres 
+2003. (…). 
+4.3.2. 
+Die Fahrt mit den öffentlichen Verkehrsmitteln zwischen K. und 
+B. dauert gemäss den Feststellungen der Vorinstanz 260 Minuten 
+(Hinweg) bzw. 280 Minuten (Rückweg), also insgesamt 540 Minu-
+ten. Nach Abzug der Fahrtzeit mit dem Privatfahrzeug (zweimal 2,5 
+Stunden, insgesamt 300 Minuten) ergibt sich ein zeitlicher Mehrauf-
+wand von 240 Minuten. Dieser Mehraufwand von vier Stunden pro 
+Woche macht die Benützung der öffentlichen Verkehrsmittel unzu-
+mutbar. Selbst wenn noch geringfügige Änderungen an der Berech-
+nung vorgenommen würden, vermöchte dies am Ergebnis nichts zu 
+ändern. 
+18 
+Gewinnungskosten; Mehrkosten für auswärtige Verpflegung bei selbstän-
+diger Erwerbstätigkeit. 
+- 
+Mehrauslagen der auswärtigen Verpflegung werden bei Selbstän-
+digerwerbenden anerkannt. 
+- 
+Anforderungen an den Nachweis. 
+Urteil des Verwaltungsgerichts, 2. Kammer, vom 10. März 2008 in Sachen 
+H. (WBE.2007.358). Zur Publikation vorgesehen in StE 2009. 
+Aus den Erwägungen 
+1. 
+1.1. 
+Gemäss § 36 Abs. 1 StG werden die geschäfts- oder berufsmäs-
+sig begründeten Kosten, auch Gewinnungskosten genannt, bei selb-
+ständiger Erwerbstätigkeit von den steuerbaren Einkünften abge-
+zogen. Ob diese Kosten durch zweckmässigeres oder sparsameres 
+Handeln seitens des Steuerpflichtigen hätten vermieden werden kön-
+nen, ist irrelevant (Philip Funk, in: Kommentar zum Aargauer Steu-
