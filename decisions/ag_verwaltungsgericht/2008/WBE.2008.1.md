@@ -1,0 +1,219 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2008.1"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "WBE.2008.1"
+decided: "2008-03-10"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/3319"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3319"
+cites_law: ["switzerland/bund/acts/101/art-029.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — WBE.2008.1
+
+## Regeste
+
+Anspruch auf unentgeltlichen Rechtsbeistand.
+- Unterschiedliche Anspruchsvoraussetzungen im Verfügungs- und Rechtsmittelverfahren.
+
+## Text
+
+2008 
+Verwaltungsrechtspflege 
+297 
+Art. 29 Abs. 1 BV) nach der Praxis des Bundesgerichtes abgeleitete 
+Verbot des überspitzten Formalismus richtet sich gegen eine pro-
+zessuale Formstrenge, die als exzessiv erscheint, durch kein schutz-
+würdiges Interesse gerechtfertigt ist, zum blossen Selbstzweck wird 
+und die Verwirklichung des materiellen Rechts in unhaltbarer Weise 
+erschwert oder gar verhindert. Überspitzter Formalismus kann so-
+wohl in den angewendeten Formvorschriften des kantonalen Rechtes 
+liegen als auch in den daran geknüpften Rechtsfolgen (BGE 127 I 31 
+E. 2a/bb S. 34; 125 I 166 E. 3a S. 170; 121 I 177 E. 2b/aa S. 179 f.; 
+119 Ia 4 E. 2a S. 6, je mit Hinweisen). Aus dem unterzeichneten Be-
+gleitbrief, mit welchem der Beschwerdeführer die mit der Instrukti-
+onsverfügung verlangten Unterlagen einreichte, ergibt sich zwanglos, 
+dass er die Beschwerde aufrecht hielt und seine Beschwerdeschrift 
+bestätigte. Indem die Vorinstanz auf die Beschwerde eines Laien 
+nicht eingetreten ist, weil er seiner Eingabe ein unterzeichnetes 
+Exemplar seiner Beschwerdeschrift nicht beigelegt hat, erweist sich 
+der Entscheid als überspitzt formalistisch und widerspricht auch dem 
+Grundsatz von Treu und Glauben (§ 3 Abs. 2 Satz 1 VRPG). 
+52 
+Anspruch auf unentgeltlichen Rechtsbeistand. 
+- 
+Unterschiedliche Anspruchsvoraussetzungen im Verfügungs- und 
+Rechtsmittelverfahren. 
+Urteil des Verwaltungsgerichts, 2. Kammer, vom 10. März 2008 in Sachen 
+M. gegen das Departement Volkswirtschaft und Inneres (WBE.2008.1). 
+Aus den Erwägungen 
+1. 
+Der Anspruch auf unentgeltliche Rechtspflege hat Verfassungs-
+rang (Art. 29 Abs. 3 BV; § 22 Abs. 2 KV). § 35 Abs. 2 und 3 VRPG 
+konkretisieren diesen Anspruch für das Verfahren vor den Verwal-
+tungs- und Verwaltungsjustizbehörden (§ 1 Abs. 1 VRPG; vgl. auch 
+AGVE 1984, S. 419 ff.). Danach kann den Verfahrensbeteiligten die 
+Bezahlung von Kosten und die Leistung von Kostenvorschüssen er-
+
+
+298 
+Verwaltungsgericht 
+2008 
+lassen werden, wenn ihnen die nötigen Mittel fehlen und ihr Begeh-
+ren nicht offenbar aussichtslos ist; wo die Schwere einer Massnahme 
+oder die Rechtslage es rechtfertigt, kann auch ein unentgeltlicher 
+Rechtsvertreter bestimmt werden. Die Formulierung schliesst Ver-
+fahren, die von Amtes wegen eingeleitet wurden, nicht aus, kann 
+doch der in ein solches Verfahren einbezogene Private auch dort Be-
+gehren stellen. Es entspricht denn auch konstanter Rechtsprechung 
+des Bundesgerichts, den Anspruch auf unentgeltliche Rechtspflege, 
+insbesondere denjenigen auf die vorliegend in Frage stehende unent-
+geltliche Verbeiständung, bei gegebenen Voraussetzungen in jedem 
+staatlichen Verfahren zu bejahen, "in das der Gesuchsteller einbezo-
+gen wird oder das zur Wahrung seiner Rechte notwendig ist" 
+(BGE 130 I 182; 128 I 227; vgl. auch AGVE 2002, S. 100). Zum 
+gleichen Schluss führt die systematische Stellung von § 35 VRPG im 
+2. Abschnitt des VRPG mit dem Titel "Allgemeine Verfahrensvor-
+schriften", welcher grundsätzlich für alle erstinstanzlichen Verwal-
+tungsverfahren (Verfügungsverfahren) ebenso wie für die verwal-
+tungsinternen und die gerichtlichen Beschwerdeverfahren Anwen-
+dung findet. 
+Die unterschiedliche Ausgestaltung des Verfügungs- und des 
+Rechtsmittelverfahrens erfordert indessen eine differenzierte Prüfung 
+der beiden vorliegend strittigen Voraussetzungen der Notwendigkeit 
+des Beizugs eines Vertreters (nachstehend Erw. 2) und der Nichtaus-
+sichtslosigkeit des Rechtsbegehrens. Die Mittellosigkeit ist aufgrund 
+der vorliegenden Akten gegeben. 
+2. 
+2.1. 
+2.1.1. 
+Im Verfügungsverfahren geht es darum, die für den eigenen 
+Standpunkt sprechenden Fakten und Argumente in das Verfahren 
+einzubringen. Der geltende Untersuchungsgrundsatz (§ 20 VRPG) 
+stellt keineswegs sicher, dass alle gegen die Anordnung der Behörde 
+sprechenden Gesichtspunkte im Verfahren berücksichtigt werden; 
+dies schon allein deshalb, weil sie in vielen Konstellationen keine 
+Kenntnis davon hat. Entsprechend bejaht das Bundesgericht die Not-
+wendigkeit eines unentgeltlichen Rechtsvertreters auch in den vom 
+
+
+2008 
+Verwaltungsrechtspflege 
+299 
+Untersuchungsgrundsatz beherrschten Verfahren (Entscheid des Bun-
+desgerichts vom 23. Januar 2007 [2P.295/2006], Erw. 2.4; siehe auch 
+BGE 130 I 183 f.): 
+"Dass in einem Verfahren die Offizial- bzw. Untersuchungsmaxime 
+zur Anwendung gelangt, lässt eine anwaltliche Vertretung der am Verfahren 
+Beteiligten nicht ohne weiteres als unnötig erscheinen. Die Erfahrung zeigt, 
+dass ein schlecht begonnenes Verfahren später nur sehr schwer in die rich-
+tige Bahn zu bringen ist. Abgesehen davon, dass die Untersuchungsmaxime 
+allfällige Fehlleistungen der Behörde nicht zu verhindern vermag, ist sie 
+auch nicht unbegrenzt. Sie verpflichtet die Behörde zwar, von sich aus alle 
+Elemente in Betracht zu ziehen, die entscheidwesentlich sind, und unab-
+hängig von den Anträgen der Parteien Beweise zu erheben. Diese Pflicht 
+entbindet die Beteiligten indessen nicht davon, durch Hinweise zum Sach-
+verhalt oder Bezeichnung von Beweisen am Verfahren mitzuwirken." (Zi-
+tate weggelassen) 
+Im Verfügungsverfahren ist deshalb für die Prüfung der Not-
+wendigkeit der Bestellung eines unentgeltlichen Rechtsvertreters 
+insbesondere von Bedeutung, wie weit der Betroffene gemessen an 
+Intelligenz, Bildungsniveau, Sprachkenntnis und Kenntnis der we-
+sentlichen rechtlichen und tatsächlichen Gegebenheiten die ent-
+scheidwesentlichen Punkte überhaupt erkennen und durch Mitwir-
+kung im Verfahren das für ihn Sprechende einbringen kann. 
+2.1.2. 
+Im Rechtsmittelverfahren kann der Betroffene demgegenüber 
+aufgrund der erstinstanzlichen Verfügung (zumindest wenn diese 
+korrekt und ausreichend begründet ist) erheblich besser erkennen, 
+gegen welche Sachverhaltsfeststellungen er sich wehren muss und 
+was er für seine Interessenwahrung vorbringen kann. Dieser Verein-
+fachung stehen indessen als Erschwernis die im Rechtsmittelverfah-
+ren zu beachtenden Verfahrensvorschriften und prozessualen For-
+men, die im Verfügungsverfahren kaum Gewicht haben, gegenüber. 
+2.1.3. 
+Daraus ergibt sich, dass die unentgeltliche Verbeiständung im 
+Verfügungsverfahren vor allem im Hinblick auf die materiell-rechtli-
+chen Aspekte und im Rechtsmittelverfahren zusätzlich - gegebenen-
+
+
+300 
+Verwaltungsgericht 
+2008 
+falls sogar vorwiegend - im Hinblick auf die formellen Aspekte indi-
+ziert sein kann. 
+2.2. 
+Der Anspruch auf einen unentgeltlichen Rechtsvertreter im Ver-
+fügungsverfahren gilt nicht uneingeschränkt. Ohne zwischen Verfü-
+gungs- und Rechtsmittelverfahren zu differenzieren, umschreibt das 
+Bundesgericht die Schranken wie folgt (vgl. BGE 130 I 182 f. mit 
+Hinweisen): 
+"Die bedürftige Partei hat Anspruch auf unentgeltliche Verbeistän-
+dung, wenn ihre Interessen in schwerwiegender Weise betroffen sind und 
+der Fall in tatsächlicher und rechtlicher Hinsicht Schwierigkeiten bietet, die 
+den Beizug eines Rechtsvertreters erforderlich machen. Droht das in Frage 
+stehende Verfahren besonders stark in die Rechtsposition der betroffenen 
+Person einzugreifen, ist die Bestellung eines unentgeltlichen Rechtsvertre-
+ters grundsätzlich geboten, sonst nur dann, wenn zur relativen Schwere des 
+Falles besondere tatsächliche oder rechtliche Schwierigkeiten hinzukom-
+men, denen der Gesuchsteller auf sich alleine gestellt nicht gewachsen 
+wäre." 
+Das Bundesgericht differenziert somit bei der Beurteilung, 
+wann in einem (tatsächlich oder rechtlich schwierigen) Verfahren die 
+Bestellung eines unentgeltlichen Rechtsvertreters notwendig ist, da-
+nach, ob besonders stark in die Rechtsposition des Betroffenen ein-
+gegriffen wird oder ob das Verfahren für diesen zwar ebenfalls fol-
+genschwer, aber doch weniger einschneidend erscheint. Trifft Letzte-
+res zu, so stellt das Bundesgericht zusätzlich auf die Fähigkeiten des 
+Betroffenen ab, sich selbst zur Wehr zu setzen. Auf das Verfügungs-
+verfahren übertragen ist in diesem Zusammenhang von Relevanz, 
+wie weit der Betroffene aufgrund seiner Fähigkeiten imstande er-
+scheint, die entscheidwesentlichen Punkte zu erkennen und die für 
+ihn sprechenden Aspekte ins Verfahren einzubringen. Dabei ist ihm 
+die Unterstützung, die ihm von Gesetzes oder von Vertrags wegen 
+zusteht, anzurechnen. Zu denken ist hier etwa an gesetzliche Vertre-
+ter (Vormund/Beistand) (vgl. dazu Alfred Bühler, in: Kommentar zur 
+aargauischen Zivilprozessordnung, 2. Aufl., Aarau/Frankfurt a.M./ 
+Salzburg 1998, § 126 N 6) oder an die Hilfe von Beratungsstellen. 
+Zusätzlich zu berücksichtigen ist, welche später nur noch schwer zu 
+
+
+2008 
+Verwaltungsrechtspflege 
+301 
+behebenden Nachteile ein ungeeignetes Handeln im Verfügungs-
+verfahren mit sich bringen kann. Diese sind insbesondere dann 
+erheblich, wenn im Rechtsmittelverfahren das Vorbringen neuer 
+Tatsachenbehauptungen, Beweismittel und Argumente eingeschränkt 
+ist. 
+53 
+Verfahrensleitende Zwischenentscheide. 
+- 
+Voraussetzungen für eine selbständige Anfechtbarkeit. 
+Urteil des Verwaltungsgerichts, 4. Kammer, vom 19. März 2008 in Sachen 
+H. AG und Z. AG gegen den Regierungsrat (WBE.2007.396). 
+Aus den Erwägungen 
+3. 
+3.1. 
+Verfahrensleitende Zwischenentscheide sind in der Regel nicht 
+selbständig anfechtbar. Nach der Praxis des Verwaltungsgerichts 
+können verfahrensleitende Zwischenentscheide nur angefochten 
+werden, wenn ein nicht wieder gutzumachender Nachteil droht 
+(grundlegend AGVE 1971, S. 334; 1991, S. 195; vgl. Kasuistik bei 
+Michael Merker, Rechtsmittel, Klage und Normenkontrollverfahren 
+nach dem aargauischen Gesetz über die Verwaltungsrechtspflege 
+[Kommentar zu den §§ 38-72 VRPG], Diss. Zürich 1998, § 38 N 59). 
+3.2. 
+Die Beschwerdeführerin begründet den Nachteil mit der Ver-
+weigerung einer "angemessenen, rechtsstaatlichen Ansprüchen ge-
+nügenden Mitwirkung am vorinstanzlichen Verfahren," da es ihr an-
+gesichts des Aktenumfanges unmöglich sei, innert der durch die Fei-
+ertage verkürzten Frist ihr Recht auf Akteneinsicht und Mitwirkung 
+sachgerecht auszuüben. Sie habe nach unbenutztem Fristablauf ihr 
+Recht auf Anhörung und Mitwirkung am Verfahren verwirkt, und 
+dieser Nachteil könne auch durch ein Rechtsmittel gegen den End-
+entscheid nicht mehr behoben werden. 
+3.3. (…)
