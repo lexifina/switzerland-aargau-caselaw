@@ -1,0 +1,268 @@
+---
+decision_id: "ag_gerichte_WBE.2008.152"
+court: "AG Gerichte"
+court_id: "ag_gerichte"
+chamber: "WBE"
+docket: "WBE.2008.152"
+decided: "2009-07-01"
+language: "de"
+source_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3193"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3193"
+---
+
+# AG Gerichte WBE.2008.152
+
+## Regeste
+
+Zonenkonformität einer Einkaufsanlage in der Industriezone
+
+## Text
+
+176 
+Verwaltungsgericht 
+2009
+4. 
+Das Verwaltungsgericht hat weiter festgehalten, dass die Blei-
+wiese zum Stichtag nicht grob erschlossen war und der Beschwerde-
+führer auch nicht nachgewiesen habe, erhebliche Investitionen für 
+die Erschliessung und Überbauung seines Landes aufgewendet zu 
+haben. 
+4.1. 
+Der Beschwerdeführer bringt dagegen nur vor, dass eine Er-
+schliessung möglich gewesen sei, nicht aber, dass sie bereits bestand. 
+Soweit er der Gemeinde X. vorwirft, ihrer Erschliessungspflicht 
+nicht nachgekommen zu sein, kann auf den Rückweisungsentscheid 
+vom 14. März 2008 verwiesen werden. 
+4.2. 
+Hinzu kommt, dass die Parzelle Nr. Z. am Stichtag (März 1996) 
+stark hochwassergefährdet war. Noch heute, nach den im Jahr 2003 
+von Kanton und Gemeinde durchgeführten Hochwasserschutzmass-
+nahmen, weist die Bleiwiese ein Schutzdefizit auf und wurde deshalb 
+von der Schätzungskommission als nicht baureif betrachtet.) 
+34 
+Zonenkonformität einer Einkaufsanlage in der Industriezone 
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 1. Juli 2009 in Sachen X. 
+AG 
+gegen 
+Beschluss 
+des 
+Gemeinderats 
+Seon 
+(Sprungbeschwerde; 
+WBE.2008.152). 
+Aus den Erwägungen 
+1. 
+Die Beschwerdeführerin plant auf der Parzelle Nr. 1947 den 
+Neubau einer Filiale mit einer Verkaufsfläche von rund 1'198 m2 und 
+111 Parkplätzen. Hinzu kommen verschiedene Nebenräume und 
+Abstellplätze für Velos und Mofas. Die Zufahrt zur geplanten Ver-
+kaufsstelle soll über die Industriestrasse "Birren" erfolgen, die in ei-
+nem Abstand von rund 105 m zum Baugrundstück in die Lenzbur-
+gerstrasse (K 249) mündet. 
+
+
+2009 
+Bau-, Raumplanungs- und Umweltschutzrecht 
+177 
+Die Bauparzelle liegt gemäss Bauzonen- und Kulturlandplan 
+der Gemeinde Seon vom 23. November 2001 / 26. August 2003 in 
+der Industriezone. 
+2. (…) 
+3. 
+3.1.-3.3. (...) 
+3.4. 
+3.4.1. 
+Das RPG erlaubt es den Kantonen, neben den in den Art. 15 – 
+17 RPG ausdrücklich genannten weitere Zonen vorzusehen. In der 
+Ausgestaltung und Ergänzung der vom RPG geregelten Nutzungsar-
+ten kommt den Kantonen ein erheblicher Gestaltungsspielraum zu, 
+wobei sie an die bundesrechtliche Grundordnung gebunden bleiben. 
+Die Gestaltungsfreiheit der Kantone wird begrenzt durch den 
+Grundsatz der Trennung von Bau- und Nichtbaugebiet, durch das 
+Konzentrationsprinzip, das die Streubauweise für nicht freilandge-
+bundene Bauten verbietet, und durch die Ziele und Grundsätze der 
+Raumplanung (zum Ganzen Bernhard Waldmann / Peter Hänni, 
+Raumplanungsgesetz, Bundesgesetz vom 22. Juni 1979 über die 
+Raumplanung [RPG], Bern 2006, Art. 18 N 4 ff.). 
+Nach § 15 Abs. 2 BauG können die Gemeinden innerhalb der 
+Bauzone namentlich Wohn-, Kern-, Gewerbe-, Industriezonen und 
+Zonen für öffentliche Bauten ausscheiden und Art sowie Ausmass 
+der Nutzungen regeln. Das kantonale Recht schreibt den Gemeinden 
+nicht vor, welche Nutzungen sie in diesen Zonen zuzulassen haben. 
+Bei der Ausscheidung und der Definition der verschiedenen Zonen 
+geniessen die Gemeinden vielmehr verfassungsrechtlich geschützte 
+Autonomie (§ 106 Abs. 1 KV); hierin eingeschlossen ist die An-
+wendung des autonomen Gemeinderechts. Das kantonale Recht 
+gewährt rechtlich erhebliche Entscheidungsfreiheit, und zwar in der 
+Absicht, die Ordnung den Gemeinden zu überlassen, d.h. ihnen 
+Kompetenzen für selbstständige Regelungen in einem für den Sinn 
+und die Funktion der Gemeindefreiheit wichtigen Bereich offen zu 
+halten. Daraus folgt, dass sich das Verwaltungsgericht bei der Über-
+prüfung gemeinderätlicher Entscheide zurückzuhalten hat, soweit es 
+bei den zu entscheidenden Fragen um rein lokale Anliegen und ört-
+
+
+178 
+Verwaltungsgericht 
+2009
+lich-spezifische Interessen geht und weder überörtliche Interessen 
+noch überwiegende Rechtsschutzanliegen berührt werden. Die Ge-
+meinde kann sich in solchen Fällen bei der Auslegung kommunalen 
+Rechts insbesondere dort auf ihre Autonomie berufen, wo eine Re-
+gelung unbestimmt ist und verschiedene Auslegungsergebnisse recht-
+lich vertretbar erscheinen lässt. Die kantonalen Rechtsmittelinstan-
+zen sind hier gehalten, das Ergebnis der gemeinderätlichen Rechts-
+auslegung zu respektieren und nicht ohne Not ihre eigene Rechts-
+auffassung an die Stelle der gemeinderätlichen zu setzen. Die 
+Autonomie der Gemeindebehörden hat jedoch dort ihre Grenzen, wo 
+sich eine Auslegung mit dem Wortlaut sowie mit Sinn und Zweck 
+des Gesetzes nicht mehr vereinbaren lässt (AGVE 2005, S. 152; 
+2003, S. 190). Wo eine Norm der rechtsanwendenden Behörde Er-
+messen einräumt, ist die Gemeindebehörde bei der Ermessensbe-
+tätigung ausserdem an die Verfassung, insbesondere an das Rechts-
+gleichheitsgebot, das Verhältnismässigkeitsprinzip und an die Pflicht 
+zur Wahrung öffentlicher Interessen, gebunden (Ulrich Häfelin / 
+Georg Müller / Felix Uhlmann, Allgemeines Verwaltungsrecht, 5. 
+Aufl., Zürich 2006, Rz. 441). 
+3.4.2. 
+Nach § 12 Abs. 1 der Bauordnung der Gemeinde Seon vom 
+23. November 2001 / 26. August 2003 (BO) ist die Industriezone be-
+stimmt für mässig und stark störende Industrie- und Gewerbebetrie-
+be. Wohnungen sind nur für den Betriebsinhaber sowie für betrieb-
+lich an den Standort gebundenes Personal gestattet. Eine Umschrei-
+bung dessen, was unter mässig und stark störenden Industrie- und 
+Gewerbebetrieben zu verstehen ist, enthält das lokale Recht nicht. 
+Die genaue Bedeutung von § 12 Abs. 1 BO ist daher durch Ausle-
+gung zu bestimmen. Nach der Rechtsprechung des Bundesgerichts 
+ist bei der Auslegung vom Wortlaut auszugehen, doch kann dieser 
+nicht allein massgebend sein. Besonders wenn der Text unklar ist 
+oder verschiedene Deutungen zulässt, muss nach seiner wahren Trag-
+weite gesucht werden unter Berücksichtigung weiterer Auslegungs-
+elemente, wie der Gesetzessystematik, der Entstehungsgeschichte der 
+Norm oder der Wertung, die der Gesetzesbestimmung zugrunde liegt 
+(vgl. BGE 128 I 40 f.; BGE vom 21. März 2000, in: ZBl 102/2001, 
+
+
+2009 
+Bau-, Raumplanungs- und Umweltschutzrecht 
+179 
+S. 84; BGE 125 II 525; AGVE 2003, S. 191 f., je mit Hinw.; zum 
+Ganzen auch Häfelin / Müller / Uhlmann, a.a.O., Rz. 216 ff.). 
+Der Wortlaut von § 12 Abs. 1 BO führt zu keinem eindeutigen 
+Auslegungsergebnis. Während sich der Begriff der Industrie nach 
+herkömmlichem Sprachgebrauch auf die Produktion und Weiterver-
+arbeitung von Waren und Gütern bezieht, kann der Begriff des Ge-
+werbes je nach Sprachverständnis in einem engeren oder einem 
+weiteren Sinn verwendet werden. In einem engeren Sinn fallen da-
+runter nur Betriebe, die der Bearbeitung oder Verarbeitung von 
+Stoffen aller Art mit Hilfe von Maschinen oder anderen technischen 
+Hilfsmitteln dienen (so ZBl 81/1980, S. 258; 90/1989, S. 211), nicht 
+aber Verkaufsgeschäfte und Dienstleistungsbetriebe. In einem weite-
+ren Sinn umfasst der Begriff des Gewerbes jede wirtschaftliche Tä-
+tigkeit, die auf eigene Rechnung, eigene Verantwortung und auf 
+Dauer mit der Absicht zur Gewinnerzielung betrieben wird (so 
+http://de.wikipedia.org/wiki/Gewerbe). Darunter fielen auch Ver-
+kaufsgeschäfte und Dienstleistungsbetriebe. 
+Auch die Gesetzessystematik lässt mehrere Deutungen zu. Zwar 
+hat der Gesetzgeber in den §§ 10 Abs. 1 und § 11 Abs. 1 BO termi-
+nologisch zwischen Gewerbe, Dienstleistungsbetrieben und Läden 
+unterschieden, was darauf hinweisen könnte, dass er den Begriff des 
+Gewerbes und der Industrie in § 12 Abs. 1 BO in einem engen Sinn 
+verwenden wollte und darunter nur produzierende und weiterverar-
+beitende Betriebe verstand. Allerdings legt § 7 Abs. 1 BO den ge-
+genteiligen Schluss nahe, werden doch hier mit dem Begriff des 
+"mässig störenden Gewerbes" offenbar auch Verkaufsgeschäfte ein-
+gefangen, von denen sich einige in der Kernzone befinden (so etwa 
+Coop, Volg und Intersport […]). 
+Dagegen kann sich die Auffassung des Gemeinderats, wonach 
+reine Verkaufsgeschäfte in der Industriezone unzulässig sind, auf die 
+Entstehungsgeschichte stützen. Im Planungsbericht vom 31. Oktober 
+2001 zur Anpassung der Bauordnung an das neue Baugesetz, 
+Teiländerungen Bauzonen- und Kulturlandplan, wurde ausdrücklich 
+festgehalten, in den Industriezonen seien wegen ihrer peripheren 
+Lage in Bezug auf den Ortskern weiterhin keine Einkaufsanlagen 
+zulässig, ausser Fabrikläden, die als Bestandteile von Industriebauten 
+
+
+180 
+Verwaltungsgericht 
+2009
+gelten würden (…). Die gleiche Zielsetzung ergibt sich aus dem 
+Regionalen Entwicklungskonzept für die Region Seetal aus dem Jahr 
+2006 (…), wo explizit festgehalten wird, der Einkauf für den tägli-
+chen Bedarf […] solle in den peripheren Arbeitsplatzgebieten ausge-
+schlossen werden (…). 
+Zum gleichen Auslegungsergebnis führt auch eine teleologische 
+Betrachtung: Zwar dürfen in Industriezonen unter immissions-
+rechtlichen Gesichtspunkten auch Betriebe errichtet werden, die nur 
+mässig stören (sog. Recht zur Minderausnutzung; vgl. Erich Zim-
+merlin, Baugesetz des Kantons Aargau vom 2. Februar 1971, 
+Kommentar, 2. Auflage, Aarau 1985, §§ 130-33 N 10a), hinter dem 
+Verbot von Verkaufsgeschäften in Industriezonen kann gleichwohl 
+ein legitimes planerisches Anliegen stecken. So kann ein berechtigtes 
+Ziel des Gesetzgebers darin bestehen zu verhindern, dass die Orts-
+zentren durch den Bau von abseits gelegenen Verkaufsgeschäften 
+entleert oder in ihrer Lebensfähigkeit beeinträchtigt werden. Ge-
+genstand der Raumplanung darf somit mindestens in gewissen 
+Schranken auch die Konsumversorgung der Wohngebiete sein (vgl. 
+auch BGE 116 Ia 428 ff.). Ein Vorhaben der streitbetroffenen Art, das 
+mit seinem Sortiment an Nahrungs- und Genussmitteln sowie an Ge- 
+und Verbrauchsgütern den kurz- und mittelfristigen Bedarf von 
+Endverbrauchern abdeckt, ist geeignet, diese vom Ortszentrum weg 
+in die Industriezone zu locken und so (über das Absterben zentral 
+gelegener Betriebe) die Güterversorgung im Ortszentrum in Frage zu 
+stellen. Ein weiteres berechtigtes planerisches Interesse besteht darin, 
+gewerbliche und industrielle Betriebe, die wegen ihrer Auswirkungen 
+auf die Umwelt und/oder wegen ihres grösseren Raumbedarfs auf die 
+Industriezone angewiesen sind, vor einer Verdrängung durch reine 
+Verkaufsgeschäfte zu schützen, zumal solche auch in anderen Zonen 
+betrieben werden können. Gemäss dem Planungsbericht handelt es 
+sich bei den Industriezonen Birren und Egliswil um die einzigen 
+beiden Industriegebiete mit regionaler Bedeutung für das Seetal. In 
+den Gemeinden mit Seeanstoss sei aus Landschaftsgründen bewusst 
+auf die Ausscheidung von Industriezonen verzichtet worden (…). Da 
+somit das regionale Angebot an Zonen beschränkt ist, in denen sich 
+Betriebe mit erheblichen Auswirkungen auf die Umwelt und/oder 
+
+
+2009 
+Bau-, Raumplanungs- und Umweltschutzrecht 
+181 
+grossem Raumbedarf niederlassen können, kann sich die Fernhaltung 
+von Verkaufsgeschäften, die entweder weniger Immissionen 
+verursachen oder geringeren Raumbedarf haben, auf ein berechtigtes 
+raumplanerisches Interesse stützen. 
+Zwar lässt sich anführen, dass ein Verkaufsgeschäft wie das ge-
+plante, bei dem das Einzugsgebiet der Kundschaft über den lokalen 
+Bereich hinausgeht, infolge des Verkehrsaufkommens in einer pe-
+ripheren Industriezone besser aufgehoben wäre als im Ortskern, eine 
+Gemeinde ist jedoch grundsätzlich nicht verpflichtet, auf ihrem Ge-
+biet jede beliebige Nutzung zuzulassen. Soweit es planerische oder 
+infrastrukturelle Gründe rechtfertigen, können Gemeinden auch in 
+Industrie- und Gewerbezonen bestimmte Betriebsarten (zum Beispiel 
+Einkaufsanlagen) ausschliessen (vgl. auch Christoph Fritzsche / Peter 
+Bösch, Zürcher Planungs- und Baurecht, 4. Aufl., Zürich 2006, Ziff. 
+3-15). 
+Für die Ansicht des Gemeinderats, wonach reine Verkaufsge-
+schäfte in der Industriezone nicht zulässig sind, sprechen somit das 
+historische und das teleologische Element. Mit Wortlaut und Geset-
+zessystematik lässt sich das Auslegungsergebnis zumindest vereinba-
+ren. Der angefochtene Beschluss beruht somit auf einer vertretbaren 
+Auslegung des kommunalen Rechts. Daran ändert auch der Umstand 
+nichts, dass der Gemeinderat anfänglich selber davon ausgegangen 
+war, das Vorhaben lasse sich in baurechtlicher Hinsicht nicht 
+verhindern (…). Nach der Konzeption des Baugesetzes können ver-
+bindliche Zusagen nur noch als Vorentscheid im Sinn von § 62 BauG 
+ergehen (vgl. auch BGE 117 Ia 288 f.). Das gilt jedenfalls solange, 
+als Dritte davon betroffen sind (vgl. Michael Merker, Rechtsmittel, 
+Klage und Normenkontrollverfahren nach dem aargauischen Gesetz 
+über die Verwaltungsrechtspflege [VRPG] vom 9. Juli 1968, Diss., 
+Zürich 1998, § 38 N 36; Zimmerlin, a.a.O., § 152 N 9). Im konkreten 
+Fall fehlt es an einem förmlichen Vorentscheid, der auch gegenüber 
+den Einsprechern verbindlich werden könnte. 
+35 
+Voranfrage i.S.v. § 28 AbauV 
+- 
+Zulässiger Gegenstand 
+- 
+Befangenheit der mit der Voranfrage befassten Baukommission
