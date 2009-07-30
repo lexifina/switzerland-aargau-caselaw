@@ -1,0 +1,225 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2008.410"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "1. Kammer"
+docket: "WBE.2008.410"
+decided: "2009-07-30"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/3201"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3201"
+cites_law: ["switzerland/bund/acts/101/art-012.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 1. Kammer — WBE.2008.410
+
+## Regeste
+
+Wiedererwägung; eigene Mittel
+- Die (materielle) Prüfung der Anspruchvoraussetzungen aufgrund eines Gesuchs um Wiedererwägung schliesst einen Prozessentscheid aus.
+- Voraussetzung der Anrechnung eigener Mittel ist deren tatsächliche Verfügbarkeit.
+
+## Text
+
+2009 
+Sozialhilfe 
+223 
+VII. Sozialhilfe 
+ 
+42 
+Wiedererwägung; eigene Mittel 
+- 
+Die (materielle) Prüfung der Anspruchvoraussetzungen aufgrund ei-
+nes Gesuchs um Wiedererwägung schliesst einen Prozessentscheid 
+aus. 
+- 
+Voraussetzung der Anrechnung eigener Mittel ist deren tatsächliche 
+Verfügbarkeit. 
+Urteil des Verwaltungsgerichts, 4. Kammer, vom 30. Juli 2009 in Sachen 
+D.A. gegen den Regierungsrat des Kantons Aargau (WBE.2008.410). 
+Aus den Erwägungen 
+3. 
+3.1. 
+Gemäss § 25 Abs. 1 aVRPG kann eine Verfügung oder ein Ent-
+scheid auf Gesuch eines Betroffenen durch die erstinstanzlich zustän-
+dige Behörde in Wiedererwägung gezogen werden, was bedeutet, 
+dass die zuständige Instanz ihre ursprüngliche Verfügung aufhebt, 
+den Fall neu beurteilt und anschliessend neu verfügt (AGVE 1994, S. 
+460; AGVE 1986, S. 165 mit Hinweisen). Eine Wiedererwägung 
+kann sich nur auf eine erstinstanzliche Verfügung beziehen (Ulrich 
+Häfelin / Georg Müller / Felix Uhlmann, Allgemeines Verwaltungs-
+recht, 5. Auflage, Zürich 2006, Rz. 1830). Ist die Verfügung ur-
+sprünglich fehlerhaft, so wird die Änderung grundsätzlich ex tunc 
+wirksam (Häfelin / Müller / Uhlmann, a.a.O., Rz. 1049). Ein neues 
+Gesuch hingegen entfaltet seine Wirkung erst ab dessen Rechts-
+hängigkeit. 
+Bei der Wiedererwägung handelt es sich grundsätzlich nicht um 
+ein förmliches Rechtsmittel, sondern um einen blossen Rechtsbehelf, 
+der weder an Fristen noch an eine bestimmte Form gebunden ist 
+
+
+224 
+Verwaltungsgericht 
+2009
+(AGVE 1994, S. 460 mit Hinweisen). Ein Rechtsanspruch auf Wie-
+dererwägung besteht lediglich dann, wenn neue, nach dem Erlass der 
+ersten Verfügung oder des ersten Entscheides entstandene Umstände 
+angeführt werden, so dass ein völlig neues Gesuch vorliegt 
+(BGE 113 Ia 152). 
+Anspruch auf Sozialhilfe besteht, sofern die eigenen Mittel 
+nicht genügen und andere Hilfeleistungen nicht rechtzeitig erhältlich 
+sind oder nicht ausreichen (§ 5 Abs. 1 SPG; Art. 12 BV; § 25 Abs. 2 
+lit. d KV). Der Anspruch auf die Sicherung des Existenzminimums 
+schliesst mit ein, dass bedürftige Personen jederzeit ein neues Ge-
+such stellen können und die Abweisung eines Gesuchs grundsätzlich 
+keine Rechtskraftwirkung für die Zukunft entfalten kann. 
+Das Recht, jederzeit ein Gesuch um materielle Hilfe zu stellen 
+und einen Entscheid zu verlangen, steht wie jede Rechtsausübung 
+unter dem Vorbehalt des Vertrauensgrundsatzes, des Rechtsmiss-
+brauchsverbotes sowie des Grundsatzes von Treu und Glauben. Im 
+Verfahren vor den Sozialbehörden gelten die Bestimmungen des 
+Verwaltungsrechtspflegegesetzes (§ 58 Abs. 4 SPG) und der Grund-
+satz von Treu und Glauben, welcher für alle Verfahrensbeteiligten bei 
+der Rechtsanwendung zur Anwendung kommt (§ 3 Abs. 2 Satz 1 
+aVRPG). Die Behörden sind zudem berechtigt, auf Eingaben, die auf 
+missbräuchlicher Prozessführung beruhen, nicht einzutreten (§ 3 
+Abs. 2 Satz 2 aVRPG). 
+3.2. (…) 
+4. 
+4.1. 
+Der KSD wie auch der Regierungsrat des Kantons Aargau be-
+handelten das Gesuch des Beschwerdeführers vom 20. Mai 2008 
+zwar als ein Wiedererwägungsgesuch, indessen prüfte der KSD 
+mittels Anfragen bei der Postfinance, ob ein Geldtransfer aus Syrien 
+in die Schweiz möglich sei. Auch für die Vorinstanz waren die 
+Nachforschungen des KSD nach Einreichung des neuen Gesuchs um 
+materielle Hilfe entscheidend, um den Anspruch auf Wiedererwä-
+gung zu verneinen. 
+
+
+2009 
+Sozialhilfe 
+225 
+4.2. 
+Bei der Prüfung des Gesuchs 19. März 2008 sah der KSD von 
+weiteren Abklärungen zum Vermögen in Syrien ab und nahm diese 
+erst mit dem Wiedererwägungsgesuch an die Hand. Die Vorinstanzen 
+verkennen, dass der KSD mit seiner Anfrage bei der Postfinance den 
+Inhalt der Verfügung vom 26. März 2006 materiell überprüfte und im 
+Entscheid vom 16. Juni 2008 die fehlende Notlage des Beschwerde-
+führers vor allem mit den Abklärungen zur Verfügbarkeit der eigenen 
+Mittel begründete. Die Prüfung der rechtzeitigen Verfügbarkeit der 
+eigenen Mittel zur Behebung der Notlage war auch unabdingbar 
+(siehe hinten Erw. 5) und insofern lagen auch neue Tatsachen vor, 
+welche einen Anspruch auf Wiedererwägung begründeten (siehe 
+vorne Erw. 3.1). Der KSD hat daher zu Recht die Verfügung vom 
+26. März 2008 inhaltlich überprüft und ist damit im angefochtenen 
+Entscheid auch auf das Wiedererwägungsgesuch materiell ein-
+getreten (AGVE 1994, S. 460 f.). Der Nichteintretensentscheid des 
+KSD ist somit formell unrichtig; nach der Überprüfung und 
+Bejahung der Transfermöglichkeiten hätte er das Gesuch formell 
+abweisen müssen. 
+Die Beschwerde erweist sich damit schon aus formellen Grün-
+den als begründet. 
+5. 
+5.1. (…) 
+5.2. 
+Wer objektiv in der Lage wäre, aus eigener Kraft die für das 
+Überleben erforderlichen Mittel selber zu verschaffen, hat keinen 
+Anspruch auf Sozialhilfe, da sich eine solche Person nicht in einer 
+Notsituation befindet, auf welche das Recht auf Hilfe in Notlagen 
+und damit auf Ausrichtung von Sozialhilfe zugeschnitten ist (§ 5 
+Abs. 1 SPG). Bei ihr fehlt es bereits an den Anspruchsvoraussetzun-
+gen (BGE 130 I 71 Erw. 4). 
+Soweit ein Sozialhilfebezüger über Vermögen verfügt, ist er ge-
+stützt auf das Subsidiaritätsprinzip grundsätzlich verpflichtet, dieses - 
+unter Ansetzung einer angemessenen Frist - zu verwerten (§ 11 
+Abs. 3 SPG; siehe auch Felix Wolffers, Grundriss des Sozialhilfe-
+rechts, 2. Auflage, Bern 1999, S. 71 f., 155 f.). Zugestanden wird 
+
+
+226 
+Verwaltungsgericht 
+2009
+unterstützten Personen lediglich der Vermögensfreibetrag von 
+Fr. 1'500.-- pro Person, maximal jedoch Fr. 4'500.-- pro Unterstüt-
+zungseinheit (§ 11 Abs. 4 i.V.m. § 32 SPV; siehe auch Wolffers, 
+a.a.O., S. 155 f.). Unterbleibt die Verwertung nach Ablauf der ange-
+setzten Frist, wird der daraus mutmasslich zu erzielende Erlös be-
+rücksichtigt (§ 11 Abs. 4 SPG). Massgebend ist aber immer, dass die 
+hilfesuchende Person die eigenen Mittel "rechtszeitig erhältlich" (§ 5 
+Abs. 1 SPG) machen kann. 
+Der Beschwerdeführer deklarierte mit seinem Gesuch um mate-
+rielle Hilfe vom März 2008 ein "Barvermögen von 15'000.-- Dollar 
+Syrien". Gestützt auf diese Angaben verneinte der KSD in der Verfü-
+gung vom 26. März 2008 die Notlage. Mit dem Wiedererwägungsge-
+such vom 20. Mai 2008 machte der Beschwerdeführer geltend, er 
+könne über dieses Vermögen nicht verfügen. Die eingeschränkten 
+Zugriffsmöglichkeiten des Beschwerdeführers hätten Anlass zu 
+Auflagen oder Weisungen zur Verwertung des Vermögens innert ei-
+ner bestimmten Frist geben können, nicht aber zur Ablehnung des 
+Gesuchs auf materielle Unterstützung. Das Vermögen befand sich in 
+Syrien und der KSD war unter diesen Umständen verpflichtet, die 
+näheren Umstände und die Zugriffsmöglichkeiten des Beschwerde-
+führers zu berücksichtigen. Diese Überprüfung erfolgte, wie erwähnt, 
+erstmals im Wiedererwägungsverfahren (siehe vorne Erw. 4) und mit 
+dem Ergebnis, dass dem Beschwerdeführer ein Geldtransfer über die 
+Firma "Western Union" möglich sei. Auch bei diesem Ergebnis war 
+die 
+Verweigerung 
+der 
+Nothilfe 
+unrechtmässig, 
+weil 
+der 
+Beschwerdeführer im Zeitpunkt des Entscheids seine Notlage nicht 
+mit diesen eigenen Mitteln beheben konnte. Der Beschwerdeführer 
+hat aufgrund der fehlenden zeitgerechten Verfügbarkeit des Vermö-
+gens vielmehr Anspruch auf materielle Unterstützung ab 17. März 
+2008. 
+Zusammenfassend erweist sich der Nichteintretensentscheid des 
+KSD als unrechtmässig, weshalb die Verfügung des KSD vom 
+16. Juni 2008 sowie der Entscheid des Regierungsrates des Kantons 
+Aargau vom 3. Dezember 2008 in Gutheissung der Beschwerde auf-
+zuheben sind. 
+
+
+2009 
+Sozialhilfe 
+227 
+43 
+Befristung der Sozialhilfe; Bedarfsdeckungsprinzip; eigenes Geschäft 
+- 
+Die Auflage zur Liquidation eines eigenen (defizitären) Geschäfts 
+verletzt die Wirtschaftsfreiheit nicht und ist auch nicht unverhält-
+nismässig. 
+- 
+Aufgrund des Bedarfsdeckungsprinzips kann die materielle Hilfe be-
+fristet werden. 
+Urteil des Verwaltungsgerichts, 4. Kammer, vom 6. April 2009 in Sachen 
+C.P. und R.P. gegen das Bezirksamt Baden (WBE.2008.182). 
+Aus den Erwägungen 
+3. 
+3.1. 
+In ihrer Beschwerde wehren sich die Beschwerdeführer zu-
+nächst gegen die Befristung der Sozialhilfe. Sie lassen geltend ma-
+chen, für diese Auflage gebe es keine gesetzliche Grundlage. Eine 
+Befristung im Voraus sei für eine periodische Überprüfung der indi-
+viduellen, konkreten und aktuellen Notlage nicht erforderlich. Der 
+vorinstanzliche Entscheid stelle insofern auch eine Verletzung des 
+Verhältnismässigkeitsprinzips dar. 
+3.2. 
+Die Vorinstanz hielt fest, dass weder in den Richtlinien für die 
+Ausgestaltung und Bemessung der Sozialhilfe (herausgegeben von 
+der Schweizerischen Konferenz für Sozialhilfe [SKOS-Richtlinien], 
+3. Auflage, Dezember 2000) noch in der aargauischen Sozial-
+hilfegesetzgebung festgelegt sei, für welchen Zeitraum materielle 
+Hilfe zuzusprechen ist bzw. in welchen Intervallen die Gemeinden 
+den Anspruch auf materielle Hilfe zu prüfen haben. Es gelte das Be-
+darfsdeckungsprinzip für individuelle, konkrete und aktuelle Notla-
+gen. In der Vernehmlassung vom 18. Juni 2008 bezeichnet die Vorin-
+stanz die Befristung zudem als Steuerungsinstrument. 
+3.3. 
+In der Tat gibt es in der Sozialhilfegesetzgebung keine Bestim-
+mung bezüglich der Dauer der zugesprochenen Hilfe. Aus dem We-
