@@ -1,0 +1,329 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2008.270"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "1. Kammer"
+docket: "WBE.2008.270"
+decided: "2009-08-19"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/3206"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3206"
+cites_law: ["switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/210/art-307.md", "switzerland/bund/acts/210/art-317.md", "switzerland/bund/acts/311.0/art-014.md", "switzerland/bund/acts/311.0/art-321.md", "switzerland/bund/acts/741.11/art-002.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 1. Kammer — WBE.2008.270
+
+## Regeste
+
+Entbindung vom Arztgeheimnis
+- Verhältnis der gesetzlichen Meldepflicht des Art. 15 BetmG und § 55b EG ZGB zur ärztlichen Schweigepflicht
+- Bei einer möglichen Gefährdung von Kindern rechtfertigen objektive Anhaltspunkte eine Entbindung
+
+## Text
+
+2009 
+Gesundheitsrecht 
+253 
+IX. Gesundheitsrecht 
+ 
+47 
+Entbindung vom Arztgeheimnis 
+- 
+Verhältnis der gesetzlichen Meldepflicht des Art. 15 BetmG und 
+§ 55b EG ZGB zur ärztlichen Schweigepflicht 
+- 
+Bei einer möglichen Gefährdung von Kindern rechtfertigen objektive 
+Anhaltspunkte eine Entbindung 
+Entscheid des Verwaltungsgerichts, 4. Kammer, vom 19. August 2009 in 
+Sachen C.G. gegen M.P. (WBE.2008.270). 
+Aus den Erwägungen: 
+II. 
+1. 
+1.1. 
+Gemäss Art. 321 StGB sowie § 30 GesG haben Ärzte Geheim-
+nisse, die sie im Rahmen ihrer Berufstätigkeit feststellen, zu wahren. 
+Von dieser Schweigepflicht können sie sich durch Einwilligung des 
+Berechtigten oder durch eine Bewilligung, welche im Kanton Aargau 
+vom DGS erteilt werden kann, befreien lassen. Auch bleiben die eid-
+genössischen und kantonalen Bestimmungen über die Zeugnispflicht 
+und über die Auskunftspflicht gegenüber einer Behörde vorbehalten 
+(Art. 321 Ziff. 3 StGB). Da mit der Geheimhaltungspflicht von Be-
+rufsgeheimnissen das verfassungsmässige Recht auf Privatsphäre 
+(Art. 36 BV) geschützt wird, ist die Bewilligung zur Offenbarung des 
+Berufsgeheimnisses nur zulässig, wenn neben der gesetzlichen 
+Grundlage, welche sowohl in Art. 321 StGB als auch in § 30 GesG 
+besteht, das Interesse des Arztes oder der Allgemeinheit an der Of-
+fenbarung klarerweise gegenüber dem Interesse des Patienten an der 
+Geheimhaltung überwiegt und der Grundsatz der Verhältnismässig-
+keit eingehalten wird. Die Aufhebung der Geheimhaltungspflicht des 
+
+
+254 
+Verwaltungsgericht 
+2009
+Arztes bedeutet einen Eingriff in die Geheimsphäre, also in höchst-
+persönliche Rechte (Heinz Walter Blass, Die Berufsgeheimhaltungs-
+pflicht der Ärzte, Apotheker und Rechtsanwälte, S. 71 ff.; Marc-
+Antoine Schaffner, L'autorisation de révéler un secret professionnel, 
+S. 20 f. und 64; Alexander Sieben, Das Berufsgeheimnis auf Grund 
+des eidgenössischen Strafgesetzbuches, S. 45). Sie darf nur ganz 
+ausnahmsweise durchbrochen werden, wenn es zur Wahrung höherer 
+Interessen unumgänglich ist (vgl. BGE 91 I 200 Erw. 2 f. mit Hin-
+weisen). 
+1.2. - 1.4.(…) 
+2. 
+2.1. 
+Art. 15 Abs. 1 BetmG sieht für Ärzte, die bei Ausübung ihrer 
+beruflichen Tätigkeit einen Betäubungsmittelmissbrauch feststellen, 
+ein Melderecht vor. Vorausgesetzt wird weder eine Betäubungsmit-
+telsucht noch ein massiver Konsum von Betäubungsmitteln, wie sich 
+insbesondere aus der von der Beschwerdeführerin zitierten Botschaft 
+zur Änderung des Bundesgesetzes über die Betäubungsmittel vom 
+9. Mai 1973, S. 1363 f. (BBl 1973 I 1348-1379) entnehmen lässt. Bei 
+dieser Revision wurde in Art. 15 Abs. 1 als auch in der Überschrift 
+der Ausdruck "Betäubungsmittelsucht" durch "Betäubungsmittel-
+missbrauch" ersetzt. Als Betäubungsmittelmissbrauch gilt grund-
+sätzlich jeder unbefugte Betäubungsmittelkonsum, d.h. ein Konsum 
+welcher nicht aufgrund einer ärztlichen Anordnung erfolgt (vgl. 
+Art. 19 f. und Art. 9 f. BetmG). Die konsumierte Menge ist daher 
+nicht ausschlaggebend. Massgebend ist vielmehr, dass nach ärztli-
+cher Einschätzung Betreuungsmassnahmen im Interesse des Patien-
+ten, seiner Angehörigen oder der Allgemeinheit angezeigt sind. 
+Schon im Anfangsstadium des Betäubungsmittelgebrauchs und ohne 
+dass eine Abhängigkeit oder Sucht vorliegt, können Betreu-
+ungsmassnahmen angezeigt sein (Botschaft, a.a.O., 1364). 
+2.2. 
+Nach den Akten suchte die Beschwerdeführerin aufgrund eines 
+Erschöpfungszustandes ihren Hausarzt, Dr. med. X., auf, welcher sie 
+an den Beschwerdegegner zur psychologischen Betreuung überwies. 
+Unbestrittenermassen hat die Beschwerdeführerin ihrem damaligen 
+
+
+2009 
+Gesundheitsrecht 
+255 
+Hausarzt, Dr. med. X., und der behandelnden Psychologin in der 
+Praxis des Beschwerdegegners, Y., mitgeteilt, dass sie übermässig 
+Alkohol und regelmässig mehrere Joints (15 - 20 Joints pro Tag), 
+konsumiert. Sie hat ihren erheblichen Betäubungsmittelkonsum und 
+Alkoholkonsum im Bericht an den Beschwerdegegner unterschrift-
+lich bestätigt. In ihrem Schreiben vom (…), in welchem sie ihre Zu-
+stimmung zum Bericht von Y. an den Beschwerdegegner widerrief, 
+führte sie nur an, sie habe zu hohe Mengenangaben gemacht. Damit 
+ist der Alkohol- und Cannabiskonsum an sich relativiert, aber nicht 
+ausgeschlossen. Ihre Ausführungen im Schreiben vom (…) können 
+in Übereinstimmung mit der Vorinstanz nur so verstanden werden, 
+dass die Beschwerdeführerin lediglich ihre Angaben hinsichtlich der 
+konsumierten Mengen widerrief. Nicht widerrufen ist damit die Tat-
+sache, dass sie Cannabis konsumiere bzw. konsumierte. Auch in der 
+Stellungnahme vom (…) bestreitet die Beschwerdeführerin den 
+Konsum nicht. Vielmehr ist auch hier lediglich die Rede von weit 
+überhöhten Angaben der Beschwerdeführerin betreffend ihres eige-
+nen Suchtmittelkonsums. Das Gleiche gilt für die Ausführungen in 
+der Beschwerdeschrift vom (…). Die gegenteiligen Ausführungen in 
+der Verwaltungsgerichtsbeschwerde erscheinen damit wenig über-
+zeugend und auch das Blutanalyseblatt lässt nicht zwingend auf eine 
+Betäubungsmittelabstinenz schliessen. Analysewerte für die ein-
+schlägigen Substanzen (vgl. dazu Art. 2 Abs. 2 VRV) fehlen. 
+Zu berücksichtigen ist weiter, dass die Beschwerdeführerin die 
+Vornahme einer Blutanalyse zu ihrem Betäubungsmittelkonsum ver-
+weigerte und die Behandlung in der Praxis des Beschwerdegegners 
+vorzeitig abgebrochen hat. Sie lehnte sodann eine Entbindung ihres 
+Hausarztes Dr. X. vom Arztgeheimnis ab und wechselte zu einem 
+neuen Hausarzt. Verdachtsmomente eines Alkoholmissbrauchs erge-
+ben sich sodann aus dem Bericht des Kantonsspitals (…), wonach 
+die Beschwerdeführerin während einer Arztkonsultation mit einem 
+Pflegekind alkoholisiert gewesen sein könnte. 
+2.3. 
+Im Zeitpunkt des Entbindungsgesuchs (…) betreute die Be-
+schwerdeführerin die leibliche Tochter A., geb. 2002, seit Dezember 
+2005 den Pflegesohn B., geb. 2004, und seit Dezember 2004 das Ta-
+
+
+256 
+Verwaltungsgericht 
+2009
+geskind C., geb. 2002. Zusätzlich beaufsichtigte sie stundenweise 
+Tageskinder, welche ihr von Z. vermittelt wurden. Aktenkundig sind 
+massive Erziehungsschwierigkeiten beim Pflegekind. 
+Die Beschwerdeführerin war vom (…) bis (…) in der Gemein-
+schaftspraxis des Beschwerdegegners in Behandlung. Unbestritten 
+ist, dass die Beschwerdeführerin an einem (grossen) Erschöpfungs-
+zustand litt. Ihr Hausarzt verschrieb Psychopharmaka und riet zu ei-
+ner psychiatrischen Abklärung und Behandlung. Gegenüber ihrem 
+Hausarzt und im Verlaufe der psychiatrischen Behandlung gab sie 
+detailliert Auskunft zu ihrem Betäubungsmittel- und Alkoholkonsum, 
+welche den Schluss auf eine Substanzabhängigkeit und einen 
+Suchtmittelabusus zuliessen. In ihren anamnetischen Angaben schil-
+derte sie eine jahrelange Depression mit Angstzuständen. Die Anga-
+ben bestätigte sie mit ihrer Unterschrift zum Bericht der behandeln-
+den Psychologin. 
+Aufgrund der Angaben der Beschwerdeführerin, den Feststel-
+lungen des Hausarztes und des Beschwerdegegners bzw. der behan-
+delnden Psychologin, lagen angesichts der unbestrittenen Belas-
+tungssituation der Beschwerdeführerin ausreichende objektive An-
+haltspunkte für eine mögliche Gefährdung der von ihr betreuten 
+Kinder vor. An den ausreichenden Verdachtsgründen vermag der 
+Widerruf der Angaben zum Betäubungsmittelkonsum und ihrer Un-
+terschrift zum Bericht der Psychologin nichts zu ändern. Die Melde-
+pflicht in Art. 15 Abs. 1 BetmG hat einen präventiven Charakter. An 
+den Nachweis des Betäubungsmittelmissbrauchs sind daher keine 
+hohen Anforderungen zu stellen und er erfordert insbesondere keinen 
+(Labor-) Nachweis der medizinischen Befunde. Im Einzelfall können 
+die anamnetischen Angaben eines Patienten oder einer Patientin 
+durchaus genügen, wenn sie glaubhaft erscheinen und eine zulässige 
+Grundlage für eine medizinische Diagnose bilden. Der Beschwerde-
+führerin kann daher nicht gefolgt werden, wenn sie ihrem Widerruf 
+eine grössere Bedeutung beimessen will, als den gegenüber Hausarzt 
+und - während Monaten - dem Beschwerdegegner bzw. der behan-
+delnden Psychologin gegenüber aufrecht erhaltenen, unterschriftlich 
+bestätigten Angaben zu ihrer psychischen Verfassung und ihrem 
+Suchtverhalten. Der Widerruf erfolgte zudem nach Darstellung der 
+
+
+2009 
+Gesundheitsrecht 
+257 
+Beschwerdeführerin und ihres Ehegatten im Zusammenhang mit der 
+ultimativen Aufforderung des Beschwerdegegners zu einer Blutana-
+lyse und stand offensichtlich bereits mit dem Behandlungsabbruch 
+im Zusammenhang. Ziel der Blutanalyse war nachgerade die zuver-
+lässige Feststellung der Sucht und damit die Verifizierung der Anga-
+ben der Beschwerdeführerin. Ihre Weigerung und der Behandlungs-
+abbruch konnten damit auch eine zusätzliche Selbst- oder Drittge-
+fährdung nahelegen oder zumindest anfängliche Verdachtsmomente 
+verstärken. Wie es sich damit verhält, ist unter diesen Umständen 
+nicht abschliessend zu untersuchen. Zur Gefährdungsmeldung nach 
+dem Betäubungsmittelgesetz sind die Ärzte ermächtigt, wenn sie 
+aufgrund einer medizinischen Diagnose eine Betreuungsmassnahme 
+u.a. im Interesse des Patienten und seiner Angehörigen als angezeigt 
+erachten. Die gesetzliche Ermächtigung räumt den Ärzten ein Er-
+messen bei der Einschätzung des Gefährdungspotenzials ein. Soweit 
+Drittpersonen das Verhalten der Beschwerdeführerin nachträglich als 
+"Hilferuf" bezeichnen und vortragen, sie habe in ihrer Schilderung 
+masslos übertrieben, kann dem Beschwerdegegner keine falsche Ein-
+schätzung vorgeworfen werden. Gerade solche "Hilferufe" können 
+auch Anlass zu Betreuungsmassnahmen bilden. Die Angaben der 
+Beschwerdeführerin zur konkreten Lebens- und Familiensituation 
+konnten vom Beschwerdegegner naturgemäss nur beschränkt auf ih-
+ren Wahrheitsgehalt geprüft werden, und Anlass zu Zweifeln an ihrer 
+Glaubwürdigkeit ergab sich allenfalls, als sie ihre Angaben widerrief. 
+Im Hinblick auf die Gefährdungssituation und die Notwendigkeit 
+von Betreuungsmassnahmen konnte der Widerruf daher durchaus ei-
+nen weiteren Anlass zur Abklärung durch die zuständigen Behörden 
+geben. Die Meldung gemäss Art. 15 Abs. 1 BetmG soll gerade die 
+Möglichkeit zur rechtzeitigen Abklärung einer möglichen Gefähr-
+dung gewährleisten. Die Meldestellen unterstehen dem Amts- und 
+Berufsgeheimnis (vgl. Art. 15 Abs. 2 BetmG). Unter diesen Umstän-
+den das Gesuch um Entbindung vom Arztgeheimnis zu stellen, ist 
+daher nicht zu beanstanden. Hinzu kommt, dass das Gesuch um Ent-
+bindung sich auch deshalb rechtfertigte, weil Art. 15 BetmG i.V.m. 
+der kantonalen Bestimmung in § 11 der Vollziehungsverordnung zum 
+Bundesgesetz über die Betäubungsmittel vom 3. September 1953 
+
+
+258 
+Verwaltungsgericht 
+2009
+(VVO BetmG) den Arzt in schweren Fällen zur Meldung verpflich-
+tet. 
+Eine niedrige Schwelle ist grundsätzlich bei der Beurteilung der 
+Gefährdung von Kleinkindern angezeigt. Der Arzt, welcher eine Pa-
+tientin mit Betreuungs- und Obhutspflichten von Kleinkindern be-
+handelt, verfügt in der Regel nicht über die notwendigen Informa-
+tionen zur Beurteilung einer konkreten Gefährdung, noch ist er für 
+diese Abklärungen zuständig. Die Gefährdungsmeldung hat vielmehr 
+den Zweck die zuständigen Behörden auf eine mögliche Gefahr für 
+das Kindeswohl aufmerksam zu machen. Dem Schutzzweck zum 
+Wohl des Kindes dienen auch die bundes- und kantonalrechtlichen 
+Bestimmungen im Kindesrecht. Ist ein Kind gefährdet und sorgen die 
+Eltern nicht von sich aus für Abhilfe oder sind sie dazu ausserstande, 
+so trifft die Vormundschaftsbehörde die geeigneten Massnahmen 
+zum Schutz des Kindes (Art. 307 Abs. 1 ZGB). Die Kantone sichern 
+durch geeignete Vorschriften die zweckmässige Zusammenarbeit der 
+Behörden und Stellen auf dem Gebiet des zivilrechtlichen Kindes-
+schutzes, des Jugendstrafrechts und der übrigen Jugendhilfe 
+(Art. 317 ZGB). Im Kanton Aargau gilt, aufgrund dieser bundes-
+rechtlichen Vorgaben, ein Melderecht und eine Meldepflicht. Gemäss 
+§ 55b Abs. 1 EG ZGB ist "jedermann" berechtigt, die Gefährdung 
+von Kindern der Vormundschaftsbehörde zu melden. Abs. 2 dieser 
+Bestimmung verpflichtet Behörden und Beamte zu einer solchen 
+Meldung. Bei objektiven Anhaltspunkten für eine Gefährdung des 
+Kindeswohls kann der Arzt daher eine Gefährdungsmeldung an die 
+Vormundschaftsbehörde richten. Das gesetzliche Melderecht im 
+kantonalen Recht begründet, wie Art. 15 Abs. 1 BetmG, einen Recht-
+fertigungsgrund gemäss Art. 14 StGB und berechtigt den Geheim-
+nisträger jedenfalls eine Bewilligung bei der vorgesetzten Behörde 
+zu beantragen (Brigitte Tag, in: Moritz W. Kuhn/Thomas Poledna, 
+Arztrecht in der Praxis, 2. Aufl., Zürich 2007, 13. Kapitel, V.1.e/cc, 
+S. 754). Ob dieses Melderecht sogar die Entbindung vom Berufsge-
+heimnis durch die vorgesetzte Behörde unnötig macht, wie dies ein 
+Teil der Lehre vertritt, kann hier offen bleiben (vgl. Brigitte Berger 
+Kurzen; E-Health und Datenschutz, Rz. 199). Der Hinweis des Be-
+schwerdeführers auf die in der VVO BetmG vorgesehene Zuständig-
+
+
+2009 
+Gesundheitsrecht 
+259 
+keit des Kantonsarztes für die Meldung nach Art. 15 BetmG ist daher 
+nicht relevant. 
+Der nach Darstellung der Beschwerdeführerin bloss vorgescho-
+bene regelmässige und übermässige Cannabis- und Alkoholkonsum 
+begründete, aufgrund des unbestrittenen Erschöpfungszustands der 
+Beschwerdeführerin, ausreichende Verdachtsmomente für eine Mel-
+dung, selbst wenn die Mengenangaben nachträglich bestritten wur-
+den und nicht zutreffen. Nicht zu beanstanden sind daher die Fest-
+stellungen der Vorinstanz zur Überlastungssituation und zum aus-
+reichenden Gefährdungsverdacht. Aufgrund der objektiv möglichen 
+und nicht auszuschliessenden Gefährdung der drei Kinder wurde das 
+Interesse an der Entbindung vom Berufsgeheimnis zu Recht höher 
+als das Interesse der Beschwerdeführerin an der Wahrung ihrer 
+Geheimnissphäre eingestuft. Von einer ungenügenden, weil zu vagen 
+Verdachtslage kann nicht die Rede sein, auch wenn rückblickend die 
+Beurteilung des Beschwerdegegners unzutreffend war oder die Vor-
+mundschaftsbehörde den Verdacht nicht bestätigen konnte. Dem Be-
+schwerdegegner stand bei der Beurteilung einer möglichen Gefähr-
+dung der Kinder, welche der Beschwerdeführerin anvertraut waren, 
+ein erhebliches Ermessen zu. Im Zweifelsfall ist eine Gefährdungs-
+meldung im Interesse der Kinder angebracht, wenn nicht geboten. Im 
+massgebenden Gesuchszeitpunkt waren daher die Voraussetzungen 
+für eine Entbindung gegeben, zumal die Beschwerdeführerin die me-
+dizinische Verifizierung selbst verhinderte. 
+
+
+2009 
+Einbürgerungen 
+261 
+X. Einbürgerungen 
+ 
+48 
+Rechtsmittelweg gegen ablehnende Bürgerrechtsentscheide der Gemein-
+deversammlung 
+- 
+Bei der Anfechtung von ablehnenden Entscheiden der Gemeinde-
+versammlung über ordentliche Einbürgerungen von Ausländern ist 
+der Regelrechtsmittelweg gemäss VRPG einzuhalten, indem zunächst 
+verwaltungsintern Beschwerde zu führen ist und erst anschliessend 
+der Weg ans Verwaltungsgericht offen steht. 
+Entscheid des Verwaltungsgerichts, 2. Kammer, vom 29. September 2009 in 
+Sachen J.G. gegen die Einwohnergemeinde S. (WBE.2009.219). 
+Aus den Erwägungen 
+I. 
+1. 
+Das Verwaltungsgericht prüft seine Zuständigkeit von Amtes 
+wegen (§ 8 Abs. 1 VRPG). 
+Bestehen – wie hier (siehe hinten Erw. 4.1 ff.) – Zweifel an der 
+Zuständigkeit, führt das Verwaltungsgericht ein Meinungsaustausch-
+verfahren mit den für die Behandlung der entsprechenden Eingabe in 
+Betracht fallenden Behörden durch (§ 8 Abs. 2 VRPG). Zuständig-
+keitskonflikte, auch negative Kompetenzkonflikte (keine der im Mei-
+nungsaustauschverfahren einbezogene Instanz hält sich für zustän-
+dig), entscheidet das Verwaltungsgericht (§ 9 Abs. 2 VRPG). 
+2. 
+2.1. 
+Gemäss § 54 Abs. 1 VRPG ist gegen letztinstanzliche Entschei-
+de der Verwaltungsbehörden und, wenn vorgesehen, gegen Entschei-
+de der Spezialverwaltungsgerichte, die Verwaltungsgerichtsbe-
+schwerde zulässig. Als Vorfrage ist zunächst zu prüfen, ob ein Aus-
