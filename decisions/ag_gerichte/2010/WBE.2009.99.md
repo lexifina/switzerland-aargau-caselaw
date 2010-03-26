@@ -1,0 +1,179 @@
+---
+decision_id: "ag_gerichte_WBE.2009.99"
+court: "AG Gerichte"
+court_id: "ag_gerichte"
+chamber: "WBE"
+docket: "WBE.2009.99"
+decided: "2010-03-26"
+language: "de"
+source_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3090"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/3090"
+cites_law: ["switzerland/bund/acts/101/art-008.md"]
+---
+
+# AG Gerichte WBE.2009.99
+
+## Regeste
+
+Gleichbehandlung im Unrecht (Rechtsgleichheit). 
+Vermutung, Gemeinderat werde von seiner rechtswidrigen Praxis entsprechend dem Entscheid der Rechtsmittelinstanz (und Aufsichtsbehörde) künftig Abstand nehmen.
+
+## Text
+
+2010 
+Bau-, Raumentwicklungs- u. Umweltschutzrecht 
+153 
+4.4.2. 
+Die Beschwerdeführer verlangen, dass die Mittagsruhe zu ge-
+währleisten sei. Einzig die Kinder der Westallee 13 essen im Freien, 
+wofür ein Holztisch im Garten aufgestellt wurde. Die Kinder essen 
+um 11.30 Uhr bis 12.00 Uhr und halten danach einen Mittagsschlaf. 
+Die Kinder der Westallee 9 nehmen das Essen im Haus ein. Anläss-
+lich der verwaltungsgerichtlichen Augenscheinsverhandlung erklärte 
+die Beschwerdeführerin, von 12.00 Uhr bis 13.00 Uhr sei kein Lärm 
+zu hören. Vor diesem Hintergrund lässt sich die beantragte Auflage 
+nicht rechtfertigen. 
+(Hinweis: Das Bundesgericht hat eine Beschwerde gegen diesen 
+Entscheid abgewiesen, soweit es darauf eintrat; Urteil vom 
+6. September 2010 [1C_148/2010]). 
+28 
+Gleichbehandlung im Unrecht (Rechtsgleichheit). 
+Vermutung, Gemeinderat werde von seiner rechtswidrigen Praxis ent-
+sprechend dem Entscheid der Rechtsmittelinstanz (und Aufsichtsbe-
+hörde) künftig Abstand nehmen. 
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 26. März 2010 in Sachen 
+A. und B. gegen X. und Y. (WBE.2009.99). 
+Aus den Erwägungen 
+3. 
+3.1.-3.2. (…) 
+3.3. 
+Der in Art. 8 BV verankerte Gleichheitssatz verlangt, dass Glei-
+ches nach Massgabe seiner Gleichheit gleich und Ungleiches nach 
+Massgabe seiner Ungleichheit ungleich behandelt wird. Es dürfen 
+keine Unterscheidungen getroffen werden, für die ein vernünftiger 
+Grund in den tatsächlichen Verhältnissen, über die zu entscheiden ist, 
+nicht gefunden werden kann. Die Rechtsgleichheit ist verletzt, wenn 
+zwei gleiche tatsächliche Situationen ohne sachlichen Grund unter-
+schiedlich behandelt werden (BGE 131 I 103; 129 I 125 f.; AGVE 
+
+
+154 
+Verwaltungsgericht 
+2010 
+1999, S. 210; VGE III/40 vom 17. Juni 2009 [WBE.2008.85], S. 15; 
+VGE III/28 vom 19. Juni 2008 [WBE.2007.136], S. 13; je mit Hin-
+weisen). 
+Sodann geht nach gefestigter Rechtsprechung des Bundesge-
+richts der Grundsatz der Gesetzmässigkeit der Verwaltung in der Re-
+gel der Rücksicht auf gleichmässige Rechtsanwendung vor. Der Um-
+stand, dass das Gesetz in anderen Fällen nicht oder nicht richtig an-
+gewandt worden ist, gibt dem Bürger grundsätzlich keinen Anspruch 
+darauf, ebenfalls abweichend vom Gesetz behandelt zu werden. Auf 
+"Gleichbehandlung im Unrecht" besteht aber dann grundsätzlich An-
+spruch, wenn die Behörde eine eigentliche gesetzwidrige Praxis 
+entwickelt hat und es ablehnt, diese aufzugeben (BGE 127 I 2 f.; 126 
+V 392; je mit Hinweisen). Selbst wenn die Voraussetzungen für eine 
+unrechtsgleiche Behandlung erfüllt sind, können öffentliche Interes-
+sen oder berechtigte Interessen Dritter entgegenstehen (BGE 123 II 
+254; 117 Ib 270; 116 Ib 234 f.; vgl. zum Ganzen auch: VGE III/40 
+vom 17. Juni 2009 [WBE.2008.85], S. 15; VGE III/28 vom 19. Juni 
+2008 [WBE.2007.136], S. 13; VGE III/77 vom 2. September 2004 
+[BE.2003.00257], S. 19; je mit Hinweisen). 
+3.4. 
+3.4.1. 
+Es ist unbestritten, dass der Gemeinderat in den Baugesuchen 
+Nrn. 613, 602, 557 und 508 über den ummantelten Bereich des ober-
+sten Geschosses hinauskragende Dachvorsprünge mit umfangreicher 
+Fläche und Tiefe bewilligte, obschon der ummantelte Bereich die 
+nach § 16a ABauV zulässige Grundfläche eines Attikageschosses je-
+weils bereits ausschöpfte und die darunterliegenden Vollgeschosse 
+die maximale Anzahl Vollgeschosse bereits erreichten. Entgegen der 
+Auffassung der Beschwerdeführer bewilligte der Gemeinderat solche 
+auskragende Dächer nicht nur bei "Mehrfamilienhäusern" bzw. in 
+"Mehrfamilienhauszonen". Auch in der Wohnzone EF – in welcher 
+Zone das zu beurteilende Bauprojekt liegt – wurden solche Bauten 
+offenbar bewilligt. Es liegt deshalb nahe, dass der Gemeinderat eine 
+§ 16a Abs. 2 ABauV widersprechende gesetzwidrige Praxis ent-
+wickelt hat. Abschliessend braucht diese Frage indessen nicht beur-
+teilt zu werden, denn ein Anspruch auf Gleichbehandlung im Unrecht 
+
+
+2010 
+Bau-, Raumentwicklungs- u. Umweltschutzrecht 
+155 
+besteht – wie ausgeführt (Erw. 3.3.) – nur dann, wenn die Behörde, 
+welche die gesetzwidrige Praxis entwickelt hat, es ablehnt, diese 
+aufzugeben (siehe dazu Erw. 3.4.2.) und wenn keine öffentlichen In-
+teressen oder berechtigte Interessen Dritter entgegenstehen. 
+3.4.2. 
+Die Berufung auf Gleichbehandlung im Unrecht ist namentlich 
+dann nicht zulässig, wenn eine Behörde bisher eine gesetzwidrige 
+Praxis geübt hat, diese durch eine Rechtsmittelinstanz als unzulässig 
+beurteilt worden ist und – was in der Regel zutrifft – anzunehmen ist, 
+die Behörde werde sich in Zukunft an die oberinstanzlich festgelegte 
+Praxis halten. Äussert sich die Verwaltung nicht über ihre Absicht, ist 
+anzunehmen, sie werde aufgrund der Erwägungen des richterlichen 
+Urteils zu einer gesetzmässigen Praxis übergehen (Entscheid des 
+Verwaltungsgerichts des Kantons Zürich vom 16. Januar 2008 
+[VB.2007.00309], Erw. 3.2; vgl. auch BGE 122 II 451 f.; Urteil des 
+Bundesgerichts vom 21. März 2007 [2P.247/2006], Erw. 5.5; Urteil 
+des Bundesgerichts vom 12. März 2004 [2A.449/2003], Erw. 5.2; je 
+mit Hinweisen). 
+Die Vorinstanz führte aus, der Gemeinderat gedenke an der ge-
+setzwidrigen Praxis festzuhalten, begründete dies indessen nicht 
+weiter. Ob sich der Gemeinderat im vorinstanzlichen Verfahren 
+überhaupt bewusst war, dass seine Praxis gesetzwidrig ist, erscheint 
+fraglich. Im Protokollauszug vom 19. Januar 2009 hielt er lediglich 
+fest, er habe seit längerer Zeit eine "relativ tolerante Haltung" in Be-
+zug auf die Zulassung von grösseren Dachvorsprüngen bewiesen. 
+Zudem äusserte er sich nie dazu, ob er an einer (allenfalls) gesetz-
+widrigen Praxis auch in Zukunft festhalten würde. Entgegen der Auf-
+fassung der Vorinstanz lassen diese Gegebenheiten den Schluss nicht 
+zu, dass der Gemeinderat an der gesetzwidrigen Praxis auch in 
+Zukunft festzuhalten gedenke. 
+Die Vorinstanz legte im angefochtenen Entscheid die gesetz-
+widrige Praxis dar und forderte den Gemeinderat – obschon sie für 
+den konkreten Fall den Anspruch auf Gleichbehandlung im Unrecht 
+bejahte – auf, von seiner rechtswidrigen Praxis zukünftig Abstand zu 
+nehmen. Die Beschwerdeführer machen in ihrer Verwaltungsge-
+richtsbeschwerde geltend, wenn sich eine Behörde nicht über ihre 
+
+
+156 
+Verwaltungsgericht 
+2010 
+Absicht, von ihrer Praxis abzuweichen äussere, nehme das Bundes-
+gericht an, dass der Gemeinderat auf Grund der bundesgerichtlichen 
+Erwägungen zu einer gesetzeskonformen Praxis übergehen werde. 
+Nachdem dem Gemeinderat seine unrichtige Rechtsauffassung von 
+der Vorinstanz dargelegt worden sei und er vom BVU als Aufsichts-
+behörde aufgefordert worden sei, das kantonale Recht zukünftig an-
+zuwenden, müsse davon ausgegangen werden, dass eine Praxisände-
+rung stattfinden werde bzw. müsse. In der Beschwerdeantwort äus-
+serte sich der Gemeinderat zu diesen Vorbringen nicht. Er verwies 
+lediglich auf zwei Baubewilligungen, in welchen Einfamilienhäuser 
+mit vergrössertem Dachvorsprung bewilligt worden seien (Be-
+schwerdeantwort Gemeinderat). Damit hat er zwar seine allfällige 
+(gesetzwidrige) Praxis erneut untermauert, sich jedoch nicht zur 
+Frage geäussert, ob er an seiner (ihm aufgrund des vorinstanzlichen 
+Entscheids mittlerweile klar bekannten) gesetzwidrigen Praxis fest-
+zuhalten gedenke. Mangels einer gegenteiligen Äusserung des Ge-
+meinderats muss deshalb davon ausgegangen werden, dass er auf-
+grund der Feststellung im vorinstanzlichen Entscheid, wonach eine 
+gesetzwidrige Praxis vorliege, und der ausdrücklichen Anweisung 
+durch die Vorinstanz (und Aufsichtsbehörde), von dieser rechtswid-
+rigen Praxis zukünftig Abstand zu nehmen, zu einer gesetzmässigen 
+Praxis übergehen wird. 
+Das Erfordernis, dass der Gemeinderat es ablehnt, seine ge-
+setzwidrige Praxis aufzugeben, kann somit nicht als erfüllt betrachtet 
+werden. 
+29 
+Eigentum an einer Brücke des Kantonalen Wanderwegnetzes; Zuständig-
+keit für den Unterhalt. 
+- 
+Brücken sind Bauten einer bewilligungspflichtigen Nutzung eines 
+Gewässers und damit Eigentum des Strasseneigentümers. 
+- 
+Der Kanton hat nur jene Wanderwege des kantonalen Wanderweg-
+netzes zu unterhalten, die keinem anderen Zweck dienen bzw. denen 
+keine andere (Erschliessungs-) Funktion zukommt.
