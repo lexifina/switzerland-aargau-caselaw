@@ -1,0 +1,323 @@
+---
+decision_id: "ag_versicherungsgericht_VBE.2013.475"
+court: "AG Versicherungsgericht"
+court_id: "ag_versicherungsgericht"
+chamber: "1. Kammer"
+docket: "VBE.2013.475"
+decided: "2010-10-13"
+published: "2014-05-20"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2695"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2695"
+cites_decisions: ["9C_576/2010", "BGE 133 V 14"]
+cites_law: ["switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/221.229.1/art-061.md", "switzerland/bund/acts/830.1/art-022.md", "switzerland/bund/acts/830.1/art-023.md", "switzerland/bund/acts/830.1/art-027.md", "switzerland/bund/acts/830.1/art-078.md", "switzerland/bund/acts/831.201/art-085bis.md", "switzerland/bund/acts/831.301/art-017.md"]
+---
+
+# Obergericht / Versicherungsgericht / 1. Kammer — VBE.2013.475
+
+## Regeste
+
+Art 78 und 23 ATSG; Art. 9 BV 
+Anwendungsfall der Verantwortlichkeit nach Art. 78 ATSG: Widerrechtlichkeit des Handelns des Versicherungsträgers (IV-Stelle) gegeben aufgrund eines Verstosses gegen Art. 23 Abs. 2 ATSG (Akzeptieren eines nichtigen Verzichts der versicherten Person auf IV-Leistungen) und gegen Art. 9 BV (Verletzung des Vertrauensschutzprinzips).
+
+## Text
+
+Vorliegend bildet – mangels Anwendbarkeit von Art. 17 Abs. 6
+ELV im Kanton Aargau – massgebendes Bewertungskriterium wie
+erwähnt der Verkehrswert, der durch einen geeigneten Schätzungs
+wert zu ermitteln ist. Die Ausgleichskasse A hat den anrechenbaren
+Verkehrswert auf der Basis der konkreten Liegenschaftsschätzung
+des baselstädtischen Grundbuch und Vermessungsamts, Bodenbe
+wertungsstelle, vom 13. Oktober 2010 ermittelt. Da es sich hierbei
+um einen für die Festsetzung des EL Anspruchs geeigneten amtli
+chen Schätzungswert handelt (vgl. dazu Urteil des EVG P 25/01 vom
+26. Juni 2001 E. 3a mit Verweis auf SVR 1998 EL Nr. 5 S. 9 E.6a
+und Urteil des EVG P 50/00 vom 8. Februar 2001 E. 2b), welcher
+auch seitens der Beschwerdeführerin als solcher nicht beanstandet
+wird, erweist sich dieser Ansatz als sachgerecht (…).
+3.1.4.2.
+(…)
+Wie die Beschwerdeführerin zu Recht geltend macht, wird sie
+mit einem derartigen Vorgehen nicht mit den Aargauer Einwohnerin
+nen, welche im Aargau eine Liegenschaft besitzen und bei welchen
+der steuerliche Verkehrswert (entsprechend der Aargauischen Verord
+nung über die Bewertung der Grundstücke, SAR 651.212) Anwen
+dung findet, gleichgestellt, sondern allenfalls den Basel Städterinnen,
+bei welchen die Bodenbewertungsstelle des Grundbuch und
+Vermessungsamts des Kantons Basel Stadt den Verkehrswert auf
+grund ihrer Schätzungsgrundlagen bestimmt. Eine dadurch im Ergeb
+nis allenfalls entstehende Ungleichbehandlung ist allerdings durch
+den Umstand, dass eine nicht im Kanton Aargau liegende Liegen
+schaft zu bewerten ist, sachlich gerechtfertigt. (…)
+3.1.4.3.
+(…)
+6 Art 78 und 23 ATSG; Art. 9 BV
+Anwendungsfall der Verantwortlichkeit nach Art. 78 ATSG:
+
+Widerrechtlichkeit des Handelns des Versicherungsträgers (IV Stelle)
+gegeben aufgrund eines Verstosses gegen Art. 23 Abs. 2 ATSG (Akzeptie
+ren eines nichtigen Verzichts der versicherten Person auf IV Leistungen)
+und gegen Art. 9 BV (Verletzung des Vertrauensschutzprinzips).
+Aus dem Entscheid des Versicherungsgerichts, 1. Kammer, vom 20.Mai
+2014 i.S. Y.C. gegen Ausgleichskasse A, IV Stelle (VBE.2013.475).
+Aus den Erwägungen
+2.
+2.1.
+Nach Art. 78 Abs.1 ATSG haften für Schäden, die von
+Durchführungsorganen oder einzelnen Funktionären von Versiche
+rungsträgern einer versicherten Person oder Dritten widerrechtlich
+zugefügt wurden, die öffentlichen Körperschaften, privaten Trägeror
+ganisationen oder Versicherungsträger, die für diese Organe verant
+wortlich sind.
+Art. 78 Abs. 1 ATSG stellt eine Kausalhaftung dar und setzt
+folglich kein Verschulden eines Organs der Versicherungseinrichtung
+voraus (BGE 133 V 14 E. 7 S. 18). Vorausgesetzt ist demgegenüber,
+dass ein Schaden vorliegt, den ein Beamter in Ausübung seiner
+amtlichen Tätigkeit Dritten widerrechtlich zufügt (Art. 78 Abs. 4
+ATSG i.V.m. Art. 3 Abs. 1 des Verantwortlichkeitsgesetzes). Das in
+Art. 78 ATSG vorgesehene Haftungssystem kommt jedoch erst dann
+zur Anwendung, wenn das (sozialversicherungsrechtliche) Verwal
+tungsverfahren bzw. das gerichtliche Anfechtungsverfahren die Schä
+digung nicht abwenden konnte (subsidiäre Haftungsnorm; BGE 133
+V 14 E. 5 S. 17; UELI KIESER, ATSG Kommentar, 2. Aufl. 2009,
+N.3 zu Art. 78 ATSG).
+
+2.2. – 2.3. (…)
+3.
+(…)
+4.
+Zunächst ist die erste Voraussetzung einer Verantwortlichkeit
+nach Art. 78 ATSG zu prüfen: die Widerrechtlichkeit. Eine solche
+könnte einerseits in der Verletzung von Art. 23 ATSG liegen, indem
+die Beschwerdegegnerin den von der Beschwerdeführerin erklärten
+Rückzug des IV Gesuches trotz dessen Nichtigkeit bestätigte.
+Andererseits fällt eine Verletzung des Grundsatzes von Treu und
+Glauben im öffentlichen Recht (Art. 9 der BV) in Betracht, indem
+die Beschwerdegegnerin in ihrem Schreiben vom 25. Oktober 2012
+eine falsche Auskunft erteilt haben könnte.
+4.1.
+4.1.1.
+Nach Art. 23 Abs. 1 ATSG kann die berechtigte Person auf
+Versicherungsleistungen verzichten. Sie kann den Verzicht jederzeit
+mit Wirkung für die Zukunft widerrufen. Verzicht und Widerruf sind
+schriftlich zu erklären. Verzicht und Widerruf sind nichtig, wenn die
+schutzwürdigen Interessen von andern Personen, von Versicherungen
+oder Fürsorgestellen beeinträchtigt werden oder wenn damit eine
+Umgehung gesetzlicher Vorschriften bezweckt wird (Art. 23 Abs. 2
+ATSG). Rechtsprechungsgemäss setzt die Zulässigkeit eines Ver
+zichts zudem ein schutzwürdiges Interesse der berechtigten Person
+voraus (Urteil des Bundesgerichts 9C_576/2010 vom 26. April 2011
+E. 4.3.2 mit Hinweis auf das Urteil des Eidg. Versicherungsgerichts
+H 234/04 E. 6.2.2; URS MÜLLER, Das Verwaltungsverfahren in der
+Invalidenversicherung, 2010, N. 2406).
+4.1.2.
+Vorliegend hatte die Z Versicherung ein schützenswertes Inte
+resse daran, dass die Versicherte ihr Leistungsgesuch nicht zurück
+zieht. Denn sie leistete bisher aufgrund des Ereignisses vom
+29.Oktober 2010 Krankentaggelder und hat bei der Beschwerde
+gegnerin einen Verrechnungsantrag gestellt. Sollte sich nach erfolgter
+Rentenprüfung ergeben, dass die Versicherte Anspruch auf eine
+Invalidenrente hat, könnte die Z Versicherung gemäss Art. 22 Abs. 2
+
+lit. b ATSG i.V.m. Art. 85bis IVV die Nachzahlung dieser Rente bis
+zur Höhe ihrer Vorschussleistung fordern (vgl. BGE 133 V 14 E. 8.4
+S. 21). Mit dem Rückzug der Anmeldung durch die Versicherte
+entgeht der Z Versicherung die Möglichkeit, von der Beschwerde
+gegnerin bei einer allfällig zugesprochenen Invalidenrente Nachzah
+lungen zu verlangen. Die Beschwerdegegnerin wusste von den Inte
+ressen der Z Versicherung. Denn in einem Telefonat vom 18.Sep
+tember 2012 teilte die Z Versicherung der Beschwerdegegnerin mit,
+dass ein Verrechnungsantrag vorliege und sie nicht bereit sei, auf ihre
+Forderungen zu verzichten. Daraufhin forderte die Z Versicherung
+die Beschwerdeführerin auf, ihren Rückzug der Anmeldung zu
+widerrufen, was diese mit Schreiben vom 22. September 2012 auch
+tat. In diesem Schreiben weist die Beschwerdeführerin die Be
+schwerdegegnerin ausdrücklich auf das Gespräch mit der Z Ver
+sicherung hin. Weiter ist aus den Akten ersichtlich, dass am
+25.Oktober 2012 – dem Tag, an welchem die Beschwerdegegnerin
+die Beschwerdeführerin in einem Schreiben darauf hinwies, dass der
+Rückzug der Anmeldung keine Interessen der Taggeldversicherung
+tangiere – ein Telefonat zwischen der Z Versicherung und der
+Beschwerdegegnerin geführt wurde. Hierbei erklärte die Z Ver
+sicherung, dass sie mit dem Vorgehen der Beschwerdegegnerin nicht
+einverstanden sei und dass sie dieses als Schikane betrachte. Die
+Beschwerdegegnerin wusste, dass die Z Versicherung ein erhebliches
+Interesse finanzieller Art an der Rentenüberprüfung hatte. Dem
+Rückzug des IV Gesuchs stand somit das schutzwürdige Interesse
+der Z Versicherung entgegen, weshalb sich als Rechtsfolge gemäss
+Art. 23 Abs. 2 ATSG die Nichtigkeit des "Verzichts" beziehungswei
+se des Rückzugs der Anmeldung ergibt.
+Die Beschwerdegegnerin bringt hiergegen vor, dass ein schutz
+würdiges Interesse Dritter einzig in jenen Fällen gegeben sei, in wel
+chen der Dritte aufgrund des Verzichtes leistungspflichtig wird. Die
+ser Ansicht ist nicht beizupflichten. So handelt es sich sowohl im
+Falle, wo ein Dritter aufgrund des Verzichts leistungspflichtig wird,
+wie auch in der Konstellation, in welcher der Dritte bereits leistungs
+pflichtig ist, aufgrund des Verzichtes jedoch den Anspruch auf Ver
+rechnung beziehungsweise Nachforderung verliert, jeweils um schüt
+
+zenswerte vermögensrechtliche Interessen Dritter. Es besteht kein
+Grund, diese beiden Konstellationen unterschiedlich zu behandeln.
+In diesem Sinne äussert sich denn auch das Kreisschreiben über das
+Verfahren in der Invalidenversicherung (KSVI, Stand 1. Januar
+2014), welches die Interessen von Versicherungen als schutzwürdig
+im Sinne von Art. 23 ATSG erachtet, ohne dabei zu unterscheiden, ob
+die Versicherung erst aufgrund des Verzichtes leistungspflichtig wird
+oder ob sie aufgrund des Verzichtes ihren allfälligen Verrechnungs
+anspruch verliert (Rz. 1024.1; vgl. ferner URS MÜLLER, a.a.O.,
+Rz.2399).
+Nach dem Gesagten steht somit fest, dass die Beschwerde
+gegnerin aufgrund entgegenstehender schutzwürdiger finanzieller
+Interessen Dritter in widerrechtlicher Weise den Rückzug der
+Anmeldung bestätigt hat und somit gegen Art. 23 ATSG verstossen
+hat.
+4.2.
+4.2.1.
+Gemäss Art. 9 BV hat jede Person Anspruch darauf, von den
+staatlichen Organen ohne Willkür und nach Treu und Glauben behan
+delt zu werden. Dieser Grundsatz gebietet ein loyales und vertrauens
+würdiges Verhalten im Rechtsverkehr (HÄFELIN/MÜLLER/UHL
+MANN, Allgemeines Verwaltungsrecht, 6. Aufl., 2010, N. 622).
+(…)
+4.2.2.
+Der Versicherungsträger ist gemäss Art. 27 Abs. 1 ATSG ver
+pflichtet, im Rahmen seines Zuständigkeitsbereichs die interessierten
+Personen über ihre Rechte und Pflichten aufzuklären. Der Versiche
+rungsträger ist daher unter anderem verpflichtet, die interessierten
+Personen auf die Folgen eines Leistungsverzichtes hinzuweisen
+(UELI KIESER, a.a.O., N. 25 zu Art. 27 ATSG). Wird die Beratungs
+pflicht nicht oder ungenügend wahrgenommen, kommt dies einer
+falsch erteilten Auskunft des Versicherungsträgers gleich, und es hat
+dafür der Versicherungsträger in Nachachtung des Vertrauensprinzips
+einzustehen (UELI KIESER, a.a.O., N. 27 zu Art. 27; vgl. weiter
+DERSELBE, Haftung der Sozialversicherungsträger nach Art. 78
+
+ATSG, in: Ueli Kieser [Hrsg.], Sozialversicherungsrechtstagung
+2013, S. 125).
+4.2.3.
+Der Beschwerdegegnerin war bekannt, dass die Z Versicherung
+gegen den Verzicht auf Leistungen der Beschwerdeführerin mehr
+mals opponierte und ein finanzielles Interesse an der Weiterführung
+des IV Verfahrens hatte (…). Trotz Kenntnis dieser Ausgangslage
+beschied die Beschwerdegegnerin der Beschwerdeführerin im
+Schreiben vom 25. Oktober 2012, dass ein Rückzug ihrer Anmel
+dung keine Interessen der Taggeldversicherung tangiere. Mit dieser
+Aussage hat die Beschwerdegegnerin eine Vertrauensgrundlage
+geschaffen. Die Aussage hat bei der Beschwerdeführerin das Ver
+trauen erweckt, dass der Rückzug ihrer Anmeldung die Interessen der
+Z Versicherung nicht beeinträchtige und sie daher ohne Folgen auf
+ihr IV Gesuch zurückkommen könne. Die Beschwerdegegnerin war
+denn auch dafür zuständig, über die Interessen anderer Ver
+sicherungen Aussagen zu machen. So hat sie, wie gesehen, gemäss
+Art. 23 ATSG entgegenstehende Interesse zu prüfen, welche sie –
+trotz Kenntnis der Interessen der Z Versicherung – verneinte. Selbst
+wenn man davon ausginge, dass die Beschwerdegegnerin nicht
+zuständig sei, wäre die Unzuständigkeit der Beschwerdegegnerin für
+die damals nicht vertretene Beschwerdeführerin nicht offensichtlich
+gewesen. Insbesondere aufgrund der konkreten Umstände konnte es
+sich für die Beschwerdeführerin nicht um eine offensichtlich falsche
+Auskunft einer unzuständigen Behörde handeln: Denn die Be
+schwerdeführerin teilte der Beschwerdegegnerin mit, dass sie auf
+Druck der Z Versicherung ihren erstmaligen Rückzug der IV An
+meldung widerrief. Wenn nun die Beschwerdegegnerin eine solche
+Mitteilung – in Kenntnis der gegensätzlichen Interessen der Z Ver
+sicherung – erliess, durfte die Beschwerdeführerin zumindest davon
+ausgehen, dass die Interessenlage zwischen den Versicherungen
+geklärt sei und ihr aus dem Rückzug des IV Gesuches keine Nach
+teile entstehen würden. Im Vertrauen auf die Auskunft der Beschwer
+degegnerin, wonach die Beschwerdeführerin aus einem Rückzug der
+Anmeldung keine Interessen der Taggeldversicherung beeinträchtige,
+kam letztere mit Schreiben vom 15. November 2012 auf den
+
+Widerruf des Rückzugs des IV Gesuches zurück. Damit hat die
+Beschwerdegegnerin gegen den Grundsatz von Treu und Glauben
+verstossen, was ebenfalls die Widerrechtlichkeit begründet.
+4.3.
+Nach dem Gesagten steht somit fest, dass die Beschwerde
+gegnerin in widerrechtlicher Weise, indem sie den Verzicht der Be
+schwerdeführerin auf IV Leistungen als zulässig erachtete, gegen
+Art. 23 ATSG und, indem sie die Beschwerdeführerin in ihrem
+Schreiben vom 25. Oktober 2012 – trotz Kenntnis der wider
+sprechenden Interessen der Z Versicherung – im Glauben liess, ihr
+Rückzug der Anmeldung würde die Interessen der Taggeldversiche
+rung nicht beeinträchtigen, gegen Art. 9 BV verstossen hat.
+5.
+Zu prüfen ist nun, ob der Beschwerdeführerin ein Schaden ent
+standen ist und ob zwischen der widerrechtlichen Handlung der Be
+schwerdegegnerin und dem eingetreten Schaden ein natürlicher und
+adäquater Kausalzusammenhang besteht. Wie bereits gesehen ist ein
+zig jener Schaden zu ersetzen, welcher ihr auch bei der Durchfüh
+rung eines ordentlichen Anfechtungsverfahrens entstanden wäre (vgl.
+Erwägung 3 hiervor). Die Beschwerdeführerin macht Vertretungs
+kosten von Fr. 4'004.65 als Schaden geltend.
+5.1.
+Die Haftung setzt den Nachweis voraus, dass der natürliche so
+wie der adäquate Kausalzusammenhang gegeben sind. Der adäquate
+Kausalzusammenhang ist gegeben, wenn die schädigende Handlung
+nach dem gewöhnlichen Lauf der Dinge und nach den allgemeinen
+Lebenserfahrungen geeignet ist, den tatsächlich eingetretenen Erfolg
+herbeizuführen oder jedenfalls zu begünstigen. Dieser Kausalzusam
+menhang kann durch ein Selbstverschulden der geschädigten Person,
+durch ein Drittverschulden oder durch höhere Gewalt unterbrochen
+werden (KIESER, a.a.O., N. 30 zu Art. 78 ATSG mit Hinweisen). Auf
+grund der Subsidiarität der Haftung nach Art. 78 ATSG kann ein
+Selbstverschulden etwa darin bestehen, dass die versicherte Person
+ein ihr zustehendes Rechtsmittel gegen einen leistungsverweigernden
+Entscheid des Durchführungsorgans nicht ergreift (BGE 133 V 14 E.
+5 S. 16, KIESER, a.a.O., N. 3 und N. 30 zu Art. 78 ATSG).
+
+5.2.
+Nachdem die Beschwerdeführerin am 15. November 2012 ihren
+Widerruf des Verzichts widerrufen hat, teilte ihr die Z Versicherung
+am 13. beziehungsweise am 14. Dezember 2012 mit, dass sie infolge
+ihres Rückzuges der IV Anmeldung ihre vertraglich und gesetzlich
+(Art. 61 VVG) obliegende Schadenminderungspflicht verletzt habe
+und sie daher Fr. 13'920.00 zurückfordere. Ob diese Forderung
+berechtigt ist, ist vorliegend nicht relevant. Entscheidend ist, dass sie
+für die nicht vertretene Beschwerdeführerin nicht offensichtlich un
+rechtmässig war. Obwohl die Beschwerdegegnerin der Beschwerde
+führerin bestätigte, dass ihr Verzicht auf Leistungen der IV keine
+Leistungen anderer Versicherer beeinträchtigte, sah sie sich einer
+Rückforderung von Fr. 13'920.00 gegenüber. Unter diesen Um
+ständen sah sich die Beschwerdeführerin dazu veranlasst, professio
+nelle Hilfe in Anspruch zu nehmen, um die Z Versicherung dazu zu
+bringen, von dieser Rückforderung abzusehen. Sämtliche Kosten,
+welche der Beschwerdeführerin entstanden sind, um die Z Versiche
+rung von dieser Rückforderung abzubringen, sind sowohl natürlich
+als auch adäquat kausal zur widerrechtlichen Handlung der Be
+schwerdegegnerin. Denn hätte die Beschwerdegegnerin die Be
+schwerdeführerin nicht im Glauben gelassen, dass ihr Rückzug keine
+Interessen anderer Taggeldversicherungen beeinträchtige, hätte letz
+tere ihren Widerruf des Verzichts nicht widerrufen, womit die Z
+Versicherung keinen Anlass gehabt hätte, Schadenersatz aufgrund der
+Verletzung der Schadenminderungspflicht zu fordern.
+(…)
+
+7 §§ 41 und 49 VRPG; materielle Rechtskraft; Bindungswirkung
+Dem formell rechtskräftigen Rechtsmittelentscheid von Verwaltungsbe
+hörden kommt insofern materielle Rechtskraft zu, als die darin ange
+ordneten Massnahmen in einem neuen Verfahren nicht mehr auf ihre
+Rechtmässigkeit hin überprüft werden dürfen. Zwischenentscheide er
+wachsen grundsätzlich nicht in materielle Rechtskraft und können im
+Laufe des Verfahrens abgeändert werden; haben sie aber ein Rechts
+mittelverfahren durchlaufen, ist die verfahrensleitende Behörde an den
+Rechtsmittelentscheid zumindest solange gebunden, wie sich die Verhält
+nisse nicht ändern. Keine materielle Rechtskraft entfalten in der Regel
+Rückweisungsentscheide. Die Bindung an den Rückweisungsentscheid
+ergibt sich nicht aus dessen Rechtskraft, sondern aus der Hierarchie der
+Instanzen und der Einheit des Verfahrens. Der Neuentscheid eröffnet
+einen neuen Rechtsmittelweg.
+Aus dem Entscheid des Verwaltungsgerichts, 1. Kammer, vom 13. August
+2014 in Sachen H.S. gegen das Departement Volkswirtschaft und Inneres
+(WBE.2014.162).
+Aus den Erwägungen
+I.
+1. (…)
+2.
+2.1.
+Gegenstand des vorliegenden Beschwerdeverfahrens bildet u.a.
+der mit Verfügung des Strassenverkehrsamts vom 29.Januar 2014
+angeordnete vorsorgliche Sicherungsentzug des Führerausweises bis
+zur Abklärung von Ausschlussgründen mittels verkehrspsychiatri
+scher Begutachtung. Allerdings hätte das Strassenverkehrsamt am
