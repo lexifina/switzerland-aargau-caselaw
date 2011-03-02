@@ -1,0 +1,442 @@
+---
+decision_id: "ag_baugesetzgebung_Jagdausschluss"
+court: "AG Baugesetzgebung"
+court_id: "ag_baugesetzgebung"
+docket: "Jagdausschluss"
+decided: "2011-03-02"
+published: "2011-02-02"
+language: "de"
+source_url: "https://www.ag.ch/media/kanton-aargau/bvu/bauen/baurecht/entscheidsammlung-rechtsabteilung-bvu/2011-03-02-jagdausschluss-ebvu.pdf"
+pdf_url: "https://www.ag.ch/media/kanton-aargau/bvu/bauen/baurecht/entscheidsammlung-rechtsabteilung-bvu/2011-03-02-jagdausschluss-ebvu.pdf"
+cites_law: ["switzerland/bund/acts/455/art-022.md", "switzerland/bund/acts/455/art-027.md"]
+---
+
+# AG Baugesetzgebung Jagdausschluss
+
+## Regeste
+
+Eine Verurteilung wegen vorsätzlicher Tierquälerei von einer gewissen Schwere ist mit der Ausübung der Jagd unvereinbar und stellt einen Jagdausschlussgrund dar.
+
+## Text
+
+Jagdausschluss 
+ 
+Eine Verurteilung wegen vorsätzlicher Tierquälerei 
+von einer gewissen Schwere ist mit der Ausübung 
+der 
+Jagd 
+unvereinbar 
+und 
+stellt 
+einen 
+Jagdausschlussgrund dar. 
+ 
+Entscheid des Departements Bau, Verkehr und Umwelt (EBVU) vom 2. März 
+2011 in Sachen X. (BVURA.11.127) 
+ 
+Aus den Erwägungen 
+ 
+1. Die Jagdreviere werden durch den Kanton für die Dauer von 
+acht Jahren an Jagdgesellschaften verpachtet (§ 4 Abs. 1 des 
+Jagdgesetzes des Kantons Aargau, ASJG), wobei als 
+Jagdgesellschaft ein Zusammenschluss von Jagdberechtigten 
+in der Rechtsform eines Vereins gilt (§ 5 AJSG). Die Mitglieder 
+einer Jagdgesellschaft müssen für die Dauer der Pachtperiode 
+im Besitz des aargauischen Jagdpasses sein (§ 5 Abs. 2 
+AJSG). Gemäss § 8 AJSG ist im Kanton jagdberechtigt, wer 
+einen vom Kanton Aargau anerkannten Jagdpass besitzt. 
+Berechtigt zum Bezug eines Jagdpasses ist nur, wer nicht von 
+der Jagd ausgeschlossen ist (§ 8 Abs. 3 AJSG). Von der Jagd 
+im Kanton wird ausgeschlossen, wer wegen wiederholter 
+vorsätzlicher Widerhandlungen gegen das Jagdrecht oder 
+anderweitiger 
+Straftaten, 
+die 
+mit 
+der 
+Jagdausübung 
+unvereinbar sind, bestraft worden ist (§ 9 Abs. 2 lit. c AJSG). 
+Nachfolgend ist zu prüfen, ob dem Gesuchsteller gestützt auf 
+§ 9 Abs. 2 lit. c AJSG die Ausstellung des Jagdpasses zu 
+verweigern ist. 
+ 
+2. Mit Bestellformular für (Jahres)-Jagdpass vom 7. Januar 
+2011 ersuchte X. (nachfolgend: Gesuchsteller) um Ausstellung 
+
+
+eines Jagdpasses für die Dauer der Pachtperiode vom 
+1. Januar 2011 bis 31. Dezember 2018 für Jagdaufseher und 
+Vereinsmitglieder. 
+Aufforderungsgemäss 
+legte 
+der 
+Gesuchsteller seinem Gesuch einen Auszug aus dem 
+schweizerischen Strafregister vom 11. November 2010 bei, 
+welcher folgenden Eintrag aufweist: 
+ 
+«15.3.2010 Gerichtspräsidium Zofingen 
+Eröffnet: 15.3.2010 
+Rechtskraft: 14.4.2010 
+Vergehen gegen das Tierschutzgesetz 
+Geldstrafe 20 Tagessätze zu 70 CHF 
+bedingt vollziehbar, Probezeit 2 Jahre 
+Busse 700 CHF 
+* Urteil erscheint nicht mehr am: 14.3.2012» 
+ 
+Dem Strafregistereintrag liegt folgender Sachverhalt zugrunde: 
+Am 29. Dezember 2007 ging beim kantonalen Veterinärdienst 
+die Meldung über die Haltung der drei Hunde des 
+Gesuchstellers ein, nachdem einer der Rüden am 27. 
+Dezember 2007 durch eine Passantin aufgegriffen und in ein 
+Tierheim gebracht worden war. Dabei wurde festgestellt, dass 
+der Rüde massiv abgemagert war. Die nachfolgenden 
+Ermittlungen 
+und 
+Untersuchungen 
+ergaben, 
+dass 
+der 
+Gesuchsteller während der Jagd im November und Dezember 
+2007 seine beiden Rüden in qualitativer Hinsicht ungenügend 
+ernährt hatte (namentlich zu wenig Rohproteine und zu wenig 
+Rohfett). Die Hunde waren während der 2 Monate jeweils an 2 
+Tagen pro Woche im Jagdeinsatz gewesen. Die ungenügende 
+Ernährung führte zu einer Unterernährung, was tierärztlich 
+festgestellt wurde. So wiesen «A.» und «B.», beides 
+Jagdhundemischlinge 
+der 
+Rassen 
+Berner 
+
+
+Niederlaufhund/Beagle, ein Gewicht von 11 kg bzw. 10 kg auf. 
+Gleichzeitig wurde bei «A.» ein Wurmbefall diagnostiziert. 
+Mit Strafbefehl vom 20. Oktober 2009 verurteilte das 
+Bezirksamt den Gesuchsteller wegen fahrlässiger Tierquälerei 
+zu einer Busse von Fr. 700.– und einer Ersatzfreiheitsstrafe 
+von 7 Tagen, welche bei Nichtbezahlung der Busse vollzogen 
+wird. 
+Mit 
+Verfügung 
+vom 
+4. 
+Januar 
+2010 
+erhob 
+die 
+Staatsanwaltschaft gegen den Strafbefehl des Bezirksamts 
+Einsprache mit dem Antrag, der Gesuchsteller sei wegen 
+mehrfacher vorsätzlicher Tierquälerei zu verurteilen und er sei 
+mit einer Geldstrafe von 20 Tagessätzen à Fr. 70.–, bedingt, 
+sowie einer Busse von Fr. 700.– zu bestrafen. … 
+Mit Urteil des Gerichtspräsidiums vom 15. März 2010 wurde 
+der Gesuchsteller der vorsätzlichen Tierquälerei gemäss Art. 2 
+Abs. 1 und 2 aTSchG in Verbindung mit Art. 22 Abs. 1 
+aTSchG und Art. 27 Abs. 1 lit. a aTSchG für schuldig 
+befunden und das Strafmass wurde erhöht. 
+ 
+3. a) Der Gesuchsteller geht davon aus, dass für den 
+Ausschluss von der Jagd eine wiederholte Straftat vorliegen 
+muss 
+und 
+dass 
+die 
+Entscheidbehörde 
+einen 
+Ermessenspielraum habe. 
+§ 9 Abs. 2 AJSG legt fest, dass von der Jagd im Kanton 
+Aargau ausgeschlossen wird, wer wegen wiederholter 
+vorsätzlicher Widerhandlungen gegen das Jagdrecht oder 
+wegen anderweitiger Straftaten, die mit der Jagdausübung 
+unvereinbar sind, bestraft worden ist (§ 9 Abs. 2 AJSG). Dies 
+im Gegensatz zu Abs. 1, welcher festlegt, dass von der Jagd 
+ausgeschlossen werden kann, wer wegen Widerhandlung 
+gegen das Jagdrecht bestraft worden ist. 
+
+
+Den Materialien zu § 9 ist Folgendes zu entnehmen (vgl. 
+Botschaft des Regierungsrats an den Grossen Rat vom 
+21. Mai 2008, S. 24 f.): 
+«Die bisherige Liste der Ausschlussgründe von der Jagd wird 
+gestrafft und den heutigen Verhältnissen angepasst. Primäre 
+Ausschlussgründe sind jagdrechtlicher Natur. Anderweitige 
+Straftaten (Abs. 2 lit. c) sind nur insofern relevant, als sie mit 
+der Jagdausübung unvereinbar sind. Zu denken ist dabei etwa 
+an strafbare Handlungen gegen Leib und Leben (Mord, 
+Körperverletzung) 
+oder 
+gegen 
+die 
+Freiheit 
+(Drohung, 
+Nötigung). Auch Straftaten im Zusammenhang mit dem 
+Tierschutz- oder Umweltrecht können in Frage kommen. 
+Da bei diesen Straftatbeständen bereits eine einmalige 
+Verurteilung ausreicht – bei den Widerhandlungen gegen 
+Bestimmungen 
+des 
+Jagdrechts 
+ist 
+eine 
+mehrmalige 
+wissentliche und willentliche Tatbegehung für den Ausschluss 
+notwendig –, muss die Straftat eine gewisse Schwere 
+aufweisen. So muss die weitere Ausübung der Jagd durch die 
+verurteilte Person von der Behörde als risikoreich beurteilt 
+werden und die Tat an sich eine gewisse Schwere und 
+kriminelle Energie erkennen lassen.» 
+… 
+ 
+b) aa) Wie vorstehend erwähnt, können Straftaten im 
+Zusammenhang 
+mit 
+der 
+Tierschutzgesetzgebung 
+zum 
+Ausschluss von der Jagd führen, allerdings muss die Straftat 
+eine gewisse Schwere aufweisen und die Risikoeinschätzung 
+hinsichtlich der Jagdausübung des Gesuchstellers muss 
+negativ sein. Vorliegend erkannte das Gerichtspräsidium in 
+zweiter Instanz auf Antrag der Staatsanwaltschaft auf 
+vorsätzliche Tierquälerei, nachdem der Gesuchsteller in erster 
+Instanz nur wegen fahrlässiger Tierquälerei verurteilt worden 
+war. Das Gericht folgte somit den Ausführungen des 
+
+
+Staatsanwalts, wonach der Gesuchsteller den schlechten 
+Zustand seiner Hunde, welche für die Jagd zu wenig ernährt 
+waren und trotzdem weiterhin eingesetzt wurden, zumindest in 
+Kauf nahm. Die vorsätzliche Tatbegehung weist auf die 
+geforderte Schwere der Straftat hin, ebenso die Erhöhung der 
+Strafe auf 20 Tagessätze à Fr. 70.–. In Übereinstimmung mit 
+der Staatsanwaltschaft und dem Gerichtspräsidium muss die 
+Vernachlässigung und Überanstrengung der Jagdhunde über 
+einen längeren Zeitraum hinweg als schwerwiegend beurteilt 
+werden. 
+Erschwerend fällt ins Gewicht, dass die Tathandlung im 
+Zusammenhang mit der Jagd stattfand. Die Jagd soll 
+grundsätzlich immer nach weidmännischen Grundsätzen 
+ausgeübt werden (vgl. §§ 1 und 2 AJSG). Der Schutz der 
+Wildtiere erfordert, dass auf der Jagd – wie etwa bei der 
+Nachsuche – nur Jagdhunde eingesetzt werden, die sich in 
+gesundheitlich gutem, leistungsfähigem Zustand befinden. 
+Keinesfalls darf die Jagd zu Lasten des Wohlergehens der 
+eingesetzten Jagdhunde ausgeübt werden. Der Umstand, 
+dass der Gesuchsteller über längere Zeit die Hunde trotz ihres 
+offenkundig schlechten Gesundheitszustands zweimal pro 
+Woche 
+bei 
+der 
+Jagd 
+einsetzte, 
+widerspricht 
+diesen 
+Grundsätzen fundamental und wiegt schwer. Umso mehr, als 
+der 
+Gesuchsteller 
+im 
+Zeitpunkt 
+der 
+Tat 
+(2007) 
+als 
+Jagdaufseher amtete und damit nach dem in diesem Zeitpunkt 
+geltenden Gesetz über Wildschutz, Vogelschutz und Jagd vom 
+25. Februar 1969 (aJagdgesetz) als Organ der Jagdpolizei 
+verantwortlich zeichnete (§ 53 aJagdgesetz). An einen 
+Jagdaufseher dürfen in jedem Fall höhere Anforderungen 
+bezüglich 
+Einhaltung 
+der 
+Tierschutzvorschriften 
+im 
+Zusammenhang mit der Jagd gestellt werden als an einen 
+Pächter. Der Gesuchsteller hätte die – selbst für Dritte 
+offenkundige – Überforderung seiner Hunde bemerken und die 
+
+
+entsprechenden Massnahmen zum Schutz seiner Hunde 
+ergreifen müssen (vgl. nachstehende Erwägungen). Das hat 
+er jedoch nicht getan, was erschwerend ins Gewicht fällt. 
+In diesem Zusammenhang ist zwar anerkennend festzustellen, 
+dass es sich lediglich um eine einmalige Tat handelt und dass 
+der tierärztliche Bericht vom 2. Februar 2011 den Hunden des 
+Gesuchstellers einen guten Nährzustand und das Fehlen von 
+Anzeichen von Verhaltensdefiziten attestiert. Diese Umstände 
+ändern jedoch nichts an der Beurteilung der begangenen 
+Straftat an sich, sie sind allenfalls bei der Prognose der 
+Jagdausübung des Gesuchstellers zu berücksichtigen. 
+ 
+bb) Hinsichtlich der Risikoprognose der Jagdausübung gilt es 
+zu bedenken, dass die Jagdgesellschaften bzw. die einzelnen 
+Jäger anstelle des Staates ein kantonales Regal ausüben und 
+eine entsprechende Verantwortung wahrzunehmen haben 
+(§ 55 der Kantonsverfassung). Da die Verurteilung erst vor 
+relativ kurzer Zeit erfolgte und der Gesuchsteller trotz des 
+offenkundig schlechten Zustands der Hunde seine Interessen 
+an der Jagdausübung der Gesundheit der Hunde voranstellte, 
+ist keine Gewähr für eine geordnete, effiziente und dem 
+Schutz 
+der 
+Wildtiere 
+bestmöglich 
+Rechnung 
+tragende 
+Jagdausübung durch den Gesuchsteller geboten. Denn die 
+Mitarbeit der Jagdhunde zweimal pro Woche war für die 
+Jagdausübung des Gesuchstellers bzw. der Jagdgesellschaft 
+nicht 
+zwingend 
+notwendig. 
+Der 
+Gesuchsteller 
+hätte 
+Massnahmen zum Schutz der offenkundig überforderten 
+Hunde treffen können, ohne dabei auf sein Hobby verzichten 
+zu müssen. So hätte er etwa ohne weiteres die Hunde 
+schonen und hin und wieder zu Hause lassen und jeweils 
+einen Hund zur Nachsuche holen können. Das hat er jedoch 
+nicht getan. Der Gesuchsteller lässt keine Einsicht in die 
+Unrechtmässigkeit oder in die jagdliche Relevanz der Tat 
+
+
+erkennen, was nicht für eine gute Prognose seiner 
+Jagdausübung spricht. Es fehlt offenkundig das Bewusstsein, 
+dass eine weidmännische Jagdausübung auch beinhaltet, 
+dass die zur Jagd beigezogenen Hunde nicht überfordert 
+werden. Das manifestiert sich insbesondere darin, dass der 
+Gesuchsteller ein «Arbeitszeugnis» der Jagdgesellschaft vom 
+27. Januar 2011 zu seinen Gunsten ins Recht legt, welches 
+keinen Hinweis auf ein Bedauern oder auf ein Verständnis der 
+Unrechtmässigkeit der damaligen Vorkommnisse hinsichtlich 
+jagdlicher Belange enthält. Vielmehr ist die Jagdgesellschaft 
+der Meinung, dass ihr Jagdaufseher mit der Verurteilung 
+genug gestraft worden sei, was offensichtlich auch die Ansicht 
+des Gesuchstellers ist. Indes steht in diesem Verfahren nicht 
+die Bestrafung des Gesuchstellers zur Diskussion, sondern es 
+ist 
+zu 
+entscheiden, 
+ob 
+dem 
+Gesuchsteller 
+die 
+Jagdberechtigung erteilt werden kann. Und dies hängt nicht 
+zuletzt von der Risikoprognose bezüglich der Jagdausübung 
+des Gesuchstellers ab. 
+Zugunsten des Gesuchstellers lassen sich – wie vorstehend 
+erwähnt – die Einmaligkeit der Tathandlung und der 
+tierärztliche Bericht vom 2. Februar 2011 über den Zustand 
+seiner Hunde ins Feld führen. Allerdings wiegen diese 
+Argumente gegenüber den vorstehend aufgeführten nicht 
+schwer, zumal die Verurteilung auch noch nicht lange her ist 
+und sich der Gesuchsteller in dieser kurzen Zeit noch nicht 
+bewähren 
+konnte. 
+Nach 
+dem 
+Gesagten 
+kann 
+die 
+Risikoprognose nicht als positiv beurteilt werden. 
+… 
+ 
+f) Nach dem Gesagten steht fest, dass es sich bei der vom 
+Gesuchsteller begangenen vorsätzlichen Tierquälerei um eine 
+Straftat 
+handelt, 
+die 
+mit 
+der 
+Jagd 
+unvereinbar 
+ist. 
+
+
+Dementsprechend ist der Gesuchsteller zwingend von der 
+Jagd auszuschliessen. … 
+ 
+4. Das zuständige Departement verfügt den Ausschluss von 
+der Jagd für die Dauer von mindestens einem Jahr bis 
+höchstens zehn Jahren und entzieht den Jagdpass (§ 9 Abs. 3 
+AJSG). Mit Schreiben vom 11. Januar 2011 stellte das BVU 
+den Ausschluss von der Jagd bis 31. Dezember 2012 in 
+Aussicht. Der Gesuchsteller erhebt keine Einwendungen 
+gegen die Dauer des Jagdausschlusses. 
+Das Gerichtspräsidium sprach die Geldstrafe bedingt aus mit 
+einer Probezeit von 2 Jahren, welche am 14. März 2012 
+abläuft (vgl. den Strafregisterauszug). Die Mindestdauer des 
+Ausschlusses von der Jagd richtet sich nach diesem Termin, 
+bis zu diesem Zeitpunkt kann die Jagdberechtigung keinesfalls 
+erteilt werden. Zudem sind bei der Bemessung der Dauer des 
+Jagdausschlusses in erster Linie die Tat und deren Umstände 
+zu berücksichtigen. Dass die Tat vorsätzlich und nicht 
+fahrlässig 
+begangen 
+wurde 
+und 
+überdies 
+noch 
+im 
+Zusammenhang mit der Jagd steht, verlangt zwingend eine 
+Verlängerung der Ausschlussdauer. Sodann ist dem Umstand 
+Rechnung zu tragen, dass die Verurteilung erst vor kurzer Zeit 
+erfolgte und sich eine entsprechende «Bewährungsdauer» 
+aufdrängt. 
+Schwer 
+wiegt 
+vor 
+allem 
+auch, 
+dass 
+die 
+eingereichten Akten keine Einsicht des Gesuchstellers 
+bezüglich Unrechtmässigkeit oder jagdlicher Relevanz der Tat 
+erkennen lassen. 
+Gemessen an den vorstehenden Kriterien sind die Argumente, 
+die gegen eine Verlängerung der Jagdausschlussdauer 
+sprechen, wie etwa die Einmaligkeit der Tat oder der 
+tierärztliche 
+Bericht 
+vom 
+2. Februar 
+2011, 
+eher 
+von 
+untergeordneter Bedeutung (vgl. auch die Erwägungen unter 
+3b). 
+Sie 
+vermögen 
+die 
+vorstehend 
+aufgeführten, 
+
+
+schwerwiegenden Kriterien nicht zu überwiegen. Sodann ist zu 
+berücksichtigen, dass der Gesuchsteller für die Dauer des 
+Jagdausschlusses nicht vollständig von seinem Hobby 
+ausgeschlossen ist, sondern dass er bspw. nach wie vor als 
+Treiberchef an den Jagden teilnehmen kann. 
+Unter Berücksichtigung aller Umstände erscheint daher der 
+Ausschluss 
+von 
+der 
+Jagd 
+bis 
+31. Dezember 
+2012 
+angemessen. Der Gesuchsteller wird per 1. Januar 2013 unter 
+Vorbehalt 
+eines 
+dannzumal 
+einwandfreien 
+Strafregisterauszugs ein Gesuch um Ausstellung eines 
+Jagdpasses für den Rest der Pachtperiode 2011-2018 stellen 
+können. 
+(Anmerkung: 
+Der 
+Entscheid 
+ist 
+beim 
+Regierungsrat 
+angefochten worden und noch nicht rechtskräftig.)
