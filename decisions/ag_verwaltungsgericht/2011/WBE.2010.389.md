@@ -1,0 +1,306 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2010.389"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2010.389"
+decided: "2011-04-13"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2993"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2993"
+cites_law: ["switzerland/bund/acts/814.41/art-043.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2010.389
+
+## Regeste
+
+Zonenkonformität einer Hundehaltung in einer Dorfzone 
+Rechtmässigkeit der Beschränkung der Haltung von vier Hunden (Samojeden); Berücksichtigung der Gemeindeautonomie
+
+## Text
+
+2011 
+Bau-, Raumentwicklungs-, Umweltschutzrecht 
+127 
+senabstand des Wendeplatzes von 2 m zudem ab, was die Beschwer-
+deführer akzeptierten. Der von der Abteilung Tiefbau des BVU im 
+vorliegenden Beseitigungsverfahren angefertigte Plan vom 6. Feb-
+ruar 2009 zeigt zudem illustrativ auf, dass der Abstand des Abstell- 
+bzw. Vorplatzes von lediglich 2 m zur Kantonsstrasse die erforder-
+liche, ohnehin schon reduzierte Sichtzone beeinträchtigt: Die unbe-
+willigte Ausgestaltung des Vorplatzes lässt die Parkierung von vier 
+Fahrzeugen zu, was die Sichtzone klarerweise einschränkt. Das ge-
+forderte Sichtfeld ist zwar nicht auf der gesamten Abstellfläche, aber 
+doch teilweise beeinträchtigt, womit die Verkehrssicherheit nicht 
+mehr gewährleistet ist. Einer weitergehenden Ausnahmebewilligung 
+(vgl. § 67 BauG, aber auch der neue § 67a BauG) stehen mithin ge-
+wichtige öffentliche Interessen entgegen. Der eigenmächtig erstellte 
+Abstell- bzw. Vorplatz ist daher von vornherein nicht bewilligungs-
+fähig. (…) 
+Die materielle Rechtswidrigkeit als Grundvoraussetzung einer 
+auf Herstellung des rechtmässigen Zustands abzielenden Anordnung 
+ist somit erstellt. 
+3.5. 
+Bleibt zu prüfen, ob die angeordnete Herstellung des recht-
+mässigen Zustands rechtmässig ist. Die verfügte Anordnung ist unter 
+Berücksichtigung der allgemeinen Prinzipien des Verfahrens- und 
+Verwaltungsrechts zu beurteilen (vgl. Erw. 3.1.). 
+3.5.1.-3.5.2. (…) 
+(Hinweis: Im Anwendungsfall wurde die Herstellung des 
+rechtmässigen Zustands als rechtmässig beurteilt und geschützt) 
+34 
+Zonenkonformität einer Hundehaltung in einer Dorfzone 
+Rechtmässigkeit der Beschränkung der Haltung von vier Hunden 
+(Samojeden); Berücksichtigung der Gemeindeautonomie 
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 13. April 2011 in Sachen 
+A. und B. (WBE.2010.389). 
+
+
+128 
+Verwaltungsgericht 
+2011 
+Aus den Erwägungen 
+2. 
+2.1. 
+Die Beschwerdeführer halten auf ihrer Parzelle Nr. (…) an der 
+(…) in C. Hunde der Rasse der Samojeden. Das Grundstück befindet 
+sich gemäss geltendem Bauzonenplan (vom 15. November 1996 / 
+2. Dezember 1997; mit Teiländerung vom 15. November 2002 / 
+2. Juli 2003) in der Dorfzone. Gemäss der Bau- und Nutzungsord-
+nung der Gemeinde C. vom 15. November 1996 (BNO) ist die Dorf-
+zone für das Wohnen, die Landwirtschaft und das Gewerbe bestimmt 
+(vgl. § 8 Abs. 4 BNO). Mit andern Worten handelt es sich um eine 
+gemischte Wohn- / Gewerbezone. In der Dorfzone zugelassene 
+Wohnbauten sind Zweifamilienhäuser, Doppeleinfamilienhäuser, 
+Reiheneinfamilienhäuser bis zu vier Einheiten sowie Mehrfamilien-
+häuser bis sechs Wohneinheiten, wobei die Mehrzahl der Wohnungen 
+pro Gebäude mindestens drei Zimmer aufweisen muss. Weiter sind 
+Bauten für Gewerbe, Dienstleistungsbetriebe und Landwirtschaft zu-
+gelassen. Erlaubt sind mässig störende Betriebe, deren Auswirkun-
+gen im Rahmen herkömmlicher Betriebe und auf die üblichen Ar-
+beitszeiten beschränkt bleiben (§ 8 Abs. 4 BNO). Der Dorfzone ist 
+die Empfindlichkeitsstufe III zugeordnet (§ 6 Abs. 2 BNO). 
+Stellt man sich nun wie die Vorinstanzen auf den Standpunkt, 
+das Halten von mehr als vier Hunden könne in der Dorfzone nicht 
+bewilligt werden, so kann diese Argumentation – rein dogmatisch 
+betrachtet – entweder mit immissionsrechtlichen Gesichtspunkten 
+oder aber mit fehlender Zonenkonformität begründet werden. 
+2.2. 
+(…) (Zu Geruchs- und Lärmimmissionen bei Hundehaltung, 
+vgl. AGVE 1998, S. 317 f. [Erw. 2b]) 
+2.3. 
+Gemäss § 13 Abs. 1 und § 15 Abs. 1 und Abs. 2 lit. a BauG er-
+lassen die Gemeinden allgemeine Nutzungspläne (Zonenpläne) und 
+allgemeine Nutzungsvorschriften (Bau- und Zonenordnungen), die 
+das Gemeindegebiet in verschiedene Nutzungszonen einteilen sowie 
+Art und Mass der Nutzung regeln; sie können dabei insbesondere 
+
+
+2011 
+Bau-, Raumentwicklungs-, Umweltschutzrecht 
+129 
+Bauzonen, namentlich Wohn-, Kern-, Gewerbe-, Industriezonen und 
+Zonen für öffentliche Bauten ausscheiden. Bei der Ausscheidung und 
+Definition der verschiedenen Zonen geniessen die Gemeinden auf-
+grund von § 106 KV verfassungsrechtlich geschützte Autonomie; 
+hierin eingeschlossen ist die Anwendung des autonomen Gemeinde-
+rechts. Daraus folgt, dass sich das Verwaltungsgericht bei der Über-
+prüfung einschlägiger gemeinderätlicher Entscheide zurückzuhalten 
+hat. Dies gilt auch bei Immissionsfragen – obwohl dem Verwaltungs-
+gericht dort die Ermessensüberprüfung obliegt – insoweit, als es bei 
+den zu entscheidenden Fragen um rein lokale Anliegen geht und 
+weder überörtliche Interessen noch überwiegende Rechtsschutzanlie-
+gen berührt werden. Die Gemeinde kann sich in solchen Fällen bei 
+der Auslegung kommunalen Rechts insbesondere dort auf ihre Auto-
+nomie berufen, wo eine Regelung unbestimmt ist und verschiedene 
+Auslegungsergebnisse rechtlich vertretbar erscheinen. Die kantona-
+len Rechtsmittelinstanzen sind hier gehalten, das Ergebnis der ge-
+meinderätlichen Rechtsauslegung zu respektieren und nicht ohne Not 
+ihre eigene Rechtsauffassung an die Stelle der gemeinderätlichen zu 
+setzen. Die Autonomie der Gemeindebehörden hat jedoch auch in 
+diesen Fällen dort ihre Grenzen, wo sich eine Auslegung mit dem 
+Wortlaut sowie mit Sinn und Zweck des Gesetzes nicht mehr verein-
+baren lässt (VGE III/102 vom 26. September 2001 [BE.2000.00126], 
+S. 7 f.; AGVE 1998, S. 319 f. mit Hinweisen). 
+3. 
+3.1. 
+Der Gemeinderat betrachtet das Halten von Hunden in einer 
+Dorfzone wie hier grundsätzlich als zonenkonform und setzt allein 
+beim Ausmass der Tierhaltung eine Grenze. In gleicher Weise aner-
+kennt das Verwaltungsgericht das hobbymässige Halten von Haus-
+tieren wie Hunden, Katzen oder Kaninchen, aber auch von einzelnen 
+Pferden, als Bestandteil der reinen Wohnnutzung, jedoch immer un-
+ter der Voraussetzung, dass die Tierhaltung auch nach Art und Um-
+fang mit dem Wohnzweck noch vereinbart werden kann 
+(VGE III/102 vom 26. September 2001 [BE.2000.00126], S. 9; 
+AGVE 1998, S. 320 mit Hinweisen). Genauso ist die Haltung einer 
+Mehrzahl von Hunden in der Dorfzone zu beurteilen. Wie weit sich 
+
+
+130 
+Verwaltungsgericht 
+2011 
+die Haltung von Haustieren mit dem Zweck der vorliegenden Dorf-
+zone verträgt, also unter anderem die Antwort auf die Frage, welche 
+Anzahl einer Haustiergattung noch zonenkonform ist, muss dabei mit 
+Rücksicht auf die Gemeindeautonomie grundsätzlich der Wertung 
+der zuständigen Gemeindebehörde überlassen bleiben (vgl. Erw. 2.3. 
+hievor). 
+Zunächst folgt bereits aus der Rechtsnatur des Nutzungsplans 
+als konkret-genereller Anordnung – konkret, weil auf ganz bestimm-
+te Grundstücke bezogen; generell, da an eine unbestimmte Vielzahl 
+von Personen gerichtet (AGVE 1998, S. 321; vgl. Ulrich Häfelin / 
+Georg Müller / Felix Uhlmann, Allgemeines Verwaltungsrecht, 
+6. Auflage, Zürich / St. Gallen 2010, Rz. 944; Hänni, a.a.O., S. 92) –, 
+dass beim Entscheid über die jeweils zulässige Nutzung grundsätz-
+lich nicht auf die subjektiven Verhältnisse einzelner Eigentümer oder 
+Besitzer von Grundstücken abgestellt werden darf. Es liegt im Wesen 
+von Grundstücken und Gebäuden, dass ihre Benutzer oder Bewohner 
+mit mehr oder weniger grosser Regelmässigkeit wechseln. Daher 
+muss die Zonenordnung unabhängig von Personen und ihren Verhält-
+nissen auf durchschnittliche, objektivierte Bedingungen abstellen 
+und so auch ausgelegt werden. Vor diesem Hintergrund spielt es bei-
+spielsweise keine Rolle, ob eine gewisse Anzahl Hunde tatsächlich 
+bestimmte Immissionen verursacht oder nicht, sondern es genügt, 
+wenn mit einer bestimmten Anzahl typischerweise Auswirkungen 
+verbunden sind, die über das hinausgehen, was normalerweise mit 
+dem reinen Wohnen in einer Wohnzone bzw. konkret dem Zweck der 
+Dorfzone – Wohnen, Gewerbe (mässig störende Betriebe) und Land-
+wirtschaft – verbunden ist (AGVE 1998, S. 322; AGVE 1988, 
+S. 369 f.). Es muss eine generelle Regelung für alle Arten von Hun-
+den Platz greifen. 
+Die Schwierigkeit besteht nun für die rechtsanwendende Be-
+hörde vor allem darin, im Rahmen einer allgemeinen Regelbildung 
+zu bestimmen, wie gross die Zahl der erlaubten Hunde sein bzw. wo 
+die Grenze gezogen werden soll, jenseits derer mit der Hundehaltung 
+typischerweise Auswirkungen verbunden sind, die über das norma-
+lerweise mit dem Zweck der Dorfzone (Wohnen, Gewerbe und Land-
+wirtschaft) verbundene Mass hinausgehen. Dabei muss zweifellos 
+
+
+2011 
+Bau-, Raumentwicklungs-, Umweltschutzrecht 
+131 
+ein gewisses Mass an Störungen auch durch Tiere erlaubt sein, gibt 
+es doch nicht wenige menschliche Wohnaktivitäten – man denke 
+etwa an Rasenmähen, Kinderspiel oder Grillieren unter freiem Him-
+mel –, die ebenfalls erhebliche Auswirkungen auf die Umgebung zei-
+tigen; umso mehr gilt dies für landwirtschaftliche oder je nach Be-
+trieb auch gewerbliche Aktivitäten. Auf der andern Seite wird nie-
+mand bezweifeln, dass eine grössere Zahl von Hunden pro Haushalt 
+in einer relativ dicht besiedelten gemischten Zone, wo Erholung, 
+Schlafen, Haus- und Heimarbeit sowie Essen, aber auch soziale Kon-
+takte möglich sein sollen und nur mässig störende Betriebe zugelas-
+sen sind, das tolerierbare Mass überschreiten und nicht mehr der Em-
+pfindlichkeitsstufe III entsprechen würde. Dies muss unabhängig 
+davon gelten, ob die betreffende Tierhaltung hobby- oder gewerbs-
+mässig betrieben wird. Weil nun die zulässige Anzahl von Hunden 
+von sämtlichen Bewohnern bzw. Haushalten einer bestimmten Zone 
+ausgeschöpft werden darf, liegt es auf der Hand, dass der Gemeinde-
+rat diese Zahl tendenziell eher tief ansetzen muss, um siedlungs-
+planerisch und wohnhygienisch unhaltbare Zustände zu verhindern. 
+Auch hat er die lokalen Besonderheiten der Gemeinde und insbeson-
+dere der betroffenen Zone zu berücksichtigen, unabhängig davon, 
+dass die Dorfzone – wie die Beschwerdeführer vorbringen – eine 
+Empfindlichkeitsstufe III (vgl. Art. 43 Abs. 1 lit. c LSV) aufweist 
+und das Bundesgericht für eine andere Gemeinde in einer Land-
+wirtschaftszone bei einer Empfindlichkeitsstufe III auch schon die 
+Zonenkonformität einer höheren Anzahl Hunde bestätigt hat (Urteil 
+des Bundesgerichts vom 13. August 2001 [1A.276/2000]). Was für 
+eine Gemeinde in einem anderen Kanton stimmen mag, kann nicht 
+ohne weiteres auf die vorliegend zu beurteilende Dorfzone in C. 
+übertragen werden. Ebenfalls nicht weiter hilft schliesslich der Ein-
+wand der Beschwerdeführer, die Hunde hielten sich mehrheitlich in 
+der Wohnung auf und hätten noch nie eine Nacht im Freien ver-
+bracht. Die Begrenzung auf eine bestimmte maximal zulässige An-
+zahl Hunde bedingt eine gewisse Typisierung (Urteil des Bundesge-
+richts vom 13. August 2001 [1A.276/2000], Erw. 4d). So kann inner-
+halb der betroffenen Zone nicht nach gehaltener Hunderasse, Parzelle 
+oder Hundehalter unterschieden werden. Die Begrenzung auf eine 
+
+
+132 
+Verwaltungsgericht 
+2011 
+bestimmte Anzahl Hunde hat generell für alle Haushalte einer Zone 
+zu erfolgen. Auch kann nicht garantiert werden, dass die Beschwer-
+deführer in der konkreten Liegenschaft wohnen bleiben. Den Be-
+schwerdeführern kann ausserdem nicht vorgeschrieben werden, die 
+Hunde seien aus immissionsrechtlichen Gründen ausschliesslich oder 
+mehrheitlich in der Wohnung zu halten (Urteil des Bundesgerichts 
+vom 13. August 2001 [1A.276/2000], Erw. 4d). 
+Unter diesen Gesichtspunkten lässt sich gegen eine Beschrän-
+kung auf vier Hunde nichts einwenden. Zwar trifft es zu, dass einer 
+konkreten zahlenmässigen Festlegung immer auch etwas Zufälliges 
+anhaftet; jedoch muss zwangsläufig irgendwo die Grenze gezogen 
+werden, und wenn sie der Gemeinderat im Rahmen der verfassungs-
+mässig garantierten kommunalen Autonomie bei vier Hunden pro 
+Haushalt zieht, so kann ihm mit Bestimmtheit nicht vorgeworfen 
+werden, er entscheide sachfremd oder gar willkürlich. Mit Blick auf 
+den Entscheid des Verwaltungsgerichts betreffend den zulässigen 
+Hundebestand in einer reinen Wohnzone (AGVE 1998, S. 316 ff.) – 
+konkret wurde die Haltung von drei ausgewachsenen Hunden pro 
+Haushalt zugelassen – mag die zahlenmässige Festlegung auf vier 
+Hunde in einer gemischten Zone wie der Dorfzone in C. eher streng 
+erscheinen – indes liegt sie noch im Rahmen des Ermessensspiel-
+raums der Gemeinde und ist daher (mit Blick auf die Gemeinde-
+autonomie) durchaus vertretbar. Im Weitern bestehen auch keinerlei 
+Anzeichen dafür, dass die Bewilligungspraxis des Gemeinderats das 
+Rechtsgleichheitsgebot verletzt. Es erscheint wegen der Schwierig-
+keit eines Direktvergleichs (unter dem Immissionsgesichtspunkt) von 
+vornherein problematisch, bei der Festlegung der zulässigen Anzahl 
+Hunde massgeblich auf den Umstand abzustellen, dass in der Dorf-
+zone auch mässig störende Betriebe und Landwirtschaft zugelassen 
+sind. Entscheidend ist letztlich nur, ob die betreffende Nutzungsart 
+von ihrem Charakter her in die Dorfzone (gemischte Zone) passt 
+oder nicht. Diese Frage darf der Gemeinderat, ohne den ihm zuste-
+henden Beurteilungsspielraum zu verletzen, z.B. für einen Quartier-
+laden, einen Coiffeursalon, ein Architekturbüro oder auch eine Hun-
+dehaltung bis zu vier Tieren bejahen, für eine grössere Hundehaltung 
+dagegen verneinen. 
+
+
+2011 
+Bau-, Raumentwicklungs-, Umweltschutzrecht 
+133 
+3.2. 
+Erweist sich zusammenfassend die Begrenzung der Hundehal-
+tung auf vier Tiere bereits gestützt auf die sachlich begründete An-
+wendung und Auslegung der einschlägigen kommunalen Zonenvor-
+schriften durch die Gemeinde als zulässig, ist also mit andern Worten 
+die Haltung von acht Hunden in der Dorfzone nicht zonenkonform, 
+so ist die Beschwerde allein schon deshalb abzuweisen, ohne dass 
+noch eine Prüfung aufgrund der Vorgaben des Bundesumweltschutz-
+rechts zu erfolgen hätte (vgl. AGVE 1998, S. 324; BGE 114 Ib 214, 
+Erw. 5). 
+35 
+Behindertengleichstellung in der Erschliessungsplanung 
+Die Umsetzung der Vorschriften über hindernisfreie Bauten und Anlagen 
+ist im Planungsverfahren nicht vorgesehen, sondern erfolgt auf Stufe 
+Baubewilligung. 
+Urteil des Verwaltungsgerichts, 4. Kammer, vom 19. April 2011 in Sachen 
+A. 
+und 
+Mitbeteiligte 
+gegen 
+Gemeinderat 
+B. 
+und 
+Regierungsrat 
+(WBE.2010.124). 
+Aus den Erwägungen 
+3.2. 
+(…) 
+(…) Das Bundesgesetz über die Beseitigung von Benachteili-
+gungen von Menschen mit Behinderungen vom 13. Dezember 2002 
+(Behindertengleichstellungsgesetz, BehiG; SR 151.3) ist – von hier 
+nicht relevanten Ausnahmen abgesehen – ein Rahmengesetz und 
+beschränkt sich hinsichtlich der Beseitigung architektonischer Hin-
+dernisse bei Bauten auf die Festsetzung allgemeiner Voraussetzungen 
+des Diskriminierungsverbots gegenüber Behinderten. Die Grundsätze 
+und die Rahmenbedingungen des Behindertengleichstellungsgesetzes 
+erfordern mit Rücksicht auf die (staatsrechtliche) Kompetenzver-
+teilung zwischen Bund und Kantonen eine Umsetzung im kantonalen 
+Recht (BGE 134 II 249, Erw. 2.2 mit Hinweis; Adriano Previtale,
