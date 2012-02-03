@@ -1,0 +1,144 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2011.408"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "1. Kammer"
+docket: "WBE.2011.408"
+decided: "2012-02-03"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2923"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2923"
+cites_law: ["switzerland/bund/acts/312.0/art-439.md", "switzerland/bund/acts/312.0/art-442.md", "switzerland/bund/acts/312.0/art-445.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 1. Kammer — WBE.2011.408
+
+## Regeste
+
+Vollstreckung 
+Gegen Vollstreckungsentscheide der Staatsanwaltschaft betreffend die Einziehung von Gegenständen ist die Beschwerde an das Verwaltungsgericht zulässig.
+
+## Text
+
+2012 
+Verwaltungsrechtspflege 
+221 
+IX. Verwaltungsrechtspflege 
+ 
+32 
+Vollstreckung 
+Gegen Vollstreckungsentscheide der Staatsanwaltschaft betreffend die 
+Einziehung von Gegenständen ist die Beschwerde an das Verwal-
+tungsgericht zulässig. 
+Urteil des Verwaltungsgerichts, 4. Kammer, vom 3. Februar 2012 in Sachen 
+A. gegen Staatsanwaltschaft B. (WBE.2011.408). 
+Aus den Erwägungen 
+2. 
+2.1. 
+Gemäss Art. 439 StPO bestimmen Bund und Kantone die für 
+den Vollzug von Strafen und Massnahmen zuständigen Behörden 
+sowie die entsprechenden Verfahren, wobei die besonderen Regelun-
+gen in der Strafprozessordnung und im Schweizerischen Strafgesetz-
+buch vom 21. Dezember 1937 (StGB; SR 311.0) vorbehalten bleiben 
+(Art. 439 Abs. 1 StPO). Die Vollstreckung von Entscheiden über Ver-
+fahrenskosten und weitere finanzielle Leistungen erfolgt nach den 
+Bestimmungen des Bundesgesetzes vom 11. April 1889 über Schuld-
+betreibung und Konkurs (SchKG; SR 281.1) (Art. 442 Abs. 1 StPO). 
+Die Kantone haben, soweit sie dafür zuständig sind, die zum Vollzug 
+der Strafprozessordnung notwendigen Ausführungsbestimmungen zu 
+erlassen (Art. 445 StPO). 
+Die kantonale Vollzugsbehörde in Strafsachen ist allgemein das 
+zuständige Departement (§ 14 Abs. 1 EG StPO). Der Regierungsrat 
+kann durch Verordnung andere Behörden mit dem Vollzug von Stra-
+fen und Massnahmen sowie mit der Einforderung der Kosten beauf-
+tragen (§ 14 Abs. 2 EG StPO). 
+
+
+222 
+Verwaltungsgericht 
+2012 
+Für die Beurteilung von Beschwerden gegen Vollzugsmass-
+nahmen des Departements ist der Regierungsrat zuständig. Ausge-
+nommen davon sind Beschwerdeentscheide des Departements, die 
+mit Verwaltungsgerichtsbeschwerde anzufechten sind (§ 14 Abs. 3 
+EG StPO). Schliesslich kann der Regierungsrat durch Verordnung 
+Entscheide der Vollzugsbehörden als endgültig bezeichnen, wenn 
+diesen von Amtes wegen oder auf Antrag hin ein materieller Ent-
+scheid einer strafrichterlichen Behörde nachfolgt (§ 14 Abs. 4 
+EG StPO). 
+2.2. 
+Das Einführungsgesetz zur Schweizerischen Strafprozessord-
+nung enthält in §§ 42 ff. weitere Bestimmungen über die Voll-
+streckung von strafrechtlichen Entscheiden. Gemäss § 45 Abs. 2 
+EG StPO sind eingezogene Gegenstände der Staatsanwaltschaft ab-
+zuliefern und diese trifft die sachgemässen Entscheide. 
+2.3. 
+Der Regierungsrat regelt den Straf- und Massnahmevollzug 
+durch Verordnung, soweit das Bundesrecht und die kantonalen Ge-
+setze keine Bestimmungen enthalten (vgl. § 46 Abs. 1 EG StPO). Die 
+Strafvollzugsverordnung regelt den Vollzug von strafrechtlichen 
+Sanktionen gegenüber Erwachsenen (§ 1 Abs. 1 SMV). Der Regie-
+rungsrat ist zuständige Beschwerdeinstanz gegen Verfügungen und 
+Entscheide im Straf- und Massnahmevollzug, soweit nicht ausdrück-
+lich eine andere Behörde als solche bezeichnet ist (§ 3 Abs. 1 lit. a 
+SMV). 
+2.4. 
+Im vorliegenden Fall hat die Staatsanwaltschaft die Verfügung 
+über die Einziehung von Gegenständen gestützt auf § 45 Abs. 2 
+EG StPO erlassen. Die Bestimmungen über die Vollzugsbehörden in 
+§§ 14 ff. EG StPO beschränken sich auf die Regelung der Zuständig-
+keiten für den Vollzug von Strafen und Massnahmen. Die Rechts-
+schutzbestimmungen in § 102 SMV betreffen den Vollzug strafrecht-
+licher Sanktionen (Abs. 1), Verfügungen und erstinstanzliche Ent-
+scheide des Departements Volkswirtschaft und Inneres (DVI; 
+Abs. 2), Entscheide über Vollzugskosten oder die Entlassung aus 
+dem Straf- und Massnahmevollzug sowie Rechtsmittelentscheide des 
+
+
+2012 
+Verwaltungsrechtspflege 
+223 
+DVI (Abs. 3) und den Rechtschutz in Disziplinarsachen (Abs. 4). Im 
+Übrigen wird auf die Bestimmungen des Verwaltungsrechtspflege-
+gesetzes verwiesen (Abs. 5). 
+Ausdrückliche Rechtsschutzbestimmungen gegen Verfügungen 
+und Entscheide der Staatsanwaltschaft gestützt auf § 45 Abs. 2 
+EG StPO fehlen sowohl in der Strafvollzugsverordnung als auch im 
+Einführungsgesetz zur Schweizerischen Strafprozessordnung. Die 
+Zuständigkeits- und Rechtsmittelbestimmungen der Strafvollzugs-
+verordnung regeln ausschliesslich den Rechtsschutz im Straf- und 
+Massnahmevollzug und kommen daher auf die von der Staatsan-
+waltschaft eingezogenen Gegenstände nicht zur Anwendung. 
+Als Zwischenergebnis ist daher festzuhalten, dass weder die 
+Strafprozessordnung noch das kantonale Einführungsgesetz oder die 
+Strafvollzugsverordnung besondere Vorschriften für den Rechts-
+schutz gegen Entscheide der Staatsanwaltschaft betreffend die Voll-
+streckung der Einziehung von Gegenständen kennen. 
+2.5. 
+Der Rechtsschutz im Vollstreckungsverfahren ist im Verwal-
+tungsrechtspflegegesetz umfassend formuliert (vgl. § 83 Abs. 1 
+VRPG) und das Gesetz gilt für alle Behörden der öffentlichen Ver-
+waltung (vgl. § 1 Abs. 1 und 2 VRPG). Mangels spezialgesetzlicher 
+Bestimmung ist gegen Vollstreckungsentscheide der Staatsanwalt-
+schaft betreffend die Einziehung von Gegenständen daher die Be-
+schwerde an das Verwaltungsgericht zulässig. 
+33 
+Parteientschädigung; Verrechnung 
+- 
+Bestätigung der Praxis zur Verrechnung der Quoten bei teilweisem 
+Obsiegen / Unterliegen. Die Quoten sind auch dann zu verrechnen, 
+wenn nur eine Partei anwaltlich vertreten ist. 
+- 
+Eine Verrechnung von Parteikosten mit Verfahrenskosten darf nicht 
+bereits im Entscheid verfügt werden. 
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 18. Juni 2012 in Sachen A. 
+gegen 
+Regierungsrat 
+des 
+Kantons 
+Aargau 
+und 
+Gemeinderat 
+B. 
+(WBE.2011.325).
