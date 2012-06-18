@@ -1,0 +1,520 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2011.127"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2011.127"
+decided: "2012-06-18"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2911"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2911"
+cites_law: ["switzerland/bund/acts/814.01/art-007.md", "switzerland/bund/acts/814.01/art-013.md", "switzerland/bund/acts/814.01/art-015.md", "switzerland/bund/acts/814.01/art-025.md", "switzerland/bund/acts/814.41/art-002.md", "switzerland/bund/acts/814.41/art-007.md", "switzerland/bund/acts/814.41/art-036.md", "switzerland/bund/acts/814.41/art-038.md", "switzerland/bund/acts/814.41/art-039.md", "switzerland/bund/acts/814.41/art-040.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2011.127
+
+## Regeste
+
+Immissionen 
+- Lärmermittlung bzw. -beurteilung einer Sportanlage 
+- Massgeblichkeit der Vollzugshilfe des BAFU für die Beurteilung der Lärmbelastung von Sportanlagen
+
+## Text
+
+2012 Bau-, Raumentwicklungs- und Umweltschutzrecht 135 
+Ende Februar des auf die Rechtskraft des Entscheides folgenden 
+Jahres nur noch je einen zuchtfähigen (und krähfähigen) Hahn zu 
+halten. 
+20 
+Immissionen 
+- 
+Lärmermittlung bzw. -beurteilung einer Sportanlage 
+- 
+Massgeblichkeit der Vollzugshilfe des BAFU für die Beurteilung der 
+Lärmbelastung von Sportanlagen 
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 18. Juni 2012 in Sachen A. 
+und B. gegen Departement BVU sowie Stadtrat C. (WBE.2011.127). 
+Aus den Erwägungen 
+3. 
+3.1. 
+Die Aussenanlage Angelrain stellt eine ortsfeste Anlage im 
+Sinne von Art. 7 Abs. 7 USG und Art. 2 Abs. 1 LSV dar, bei deren 
+Betrieb Lärmemissionen verursacht werden. 
+Gemäss dem vorinstanzlichen Entscheid wurde die Schulanlage 
+anfangs des letzten Jahrhunderts gebaut. Die Spielwiese bestehe in 
+unveränderter Form seit rund 80 Jahren. Der ehemalige, nördlich der 
+alten Turnhalle Angelrain liegende Pausen- und Turnplatz sei beim 
+Neubau der Dreifachturnhalle Angelrain aufgehoben und durch einen 
+neuen grossräumigen Pausenplatz ersetzt worden. Dabei sei auch das 
+(östlich zu diesem Platz liegende) nach C.-Stadt führende Seetal-
+bahngleis entfernt und an seiner Stelle seien der Härteplatz, die Lauf-
+bahnanlage und die zwei Basketballplätze realisiert worden. Die 
+Baubewilligung für den Neubau der Dreifachturnhalle Angelrain und 
+die Umgestaltung des Pausenplatzes und der Aussensportanlagen 
+habe der Stadtrat am 17. Januar 2007 erteilt, also nach dem Inkraft-
+treten des Umweltschutzgesetzes am 1. Januar 1985. Unter diesen 
+Umständen sei von einer neubauähnlichen Umgestaltung der alt-
+rechtlichen Aussensportanlagen auszugehen, die gemäss bundesge-
+richtlicher Rechtsprechung der Errichtung einer Neuanlage gleichge-
+
+
+136 
+Verwaltungsgericht 
+2012 
+stellt sei. Das Verwaltungsgericht teilt diese Auffassung. Die Aussen-
+sportanlagen wurden zusammen mit der Dreifachturnhalle und dem 
+neuen Pausenplatz vollkommen neu erstellt. Die Aussensportanlagen 
+befinden sich zudem an neuer Lage, entlang von Veloweg / Bahnli-
+nie, rund 40 m westlich des früheren Turn- und Pausenplatzes. Nur 
+schon von der Distanz her liegen die neuen Aussensportplätze we-
+sentlich näher bei den Wohnliegenschaften der W 7.5a. Die Sportan-
+lagen sind auch attraktiver und grösser als der frühere Turn- und 
+Pausenplatz, weshalb davon auszugehen ist, dass sie vermehrt ge-
+nutzt werden, vor allem ausserhalb des Schulbetriebs. Zwischen 
+früherem Turn- und Pausenplatz und der Bahnlinie lag früher aus-
+serdem ein dichter Gehölz- bzw. Heckenbestand, welcher zu Gunsten 
+der neuen Anlagen weichen musste. 
+Da ein wesentlicher umweltrelevanter Teil der Gesamtanlage, 
+namentlich die beiden Basketballplätze, der Hartplatz und die Leicht-
+athletikanlagen nach Inkrafttreten des Umweltschutzgesetzes am 
+1. Januar 1985 erstellt wurden und diese neuen Anlagen deutlich 
+näher bei den Wohnliegenschaften der W 7.5a liegen als der bishe-
+rige Turn- und Pausenplatz, ist von einer Neuanlage auszugehen. 
+3.2. 
+3.2.1. 
+Für Neuanlagen gelten die Planungswerte (vgl. Art. 25 Abs. 1 
+USG, Art. 7 Abs. 1 lit. b LSV), soweit der Gesetzgeber solche festge-
+legt hat. Fehlen Belastungsgrenzwerte, so beurteilt die Vollzugs-
+behörde die Lärmimmissionen im Einzelfall anhand der Kriterien, 
+die den gesetzlichen Belastungswerten (Planungs-, Immissions- und 
+Alarmwerte) zu Grunde liegen (vgl. Art. 15, 19 und 23 USG). In 
+Zonen mit Empfindlichkeitsstufe II entspricht den Planungswerten 
+ein Immissionsniveau, bei dem nach richterlicher Beurteilung höchs-
+tens geringfügige Störungen auftreten dürfen (BGE 126 II 368 ff. mit 
+Hinweisen; 123 II 335; URP 2002, S. 105). 
+3.2.2. 
+Nach der bundesgerichtlichen Praxis müssen die zu erwarten-
+den Immissionen grundsätzlich schon im Baubewilligungsverfahren 
+ermittelt werden. Es widerspricht dem Grundsatz der Vorsorge nach 
+Art. 1 Abs. 2 und Art. 25 USG, die Abklärungen über die Einwir-
+
+
+2012 Bau-, Raumentwicklungs- und Umweltschutzrecht 137 
+kungen der Anlage und den Erlass von Massnahmen zur Begrenzung 
+der Lärmemissionen auf einen Zeitpunkt nach der Erstellung bzw. 
+der Inbetriebnahme der Anlage zu verschieben (Urteil des Bundesge-
+richts vom 31. Januar 2011 [1C_278/2010], Erw. 4.4 = URP 2011, 
+S. 142; Urteil des Bundesgerichts vom 5. Dezember 2008 
+[1C_169/2008], Erw. 5.1; Urteil des Bundesgerichts vom 2. Septem-
+ber 2002 [1A.58.2002], Erw. 2.3 mit Hinweisen = URP 2002, 
+S. 688). Die Baubewilligung darf nur erteilt werden, wenn die An-
+lage die massgeblichen Belastungswerte in der Umgebung voraus-
+sichtlich einhalten wird. Unter Umständen müssen hierfür emissi-
+onsmindernde Massnahmen angeordnet werden. Dies schliesst späte-
+re Kontrollmessungen nach Inbetriebnahme der Anlage und die 
+nachträgliche Anordnung weiterer emissionsmindernder Massnah-
+men bei einer festgestellten Überschreitung der Planungswerte nicht 
+aus. Solche Massnahmen dürfen und müssen gegebenenfalls in der 
+Baubewilligung vorbehalten werden, vermögen aber die gebotene 
+Prüfung im Baubewilligungsverfahren nicht zu ersetzen (Urteil des 
+Bundesgerichts vom 31. Januar 2011 [1C_278/2010], Erw. 4.4 = 
+URP 2011, S. 142 ; Urteil des Bundesgerichts vom 5. Dezember 
+2009 [1C_169/2008], Erw. 5.1; Urteil des Bundesgerichts vom 
+5. Dezember 2008 [1C_169/2008], Erw. 5.1, Urteil des Bundesge-
+richts vom 2. September 2002 [1A.58/2002], Erw. 2.3 = URP 2002, 
+S. 685). 
+Besteht Grund zur Annahme, dass die Belastungsgrenzwerte 
+überschritten werden könnten (Art. 36 Abs. 1 LSV), so ist die Be-
+hörde zur Durchführung eines Beweis- und Ermittlungsverfahrens 
+nach den Art. 36 ff. LSV und den Anhängen 2-7 LSV verpflichtet 
+(BGE 115 Ib 451; Urteil des Bundesgerichts vom 31. Januar 2011 
+[1C_278/2010], Erw. 4.4.1 = URP 2011, S. 142; Urteil des Bundes-
+gerichts vom 2. September 2002 [1A.58/2002], Erw. 2.4 = 
+URP 2002, S. 688). An die Wahrscheinlichkeit einer solchen Über-
+schreitung sind keine hohen Anforderungen zu stellen, d. h. es ge-
+nügt, wenn eine solche beim aktuellen Kenntnisstand nicht ausge-
+schlossen werden kann (Urteil des Bundesgerichts vom 31. Januar 
+2011 [1C_278/2010], Erw. 4.4.1 = URP 2011, S. 142; Urteil des 
+
+
+138 
+Verwaltungsgericht 
+2012 
+Bundesgerichts vom 2. September 2002 [1A.58/2002], Erw. 2.4 = 
+URP 2002, S. 688). 
+3.3. 
+3.3.1. 
+Es ist unbestritten, dass der Stadtrat im Rahmen des Baube-
+willigungsverfahrens keine Lärmermittlung (Art. 36 ff. LSV) vorge-
+nommen hat. Nach Angaben des Stadtrats habe er keinen Grund zur 
+Annahme gehabt, dass die massgebenden Grenzwerte überschritten 
+seien oder ihre Überschreitung zu erwarten sei. Die Schulanlage mit 
+Aussenanlage werde seit über 80 Jahren benutzt und habe noch nie 
+zu Klagen Anlass gegeben. Andererseits seien mit der neuen Aussen-
+anlage verschiedene Nutzungen (Streethockey, Beschallung, zweites 
+Bahntrassée, Abenteuerspielplatz) nicht mehr vorhanden. Es bestün-
+den keinerlei Hinweise, dass die massgebenden Belastungsgrenzwer-
+te überschritten seien. 
+Die Vorinstanz trat auf die Rüge der Ermittlungspflicht nach 
+Art. 36 LSV nicht ein. Dies hätte im Baubewilligungsverfahren vor-
+gebracht werden können, welches jedoch rechtskräftig abgeschlossen 
+sei. Ausserdem seien bis zur Erteilung der Baubewilligung keine 
+nachbarlichen Reklamationen wegen Lärm aus den (ehemaligen) 
+Aussenanlagen Angelrain eingegangen, weshalb der Stadtrat keinen 
+Grund für eine solche Annahme gehabt habe. Festzuhalten sei aber, 
+dass die Rechtskraft der Baubewilligung der Anordnung von Mass-
+nahmen zur Begrenzung der Lärmemissionen (Reduktion Betriebs-
+zeiten) nicht entgegenstehe. In ihrer Beschwerdeantwort bringt die 
+Vorinstanz vor, die Frage, ob Grund zur Annahme bestehe, dass die 
+Belastungsgrenzwerte überschritten würden (vgl. Art. 36 LSV), ver-
+lange eine vorweggenommene Würdigung der Lärmsituation. Stün-
+den genügend Erfahrungswerte zur Verfügung, dürfe auf Messungen 
+verzichtet werden. Zu den Aussenlärmimmissionen von Schulsport 
+anlagen bestehe eine umfangreiche richterliche Praxis. Die Grösse 
+der strittigen Aussenanlagen entspreche den üblichen Dimensionen 
+durchschnittlicher Schulaussenanlagen. Auch seien die Dimensionen 
+der alten und neuen Aussenanlagen Angelrain durchaus vergleichbar. 
+Die Lärmimmissionen der neuen Aussenanlagen seien mit jenen vor 
+der Realisierung der Dreifachturnhalle, des neugestalteten Pausen- 
+
+
+2012 Bau-, Raumentwicklungs- und Umweltschutzrecht 139 
+und Turnplatzes und der neuen Aussenanlagen vergleichbar. Der 
+Stadtrat habe keinen Anlass gehabt, Ermittlungen im Sinne von 
+Art. 36 LSV anzuordnen. Dass die neuen Aussensportanlagen etwas 
+näher bei der Liegenschaft der Beschwerdeführer lägen als der 
+ehemalige Pausen- und Turnplatz, vermöge an dieser Einschätzung 
+nichts zu ändern. 
+3.3.2. 
+Die Vorinstanz weist im angefochtenen Entscheid zwar zu-
+treffend darauf hin, dass die Baubewilligung vom 17. Januar 2007 
+rechtskräftig sei. Gleichermassen steht jedoch fest, dass der Stadtrat 
+die Lärmsituation im Baubewilligungsverfahren nicht ermittelt 
+(Art. 36 ff. LSV) hat. Die Frage, ob Grund zur Annahme besteht, 
+dass die Belastungsgrenzwerte überschritten werden (Art. 36 Abs. 1 
+LSV), verlangt eine vorweggenommene Würdigung der Lärmsitua-
+tion. Der Stadtrat hätte also beurteilen müssen, ob die zu erwartenden 
+Aussenlärmimmissionen der Neuanlage die Planungswerte in der 
+Umgebung überschreiten können. Dass der frühere, an anderer Stelle 
+gelegene und kleiner dimensionierte Turn- und Pausenplatz zu 
+keinen Klagen Anlass gegeben hatte, ist bei dieser Würdigung nicht 
+entscheidend. Die neuen Aussensportanlagen liegen entlang dem 
+Veloweg und der Bahnlinie, umfassen zwei Basketballplätze (je ca. 
+15 m x 32 m), einen weiteren Hartplatz für Handball, Fussball etc. 
+(ca. 22 m x 44 m), eine Laufbahnanlage (drei 80 m Bahnen) sowie 
+Anlagen für Weit- und Hochsprung. Die Sportanlagen weisen zur 
+Parzelle Nr. (…) der Beschwerdeführer eine Distanz von rund 15 m 
+bzw. zum Wohnhaus eine solche von ca. 45 m auf. Weitere 
+Wohnliegenschaften liegen ähnlich nahe bzw. noch näher bei den 
+Aussensportanlagen, auf der andern Seite der Bahnlinie. Schon auf-
+grund der relativ geringen Distanz der Sportanlagen zu den Wohnlie-
+genschaften sowie dem Umstand, dass die Anlagen in erster Linie 
+dem Ballsport (Aufprallgeräusche) dienen, kann nicht ausgeschlos-
+sen werden, dass die Aussenimmissionen die Planungswerte in der 
+Umgebung (höchstens geringfügige Störungen) überschreiten. 
+Demzufolge wäre bereits im Baubewilligungsverfahren geboten 
+gewesen, ein Beweis- und Ermittlungsverfahren nach Art. 36 ff. LSV 
+durchzuführen. 
+
+
+140 
+Verwaltungsgericht 
+2012 
+Der von den Beschwerdeführern beim Stadtrat im Mai 2009 be-
+anstandete Lärm bezog sich auf Immissionen an Sonn- und Feierta-
+gen sowie abends / nachts, wie Werfen der Bälle gegen den Korb, 
+gegen das hinter dem Korb befestigte Brett und gegen die Einzäu-
+nung, aber auch allgemeinen Lärm, insbesondere beim gleichzeitigen 
+Spiel mehrerer Mannschaften. Im Juli 2010 beklagten sich ver-
+schiedene weitere Anwohner wegen störender Lärmimmissionen 
+(ausgehend von der neuen Schulsport-Aussenanlage) ausserhalb der 
+Schulzeiten, insbesondere abends sowie an Sonn- und allgemeinen 
+Feiertagen; die vom Stadtrat vorgesehenen Betriebszeiten seien ab-
+solut nicht anwohnergerecht. Auch wenn die Eingabe vom Juli 2010 
+wohl von den Beschwerdeführern initiiert wurde, teilen die unter-
+zeichnenden Anwohner deren Auffassung offensichtlich. Die Ein-
+gabe bestätigt jedenfalls, dass durch die Neuanlage eine Über-
+schreitung der Planungswerte – auch bei aktuellem Kenntnisstand – 
+jedenfalls nicht ausgeschlossen werden kann. 
+Die Vorinstanz macht in ihrer Beschwerdeantwort zur Frage ei-
+nes Beweis- und Ermittlungsverfahrens (Art. 36 ff. LSV) geltend, es 
+bestehe eine umfangreiche richterliche Praxis zu Aussenlärm-
+immissionen und auf Messungen könne verzichtet werden, wenn 
+genügend Erfahrungswerte (Aussagen einer repräsentativen Zahl der 
+vom Lärm betroffenen Personen über die Störwirkung; Ergebnisse 
+früherer Untersuchungen über andere, vergleichbare Anlagen) zur 
+Verfügung stünden. Dieser Einwand hilft vorliegend von vornherein 
+nicht weiter: Von den Aussenlärmimmissionen fühlen sich auch di-
+verse andere Anwohner gestört (siehe oben). Zudem hat die Vorin-
+stanz die konkrete Lärmsituation und auch die Verhältnisse vor Ort 
+nicht abgeklärt (z. B. Augen- bzw. "Ohren"-schein). Dies ganz im 
+Gegensatz zu den Vergleichsfällen, die sie bei der Beurteilung heran-
+gezogen hat: Sowohl in Olsberg (AGVE 2005, S. 170 ff.) als auch in 
+Stetten (VGE III/25 vom 10. Juni 2008 [WBE.2005.368]) waren vor 
+der Beurteilung die entsprechenden Abklärungen vorgenommen 
+worden. Ausserdem ergingen die Entscheide noch vor Publikation 
+des Entwurfs der Vollzugshilfe des Bundesamtes für Umwelt 
+(BAFU) (Entwurf Mai 2010) (siehe unten Erw. 3.4.). 
+ 
+
+
+2012 Bau-, Raumentwicklungs- und Umweltschutzrecht 141 
+3.3.3. 
+Zusammenfassend besteht im Sinne von Art. 36 Abs. 1 LSV 
+Grund zur Annahme, dass die massgeblichen Belastungswerte über-
+schritten werden (können). Wie erwähnt hat die Neuanlage die Pla-
+nungswerte nicht nur zum Zeitpunkt der Erteilung der Baubewilli-
+gung einzuhalten, sondern auch nach deren Inbetriebnahme (vgl. 
+Erw. 3.2.2.). Da die Aussenlärmimmissionen bisher nicht ermittelt 
+wurden, gilt es dies nachzuholen. Die Ermittlung der Lärmbelastung 
+bildet Grundlage für die Lärmbeurteilung. 
+3.4. 
+Die Vollzugsbehörde hat die ermittelten Aussenlärmimmissio-
+nen ortsfester Anlagen anhand der Belastungsgrenzwerte nach den 
+Anhängen 3 ff. LSV zu beurteilen (Art. 40 Abs. 1 LSV). Hierfür 
+müssen die Lärmimmissionen als Beurteilungspegel Lr oder als 
+Maximalpegel Lmax anhand von Berechnungen oder Messungen 
+ermittelt werden (Art. 38 Abs. 1 LSV). Zum Ort der Ermittlung 
+äussert sich Art. 39 LSV. 
+Die LSV enthält jedoch nicht für alle Lärmarten Belastungs-
+grenzwerte. Solche fehlen insbesondere für sogenannten "untechni-
+schen" Alltagslärm, wie er Sportanlagen immanent ist. Fehlen Be-
+lastungswerte, so beurteilt die Vollzugsbehörde die Lärmimmissio-
+nen nach Art. 15 USG, unter Berücksichtigung auch der Art. 19 und 
+23 USG (Art. 40 Abs. 3 LSV; BGE 133 II 296; 126 II 307; Urteil des 
+Bundesgerichts vom 27. Juli 2011 [1C_34/2011], Erw. 2.1; Urteil des 
+Bundesgerichts vom 31. Januar 2011 [1C_278/2010], Erw. 4.4.2 = 
+URP 2011, S. 142 f.). Im Rahmen dieser Einzelfallbeurteilung ist der 
+Charakter des Lärms, der Zeitpunkt der Lärmimmissionen, die 
+Häufigkeit des Lärms, die Lärmempfindlichkeit und die Lärmvor-
+belastung der Zone zu berücksichtigen (BGE 133 II 297 mit Hin-
+weisen; Urteil des Bundesgerichts vom 27. Juli 2011 [1C_34/2011], 
+Erw. 2.1; 
+Urteil 
+des 
+Bundesgerichts 
+vom 
+31. Januar 
+2011 
+[1C_278/2010], Erw. 4.4.2 = URP 2011, S. 143; vgl. auch Urs 
+Walker, Umweltrechtliche Beurteilung von Alltags- und Freizeitlärm, 
+URP 2009, S. 82 f.). Dabei ist nicht auf das subjektive Lärm-
+empfinden einzelner Personen abzustellen, sondern eine objektivierte 
+Betrachtung unter Berücksichtigung von Personen mit erhöhter 
+
+
+142 
+Verwaltungsgericht 
+2012 
+Empfindlichkeit (Art. 13 Abs. 2 USG) vorzunehmen (BGE 133 II 
+297 mit Hinweisen; Urteil des Bundesgerichts vom 27. Juli 2011 
+[1C_34/2011], Erw. 2.1). 
+Unter Umständen können fachlich genügend abgestützte aus-
+ländische bzw. private Richtlinien eine Entscheidungshilfe bieten, 
+sofern die Kriterien, auf welchen diese Unterlagen beruhen, mit 
+denjenigen des schweizerischen Lärmschutzrechts vereinbar sind. 
+Das Bundesgericht setzte sich mit dieser Problematik im Fall einer 
+Sportanlage in Würenlos eingehend auseinander und gelangte zum 
+Schluss, dass sich für die Beurteilung von Sportlärm insbesondere 
+die deutsche Sportanlagenlärmschutzverordnung (18. Verordnung zur 
+Durchführung des Bundes-Immissionsschutzgesetzes vom 18. Juli 
+1991 [18. BlmSchV]) anbiete, deren Regelungen diejenigen des 
+deutschen Bundesimmissionsschutzgesetzes ergänzten und den 
+besonderen Charakteristiken von Sportgeräuschen speziell Rechnung 
+trügen (BGE 133 II 297; Urteil des Bundesgerichts vom 27. Juli 
+2011 [1C_34/2011], Erw. 2.1; Urteil des Bundesgerichts vom 
+31. Januar 2011 [1C_278/2010], Erw. 4.4.3 = URP 2011, S. 143). 
+Das BAFU setzte im Fall "Würenlos" die 18. BlmSchV mit dem 
+schweizerischen System der LSV in einen rechtlich relevanten Be-
+zug, was das Bundesgericht – wenn auch unter gewissen Vorbehalten 
+hinsichtlich Richtwerten und der Beurteilung von Altanlagen – als 
+praktikabel erachtete (BGE 133 II 301 ff.; Urteil des Bundesgerichts 
+vom 31. Januar 2011 [1C_278/2010], Erw. 4.4.3 = URP 2011, 
+S. 143). Im Entscheid 1C_169/2008 vom 5. Dezember 2008 
+(Erw. 3.4 und 3.5; URP 2009, S. 127 ff.) schützte das Bundesgericht 
+aber auch das Vorgehen des Aargauer Verwaltungsgerichts, welches 
+zunächst ausschliesslich auf das deutsche Recht abgestellt hatte, um 
+die Resultate in einer zweiten Phase nach schweizerischem Recht zu 
+würdigen 
+(Urteil 
+des 
+Bundesgerichts 
+vom 
+27. Juli 
+2011 
+[1C_34/2011], Erw. 2.1; Urteil des Bundesgerichts vom 31. Januar 
+2011 [1C_278/2010], Erw. 4.4.3 = URP 2011, S. 143; zum Urteil des 
+Aargauischen Verwaltungsgerichts vgl. auch AGVE 2008, S. 109 ff.). 
+Das Bundesgericht erachtete dieses Vorgehen nicht als bundes-
+rechtswidrig, auch wenn die Variante des BAFU den Vorteil habe, 
+dass im Voraus festgelegt werde, wie die Unterschiede zwischen der 
+
+
+2012 Bau-, Raumentwicklungs- und Umweltschutzrecht 143 
+18. BlmSchV und dem schweizerischen Recht behandelt werden 
+sollen. Das Bundesgericht hielt im zitierten Entscheid fest, dass kein 
+Raum für eine 1:1 Anwendung von deutschem und schweizerischem 
+Recht bestehe; massgeblich sei vielmehr ausschliesslich das 
+schweizerische Lärmschutzrecht (vgl. Urteil des Bundesgerichts vom 
+5. Dezember 2008 [1C_169/2008], Erw. 3.5; Urteil des Bundes-
+gerichts vom 31. Januar 2011 [1C_278/2010], Erw. 4.4.3 = URP 
+2011, S. 143 f.). 
+Gestützt auf diese Rechtsprechung hat das BAFU im Mai 2010 
+den Entwurf einer Vollzugshilfe zur Beurteilung des Lärms von 
+Sportanlagen publiziert. Diese Vollzugshilfe soll zu einem einheitli-
+chen Vollzug bei der Ermittlung und Beurteilung der Lärmbelastung 
+von Sportanlagen beitragen. Sie konkretisiert im Sinne einer Einzel-
+fallbeurteilung nach Art. 40 Abs. 3 LSV unter Beizug der 
+18. BlmSchV die Methodik zur Lärmermittlung und ermöglicht eine 
+Beurteilung anhand von Belastungsrichtwerten. Die Vollzugshilfe 
+definiert Sportanlagen als ortsfeste Anlagen, die zur Sportausübung 
+bestimmt sind. Als Beispiele werden Polysportanlagen, Fussball-
+plätze, Volleyballfelder, Schulsportanlagen oder Tennisplätze ge-
+nannt (Urteil des Bundesgerichts vom 27. Juli 2011 [1C_34/2011], 
+Erw. 2.1; 
+Urteil 
+des 
+Bundesgerichts 
+vom 
+31. Januar 
+2011 
+[1C_278/2010], Erw. 4.4.4 = URP 2011, S. 144). 
+3.5. 
+Bei der zu beurteilenden Gesamtanlage stehen die Lärm-
+immissionen der Aussensportanlagen klar im Vordergrund, insbeson-
+dere diejenigen der beiden Basketballplätze und des weiteren Hart-
+platzes (Fussball, Handball etc.). Dass die Leichtathletikeinrichtun-
+gen und im entfernteren der neue Pausenplatz, die Dreifachturnhalle 
+(allfälliger Parkierlärm im Zusammenhang mit deren Benutzung) 
+und die Spielwiese ebenfalls Aussenlärmimmissionen erzeugen, die 
+bei der Lärmermittlung von Bedeutung sind, erscheint zwar fraglich, 
+wird jedoch abzuklären sein. Im Zentrum auch der nachbarlichen 
+Reaktionen steht jedenfalls der Lärm der neu erstellten Aussensport-
+anlagen. 
+Wie dargelegt kann eine Störung der Anwohner, insbesondere in 
+den Erholungszeiten, nicht von vornherein ausgeschlossen werden. 
+
+
+144 
+Verwaltungsgericht 
+2012 
+Zu den konkreten Lärmverhältnissen wurden bisher keine Abklärun-
+gen vorgenommen. Nach der neuen bundesgerichtlichen Recht-
+sprechung können die deutsche Sportanlagenlärmschutzverordnung 
+oder die darauf beruhende Vollzugshilfe des BAFU für die Beurtei-
+lung der Lärmbelastung von Sportanlagen (Entwurf Mai 2010) als 
+Empfehlungen bzw. Entscheidhilfen beigezogen werden (Erw. 3.4.). 
+Die EMPA hat im Auftrag des BAFU zur Vollzugshilfe typische 
+Fallbeispiele zusammengestellt und dabei drei repräsentative Anlage-
+typen unterschieden: Kleine, mittlere und grosse Anlagen (Vollzugs-
+hilfe des BAFU [Entwurf Mai 2010], Fallbeispiele der EMPA, 
+S. 3 ff). In einem Beurteilungsfall eines Allwetterplatzes (des Schul-
+hauses Moosmatt, Luzern) erachteten das BAFU und das Bundes-
+gericht die Vollzugshilfe des BAFU (Entwurf Mai 2010) als anwend-
+bar. Die Vollzugshilfe des BAFU (Entwurf Mai 2010) ermögliche 
+eine angemessene Beurteilung des von dieser kleinen Sportanlage 
+ausgehenden Lärms (Urteil des Bundesgerichts vom 31. Januar 2011 
+[1C_278/2010], Erw. 4.4.5. in fine = URP 2011, S. 145). 
+Im vorliegenden Fall erscheint es ebenfalls geboten, die Voll-
+zugshilfe des BAFU (Entwurf Mai 2010) anzuwenden: Die neuen 
+Aussensportplätze der Schulanlage Angelrain werden für den Schul-
+sport genutzt; insofern handelt es sich um eine Schulsportanlage. 
+Zwar ist die Anlage relativ klein, ohne Flutlicht-, ohne (fixe) Laut-
+sprecheranlage und ohne Zuschauerraum. In welchem Ausmass auf 
+der Anlage Trainings- oder Wettkampfbetrieb stattfindet bzw. statt-
+finden soll, ist gestützt auf die Akten unklar und wird im Rahmen der 
+Lärmermittlung und -beurteilung noch abzuklären sein. Die 
+Sportanlagen können ausserhalb der Schulzeit auch frei benutzt wer-
+den. Dieser Besonderheit kann bei der Anwendung der Vollzugshilfe 
+des BAFU jedoch Rechnung getragen werden. So empfiehlt die 
+EMPA in ihren, der Vollzugshilfe beiliegenden Beispielen (Ziff. 3.1 
+S. 9), für die Schalleistungsberechnung von Flächen mit freier Be-
+nutzung die deutsche Richtlinie VDI 3770 Kapitel 16 (Bolzplätze) 
+heranzuziehen. Dabei wird – ausgehend von der auf eine Einzelper-
+son bezogenen Geräuschemission für reines Fussballspielen – die 
+Schallleistung in Abhängigkeit von der Anzahl der Spieler ermittelt. 
+Bei 10 Spielern ergebe sich ein Schallleistungspegel von 90 dB (A). 
+
+
+2012 Bau-, Raumentwicklungs- und Umweltschutzrecht 145 
+Dieser Wert korrespondiert nach Aussagen der EMPA gut mit den 
+Resultaten einer Langzeitmessung eines frei zugänglichen Hartplat-
+zes, bei welchem ein Schallleistungspegel von 90.5 dB (A) gemessen 
+worden sei. Da bei der Nutzung von Hartplätzen im Vergleich zum 
+Fussballspiel mit impulshaltigeren Emissionen (Aufprallgeräusche 
+von Bällen) zu rechnen sei, werde diesen Nutzungen ein expliziter 
+Zuschlag KI/T von 3 dB gegeben (Urteil des Bundesgerichts vom 
+31. Januar 2011 [1C_278/2010], Erw. 4.4.5 = URP 2011, S. 144 f.; 
+Vollzugshilfe des BAFU [Entwurf Mai 2010], Fallbeispiele der 
+EMPA, Ziff. 3.1 S. 9). Im Weiteren kann der Vollzugshilfe des BAFU 
+(Entwurf Mai 2010) entnommen werden, dass der Schulsport in der 
+Lärmermittlung (entgegen dem Ansinnen der Vorinstanz) nicht aus-
+zuklammern ist. In der Schweiz ist der Schulsport bei der Lärmer-
+mittlung mit zu berücksichtigen und die Frage nach zusätzlichen 
+Lärmschutzmassnahmen ist im Rahmen der Interessenabwägung zur 
+Gewährung von allfälligen Erleichterungen zu beantworten (Voll-
+zugshilfe des BAFU [Entwurf Mai 2010], S. 9). 
+Im konkreten Fall wird die Lärmermittlung und -beurteilung 
+gestützt auf Messungen oder Berechnungen von Immissions-Schall-
+pegeln zu erfolgen haben. Dabei werden die betrieblichen Bedürf-
+nisse der Anlage – insbesondere die Auslastung und Bespielung der 
+Aussensportplätze – detailliert abzuklären und festzuhalten sein (wie 
+Schulsport, Vereinsnutzung, freie Nutzung, Wettkämpfe, öffentliche 
+Anlässe). Es wird zu prüfen sein, ob dieser (Modell-) Betrieb der An-
+lage zu übermässigen Lärmbelastungen in der Umgebung führt. Hält 
+das Benutzungsregime bzw. -modell die massgeblichen Belastungs-
+werte ein (zum Grenzwertschema vgl. Vollzugshilfe des BAFU [Ent-
+wurf Mai 2010], Fallbeispiele der EMPA, Ziff. 5.1 S. 14), ist dieser 
+Betrieb im Benutzungsreglement verbindlich zu erklären. Werden die 
+Belastungswerte nicht eingehalten, müssten die Emissionen der An-
+lage vermindert werden, beispielsweise durch die Anordnung ein-
+schränkenderer Betriebszeiten und Nutzungseinschränkungen. 
+
+
+146 
+Verwaltungsgericht 
+2012 
+21 
+Kleinstbaute 
+- 
+Eine 2.50 m hohe Informations- und Reklamestele mit einer Grund-
+fläche von ca. 0.12 m2 ist eine Kleinstbaute im Sinne von § 49 Abs. 2 
+lit. d BauV. 
+- 
+Wenn die Gemeinden nichts anderes festlegen, gilt für Kleinstbauten 
+ein Grenzabstand von 2 m, wie er für Klein- und Anbauten vorge-
+schrieben ist. 
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 23. August 2012 in Sachen 
+A. AG 
+gegen 
+B. AG 
+und 
+Departement 
+BVU 
+sowie 
+Stadtrat 
+C. 
+(WBE.2012.48). 
+Aus den Erwägungen 
+1. 
+1.1. 
+Vorliegend geht es um die Informations- und Reklamestele auf 
+der Parzelle Nr. (…) an der (…) in C.. Diese Parzelle der Beschwer-
+degegnerin grenzt u. a. an die Parzelle Nr. (…) der Beschwerdefüh-
+rerin. Beide Grundstücke liegen gemäss § 11 i. V. m. § 15 der gelten-
+den Fassung der Bau- und Nutzungsordnung der Stadt C. (BNO) 
+vom 23. Oktober 2001 / 2. April 2003 in der Zentrumszone 5 (Z5). 
+Die Zentrumszonen sind für innenstädtische Nutzungen wie Laden-
+geschäfte, Einkaufszentren, Gewerbe- und Dienstleistungsbetriebe 
+sowie Wohnungen bestimmt. In der Regel gilt geschlossene Bau-
+weise (§ 15 BNO). In der Bauzone Z5 sind unter anderem 5 Ge-
+schosse, eine Gebäudehöhe von maximal 17 m und ein kleiner 
+Grenzabstand von 4.5 m erlaubt; der grosse Grenzabstand beträgt ½ 
+Gebäudehöhe (§ 11 Abs. 1 BNO). 
+1.2. 
+Anfangs Dezember 2010 stellte die Beschwerdegegnerin an ih-
+rer nördlichen Parzellengrenze mit einem Abstand von 0.12 m zur 
+Nachbarzelle Nr. (…) die 2.5 m hohe, 0.8 m breite und ca. 0.1 - 
+0.15 m tiefe, weisse und im vorliegenden Fall Gegenstand der Be-
+schwerde bildende Informations- und Reklamestele auf. Das nach-
