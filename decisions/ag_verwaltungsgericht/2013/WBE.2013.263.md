@@ -1,0 +1,419 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2013.263"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "1. Kammer"
+docket: "WBE.2013.263"
+decided: "2013-05-14"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2802"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2802"
+cites_law: ["switzerland/bund/acts/173.110/art-075.md", "switzerland/bund/acts/210/art-016.md", "switzerland/bund/acts/210/art-360.md", "switzerland/bund/acts/210/art-383.md", "switzerland/bund/acts/210/art-434.md", "switzerland/bund/acts/210/art-438.md", "switzerland/bund/acts/210/art-439.md", "switzerland/bund/acts/210/art-450a.md", "switzerland/bund/acts/210/art-450b.md", "switzerland/bund/acts/210/art-450f.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 1. Kammer — WBE.2013.263
+
+## Regeste
+
+Einschränkung der Bewegungsfreiheit
+Im Rahmen einer fürsorgerischen Unterbringung ist die Einschränkung der Bewegungsfreiheit auch bei urteilsfähigen Personen möglich.
+
+## Text
+
+86 
+Obergericht, Abteilung Verwaltungsgericht 
+2013
+griff durch die Anordnung einer Nachbetreuung ist demgegenüber 
+deutlich geringer. Ausserdem handelt es sich vom Wesen der Nach-
+betreuung her grundsätzlich um eine längerfristige Massnahme, wel-
+che aufgrund verschiedener Abklärungen festgelegt wurde. Eine Ein-
+schränkung der Bewegungsfreiheit hingegen ist eine Massnahme, die 
+im Regelfall kurzfristig aufgrund einer akuten Belastungssituation 
+getroffen wird. 
+Ferner würde die Bejahung der Zuständigkeit des Verwaltungs-
+gerichts bedeuten, dass den betroffenen Personen nur eine kantonale 
+Instanz zur Verfügung steht, was in Anbetracht des Prinzips des 
+doppelten Instanzenzugs, welches den Kantonen grundsätzlich nicht 
+gestattet, ihre oberen Gerichte in Zivilsachen als einzige Instanz 
+einzusetzen (vgl. Art. 75 Abs. 2 BGG; KARL SPÜHLER/ANNETTE 
+DOLGE/DOMINIK VOCK, Kurzkommentar zum Bundesgerichtsgesetz, 
+Zürich 2006, Art. 110 N 4), problematisch sein könnte. 
+6.5. 
+Zusammenfassend ist festzustellen, dass bei einer durch die 
+Einrichtung rechtskräftig angeordneten Nachbetreuung die betroffene 
+Person jederzeit beim zuständigen Familiengericht einen Antrag auf 
+Aufhebung oder Abänderung der angeordneten Nachbetreuung stel-
+len kann. Gleiches gilt selbstredend bei einer ambulanten Massnah-
+me, welche durch das Familiengericht gemäss § 67n EG ZGB an-
+geordnet worden ist. Der entsprechende Entscheid des Familienge-
+richts kann anschliessend innerhalb der 10-tägigen Frist mittels Be-
+schwerde beim Verwaltungsgericht angefochten werden (Art. 450b 
+Abs. 2 ZGB i.Vm. § 67q lit. g EG ZGB). 
+16 
+Einschränkung der Bewegungsfreiheit 
+Im Rahmen einer fürsorgerischen Unterbringung ist die Einschränkung 
+der Bewegungsfreiheit auch bei urteilsfähigen Personen möglich. 
+Urteil des Verwaltungsgerichts, 1. Kammer, vom 14. Mai 2013 in Sachen 
+M.P. gegen den Entscheid der Klinik Königsfelden (WBE.2013.263; publiziert 
+in: CAN – Zeitschrift für kantonale Rechtsprechung 2013 Nr. 57 S. 142). 
+
+
+2013 
+Fürsorgerische Unterbringung 
+87 
+Aus den Erwägungen 
+1. 
+1.1. 
+Gemäss Art. 438 ZGB sind auf Massnahmen, die die Bewe-
+gungsfreiheit einschränken, die Bestimmungen über die Einschrän-
+kung der Bewegungsfreiheit in Wohn- und Pflegeeinrichtungen 
+sinngemäss anwendbar (vgl. Art. 383 ff. ZGB). 
+1.2. 
+Der Begriff der Einschränkung der Bewegungsfreiheit gemäss 
+Art. 383 ZGB ist gemäss Botschaft zur Änderung des Schweizeri-
+schen Zivilgesetzbuches (Erwachsenenschutz, Personenrecht und 
+Kindesrecht) vom 28. Juni 2006 (nachfolgend: Botschaft Erwachse-
+nenschutz) weit zu verstehen. Als Beispiel werden elektronische 
+Überwachungsmassnahmen, das Abschliessen von Türen oder das 
+Anbringen von Bettgittern aufgeführt (Botschaft Erwachsenenschutz, 
+BBl 2006 7039). Als bewegungseinschränkende Massnahmen gelten 
+somit sachliche Mittel mechanischer, elektronischer oder anderer Art, 
+die betroffene Personen daran hindern, sich frei zu bewegen oder die 
+ihren Bewegungsradius einschränken (BÜCHLER ANDREA ET AL. 
+[Hrsg.], Familienrechtskommentar [FamKomm] Erwachsenen-
+schutz, Art. 428 N 5). 
+1.3. 
+Der zuständige Oberarzt entschied sich am 13. Mai 2013 für die 
+Aufrechterhaltung der Isolation des Beschwerdeführers, was bedeu-
+tet, dass dieser sich weiter in einem verschlossenen Zimmer aufhal-
+ten muss. Diese Massnahme schränkt die Bewegungsfreiheit des Be-
+schwerdeführers ein und ist daher unter Art. 383 ZGB bzw. § 67q 
+Abs. 1 lit. f EG ZGB zu subsumieren. Das Verwaltungsgericht ist 
+folglich zur Beurteilung der Beschwerde gemäss Art. 439 Abs. 1 
+Ziff. 5 ZGB zuständig. 
+2. 
+Mit der Beschwerde können Rechtsverletzungen, die unrichtige 
+oder unvollständige Feststellung des rechtserheblichen Sachverhalts 
+und Unangemessenheit gerügt werden (Art. 450a Abs. 1 ZGB). So-
+
+
+88 
+Obergericht, Abteilung Verwaltungsgericht 
+2013
+weit das ZGB und das EG ZGB keine Regelungen enthalten, sind die 
+Bestimmungen der Zivilprozessordnung anwendbar (Art. 450f ZGB). 
+3. 
+Grundlage für die Isolation des Beschwerdeführers ist Art. 383 
+ZGB, welcher folgendermassen lautet: 
+"1 Die Wohn- oder Pflegeeinrichtung darf die Bewegungsfrei-
+heit der urteilsunfähigen Person nur einschränken, wenn weniger ein-
+schneidende Massnahmen nicht ausreichen oder von vornherein als 
+ungenügend erscheinen und die Massnahme dazu dient: 
+1. eine ernsthafte Gefahr für das Leben oder die körperliche Integri-
+tät der betroffenen Person oder Dritter abzuwenden; oder 
+2. eine schwerwiegende Störung des Gemeinschaftslebens zu beseiti-
+gen. 
+2 Vor der Einschränkung der Bewegungsfreiheit wird der be-
+troffenen Person erklärt, was geschieht, warum die Massnahme ange-
+ordnet wurde, wie lange diese voraussichtlich dauert und wer sich 
+während dieser Zeit um sie kümmert. Vorbehalten bleiben Notfall-
+situationen. 
+3 Die Einschränkung der Bewegungsfreiheit wird so bald wie 
+möglich wieder aufgehoben und auf jeden Fall regelmässig auf ihre 
+Berechtigung hin überprüft." 
+4. 
+Zunächst ist zu bemerken, dass die gesetzlich verlangten 
+formellen Anforderungen erfüllt sind: Im Kanton Aargau sind die 
+diensthabenden Kaderärztinnen und Kaderärzte, das heisst Oberärzte 
+und höhere Chargen, zur Anordnung einer Einschränkung der Bewe-
+gungsfreiheit im Rahmen einer fürsorgerischen Unterbringung zu-
+ständig (§ 67g Abs. 1 EG ZGB; vgl. Botschaft des Regierungsrats 
+des Kantons Aargau an den Grossen Rat vom 27. April 2011, 
+Ziff. 9.4.2). Bei Dr. med. X. handelt es sich um einen in der Klinik 
+Königsfelden angestellten Oberarzt, welcher die Verantwortlichkeit 
+der Akutstation Y. innehat und der befugt ist, eine solche Einschrän-
+kung der Bewegungsfreiheit anzuordnen. 
+ 
+ 
+ 
+
+
+2013 
+Fürsorgerische Unterbringung 
+89 
+5. 
+5.1. 
+In Anlehnung an den Gesetzestext ist zunächst zu prüfen, ob 
+eine ernsthafte Gefahr für das Leben oder die körperliche Integrität 
+des Beschwerdeführers oder Dritter vorlag (Art. 383 Abs. 1 Ziff. 1), 
+oder (alternativ) ob eine schwerwiegende Störung des Gemein-
+schaftslebens beseitigt werden musste (Art. 383 Abs. 1 Ziff. 2). 
+Für den ersten Fall (Ziff. 1) wird verlangt, dass auf eine ausser-
+gewöhnliche Situation reagiert werden muss (DANIEL STECK, in: 
+Geiser/Reusser [Hrsg.], Basler Kommentar, Erwachsenenschutz, Ba-
+sel 2012, Art. 383 N 12). Erforderlich ist eine ernsthafte, erhebliche, 
+gegenwärtige respektive zumindest unmittelbar bevorstehende Ge-
+fahr. Die Gefährdung kann sowohl physischer (Gewalt, Weglaufen 
+etc.) oder psychischer Art (Belästigungen etc.) sein (KOKES – 
+Praxisanleitung Erwachsenenschutzrecht, Zürich/St. Gallen 2012, 
+Ziff. 11.17). Im letzteren Fall (Ziff. 2) ist das Mass an Verständnis 
+und Toleranz, das von anderen Bewohnern und Bewohnerinnen der 
+Einrichtung verlangt werden kann, entscheidend (Botschaft Er-
+wachsenenschutz, BBl 2006 7040). 
+5.2. 
+Zunächst ist darauf hinzuweisen, dass die Bewegungsfreiheit 
+des Beschwerdeführers seit seinem Eintritt am 2. Mai 2013 einge-
+schränkt wurde. So war er vom 2. Mai bis zum 11. Mai 2013 isoliert 
+und fixiert; am 11. Mai 2013 wurde die Fixation gelöst. Der Be-
+schwerdeführer erhob keine Beschwerde gegen diese Massnahme. 
+Zu prüfen ist im Folgenden somit ausschliesslich, ob die am 13. Mai 
+2013 bis zum 21. Mai 2013 angeordnete Weiterführung der Isolation 
+rechtmässig ist. 
+5.3. 
+5.3.1. 
+Der zuständige Oberarzt schilderte anlässlich der Verhandlung 
+vom 14. Mai 2013, es sei wichtig, dass weder dem Beschwerdeführer 
+noch dem Klinikpersonal und den Mitpatienten etwas passiere. Der 
+Beschwerdeführer könne auch heute noch sehr schnell aggressiv 
+werden, wenn ihm etwas nicht passe. Man werde umgehend 
+Lockerungen vornehmen, wenn es ihm besser gehe. Beim letzten 
+
+
+90 
+Obergericht, Abteilung Verwaltungsgericht 
+2013
+Mal habe die Klinik beim Öffnen des Settings schlechte Erfahrungen 
+gemacht; es sei zu Konflikten mit den Mitpatienten gekommen. Der 
+Beschwerdeführer brauche Reizabschirmung und Beruhigung. Am 
+letzten Freitag sei er aggressiv und bedrohlich gewesen, als man ur-
+sprünglich die Fixation habe lösen wollen. Seit heute komme er drei 
+Mal eine halbe Stunde pro Tag aus der Isolation heraus; eine totale 
+Öffnung der Isolation wäre jedoch zu früh, zumal es gefährlich wer-
+den könne und die Leute Angst vor ihm hätten. Er sei so lange fixiert 
+worden, weil sich niemand ins Isolationszimmer getraut habe. Die 
+Situation sei nicht einschätzbar gewesen. Es habe Beschimpfungen 
+und Drohungen gegeben. Es sei zu brutalen Aggressionen gekommen 
+und es sei eine grosse Impulsivität vorhanden gewesen, wie man es 
+beim Beschwerdeführer zum ersten Mal erlebt habe. 
+Auch die anwesende Pflegefachfrau bestätigte, anlässlich eines 
+früheren Klinikaufenthalts sei das Setting zu schnell gelockert wor-
+den; dies sei "nicht gut rausgekommen". Sie schilderte, sie habe den 
+Beschwerdeführer in der vergangenen Woche sehr wechselhaft er-
+lebt; heute jedoch habe er sich tiptop an die Abmachungen gehalten. 
+Man habe auch die Verantwortung für die Mitpatienten, welche 
+Angst vor dem Beschwerdeführer hätten. Gewisse Pflegepersonen 
+hätten selbst Angst gehabt, als er fixiert war, weil er unberechenbar 
+gewesen sei. 
+5.3.2. 
+In den Klinikakten findet sich am 13. März 2013 ein Eintrag, 
+wonach beim Beschwerdeführer eine ausgeprägte Stimmungslabilität 
+bestehe; Gespräche mit dem Beschwerdeführer würden sich schwie-
+rig gestalten, da er schnell gereizt werde. Der Affekt sei sehr 
+wechselhaft, von angepasst und freundlich bis angespannt und verbal 
+bedrohlich. Psychomotorisch sei er unruhig; aufgrund des weiterhin 
+angespannten Zustands sei eine Fremdgefährdung nicht auszuschlies-
+sen. 
+In den Tagen zuvor finden sich wiederholt Einträge, wonach der 
+Beschwerdeführer "zuerst ruhig, dann sehr laut, fordernd und 
+beleidigend" und "verbal bedrohlich", "im Arztgespräch sehr aggres-
+siv (verbal)", bzw. "angespannt und gereizt" war. Entsprechende Ein-
+träge finden sich seit Beginn der Hospitalisation in der Pflegedoku-
+
+
+2013 
+Fürsorgerische Unterbringung 
+91 
+mentation. Speziell zu erwähnen sind zudem diverse Einträge zu Be-
+ginn der Hospitalisation, wonach der Beschwerdeführer dem Pflege-
+personal gedroht hat, die Pflegefachperson umzubringen, bzw. ange-
+kündigt hat, er werde das nächste Mal mit einer Waffe kommen. Am 
+6. Mai 2013 findet sich ein Eintrag, wonach der Beschwerdeführer 
+verbal aggressiv und zudem bedrohlich war, er zunehmend ange-
+spannter wurde und der anwesenden Pflegefachfrau bei deren Ver-
+such, die rechte Hand des Beschwerdeführers aus der Fixation zu lö-
+sen, auf das Schlüsselbein geschlagen habe (dieser Vorfall wurde 
+vom Beschwerdeführer anlässlich der Verhandlung bestritten). 
+5.4. 
+Aufgrund der Schilderungen des Oberarztes und der zu einem 
+Grossteil übereinstimmenden Wahrnehmung der Pflegefachfrau so-
+wie unter Würdigung der Einträge in den Krankenakten kann davon 
+ausgegangen werden, dass das Verhalten des Beschwerdeführers 
+rund um den 13. Mai 2013 nach wie vor unberechenbar war. Es er-
+scheint nachvollziehbar, dass von der Einrichtung angenommen 
+wurde, dass der Beschwerdeführer (erneut) fremdaggressives Verhal-
+ten hätte zeigen können. Dabei ist allerdings auch zu berücksichti-
+gen, dass er bereits elf Tage im Intensivzimmer eingeschlossen und 
+davon neun Tage mit Gurten an das Bett fixiert war, was durchaus 
+auch Aggressionen hervorrufen kann. Eine ernsthafte und unmittel-
+bar bestehende Gefahr für das Leben oder die körperliche Integrität 
+Dritter war nicht auszuschliessen. Der Beschwerdeführer war bereits 
+mehrfach in der Klinik Königsfelden hospitalisiert. Es war bekannt, 
+dass es schon mehrfach zu Aggressionsausbrüchen auch in der Klinik 
+gekommen war. Im Übrigen hat der Beschwerdeführer selbst zuge-
+standen, dass es schon sehr aggressiv werden könne. 
+Zusammenfassend war die Voraussetzung nach Art. 383 Abs. 1 
+Ziff. 1 ZGB noch knapp erfüllt; die Fortsetzung der Isolation des Be-
+schwerdeführers wurde am 13. Mai 2013 zu Recht angeordnet, 
+insbesondere da es angezeigt war, die Isolation in kleinen Schritten 
+zu öffnen. 
+ 
+ 
+ 
+
+
+92 
+Obergericht, Abteilung Verwaltungsgericht 
+2013
+5.5. 
+5.5.1. 
+Sodann ist zu prüfen, ob der Grundsatz der Verhältnismässigkeit 
+hinreichend beachtet wurde. Die Bewegungsfreiheit darf gemäss Ge-
+setzestext nur eingeschränkt werden, "wenn weniger einschneidende 
+Massnahmen nicht ausreichen oder von vornherein als ungenügend 
+erscheinen" (Art. 383 Abs. 1 ZGB). 
+5.5.2. 
+Insbesondere aufgrund der möglichen Gefährdung Dritter – also 
+Klinikpersonal und Mitpatienten – war es notwendig, den Beschwer-
+deführer von anderen Personen abzuschirmen. Es ist nicht er-
+sichtlich, welche weniger einschneidende Massnahme hätte ergriffen 
+werden können, um Dritte vor dem Beschwerdeführer zu schützen. 
+Die Massnahme war denn auch genügend geeignet, das beabsichtigte 
+Ziel zu erreichen. Der Entscheid, den Beschwerdeführer in ein 
+Zimmer zu bringen, welches abgeschlossen wurde, ist somit unter 
+den gegebenen Umständen als verhältnismässig anzusehen. 
+5.6. 
+5.6.1. 
+Schliesslich wird in Art. 383 Abs. 1 ZGB die Urteilsunfähigkeit 
+der betroffenen Person als Voraussetzung genannt. Gemäss Art. 16 
+ZGB ist jede Person urteilsfähig, der nicht wegen ihres Kindesalters, 
+infolge geistiger Behinderung, psychischer Störung, Rausch oder 
+ähnlicher Zustände die Fähigkeit mangelt, vernunftgemäss zu han-
+deln. Urteilsfähig ist, wer einerseits über die Fähigkeit verfügt, den 
+Sinn und Nutzen sowie die Wirkungen eines bestimmten Verhaltens 
+einsehen und abwägen zu können. Andererseits muss ein Willensmo-
+ment gegeben sein, nämlich die Fähigkeit, gemäss der Einsicht nach 
+freiem Willen handeln zu können (MARGRITH BIGLER-
+EGGENSBERGER, in: Honsell/Vogt/Geiser [Hrsg.], Basler Kom-
+mentar, Zivilgesetzbuch I, Basel 2010, 4. Aufl., Art. 16 N 3). Dabei 
+beurteilt sich die Urteilsfähigkeit nach konstanter Rechtsprechung 
+und Lehre nie abstrakt oder ein für alle Mal gleich bezüglich einer 
+Person, sondern stets relativ. Es kommt somit darauf an, ob die 
+Urteilsfähigkeit für eine konkrete Handlung und zu einem bestimm-
+
+
+2013 
+Fürsorgerische Unterbringung 
+93 
+ten Zeitpunkt gegeben ist (MARGRITH BIGLER-EGGENS-
+BERGER, a.a.O., Art. 16 N 34). 
+Für Art. 383 ZGB kann dies nur bedeuten, dass die betroffene 
+Person bezüglich der Notwendigkeit der Anordnung und Umsetzung 
+der bewegungseinschränkenden Massnahme urteilsunfähig sein 
+muss, und zwar in dem Zeitpunkt, in welchem die Massnahme ange-
+ordnet und umgesetzt wird. Eine allgemeine Urteilsunfähigkeit exis-
+tiert nicht und kann daher auch nicht vorausgesetzt werden (vgl. auch 
+Art. 434 Abs. 1 Ziff. 2 ZGB, wo Urteilsunfähigkeit betreffend Be-
+handlungsbedürftigkeit vorausgesetzt wird). 
+5.6.2. 
+Wie bereits erwähnt, bestimmt Art. 438 ZGB, dass auf Mass-
+nahmen, die die Bewegungsfreiheit der betroffenen Personen in der 
+Einrichtung einschränken, die Bestimmungen über die Einschrän-
+kung der Bewegungsfreiheit in Wohn- oder Pflegeeinrichtungen – 
+also Art. 383 ff. ZGB – sinngemäss anwendbar sind. Ob das Krite-
+rium der Urteilsunfähigkeit (Art. 383 Abs. 1 ZGB) auch bei der 
+Einschränkung der Bewegungsfreiheit im Rahmen einer fürsorgeri-
+schen Unterbringung Geltung hat, wird in der Literatur kontrovers 
+diskutiert. Die Botschaft äussert sich nicht explizit dazu. 
+Der Basler Kommentar zum Erwachsenenschutz vertritt die 
+Auffassung, dass die bewegungseinschränkenden Massnahmen im-
+mer voraussetzen, dass die betroffene Person urteilsunfähig ist, sie 
+damit keine Rechtsgrundlage für die Bewegungsfreiheit einer Person 
+darstellen, welche auf ihrer Bewegungsfreiheit besteht und insoweit 
+als urteilsfähig angesehen werden muss (a.a.O., Art. 438 N 5). Auch 
+der Familienrechtskommentar Erwachsenenschutz spricht sich dafür 
+aus, dass Massnahmen zur Einschränkung der Bewegungsfreiheit 
+auch bei fürsorgerisch untergebrachten Personen nur bei Urteilsunfä-
+higkeit zulässig ist, mit der Begründung, dass Art. 383 ZGB, auf den 
+Art. 438 ZGB verweist, ausschliesslich urteilsunfähige Personen er-
+wähne (a.a.O., Art. 438 N 15). 
+Gemäss Praxisanleitung zum Erwachsenenschutzrecht der 
+KOKES hingegen können bewegungseinschränkende Massnahmen 
+im Rahmen einer fürsorgerischen Unterbringung auch bei einer 
+urteilsfähigen Person angeordnet werden können (KOKES – Praxis-
+
+
+94 
+Obergericht, Abteilung Verwaltungsgericht 
+2013
+anleitung Erwachsenenschutzrecht, a.a.O., Ziff. 11.12). Auch Dr. iur. 
+Patrick Fassbind gelangt in seinem Werk zur Überzeugung, dass 
+anders als bei Art. 383 ff. ZGB bei Art. 438 ZGB die Urteilsunfä-
+higkeit der betroffenen Person kein Erfordernis darstellt (PATRICK 
+FASSBIND, Erwachsenenschutz, Zürich 2012, S. 349). Auch der 
+Erwachsenenschutz-Kommentar von Daniel Rosch et al. hält explizit 
+fest, dass die Bestimmungen des Art. 383 ff. sinngemäss anwendbar 
+seien: Abweichend von diesen Bestimmungen sei u.a., dass die 
+Einschränkung der Bewegungsfreiheit im Rahmen einer FU nicht 
+von der Urteilsfähigkeit abhänge (DANIEL ROSCH ET AL. (Hrsg.), 
+Das neue Erwachsenenschutzrecht, Einführung und Kommentar zu 
+Art. 360 ff. ZGB, Basel 2011, Art. 438 N 2). 
+5.6.3. 
+Art. 438 i.V.m. Art. 383 ZGB erfasst ausschliesslich Massnah-
+men, die keine Behandlung sind (Botschaft Erwachsenenschutz, 
+BBl 2006 7039; Basler Kommentar, Erwachsenenschutz, a.a.O., 
+Art. 438 N 3). Bei einer Einschränkung der Bewegungsfreiheit 
+handelt es sich demnach in aller Regel nicht um eine therapeutische 
+Massnahme für den Betroffenen. Vielmehr geht es insbesondere um 
+den Schutz Dritter und darum, dass das Gemeinschaftsleben auf der 
+Abteilung nicht schwerwiegend gestört wird. 
+Im Gegensatz dazu geht es bei der Behandlung ohne Zustim-
+mung gemäss Art. 434 ZGB ausschliesslich um therapeutische Mass-
+nahmen gemäss Behandlungsplan, nämlich um eine medizinische 
+Behandlung im eigentlichen Sinne. Hier wird denn auch zu Recht 
+beim Betroffenen die Urteilsunfähigkeit betreffend Behandlungsbe-
+dürftigkeit vorausgesetzt (Art. 434 Abs. 1 Ziff. 2). 
+Wenn der Basler Kommentar anfügt, eine bewegungseinschrän-
+kende Massnahme bei einem urteilsfähigen Betroffenen müsse ent-
+weder als Vollstreckung der fürsorgerischen Unterbringung angese-
+hen werden oder Teil einer Behandlung nach Art. 434 f. ZGB 
+darstellen (Basler Kommentar, Erwachsenenschutz, a.a.O., Art. 438 
+N 5), überzeugt dies nach dem hiervor Ausgeführten nicht, nachdem 
+der Kommentar in N 3 und 4 zu Art. 438 – zutreffenderweise – aus-
+führt, die blosse Umsetzung der Anordnungen nach Art. 426 - 429 
+
+
+2013 
+Fürsorgerische Unterbringung 
+95 
+ZGB werde nicht von Art. 438 ZGB erfasst, und Art. 438 ZGB er-
+fasse ausschliesslich Massnahmen, die keine Behandlung seien. 
+Es drängt sich daher die Frage auf, wie die Einrichtung reagie-
+ren kann, wenn jemand im Rahmen einer fürsorgerischen Unter-
+bringung in der Klinik hospitalisiert ist und die Voraussetzungen ge-
+mäss Art. 383 ZGB erfüllt sind, der Betroffene jedoch gleichzeitig 
+urteilsfähig ist bezüglich der Notwendigkeit der Anordnung und Um-
+setzung der bewegungseinschränkenden Massnahme. Folgt man der 
+Lehrmeinung gemäss Basler Kommentar und Familienrechtskom-
+mentar, könnte die Einrichtung keine Einschränkung der Bewe-
+gungsfreiheit zum Schutz Dritter bzw. zur Beseitigung einer schwer-
+wiegende Störung des Gemeinschaftslebens auf der Abteilung anord-
+nen, und es blieben wohl nur strafrechtliche Sanktionen. Dies kann 
+nicht Sinn und Zweck sein, wenn eine Person zur Behandlung einer 
+psychischen Störung per fürsorgerischer Unterbringung in eine 
+Einrichtung eingewiesen ist. Deshalb ist das Verwaltungsgericht 
+davon überzeugt, dass das Kriterium der Urteilsunfähigkeit bei der 
+Einschränkung der Bewegungsfreiheit im Rahmen einer fürsorgeri-
+schen Unterbringung keine Geltung haben kann (so auch KOKES-
+Praxisanleitung, a.a.O., Ziff. 11.12, PATRICK FASSBIND, a.a.O., 
+S. 349, DANIEL ROSCH ET AL., a.a.O., Art. 438 N 2). 
+(…) 
+17 
+Delegation der Anhörungskompetenz durch das Familiengericht 
+Die Delegation der Anhörungskompetenz an ein Einzelmitglied des Fa-
+miliengerichts darf nicht die Regel darstellen, auch nicht bei der Anhö-
+rung in der Einrichtung. 
+Urteil des Verwaltungsgerichts, 1. Kammer, vom 13. August 2013 in Sachen 
+B.F. gegen den Entscheid des Familiengerichts Z. (WBE.2013.377; publiziert 
+in: CAN – Zeitschrift für kantonale Rechtsprechung 2013 Nr. 75 S. 194). 
+Aus den Erwägungen
