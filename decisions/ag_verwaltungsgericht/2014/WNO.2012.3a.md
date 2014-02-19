@@ -1,0 +1,660 @@
+---
+decision_id: "ag_verwaltungsgericht_WNO.2012.3a"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WNO.2012.3a"
+decided: "2014-02-19"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2733"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2733"
+cites_decisions: ["BGE 106 II 146", "BGE 132 I 201"]
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/241/art-002.md", "switzerland/bund/acts/935.61/art-012.md", "switzerland/bund/acts/942.211/art-011.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WNO.2012.3a
+
+## Regeste
+
+Notariatstarif; Normenkontrolle 
+Die Regelung von § 69 Abs. 1 BeurG und § 1 Abs. 1 Notariatstarif, wonach für Notariatsdienstleistungen kein minimaler Stundenansatz vorgeschrieben ist und vom Gebührentarif nach unten abgewichen werden kann, verstösst nicht gegen höherrangiges Recht.
+
+## Text
+
+44 Notariatstarif; Normenkontrolle
+Die Regelung von §69 Abs.1 BeurG und §1 Abs.1 Notariatstarif, wo
+nach für Notariatsdienstleistungen kein minimaler Stundenansatz vorge
+schrieben ist und vom Gebührentarif nach unten abgewichen werden
+kann, verstösst nicht gegen höherrangiges Recht.
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 19. Februar 2014 in Sa
+chen A., B. und Aargauische Notariatsgesellschaft gegen Kanton Aargau
+(WNO.2012.3).
+Aus den Erwägungen
+5.
+5.1.
+Der materielle Begriff der öffentlichen Beurkundung gehört
+dem Bundesrecht an; die Kompetenz zu deren gesetzlichen Regelung
+liegt jedoch grundsätzlich bei den Kantonen. Diesen wird durch
+Art.55 SchlT ZGB die Aufgabe übertragen zu bestimmen, wer auf
+dem Kantonsgebiet zur Errichtung öffentlicher Urkunden befugt und
+wie dabei vorzugehen ist. Neben Zuständigkeit und Form des Verfah
+rens sind insbesondere die Voraussetzungen für die Tätigkeit als Ur
+kundsperson, die Aufgaben und Berufspflichten der Urkundsperson
+sowie das Gebühren und Aufsichtswesen zu regeln. Diese Normie
+rungsfreiheit der Kantone wird immerhin in zweierlei Hinsicht be
+schränkt, einerseits durch die bundesrechtlichen Minimalanforderun
+gen, die sich aus dem materiell rechtlichen Zweck des Instituts erge
+ben, und andererseits durch die punktuellen Regelungen, welche die
+Beurkundungsgeschäfte im Gesetzesrecht des Bundes erfahren
+(BGE133 I 259, Erw.2 mit Hinweisen).
+
+5.2.
+Obwohl im Kanton Aargau die Beurkundungstätigkeit freiberuf
+lich, d.h. nicht durch ein Amtsnotariat ausgeübt wird, handelt es sich
+beim Entgelt für die Notariatsdienstleistung um eine Gebühr (§§69
+und 70 BeurG). Die Entschädigung für eine amtliche Tätigkeit einer
+Privatperson untersteht grundsätzlich den gleichen Regeln wie das
+Entgelt, das für Leistungen des Gemeinwesens zu entrichten ist
+(BGE 103 Ia 85, Erw.5 mit Hinweisen). Für die Bemessung der Ent
+schädigung sind daher neben den kantonalen Bestimmungen die ein
+schlägigen Grundsätze des Bundesrechts anzuwenden.
+Die Verpflichtung zu einer öffentlichen Geldleistung erfordert
+eine formell gesetzliche Grundlage und bei der Bemessung einer
+Verwaltungsgebühr sind namentlich das Kostendeckungs sowie das
+Äquivalenzprinzip zu beachten. (…)
+5.3.
+Die Anwendung der dargelegten Verfassungsgrundsätze über
+die quantitative Festlegung einer Gebühr stösst auf praktische
+Schwierigkeiten, wenn das Notariat freiberuflich organisiert ist (vgl.
+dazu ausführlich BGE 103 Ia 85, Erw.5c). Das Bundesgericht ge
+langte daher zum Schluss, dass sich die verfassungsrechtliche Über
+prüfung kantonaler Notariatsgebühren bei freiberuflicher Organisa
+tion aus praktischen Gründen auf die folgenden Gesichtspunkte be
+schränken muss: Die im konkreten Fall erhobene Gebühr muss in
+einem vernünftigen Verhältnis zur erbrachten Leistung stehen. Ein
+offensichtliches Missverhältnis müsste als übermässige Erschwerung
+der Benützung des privatrechtlichen Instituts der öffentlichen Beur
+kundung betrachtet werden, was gegen Sinn und Geist des Bundeszi
+vilrechts verstossen würde. Im Übrigen muss der Tarif nach sachlich
+haltbaren Gesichtspunkten ausgestaltet sein und darf keine
+Unterscheidungen treffen, für die ein vernünftiger Grund nicht
+ersichtlich ist (BGE 103 Ia 85, Erw.5c).
+6.
+6.1.
+Für die amtliche Tätigkeit erhebt die Urkundsperson eine Ge
+bühr und fordert Ersatz der entstandenen Auslagen (§69 Abs.1
+
+Satz1 BeurG). Unter der Marginale "Gegenstand und Höhe der Ge
+bühr; Auslagen" bestimmt §70 BeurG Folgendes:
+"1Die Gebühr für die Beurkundung von Verträgen zur Übertragung von
+Grundstücken, zur Begründung von selbstständigen und dauernden Bau
+rechten sowie auf Errichtung und Erhöhung von Grundpfandrechten be
+misst sich nach Promilletarif.
+2Die Gebühr für Beglaubigungen bemisst sich nach festen Ansätzen.
+3Die Gebühr für alle übrigen Verrichtungen bemisst sich nach dem
+Zeitaufwand der Urkundsperson.
+4Die Höhe der Promillesätze und der dazugehörigen Maximal und
+Minimalbeträge, der festen Ansätze, des Stundenansatzes sowie den Ausla
+geersatz regelt der Grosse Rat durch Dekret."
+§§1 ff. des Dekrets über den Notariatstarif vom 30.August
+2011 (Notariatstarif; SAR295.250) legen für den Aufwand und
+Promilletarif die konkreten Bemessungsgrundlagen, nach denen die
+Höhe der Gebühr festzulegen ist, sowie die Ansätze beim Fixtarif
+fest.
+Aufwandtarif: Der Stundenansatz der Urkundsperson beträgt höchstens
+Fr.300.00 (§1 Abs.1 Notariatstarif). Liegt keine Vereinbarung über die
+Höhe des Stundenansatzes vor und können sich die Parteien diesbezüglich
+nicht einigen, so erfolgt die konkrete Festlegung je nach Bedeutung und
+Schwierigkeit des betroffenen Geschäfts (§1 Abs.2 Notariatstarif).
+Promilletarif: Für Verträge auf Eigentumsübertragung von Grundstücken
+und Begründung von selbständigen und dauernden Baurechten (§2 Notari
+atstarif) richtet sich die Höhe der Gebühr nach vorgegeben Promillen des
+Vertragswerts und beträgt im Minimum Fr. 300.00 (§2 Abs.1 Ziff. 1
+Notariatstarif) und im Maximum Fr. 20'000.00 (Ziff.3).
+Für Verträge auf Errichtung und Erhöhung von Grundpfandrechten (§3
+Notariatstarif) beträgt die Höhe der Gebühr 2/3 der Ansätze von §2 für die
+Pfandsumme, höchstens aber Fr. 7'500.00.
+Fixtarif: Für Beglaubigungen sieht §6 Notariatstarif feste Ansätze vor.
+Festzuhalten ist, dass der Notariatstarif nur bei der Festlegung
+des Stundenansatzes auf einen Minimalansatz verzichtet.
+
+6.2.
+6.2.1.
+§1 Abs.1 Notariatstarif sieht – entgegen dem regierungsrätli
+chen Antrag (Botschaft des Regierungsrats des Kantons Aargau an
+den Grossen Rat vom 16. Februar 2011, 11.36, Bericht und Entwurf
+zur 2. Beratung [im Folgenden: Botschaft 2], S.11) – keine explizite
+Untergrenze für den Stundenansatz vor. Offenbar wurde eine derar
+tige Limite als überflüssig angesehen, da gemäss §69 Abs.1 Satz2
+BeurG die Gebühr ohnehin reduziert werden kann (vgl. Protokoll des
+Grossen Rats [Prot. GR] vom 30.August 2011, Art.1416, S.3186,
+Votum Grossrätin Ruth Jo. Scheier; S.3187, Votum Landammann
+Dr.Urs Hofmann).
+Die erwähnte Auffassung lässt sich schwer nachvollziehen. §70
+Abs.4 BeurG sieht einen Minimalbetrag auch beim Stundenansatz
+vor. Die in §69 Abs.1 Satz 2 BeurG vorgesehene Reduktionsmög
+lichkeit erfolgt systematisch in einem zweiten Schritt. Für die Festle
+gung der "Grundgebühr", von der allenfalls nach unten abgewichen
+wird, hätte die Festlegung einer expliziten Minimalgrenze ihre
+Berechtigung gehabt (vgl. dazu DENIS PIOTET, Liberté tarifaire ou
+égalité devant la contribution de droit public?, in: Festschrift 100
+Jahre Verband bernischer Notare, Langenthal 2003, S.221 f.). Die
+Kritik der Gesuchsteller ist insoweit teilweise berechtigt. Im vor
+liegenden Verfahren zu beurteilen ist allerdings nur, ob die Festset
+zung eines Mindeststundenansatzes im Aufwandtarif aufgrund der
+von den Gesuchstellern gerügten rechtlichen Mängel notwendig ist.
+6.2.2.
+Der Notariatstarif sieht in §1 Abs.2 vor, dass bei Uneinigkeit
+der (Vertrags ) Parteien über die Gebühr und bei fehlender Vereinba
+rung über den Stundenansatz die Gebühr in einem Schlichtungs und
+Klageverfahren (§§73 und 74 BeurG) nach der Bedeutung und
+Schwierigkeit des betroffenen Geschäfts festgesetzt wird. Beim Stun
+denansatz bereitet dies auch ohne Minimalansatz keine Probleme.
+Die kostendeckenden Stundenansätze für Notare dürften derzeit im
+Bereich der vom Regierungsrat vorgeschlagenen expliziten Unter
+grenze (Fr.180.00; vgl. Botschaft 2, S.11) liegen. Sie können auch
+in Zukunft nach dem Kostendeckungsprinzip, nötigenfalls auch im
+
+Quervergleich mit den Ansätzen anderer Dienstleistungen mit ver
+gleichbaren Kostenstrukturen wie Anwalts und Treuhänderbüros
+(vgl. dazu Anwaltstarif; BGE 132 I 201, Erw.8.7; http://www.treu
+handvergleich.ch/treuhand kanton AG.htm), festgelegt werden. Nach
+der Konzeption des Gesetz und Dekretsgebers ergibt sich, dass sich
+anhand von §§1ff. Notariatstarif für jede notarielle Dienstleistung
+das Entgelt unter Beachtung des Kostendeckungs und Äquivalenz
+prinzips bestimmen lässt. Das nach diesen Grundsätzen bemessene
+Entgelt bildet die grundsätzlich geschuldete Gebühr.
+6.3.
+§69 Abs.1 Satz 2 BeurG erlaubt den Notaren, vom bestimmba
+ren Entgelt nach Tarif nach unten abzuweichen und eine tiefere Ge
+bühr mit den Parteien zu vereinbaren. Ein Überschreiten des Tarifs
+ist ausgeschlossen. Eine Pflicht zur Unterschreitung besteht indessen
+nicht. Diese Wertung der Gebührenordnung entspricht den Intentio
+nen des Gesetzgebers: Der Regierungsrat schlug dem Grossen Rat
+einen Notariatstarif vor, der offenbar im interkantonalen Vergleich zu
+den tiefsten Tarifen im freien Notariat gehörte. Gegenüber dem
+früheren (Zwangs )Tarif nach der Notariatsordnung vom 28. Dezem
+ber 1911 (SAR 295.110) erfolgte eine erhebliche Herabsetzung unter
+anderem durch die Einführung einer Maximalgrenze bei Liegen
+schaftsgeschäften und durch die Überführung diverser Geschäfte aus
+dem Promille in den Stundentarif (vgl. Botschaft des Regierungsrats
+des Kantons Aargau an den Grossen Rat vom 17. März 2010, 10.92,
+Bericht und Entwurf zur 1. Beratung [im Folgenden: Botschaft 1],
+S.88 f.; Prot. GR, S.3188, Votum Landammann Dr.Urs Hofmann).
+Nach den Intentionen des Regierungsrates sollte mit einer unteren
+Begrenzung auch beim Stundentarif u.a. die Quersubventionierung
+zwischen Routinegeschäften und Einzelgeschäften und die Qualität
+der Arbeit gewährleistet werden. Der Regierungsrat vertrat zudem
+die Ansicht, dass die Festlegung von öffentlich rechtlichen Gebühren
+nicht dem Belieben der Notare anheimgestellt werden soll, weshalb
+der Dekretsentwurf Bestimmungen zur Unterschreitung des Tarifs
+aus bestimmten Gründen vorsah (Botschaft 2, S.14 f.; Prot. GR,
+S.3184, Votum Dr.Urs Hofmann).
+
+6.4.
+Die Gebührenforderung der freiberuflichen Urkundsperson ge
+hört ihrer Entstehung nach dem öffentlichen Recht an; gleichzeitig
+ist sie aber auch von Anfang an Teil des Privatvermögens. Ersteres
+spricht grundsätzlich gegen ein freies Verfügungsrecht der Urkunds
+person und damit auch gegen einen (nach unten) offenen Tarif,
+letzteres lässt aufgrund der Vertragsfreiheit auf das Gegenteil schlies
+sen (vgl. CHRISTIAN BRÜCKNER/PETER HETTICH, Gutachten betref
+fend verschiedene Fragen im Zusammenhang mit dem Notariatstarif
+des Kantons Aargau vom 12. November 2010). Zu Recht verzichten
+die Gesuchsteller auf die Behauptung, es dürfe einzig auf die Entste
+hung und die Rechtsnatur abgestellt werden und jede Offenheit des
+Tarifs nach unten sei daher a priori als unzulässig zu erachten.
+7.
+7.1.
+Die Gesuchsteller machen zunächst geltend, die beanstandeten
+Normen würden gegen die Grundsätze der öffentlichen Beurkundung
+gemäss Zivilgesetzbuch verstossen. Die Unabhängigkeit der Ur
+kundsperson werde gefährdet, da sie von Grosskunden abhängig
+werden könne. Es vertrage sich nicht mit dem Vertrauen in den Nota
+riatsstand als Ganzem, wenn durch Tiefpreisangebote Kundenabwer
+bung betrieben würde. Hoheitliche Tätigkeit und Markt würden sich
+nicht vertragen. Der nach unten offene Notariatstarif gefährde den
+Grundgedanken der öffentlichen Beurkundung und schaffe Rechts
+unsicherheit, obwohl gerade das Privatrecht auf die Stabilisierung
+von Vertrauen angewiesen sei. Die Qualität der Notariatsarbeit werde
+unter dem Wettbewerbsdruck leiden. Da ohne Tarifuntergrenzen die
+Quersubventionierung der defizitären Geschäfte durch profitable Ge
+schäfte nicht mehr gewährleistet sei, würden sich die Notare vor
+defizitären Geschäften drücken oder sie qualitativ nur mangelhaft
+ausführen. Schliesslich verliere die Urkundspflicht gemäss §23
+BeurG durch den nach unten offenen Tarif ihre Rechtfertigung. Die
+Kundschaft mit unprofitablen Geschäften werde Mühe haben, innert
+nützlicher Frist einen Notar zu finden. Durch diesen erschwerten Zu
+gang werde das Institut der öffentlichen Beurkundung grundsätzlich
+in Frage gestellt. Schliesslich führe die neue Tarifordnung dazu, dass
+
+die Gebühren für den Privaten zum Voraus schlicht nicht bestimmbar
+seien. Auch diese Unsicherheit erschwere die öffentliche Beurkun
+dung übermässig und hindere Kreise der Bevölkerung am Gang zum
+Notar.
+7.2.
+§§21 ff. BeurG regeln die Berufspflichten der Urkundsperso
+nen. Diese sind unter anderem gehalten, das Ansehen des Berufsstan
+des zu wahren (§21 BeurG) bzw. alle Verhaltensweisen zu unterlas
+sen, die geeignet sind, das Vertrauen in die Notare zu beeinträchtigen
+(ADRIAN GLATTHARD, in: STEPHAN WOLF [Hrsg.], Kommentar zum
+Notariatsrecht des Kantons Bern, Bern 2009, Art.45 N23). Sie ha
+ben den Beruf unabhängig auszuüben und setzen sich keinem Ein
+fluss Dritter aus, der mit ihrer Unabhängigkeit nicht vereinbar ist
+(§22 BeurG). Die Beurkundungen und Beglaubigungen, mit denen
+der Betroffene betraut wird, sind effektiv vorzunehmen (sog.
+Urkundspflicht, §23 BeurG). Zudem haben die Urkundspersonen
+eine umfassende Sorgfalts und Wahrheitspflicht zu befolgen (§28
+BeurG) und die Interessen der Beteiligten nach bestem Wissen und
+Gewissen gleichmässig und unparteiisch zu wahren (§29 BeurG).
+Speziell zu erwähnen sind schliesslich die Rechtsbelehrungspflicht
+(§30 BeurG) sowie die Vorschriften über die einzelnen Beurkun
+dungsverfahren. Die vorsätzliche oder fahrlässige Verletzung dieser
+Pflichten wird von der Notariatskommission disziplinarisch geahndet
+(§39 BeurG; vgl. GLATTHARD, a.a.O., Art.45 N22). Für kantonale
+Gerichts und Verwaltungsbehörden besteht eine Pflicht, mögliche
+Verletzungen von Berufspflichten der Notariatskommission zu mel
+den (§77 BeurG). Urkundspersonen haften schliesslich für den Scha
+den, den sie in Ausübung der beruflichen Tätigkeit widerrechtlich so
+wie vorsätzlich oder fahrlässig verursachen (§42 Abs.1 BeurG).
+7.3.
+Die bundesrechtlichen Minimalanforderungen an das Beurkun
+dungsverfahren verlangen, dass der mit der Beurkundungsform ange
+strebte Zweck sichergestellt werden kann. Die kantonalen Vorschrif
+ten dürfen das materiell rechtliche Institut der bundesrechtlichen
+Ordnung (die öffentliche Beurkundung) weder verunmöglichen,
+noch ungebührlich erschweren oder ihre Wirksamkeit beeinträchti
+
+gen (BGE 106 II 146, Erw.2b mit Hinweisen; CHRISTIAN
+BRÜCKNER, Schweizerisches Beurkundungsrecht, Zürich 1993,
+Rz.8ff. mit Hinweisen). Die zivilrechtlichen Mindestanforderungen
+betreffen, abgesehen von den spezifischen Vorschriften für einzelne
+Rechtsgeschäfte in ZGB und OR, das Beurkundungsverfahren (Bera
+tungs , Belehrungs und Wahrheitspflicht), die Beachtung von Aus
+standpflichten und die Anforderungen an die Erstellung und Form
+der öffentlichen Urkunde (Einheit des Begründungsaktes).
+7.4.
+7.4.1.
+Die umfangreichen Berufspflichten einerseits sowie die Sank
+tionierungsmöglichkeiten und die Haftbarkeit anderseits sind ge
+eignet, die Einhaltung der bundesrechtlichen Anforderungen an das
+Beurkundungsverfahren sicherzustellen. Bezogen auf die Rügen der
+Gesuchsteller ist insbesondere wesentlich, dass der Notar im Rahmen
+seiner Berufspflichten seine Unabhängigkeit wahren muss, die
+Qualität der Beurkundung zu gewährleisten hat und eine Urkunds
+pflicht besteht. Es besteht daher kein Grund für die im Nor
+menkontrollgesuch heraufgeschworene Befürchtung, wonach der
+Zweck des Beurkundungsvorgangs vereitelt und der Zugang zu einer
+Urkundsperson übermässig erschwert werden könnte.
+Es mag sein, dass ein Tarif mit zwingenden Minimalansätzen
+mitzuhelfen vermag, die Einhaltung der Anforderungen an das Beur
+kundungsverfahren zu unterstützen. Entgegen der Darstellung der
+Gesuchsteller lässt sich daraus jedoch nicht der Umkehrschluss zie
+hen, dass ein entsprechender Tarif unabdingbare Voraussetzung für
+ein ordnungsgemässes Beurkundungsverfahren wäre. Insbesondere
+ist eine Gewährung von Provisionszahlungen oder "Kickbacks", wel
+che bei einer Urkundsperson zu einer Abhängigkeit von Grosskunden
+führt, mit dem in §22 Abs.2 BeurG vorgeschrieben Unabhängig
+keitsgebot kaum vereinbar. Eine Abhängigkeit des Notars, die zu
+Interessenkollisionen führt, wie dies die Gesuchsteller befürchten,
+wäre zudem ein Ausstands und Befangenheitsgrund (vgl. §§24 ff.
+BeurG, insbesondere §24 Abs.3).
+Die bundesrechtlichen Vorgaben zur öffentlichen Beurkundung
+enthalten keine Aussage zum Marktauftritt der Notare. Entspre
+
+chende Vorgaben können auch nicht aus dem Grundgedanken der
+öffentlichen Beurkundung hergeleitet werden. Den Schutz des
+Vertrauens und Ansehens in den Notariatsstand gewährleistet §21
+BeurG; eine unzulässige Kundenbewerbung verbietet §34 BeurG.
+In diesem Zusammenhang sei nochmals daran erinnert, dass ge
+mäss der umstrittenen Regelung die Festlegung der Beurkundungs
+bzw. Beglaubigungsgebühr nicht dem unbeschränkten Wettbewerb
+ausgesetzt ist. Vielmehr lässt sich nach Massgabe von §§1ff. Nota
+riatstarif für jedes Geschäft eine Gebühr ermitteln; von dieser grund
+sätzlich geschuldeten Gebühr darf nur nach unten, nicht aber auch
+nach oben abgewichen werden (vgl. vorne Erw.6).
+7.4.2.
+Die Tatsache, dass die öffentliche Beurkundung im Aargau
+durch freiberufliche Notare vorgenommen wird, impliziert eine
+Marktordnung, in der grundsätzlich ein Wettbewerb stattfinden kann
+und eine (beschränkte) Vertragsfreiheit gilt. Der Notariatstarif legt
+die Maximalhöhe der Gebühren fest und erlaubt Tarifunterschreitun
+gen. Es besteht also keine absolut freie Preisbildung und auch die
+Vertragsfreiheit ist eingeschränkt. Nur die Festlegung von Gebühren
+unter den Tarifwerten ist der Vereinbarung der Marktteilnehmer über
+lassen.
+Diese Preisbildung ohne staatliche Beschränkungen funktioniert
+bei andern freien Berufen; sie führt weder zu Qualitätseinbussen
+noch zu einer Gefährdung des Marktzugangs oder der Versorgung.
+Es ist daher kein sachlicher Grund erkennbar, weshalb die Urkunds
+person mittels eines zwingenden Minimaltarifs vor sich selbst ge
+schützt werden soll. Ein Zwangstarif mit Mindestansätzen garantiert
+auch keine sorgfältige Berufsausübung. Den Schutz der breiten
+Allgemeinheit, d.h. der privaten (Klein ) Kundschaft, vor versteckten
+Interessenbindungen der Urkundsperson vermag im freien Notariat
+ein Tarif – sei es mit oder ohne Öffnung nach unten – ohnehin nicht
+zu gewährleisten.
+7.4.3.
+Art.55 SchlT ZGB überlässt den Kantonen bei der Regelung
+der Gebühren für die Beurkundung eine weitgehende Autonomie
+(vgl. Urteil des Bundesgerichts vom 30. Juni 1998, Erw.4, in: ZBGR
+
+81/2000, S.72). Aufgrund dieser Freiheit sind sie auch nicht ver
+pflichtet, Tarife mit minimalen Gebührenansätzen festzulegen. Folg
+lich ist keine Verletzung von Minimal oder Maximalanforderungen
+des Bundesrechts erkennbar, wenn den Urkundspersonen erlaubt
+wird, im Einzelfall von der tarifären Grundgebühr nach unten
+abzuweichen.
+8.
+8.1.
+Die Gesuchsteller machen im Weiteren geltend, die umstritte
+nen Bestimmungen würden dem Gleichbehandlungsgebot widerspre
+chen. Je nachdem, wie viel "Marktmacht" jemand aufweise, sei eine
+Amtshandlung für ihn billiger oder teurer. So bezahle der einfache
+Bürger, der einmal im Leben eine Liegenschaft erwerbe, mehr für die
+Notariatsdienstleistung als der institutionelle Liegenschaftenhändler
+oder Bauunternehmer. Dies sei mit der Rechtsgleichheit nicht verein
+bar. Der Gesetz bzw. Dekretsgeber habe unterschiedliche Sachver
+halte zu wenig differenziert geregelt. Die umstrittenen Normen wür
+den alle Beurkundungsfälle gleich behandeln. Die Festlegung der
+Gebühr sei immer Sache der Parteien, wie unterschiedlich die Fälle
+auch seien. Das Abweichen vom Tarif sei nicht von einem sachlichen
+Grund abhängig. Entgegen der Meinung des entsprechenden Antrag
+stellers im Grossen Rat werde der nach unten offene Tarif nur den
+Grosskunden zugutekommen und allen anderen Kunden schaden.
+Auch die bisher zulässige "Quersubventionierung" von profitablen
+und nicht profitablen Geschäften werde durch das neue System aus
+den Angeln gehoben. Insgesamt widerspreche die getroffene Regel
+der Zweckrationalität und der instrumentellen Vernunft. Das vom
+Grossen Rat gewählte Mittel tauge nicht zum postulierten Zweck. Es
+fehle ein sachlicher Grund für die Gleichbehandlung aller Beurkun
+dungsfälle. Damit sei das Differenzierungsgebot verletzt. Die im
+interkantonalen Vergleich singuläre Regelung in §69 Abs.1 Satz2
+BeurG sei vom Gesetzgeber beschlossen worden, ohne dass er sich
+über deren Tragweite im Klaren gewesen sei. Schliesslich könne eine
+rechtsgleiche Behandlung durch alle im Kanton zugelassenen Ur
+kundspersonen mit der umstrittenen Regelung von vornherein nicht
+erreicht werden. Die entsprechende Aufgabe der Notariatskommis
+
+sion zu überbinden widerspräche dem Willen des Gesetz bzw.
+Dekretsgebers und wäre zudem kartellrechtlich unzulässig.
+8.2. (…)
+8.3.
+Vorab erscheint nicht unwesentlich, dass sich selbst bei der An
+wendung der herkömmlichen Tarifordnungen für notarielle Dienst
+leistungen Rechtsungleichheiten ergeben können:
+Ist ein fixer Stundenansatz vorgeschrieben, ist dieser grundsätzlich
+unabänderlich. Demgegenüber kann die für ein Geschäft aufgewendete
+(bzw. verrechnete) Zeit von Urkundsperson zu Urkundsperson variieren
+(vgl. Botschaft 1, S.73).
+Rahmentarife mit einem Mindest sowie einem Höchstbetrag lassen der
+Urkundsperson bei der Gebührenfestlegung gewisse Freiräume. Dies gilt
+auch dann, wenn für das Ausfüllen des Tarifrahmens "weiche Faktoren"
+vorgegeben sind (z.B. vermögensrechtliche Bedeutung des Geschäfts, Ver
+antwortung, Zeitaufwand etc.; BRÜCKNER/HETTICH, a.a.O., S.28).
+Soweit kein reiner Aufwandtarif besteht, gilt für die Abgrenzung zwi
+schen tarifierten und nichttarifierten Leistungen häufig keine starre Rege
+lung (vgl. BRÜCKNER/HETTICH, a.a.O., S.21 ff.). Urkundspersonen haben
+in diesem System Möglichkeiten, nicht tarifierte Leistungen separat in
+Rechnung zu stellen und zusätzlich zu den Beurkundungsleistungen auch
+für nichttarifierte Leistungen ein Entgelt verlangen. Auch Notarinnen und
+Notare ohne Anwaltspatent treten regelmässig mit zusätzlichen Dienst
+leistungsangeboten am Markt auf, welche dem Notariatstarif nicht unter
+stehen (Erbteilungen, Steuerberatung, Verbandssekretariate etc.) und die
+ihre Betriebskalkulation wesentlich prägen.
+Im Weiteren gilt es darauf hinzuweisen, dass in der Praxis ein Zwangsta
+rif die Gewährung von Rabatten nicht auszuschliessen vermag
+(BRÜCKNER/HETTICH, a.a.O, S.19f.). Diese Auswirkungen liessen sich
+auch mit dem Zwangstarif in der Notariatsordnung vom 28.Dezember
+1911 nicht verhindern.
+Die Gesuchsteller blenden sodann vollständig aus, dass die freie Nota
+riatstätigkeit nicht in einem einheitlichen Betriebsumfeld stattfindet. Ne
+ben den traditionellen, klassischen Einzelunternehmen wird die Notariats
+tätigkeit im Anstellungsverhältnis (§7 Abs.3 BeurG), von Rechtsanwälten
+als Neben oder Zusatztätigkeit (§7 Abs.2 BeurG) sowie in Partnerschaft
+
+oder Anstellung bei Anwaltskanzleien ausgeübt (§18 Abs.2 BeurG). Die
+Beurkundungsgebühr dieser Urkundspersonen erscheint beim Kunden in
+einer Gesamtabrechnung. Notare arbeiten sodann auch mit Banken, Treu
+handunternehmen und Anwälten zusammen.
+Die Unternehmensstrukturen, in denen die aargauischen Urkundsperso
+nen auf dem Markt auftreten, sind ohnehin individuell und verschieden
+(vgl. dazu Register der Urkundspersonen). Eine einheitliche Kostenstruk
+tur ihrer Unternehmen besteht nicht, ganz abgesehen davon, dass die
+Gebühren nur einen Teil des Einkommens der Notarinnen und Notare dar
+stellen.
+Die Urkundsperson darf sich auch bei einem Zwangstarif mit minimalen
+Ansätzen, wie dem Tarif im Kanton Bern, "wettbewerbsmässig" verhalten
+und damit die konkrete Notariatsgebühr im Einzelfall tiefer halten (vgl.
+dazu: MARTIN BICHSEL, in: WOLF [Hrsg.], Kommentar zum Notariatsrecht
+des Kantons Bern, a.a.O., Art.52 N53).
+Entsprechend lässt sich festhalten, dass bei der Gebührenfestle
+gung Freiräume bestehen und insofern auch Rechtsungleichheiten
+aufgrund tatsächlicher Unterschiede in Kauf genommen werden
+müssen. Sie sind unmittelbare Folge des freien Notariats und der
+wirtschaftlichen Realitäten dieses Berufs. Im freiberuflichen Notariat
+lässt sich eine einheitliche Handhabung der Tarifordnung systembe
+dingt nicht gewährleisten. Der Notariatstarif vermag in seinen
+tatsächlichen Auswirkungen eine rechtsgleiche Behandlung der Ur
+kundspersonen und der Kunden daher nicht realitätsgerecht sicherzu
+stellen. Auch wenn er nach unten zwingend ausgestaltet ist, kann ein
+Wettbewerb stattfinden. Selbst eine relative Gleichbehandlung ist an
+gesichts der wirtschaftlichen Unterschiede ausgeschlossen. Die von
+den Gesuchstellern postulierte Zweckrationalität und die "instrumen
+telle Vernunft" ist keine Frage der Tarifierung. Die Preisbildung nach
+unten ist vielmehr der unternehmerischen, beruflichen und berufs
+ständischen Verantwortung der Notare und Notarinnen überlassen.
+8.4.
+Es besteht offenbar eine gewisse Befürchtung, dass der Verzicht
+auf einen minimalen Stundenansatz (vgl. §1 Abs.1 Notariatstarif)
+sowie die generelle Möglichkeit, die Gebühren gemäss Notariatstarif
+unterschreiten zu können (§69Abs.1 Satz2 BeurG), zu einem
+
+ruinösen Verdrängungswettbewerb führen werden, in dem sich Ur
+kundspersonen mit Dumpingpreisen gegenseitig unterbieten (vgl.
+BRÜCKNER/HETTICH, a.a.O., S.18). Vorab erscheint fraglich, ob der
+Markt (soweit von einem Markt gesprochen werden kann) der Nota
+riatsdienstleistungen auf einen derartigen Konkurrenzkampf über
+haupt anfällig ist (vgl. BRÜCKNER/HETTICH, a.a.O., S.18). Darüber
+hinaus ist namentlich Folgendes wesentlich:
+8.4.1.
+Es bestehen keine Anhaltspunkte dafür, dass die umstrittene Ge
+bührenordnung die Anforderungen, die sich aus dem Prinzip der
+Rechtsgleichheit ergeben, nicht einhalten würde. Dies gilt nament
+lich für den Aufwandtarif; der Rahmen zwischen der frei vereinbaren
+Minimalgebühr und der Maximalgebühr auf der Basis von Fr.300.00
+pro Stunde (§1 Abs.1 Notariatstarif) ist bei fehlender Einigung der
+Parteien anhand der Kriterien in §1 Abs.2 Notariatstarif (Bedeutung
+und Schwierigkeit des betroffenen Geschäfts) und dem Kosten
+deckungsprinzip auszufüllen. Eine vereinbarte tiefere Gebühr wird
+sich regelmässig zwischen dem von der betroffenen Urkundsperson
+als kostendeckend angesehenen Entgelt und der erwähnten
+"Grundgebühr" bewegen. Damit ist eine rechtsgleiche Behandlung
+der Kunden bzw. eine genügende Differenzierung hinreichend ge
+währleistet.
+8.4.2.
+In Bezug auf den Aufwandtarif kommt dem Äquivalenzprinzip
+neben den Kriterien der Bedeutung und Schwierigkeit des Geschäfts
+(§1 Abs.2 Notariatstarif) kaum eine eigenständige Bedeutung zu.
+Demgegenüber muss die gemäss Promilletarif errechnete Gebühr un
+ter Umständen nach Massgabe des Äquivalenzprinzips reduziert wer
+den, damit die Urkundsperson das ihr mit §69 Abs.1 Satz 2 BeurG
+eingeräumte Ermessen ("darf") nicht unterschreitet. Insofern gewähr
+leistet das Prinzip Differenzierungen, die über die Gebührenordnung
+in §§1 ff. Notariatstarif hinausgehen.
+Betreffend den Fixtarif ist darauf hinzuweisen, dass die Gebühr
+für Beglaubigungen ohnehin kaum kostendeckend ist (BRÜCKNER/
+HETTICH, a.a.O., S.19). Der Umstand, dass vom Gebührentarif nach
+
+unten abgewichen werden kann, dürfte daher in diesem Zusammen
+hang keine wesentliche Auswirkung haben.
+8.4.3.
+Auf die umfangreichen Berufspflichten der Urkundspersonen
+wurde bereits hingewiesen (vgl. vorne Erw.7.2). Sie schränken die
+Möglichkeit, dass im Bereich notarieller Dienstleistungen ein "ruinö
+ser" Wettbewerb stattfindet, deutlich ein.
+Zu beachten ist, dass Preisunterbietungen auch aus wettbe
+werbsrechtlichen Gründen widerrechtlich sein können, wenn eine
+Urkundsperson unter Missbrauch ihrer Marktmacht oder mit un
+lauteren Mitteln systematisch mit nicht kostendeckenden Angeboten
+andere Anbieter unterbietet. Gemäss Art.2 UWG ist ein Angebot un
+lauter, wenn eine Urkundsperson die Differenz zu kostendeckenden
+Preisen mit illegalen Mitteln deckt, etwa durch die Verletzung von
+Berufspflichten. Die systematische Festlegung von Gebühren, wel
+che nicht kostendeckend sind, dürfte – soweit sie sich nicht direkt
+aus dem Gebührentarif ergibt oder andere sachliche Gründe vorlie
+gen – kaum mit den Berufspflichten vereinbar sein. Einem ruinösem
+Preiskampf zu Lasten der Kleinkunden kann mit den Berufspflichten
+in §21 BeurG (Wahrung des Ansehens des Berufsstandes), der Sorg
+falts und Wahrheitspflicht (§28 BeurG), der gleichmässigen Interes
+senwahrungspflicht (§29 BeurG), der Werbebeschränkung in §34
+BeurG sowie dem Gleichbehandlungsgebot in §7 Notariatstarif (vgl.
+dazu hinten Erw.8.4.5) wirksam entgegengetreten werden.
+Schliesslich übt die freiberufliche Urkundsperson eine amtliche,
+hoheitliche Tätigkeit aus. Daraus folgt, dass sie in dieser Eigenschaft
+an die Grundsätze staatlichen Handelns der Verfassung (Art.5 BV
+und §2 KV) gebunden ist.
+Aufgrund dieser Einschränkungen ergibt sich, dass der Ermes
+sensspielraum, den §69 Abs.1 Satz2 BeurG einräumt, deutlich
+geringer ist, als der Wortlaut der Bestimmung glauben lässt. Dadurch
+ist aber auch die Möglichkeit reduziert, dass bei vergleichbaren Ge
+schäften ohne sachlichen Grund wesentlich unterschiedliche Gebüh
+ren verlangt werden und somit gegen das Rechtsgleichheitsprinzip
+verstossen wird.
+
+Dieselbe Schlussfolgerung ergibt sich bereits daraus, dass der
+Spielraum der Urkundspersonen aus wirtschaftlichen Gründen be
+schränkt ist (vgl. vorne Erw.6.2).
+8.4.4.
+Die Notare sind der Verordnung über die Bekanntgabe von Prei
+sen vom 11.Dezember 1978 (Preisbekanntgabeverordnung, PBV;
+SR942.211) unterstellt. Daraus ergibt sich die Pflicht, die Preise für
+die Notariatsdienstleistung leicht zugänglich und gut lesbar bekannt
+zu geben (Art.11 Abs.1 PBV), etwa in Form von Preisanschlägen
+oder Preislisten. Die Preisbekanntgabe soll dem Notariatsklienten
+ermöglichen, im Voraus die Höhe der zu erwartenden Rechnung für
+die beanspruchte Dienstleistung erkennen zu können (vgl. ROLAND
+PFÄFFLI, in: Der Bernische Notar [BN] 2012, S.383; Staatssekreta
+riat für Wirtschaft SECO, Preisbekanntgabe für Notariatsdienst
+leistungen, Informationsblatt vom 1.April 2012 [aktualisiert April
+2013], S.7). Durch diese Regelung ist selbst für Konsumenten, die
+nur wenig notarielle Dienstleistungen in Anspruch nehmen, eine ge
+wisse Transparenz gewährleistet, womit auch sie (und nicht nur die
+"Grosskunden") von preisgünstigen Angeboten profitieren können.
+8.4.5.
+Gemäss §7 Notariatstarif darf bei Beteiligung mehrerer Par
+teien an demselben Beurkundungsgegenstand der Tarif auf diese
+nicht unterschiedlich angewendet werden. Insofern ist die Rechts
+gleichheit bei den einzelnen Beurkundungsgeschäften explizit ge
+währleistet. Soweit diese Bestimmung mittels Provisionszahlungen
+umgangen wird, dürfte dies mit den Berufspflichten kaum vereinbar
+sein. Hierzu sei angeführt, dass die von den Gesuchstellern befürch
+tete Provisions und "Kick Back" Kultur bei Grundstückgeschäften
+geeignet ist, das Ansehen des Notariatsstandes zu verletzen (vgl.
+GLATTHARD, a.a.O., Art.45 N32). Die Gewährung von "stillen" Pro
+visionen und Retrozessionen und die Einschaltung von "Beurkun
+dungsbrokern" kann im Falle einer Umgehung von §7 Notariatstarif
+ebenfalls einen Disziplinartatbestand begründen.
+
+8.4.6. (…)
+8.5. (…)
+8.6.
+Zusammenfassend lässt sich festhalten, dass die herkömmlichen
+Notariatstarife gewisse Rechtsungleichheiten nicht auszuschliessen
+vermögen (vgl. vorne Erw.8.3). Der nach unten offene Gebührentarif
+schafft keine erhöhte Gefahr einer rechtsungleichen Behandlung,
+welche über das hinausgeht, was dem freiberuflichen Notariat ohne
+hin systemimmanent ist.
+In der Praxis dürften sich die Abweichungen von den nach
+§§1ff. Notariatstarif und dem Äquivalenzprinzip berechneten
+Gebühren nach unten in einem relativ engen Rahmen bewegen (vgl.
+vorne Erw.8.4). Schliesslich dient die umstrittene Möglichkeit, vom
+Tarif nach unten abzuweichen, einem erheblichen öffentlichen bzw.
+volkswirtschaftlichen Interesse. In Anbetracht dessen erscheinen die
+allfälligen Rechtsungleichheiten, die mit der umstrittenen Regelung
+unabdingbar zusammenhängen, als vertretbar. Jedes Gebührenmodell
+hat Vorzüge und Nachteile für die einzelnen Kunden. Erst wenn diese
+Unterschiede zu einer verbotenen Ungleichbehandlung führten, wäre
+dies zu beanstanden.
+In Bezug auf die Rüge der Gesuchsteller, mit der neuen Rege
+lung werde die sogenannte Quersubventionierung von über und
+unterbezahlten Geschäften verunmöglicht, gilt es vorab festzuhalten,
+dass kein bundesrechtlicher Anspruch auf eine derartige Ausgleichs
+möglichkeit besteht (BRÜCKNER/HETTICH, a.a.O., S.18). Im Übrigen
+wurde die Quersubventionierung bei der Festsetzung des Promilleta
+rifs berücksichtigt (Botschaft2) und ist somit nach wie vor von Be
+deutung. Auch im Rahmen des Äquivalenzprinzips kann der
+Quersubventionierung Rechnung getragen werden (BGE 103 Ia 85,
+Erw.5c; 97 I 193, Erw.5b).
+Unverständlich ist schliesslich die (durch ein Parteigutachten
+belegte) Argumentation der Gesuchsteller, wonach die umstrittene
+Regelung bei grossen Geschäften zu einer Aufspaltung der notariel
+len Dienstleistungen "in intellektuell aufwändige Vorbereitungsar
+beit", welche "teure Anwaltskanzleien" besorgen, und "fortab als
+minderwertige Commodity verstandene, eng definierte Beurkun
+
+dungstätigkeit" führen dürfte. Tatsächlich besteht ein entsprechendes
+Risiko unabhängig von der Gestaltung des Gebührentarifs. Es liegt
+einerseits an den Urkundspersonen selber, durch entsprechende
+Leistung dafür zu sorgen, dass ihnen neben der eigentlichen
+Beurkundung auch die Vorbereitungsarbeiten übertragen werden. An
+derseits schaltet die Freigabe der Preisbildung "nach unten" den
+Leistungswettbewerb nicht aus (vgl. CHRISTIAN BRÜCKNER, Gefähr
+detes Notariat?, in: BN2014, S.229 f.). Schliesslich ist daran zu
+erinnern, dass die Sorgfalts und Wahrheitspflicht auch gelten, wenn
+der Urkundsperson eine von Anwälten vorbereitete Urkunde zur
+Beurkundung vorgelegt wird (§28 Abs.4 BeurG).
+9. (…)
+10.
+10.1.
+Die Gesuchsteller machen schliesslich geltend, die umstrittenen
+Bestimmungen würden in stossender Weise dem Gerechtigkeits
+gedanken zuwiderlaufen; die Regelung benachteilige Kleinkunden
+und verschaffe denjenigen Vorteile, welche häufig zum Notar gehen.
+Eine solche Ungleichbehandlung lasse sich unter keine der zahl
+reichen Vorstellungen von Gerechtigkeit subsumieren. Der Tarif sei
+weder nach sachlich haltbaren Gesichtspunkten ausgestaltet, noch
+treffe er sachlich erforderliche Unterscheidungen. §69 Abs.1 Satz 2
+BeurG sei damit willkürlich und aufzuheben.
+10.2.
+Die angefochtenen Bestimmungen stellen die Festsetzung der
+konkreten Beurkundungsgebühr im Einzelfall in das Ermessen der
+freiberuflichen Notare und erlauben eine Abweichung von der
+Grundgebühr nach unten. Diese Tarifordnung steht nicht in unverein
+barem Widerspruch zu den von den Gesuchstellern angerufenen Ver
+fassungsbestimmungen oder zum bundesrechtlichen Institut der
+Beurkundung. Dass die Urkundspersonen das ihnen eingeräumte Er
+messen bei der Fakturierung missbräuchlich oder willkürlich ausü
+ben, ist nicht zu vermuten, nur weil eine ausdrückliche gesetzliche
+Regelung für eine Unterschreitung der "Grundgebühren" fehlt. Die
+Rechtsanwendung innerhalb des Tarifrahmens, insbesondere eine
+Herabsetzung der Grundgebühr, ist nur unter Beachtung der Berufs
+
+pflichten und der für die staatliche Tätigkeit geltenden Grundsätze
+zulässig. Damit ist zureichend sichergestellt, dass in der Praxis
+sachliche Gründe zu einer Unterschreitung der kostendeckenden Ge
+bühr führen.
+45 Verletzung von Berufspflichten; Disziplinarmassnahmen
+Die Rechnungsstellung für das vom Gericht gekürzte Honorar an
+den unentgeltlich vertretenen Klienten verletzt die Berufspflichten.
+Die Rechnungsstellung für prozessfremde Leistungen während der
+unentgeltlichen Vertretung erfordert, dass der Anwalt den Klienten
+auf die Honorarfolgen hinweist und sich separat mandatieren lässt.
+Ein Anstellungsverhältnis und die kanzleiinterne Weisungsgebun
+denheit des nachfakturierenden Anwalts können bei der Sanktionie
+rung im Rahmen des Verschuldens berücksichtigt werden.
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 21. August 2014 in Sachen
+A. gegen Anwaltskommission (WBE.2014.95).
+Aus den Erwägungen
+3.1.
+Dem Beschwerdeführer wird vorgeworfen, einer unentgeltlich
+vertretenen Klientin im Zusammenhang mit gerichtlichen und
+behördlichen Verfahren über das Honorar bzw. die Parteientschädi
+gung hinaus Leistungen in Rechnung gestellt und von ihr einen Be
+trag von Fr.31'000.00 gefordert zu haben.
+3.2.
+Für Anwältinnen und Anwälte gelten unter anderem folgende
+Berufsregeln (Art.12 BGFA): Sie üben ihren Beruf sorgfältig und
+gewissenhaft aus (lit.a); sie sind verpflichtet, in dem Kanton, in des
+sen Register sie eingetragen sind, amtliche Pflichtverteidigungen und
