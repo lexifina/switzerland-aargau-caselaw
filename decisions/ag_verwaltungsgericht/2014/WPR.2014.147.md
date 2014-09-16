@@ -1,0 +1,119 @@
+---
+decision_id: "ag_verwaltungsgericht_WPR.2014.147"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "WPR.2014.147"
+decided: "2014-09-16"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2706"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2706"
+cites_decisions: ["2C_787/2014"]
+cites_law: ["switzerland/bund/acts/0.101/art-005.md", "switzerland/bund/acts/142.20/art-076.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — WPR.2014.147
+
+## Regeste
+
+Ausschaffungshaft; Haftverlängerung; Beschleunigungsgebot 
+Das Beschleunigungsgebot ist verletzt, wenn die Behörden betreffend Papierbeschaffung während Monaten untätig geblieben sind und die pendenten Anträge bei der ausländischen Behörde nicht mahnten (Erw. 5.).
+
+## Text
+
+17 Ausschaffungshaft; Haftverlängerung; Beschleunigungsgebot
+Das Beschleunigungsgebot ist verletzt, wenn die Behörden betreffend Pa
+pierbeschaffung während Monaten untätig geblieben sind und die pen
+denten Anträge bei der ausländischen Behörde nicht mahnten (Erw.5.).
+Aus dem Entscheid des Einzelrichters des Verwaltungsgerichts, 2.Kammer,
+vom 16.September 2014 in Sachen Amt für Migration und Integration gegen
+A. (WPR.2014.147).
+Aus den Erwägungen
+5.
+Gemäss Art.76 Abs.4 AuG sind die für den Vollzug der Weg
+oder Ausweisung notwendigen Vorkehren umgehend zu treffen.
+Insbesondere in Haftfällen ist dem Beschleunigungsgebot besondere
+Beachtung zu schenken. Gemäss bundesgerichtlicher Rechtspre
+chung liegt eine Verletzung des Beschleunigungsgebots vor, wenn
+während rund zwei Monaten keinerlei geeignete Vorkehren im Hin
+blick auf die Ausschaffung getroffen werden, ohne dass die Verzöge
+rung auf das Verhalten der ausländischen Behörden oder des
+Betroffenen zurückzuführen ist (vgl. BGE 124II49, Erw.3a, S.51).
+Dies gilt nicht nur während einer laufenden Ausschaffungshaft, son
+dern auch, wenn sich ein Betroffener im Strafvollzug befindet und
+der Entlassungszeitpunkt absehbar ist.
+Der Gesuchsgegner befindet sich seit dem 19. März 2014 in
+Ausschaffungshaft. Am 25.Februar 2014 beantragte das MIKA beim
+BFM eine Priorisierung betreffend die Papierbeschaffung des Ge
+suchsgegners. Mit Schreiben vom 28. Februar 2014 kam das BFM
+dem Priorisierungsantrag des MIKA nach und monierte den seit
+13.Mai 2013 hängigen Indentifizierungsantrag bei der tunesischen
+Vertretung.
+Anlässlich des rechtlichen Gehörs vom 3.Juni 2014 betreffend
+die Verlängerung der Ausschaffungshaft fand der letzte Kontakt zu
+den tunesischen Behörden, in casu ein telefonischer Kontakt zwi
+schen dem Gesuchsgegner und der tunesischen Botschaft, statt. Aus
+
+der am 10.September 2014 vom MIKA eingereichten Stellungnahme
+geht hervor, dass vom 28.Februar 2014 bis zum 10.September 2014
+seitens der Schweizer Behörden keine Kontaktaufnahme mit der
+tunesischen Vertretung erfolgte und somit das ausstehende Laissez
+passer weit über sechs Monate nicht moniert wurde. Die nach
+gewiesenen Bemühungen des MIKA beschränkten sich auf eine
+Nachfrage beim BFM am 17.Juli 2014 in Bezug auf den offenen An
+trag um Ausstellung von Ersatzreisepapieren. Letzteres teilte am
+21.Juli 2014 lediglich mit, dass repetitives Mahnen von offenen An
+trägen bei der tunesischen Vertretung kontraproduktiv sei.
+Auch wenn die Bemerkung des BFM zutreffend sein dürfte,
+dass repetitives Mahnen von offenen Anträgen bei der tunesischen
+Vertretung kontraproduktiv sei und von den Schweizer Behörden ef
+fektiv nicht verlangt werden kann, stur alle zwei Monate bei der
+tunesischen Vertretung das ausstehende Ersatzreisedokument zu rü
+gen, geht es nicht an, derart lange, in casu über sechs Monate, untätig
+zu sein. Dies umso weniger, als weder das MIKA noch das BFM dar
+legt, weshalb trotz Untätigkeit im konkreten Fall nach wie vor von
+einem schwebenden Verfahren im Sinne von Art.5 Abs.1 lit.f
+EMRK auszugehen ist.
+Nach dem Gesagten liegt eine Verletzung des Beschleunigungs
+gebots vor, wobei anzumerken bleibt, dass die Untätigkeit des BFM
+vollumfänglich dem MIKA zuzurechnen ist, da unerheblich ist, wel
+che der involvierten Behörden für die Nichteinhaltung des
+Beschleunigungsgebots verantwortlich ist (vgl.BGE 124II49,
+Erw.3a, S.50).
+Die Verletzung des Beschleunigungsgebots führt im vorliegen
+den Fall zu Entlassung des Gesuchsgegners aus der Ausschaffungs
+haft.
+
+18 Ausschaffungshaft; Haftverlängerung; Vollzugsperspektiven; Anordnung
+einer Durchsetzungshaft
+Dauert die Beschaffung von Ersatzreisepapieren für algerische und
+tunesische Staatsangehörige länger als sechs Monate, ist grundsätzlich
+nicht mehr davon auszugehen, dass ohne Mitwirkung des Betroffenen die
+Reisepapiere innert der maximal zulässigen Haftdauer erhältlich gemacht
+werden können. In derart gelagerten Fällen ist eine weitere Verlängerung
+der Ausschaffungshaft unzulässig, weshalb die Anordnung einer Durch
+setzungshaft zu prüfen ist (Erw.6.).
+Aus dem Entscheid des Einzelrichters des Verwaltungsgerichts, 2.Kammer,
+vom 29.September 2014 in Sachen Amt für Migration und Integration gegen
+A. (WPR.2014.156).
+Aus den Erwägungen
+6.
+Mit Blick auf die Frage, ob Anzeichen vorhanden sind, die an
+der Ausschaffungsmöglichkeit in tatsächlicher oder rechtlicher Hin
+sicht Zweifel aufkommen lassen würden, ist Folgendes anzumerken.
+Bislang führte das Verwaltungsgericht aus, der Umstand, dass
+ein Betroffener nach über sechs Monaten noch immer über keine
+Reisepapiere verfüge, bedeute nicht, dass von einer fehlenden Voll
+zugsperspektive ausgegangen werden müsse. Solange die algerischen
+Behörden nicht mitteilen würden, die algerische Staatsangehörigkeit
+könne nicht bestätigt werden bzw. solange nicht aus anderen Grün
+den auf eine fehlende Vollzugsperspektive geschlossen werden
+müsse, sei weiterhin davon auszugehen, dass der Betroffene in
+absehbarer Zeit, d.h. innert der maximal zulässigen Haftdauer, nach
+Algerien ausgeschafft werden könne.
+Mit Blick auf die neuste bundesgerichtliche Rechtsprechung
+(vgl. Urteil vom 29.September 2014 [2C_787/2014]) ist bezüglich
+Algerien und Tunesien an dieser Auffassung nicht länger festzuhal
+ten. Im zitierten Entscheid hielt das Bundesgericht fest, es liege mit
+Bezug auf die Haftdauer und die Wahrscheinlichkeit einer erfolgrei
