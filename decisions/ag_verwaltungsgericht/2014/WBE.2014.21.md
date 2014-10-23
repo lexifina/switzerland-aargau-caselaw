@@ -1,0 +1,262 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2014.21"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2014.21"
+decided: "2014-10-23"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2642"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2642"
+cites_decisions: ["2C_1131/2014", "2P.84/2005"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2014.21
+
+## Regeste
+
+Beitragsplan; öffentliche Auflage und Baubeginn 
+Bei Baubeginn muss die öffentliche Auflage des Beitragsplans noch nicht abgeschlossen sein (Präzisierung der Rechtsprechung).
+
+## Text
+
+39 Beitragsplan; öffentliche Auflage und Baubeginn
+Bei Baubeginn muss die öffentliche Auflage des Beitragsplans noch nicht
+abgeschlossen sein (Präzisierung der Rechtsprechung).
+Urteil des Verwaltungsgerichts, 3.Kammer, vom 23.Oktober 2014 in Sa
+chen A. und Mitbeteiligte gegen Einwohnergemeinde B. (WBE.2014.21).
+Aus den Erwägungen
+1.
+Die beiden umstrittenen Beitragspläne lagen vom 9.Januar
+2012 bis 8.Februar 2012 öffentlich auf. Gemäss den Darstellungen
+des Gemeinderats wurde am 16.Januar 2012 mit den Bauarbeiten
+begonnen, nachdem offenbar der Baubeginn ursprünglich auf den
+12.Januar 2012 terminiert war. Es besteht kein Anlass, an den Anga
+ben des Gemeinderats und namentlich daran zu zweifeln, dass die
+Bauarbeiten erst nach dem 9.Januar 2012 (= Beginn der Auflage der
+Beitragspläne) aufgenommen wurden. Entsprechend erübrigen sich
+diesbezüglich weitere Beweisabnahmen, zumal die Beschwerdefüh
+rer als Beweismittel lediglich die Verfahrensakten anrufen und sich
+daraus keine gegenteiligen Schlussfolgerungen ergeben.
+2.
+2.1.
+Das Gesetz über Raumentwicklung und Bauwesen vom
+19.Januar 1993 (Baugesetz, BauG; SAR713.100) enthält keine Be
+stimmung, in welchem Zeitraum ein Beitragsplan aufzulegen ist. Ge
+mäss der Praxis des Verwaltungsgerichts sowie des Spezialverwal
+tungsgerichts, Abteilung Kausalabgaben und Enteignungen, zu §35
+BauG hat die Auflage des Beitragsplans "frühestens nach Erstellung
+des auflagereifen Projekts mit Kostenvoranschlag und spätestens vor
+
+Baubeginn" zu erfolgen (AGVE2010, S.127ff. mit Hinweisen). Das
+Verwaltungsgericht hat bis anhin noch nie exakt definiert, was unter
+dem Begriff "spätestens vor Baubeginn" genau zu verstehen ist. Im
+vorliegenden Fall stellt sich die Frage, ob die Auflage vor Baubeginn
+nur eröffnet oder aber bereits abgeschlossen sein muss. Die bisherige
+Rechtsprechung bedarf einer entsprechenden Präzisierung.
+2.2. 2.3. (...)
+3.
+3.1.
+Gemäss §32 Abs.1 des früheren Baugesetzes des Kantons
+Aargau vom 2. Februar 1971 (aBauG) mussten Beitragspflicht und
+Höhe der einzelnen Beiträge "vor der Bauausführung" durch den
+Beitragsplan festgesetzt werden. Aus der Formulierung ergibt sich
+kein Anhaltspunkt dafür, ob die Auflage des Beitragsplans im Zeit
+punkt des Baubeginns nur begonnen haben oder bereits abge
+schlossen sein musste. Das Verwaltungsgericht hat sich während der
+Geltungsdauer des früheren Baugesetzes nie mit dieser Frage
+auseinandersetzen müssen.
+3.2.
+Die Botschaft des Regierungsrats des Kantons Aargau an den
+Grossen Rat vom 16.Dezember 1998 (98.005747) zum Gesetz über
+Raumplanung, Umweltschutz und Bauwesen vom 19.Januar 1993,
+Änderung der §§34, 35, 88, 166 und 169 (Erschliessungsfinanzie
+rung), Bericht und Entwurf zur 1.Beratung, enthält folgende Aus
+sage (S.14): "Dass dem Beitragsplan ein Kostenvoranschlag zu
+grunde liegen und die Auflage vor Baubeginn stattfinden muss,
+ergibt sich aus der Sache selbst; ein Hinweis im Gesetz erübrigt
+sich." Im Hinblick auf die vorliegend relevante Fragestellung, ob die
+Auflage des Beitragsplanes bei Baubeginn abgeschlossen sein oder
+lediglich begonnen haben muss, lässt sich aus diesem Passus keine
+unmittelbare Aussage ableiten. Demgegenüber ergibt sich daraus
+auch kein Hinweis darauf, dass der Gesetzgeber an der früheren
+Regelung in §32 Abs.1 aBauG etwas hätte ändern wollen und na
+mentlich die Absicht verfolgt hätte, bei Bauausführung müsse das
+Beitragsplanverfahren rechtskräftig abgeschlossen sein oder die
+Auflagen hätten gleichzeitig zu erfolgen.
+
+3.3.
+3.3.1.
+Gemäss der verwaltungsgerichtlichen Rechtsprechung dient die
+Auflage des Beitragsplans vor der Bauausführung unter anderem der
+kommunalen Budgetwahrung. Erscheint der Gemeinde gestützt auf
+das Beitragsplanverfahren der Anteil, den sie schlussendlich
+übernehmen muss, zu hoch, so verbleibt ihr die Möglichkeit, nach
+träglich auf den Bau zu verzichten (AGVE 2010, S.127ff.,
+Erw.3.3). Diese Überlegung spricht tendenziell dafür, dass vor Be
+ginn der Bauausführung die Auflage des Beitragsplans abgeschlossen
+sein soll; in der Regel lassen sich erst in diesem Zeitpunkt die
+Opposition gegen den Beitragsplan und somit der Kostenanteil, den
+die Gemeinde schlussendlich zu übernehmen hat, einigermassen zu
+verlässig abschätzen. Solange die Einsprachefrist noch läuft, ist eine
+entsprechende Beurteilung grundsätzlich schwieriger.
+Andererseits ist indessen zu beachten: Praxisgemäss können bei
+einer verspäteten Auflage die betroffenen Grundeigentümer ein
+spracheweise die Verwirkung des ihnen gegenüber festgesetzten Bei
+tragsanspruchs geltend machen (AGVE 2010, S.127ff, Erw.3.3).
+Diese Konsequenz lässt es nicht angezeigt erscheinen, bei der vorlie
+genden Fragestellung dem öffentlichen Interesse an der Wahrung der
+kommunalen Budgethoheit ein entscheidendes Gewicht zukommen
+zu lassen. Tatsächlich würden letztlich nicht das Gemeinwesen, son
+dern einzig die betroffenen Grundeigentümer (notabene zulasten des
+Gemeinwesens!) einen Vorteil daraus ziehen; es bestünde somit ein
+schroffer Gegensatz zwischen der verfolgten Absicht (Budgetwah
+rung) und der effektiven Konsequenz (höhere Ausgaben). Zudem
+darf das Interesse der kommunalen Budgetwahrung auch deshalb
+nicht zu hoch bewertet werden, weil sich unter Umständen das
+Kostenrisiko der Gemeinde bereits vor Beginn der Auflage des Bei
+tragsplans relativ gut abschätzen lässt. Dies gilt namentlich für den
+vorliegenden Fall, war doch der Widerstand gegen den Beitragsplan
+absehbar: Nachdem schon früh über die Beitragspflicht orientiert
+worden war (mit den Unterlagen zur Referendumsabstimmung vom
+8.März 2009), wehrte sich ein grosser Teil der Beschwerdeführer be
+
+reits auf politischem Weg (Referendum) sowie im Baubewilligungs
+verfahren gegen den Ausbau C. strasse (Strasse und Kanalisation).
+3.3.2.
+Im Weiteren dient die Rechtsprechung der Rechtssicherheit;
+diese gebietet eine klare Regelung der Frage, bis zu welchem Zeit
+punkt Grundeigentümerbeiträge erhoben werden können
+(AGVE2010, S.127ff., Erw.3.3). Gemäss §6 des Reglements der
+Gemeinde B. über die Finanzierung von Erschliessungsanlagen vom
+22.Juni 2001 (RFE) sind zur Bezahlung der Abgaben diejenigen Per
+sonen verpflichtet, denen im Zeitpunkt des Eintritts der Beitrags
+pflicht laut Grundbuch das Eigentum zusteht. Die Beitragspflicht
+entsteht mit Beginn der öffentlichen Auflage des Beitragsplanes
+(§15 RFE).
+Gestützt auf die zitierte Regelung steht mit dem Beginn der
+Auflage grundsätzlich fest, wer beitragspflichtig ist. Aus Gründen
+der Rechtssicherheit erübrigt es sich somit, mit dem Bau erst nach
+Ende der Auflage des Beitragsplanes anzufangen.
+3.3.3.
+Die Auflage des Beitragsplans "vor der Bauausführung" schützt
+zudem die privaten Beitragspflichtigen. Das Verwaltungsgericht
+führte in diesem Zusammenhang aus (AGVE 2010, S.127ff.,
+Erw.3.3):
+"Die betroffenen Grundeigentümer müssen die Möglichkeit haben,
+sich vor der Bauausführung gegen ihre persönliche Beitragspflicht
+wehren zu können. Unter Umständen gibt nämlich erst die Höhe der
+zu erwartenden Beiträge Anlass, sich gegen die Erschliessung zu weh
+ren, sei es mit dem Argument, ein Ausbau der Erschliessungsanlage sei
+gar nicht nötig oder es seien billigere Varianten denkbar. Individuelle
+Beitragspflicht und Beitragsbemessung hängen zudem massgeblich
+von den Verhältnissen vor Baubeginn ab, welche sich im Nachhinein
+vielfach kaum mehr zuverlässig eruieren lassen."
+Die zitierten Erwägungen des Verwaltungsgerichts erfolgten
+allerdings nicht zur Erörterung der Frage, in welchem Zeitraum die
+Auflage des Beitragsplans zu erfolgen hat, sondern im Hinblick
+darauf, welche Konsequenzen sich aus einer verspäteten Auflage
+
+ergeben. Der Beitragsplan wurde seinerzeit erst rund vier Monate
+nach Baubeginn aufgelegt.
+Der zweitgenannten Aspekt (Feststellung der Verhältnisse vor
+Baubeginn) lässt eher darauf schliessen, dass die Auflage des Bei
+tragsplans bei Baubeginn abgeschlossen sein muss. Ansonsten ist es
+denkbar, dass jemand innert Frist Einsprache erhebt, wesentliche
+Beweise jedoch bereits durch die angefangenen Bauarbeiten vernich
+tet wurden. Allerdings ist die Beweissicherung auch auf andere Art
+und Weise möglich (...). Hinzu kommt, dass grundsätzlich das Ge
+meinwesen dafür beweispflichtig ist, dass die bisherige Erschlies
+sung ungenügend war und entsprechend eine Beitragspflicht der be
+troffenen Grundeigentümer besteht (AGVE1992, S.197 mit Hinwei
+sen). Das Risiko allenfalls vernichteter Beweise liegt folglich primär
+beim Gemeinwesen; entsprechend darf dieser Aspekt – ebenso wie
+derjenige der kommunalen Budgetwahrung (vgl. vorne Erw.3.3.1) –
+nicht allzu hoch gewichtet werden.
+Gestützt auf den erstgenannten Gesichtspunkt (Betroffene sol
+len sich in Kenntnis ihrer Beitragspflicht gegen das Bauprojekt weh
+ren können) müssten eigentlich Bauprojekt und Beitragsplan gleich
+zeitig aufgelegt werden. Tatsächlich fehlt jedoch – wie gesehen – im
+aargauischen Recht eine derartige Vorschrift. Soweit die Beschwer
+deführer dennoch einen entsprechenden Anspruch behaupten, kann
+ihnen nicht gefolgt werden. In diesem Zusammenhang ist wesentlich,
+dass sich der von den Beschwerdeführern zitierte BGE 102Ia46ff.
+auf eine kantonale Regelung stützt, die explizit die gleichzeitige
+Auflage vorschreibt. Entsprechend lässt sich der Entscheid nicht
+unbesehen auf den vorliegenden Fall übertragen. Das ebenfalls
+zitierte Urteil des Bundesgerichts vom 17.Oktober 2005
+(2P.84/2005) bezieht sich auf eine kantonale Regelung, welche eine
+Erstellung des Beitragsplans "vor der Bauausführung" verlangt und
+damit grundsätzlich der Praxis des Kantons Aargau entspricht. Die
+sem Urteil lässt sich indessen keine Aussage entnehmen, wonach
+auch ohne entsprechende kantonalrechtliche Grundlage eine gleich
+zeitige Auflage von Bauprojekt und Beitragsplan notwendig wäre.
+Die erwähnte Literaturstelle (RALPH VAN DEN BERGH, in: Kom
+mentar zum Baugesetz des Kantons Aargau, Bern 2013, §35 N4)
+
+erscheint in Bezug auf den vorliegenden Fall ebenfalls nicht aus
+sagekräftig. Zum einen wird die Pflicht zur gleichzeitigen Auflage
+aus den erwähnten beiden Urteilen des Bundesgerichts abgeleitet,
+zum anderen handelt es sich dabei weniger um eine Lehrmeinung
+zum geltenden Recht denn um ein Revisionsanliegen zuhanden des
+Gesetzgebers.
+Effektiv vermögen die Beschwerdeführer gestützt auf das gel
+tende Recht allein aus dem Anliegen, dass sich die Betroffenen in
+Kenntnis ihrer Beitragspflicht gegen das Bauprojekt wehren können,
+keinen Anspruch auf eine gleichzeitige Auflage abzuleiten. In Bezug
+auf die vorliegend einzig relevante Fragestellung, ob die Auflage des
+Beitragsplans bei Baubeginn beendet sein muss oder noch andauern
+darf, lassen sich aus dem genannten Grundeigentümerinteresse keine
+relevanten Schlussfolgerungen ziehen: Selbst wenn vor Baubeginn
+das Ende der Auflage des Beitragsplans abgewartet werden müsste,
+wäre keineswegs gewährleistet, dass sich die Betroffenen in Kennt
+nis des Beitragsplans gegen das Bauprojekt wehren könnten. Viel
+mehr bliebe es auch bei einer derartigen Regelung möglich, dass der
+Beitragsplan erst nach Abschluss des Baubewilligungsverfahrens
+aufgelegt wird.
+3.4.
+Gesamthaft lässt sich festhalten, dass sich weder aus dem Wort
+laut von §32 Abs.1 aBauG noch aus den Materialien zu §35 BauG
+Hinweise darauf ergeben, ob die Auflage des Beitragsplans bei
+Baubeginn nur begonnen haben oder bereits abgeschlossen sein
+muss.
+In Bezug auf die verschiedenen Zwecke, welche mit der von der
+Rechtsprechung verlangten Auflage des Beitragsplans spätestens vor
+Baubeginn verfolgt werden, erscheint es gerechtfertigt, dem Aspekt
+der Rechtssicherheit eine prioritäre Bedeutung zuzumessen. Danach
+erübrigt es sich, vor Baubeginn das Ende der Auflage des Beitrags
+plans abzuwarten. Ein gewichtiger Grund für die gegenteilige Lö
+sung ist demgegenüber nicht ersichtlich. Die bisherige Rechtspre
+chung ist demzufolge dahingehend zu präzisieren, dass bei Baube
+ginn die Auflage des Beitragsplans angefangen haben muss, aber
+nicht abgeschlossen zu sein braucht. Bezogen auf den zu beurteilen
+
+den Fall rechtfertigt sich diese Lösung umso mehr, da schon vor Auf
+lage des Bauprojekts über die grundsätzliche Beitragspflicht infor
+miert worden war und dadurch die Betroffenen die Möglichkeit hat
+ten (und in concreto auch grossmehrheitlich nutzten), sich in Kennt
+nis der (ungefähr) zu entrichtenden Beiträge gegen das Bauprojekt zu
+wehren.
+Es ist gegebenenfalls Sache des Gesetzgebers, bezüglich der
+dargelegten Problematik eine klarere Regelung zu erlassen.
+(Hinweis: Das Bundesgericht hat eine Beschwerde in öffent
+lich rechtlichen Angelegenheiten gegen diesen Entscheid abgewie
+sen, soweit es darauf eingetreten ist; Urteil des Bundesgerichts vom
+5.November 2015 [2C_1131/2014])
+40 Verfügungsbegriff; Verfügungscharakter einer Gebührenrechnung
+Den periodischen Abwasser Benützungsgebührenrechnungen der Ge
+meindeverwaltung kommt aufgrund ihrer konkreten (inhaltlichen) Aus
+gestaltung und mangels Verfügungskompetenz der Gemeindeverwaltung
+kein Verfügungscharakter und damit keine Rechtsbeständigkeit zu. Sie
+können grundsätzlich nachträglich abgeändert werden.
+Urteil des Verwaltungsgerichts, 3.Kammer, vom 19.März 2015 in Sachen
+A. gegen die Einwohnergemeinde B. (WBE.2014.143).
+Aus den Erwägungen
+1.
+1.1.
+Gemäss §34 Abs.2 BauG können die Gemeinden von den
+Grundeigentümern Beiträge an die Kosten der Erstellung, Änderung
+und Erneuerung von Anlagen der Versorgung mit Wasser und elektri
+scher Energie sowie der Abwasserbeseitigung erheben. Die Gemein
+den regeln die Erhebung der Beiträge und Gebühren an die erwähn
