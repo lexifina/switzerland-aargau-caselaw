@@ -1,0 +1,359 @@
+---
+decision_id: "ag_zivilgericht_XBE.2014.17"
+court: "AG Zivilgericht"
+court_id: "ag_zivilgericht"
+chamber: "Kammer für Kindes- und Erwachsenenschutz"
+docket: "XBE.2014.17"
+decided: "2014-11-14"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2750"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2750"
+cites_decisions: ["5A_211/2014"]
+cites_law: ["switzerland/bund/acts/161.1/art-002.md", "switzerland/bund/acts/210/art-017.md", "switzerland/bund/acts/210/art-026.md", "switzerland/bund/acts/210/art-388.md", "switzerland/bund/acts/210/art-389.md", "switzerland/bund/acts/210/art-390.md", "switzerland/bund/acts/210/art-394.md", "switzerland/bund/acts/210/art-398.md", "switzerland/bund/acts/210/art-446.md", "switzerland/bund/acts/210/art-647.md", "switzerland/bund/acts/272/art-221.md"]
+---
+
+# Obergericht / Zivilgericht / Kammer für Kindes- und Erwachsenenschutz — XBE.2014.17
+
+## Regeste
+
+Art. 394 i.V.m. Art. 395, Art. 398 ZGB 
+Bei stark ausgeprägter Demenz reicht eine Vertretungsbeistandschaft mit besonders breit gefasstem Auftrag in der Regel aus, um dem Schutzbedürfnis der betagten Person zu begegnen. Liegt eine offensichtliche Handlungsunfähigkeit der betroffenen Person vor, ist keine Beschränkung der Handlungsfähigkeit anzuordnen.
+
+## Text
+
+Mandatsführung zu haben. Berichtigungen haben daher die Ausnah
+me zu bleiben. Eine solche Ausnahme liegt hier nicht vor, nachdem
+weder dargelegt wird noch ersichtlich ist, dass der Rechenschafts
+bericht nicht aussagekräftig ist und alle Beteiligten mit der Mandats
+führung und dem Massnahmeumfang einverstanden sind.
+Im Übrigen steht es der Beschwerdeführerin frei, der Kindes
+und Erwachsenenschutzbehörde ihre Sicht der Dinge schriftlich
+darzulegen, womit diese Eingang in die Akten findet. Auf die Vor
+bringen der Beschwerdeführerin ist somit mangels Rechtsschutzinte
+resse nicht einzutreten.
+61 Art. 394 i.V.m. Art. 395, Art. 398 ZGB
+Bei stark ausgeprägter Demenz reicht eine Vertretungsbeistandschaft mit
+besonders breit gefasstem Auftrag in der Regel aus, um dem Schutzbe
+dürfnis der betagten Person zu begegnen. Liegt eine offensichtliche Hand
+lungsunfähigkeit der betroffenen Person vor, ist keine Beschränkung der
+Handlungsfähigkeit anzuordnen.
+Aus dem Entscheid des Obergerichts, Kammer für Kindes und Erwachse
+nenschutz, vom 14. November 2014 in Sachen T.G. (XBE.2014.17).
+Aus den Erwägungen
+3.
+3.1.
+Die Vorinstanz erwog zur Schutzbedürftigkeit der Betroffenen,
+die progrediente dementielle Erkrankung erlaube es der Schutzbe
+dürftigen nicht mehr, Entscheidungen zu treffen, weshalb sie mittler
+weile selbst im alltäglichen Leben umfassender Hilfe bedürfe. Die
+Betroffene befinde sich seit mehreren Jahren im Alters und Pflege
+heim X. und sei schwer pflegebedürftig, wobei eine weitere Ver
+schlechterung der Erkrankung in den nächsten Monaten als sehr
+
+wahrscheinlich erscheine. Die Betroffene vermöge keinerlei Angele
+genheiten der Personensorge, der Vermögenssorge oder des Rechts
+verkehrs selber zu erledigen, weshalb eine Vertretungsbeistandschaft
+mit Einkommens und Vermögensverwaltung sowie ein umfassender
+Aufgabenkatalog zu errichten sei. Aufgrund der starken Demenz und
+der hohen Pflegebedürftigkeit sei indes eine umfassende Einschrän
+kung der Handlungsfähigkeit nicht notwendig und es genüge, diese
+auf die Einkommens und Vermögensverwaltung sowie Rechtsge
+schäfte mit finanziellen Folgen zu beschränken (E.2.2).
+3.2.
+Die Beschwerdeführerin kritisiert die vorinstanzlich angeord
+nete Vertretungsbeistandschaft mit nur teilweisem Entzug der Hand
+lungsfähigkeit und verlangt eine umfassende Beistandschaft, da die
+Errichtung einer Vertretungsbeistandschaft mit "massgeschneider
+tem" Aufgabenkatalog in der Praxis zu mehr Rechtsunsicherheit füh
+re als eine umfassende Beistandschaft.
+Die Betroffene sei dauerhaft urteilsunfähig und verfüge über
+keine Ressourcen mehr, die sie zur Regelung der Personen und Ver
+mögenssorge oder im Rechtsverkehr zweckmässig einsetzen könne.
+Es sei daher widersprüchlich und sinnlos, ihre Handlungsfähigkeit
+formell zu erhalten. Dies würde vielmehr auf einen blossen "Eti
+kettenschwindel" heraus laufen und die Gefahr bergen, dass je nach
+Haltung des Gläubigers die Urteilsfähigkeit zuerst in einem Prozess
+festgestellt werden müsse. Wobei der schutzbedürftigen Person sogar
+die Klägerrolle zukommen könne, wenn der Gläubiger unter Um
+ständen über einen "abgenötigten" Rechtsöffnungstitel verfüge. Fak
+tisch könne eine urteilsunfähige Person von der formell noch be
+stehenden Handlungsfähigkeit gar keinen Gebrauch mehr machen.
+Bereits der Wortlaut von Art. 394 Abs. 1 ZGB spreche in Fällen,
+wo die Betroffenen keinerlei Angelegenheiten mehr selber erledigen
+könnten, gegen eine Vertretungsbeistandschaft, die zu errichten sei,
+wenn die hilfsbedürftige Person nur bestimmte Angelegenheiten
+nicht erledigen könne und deshalb vertreten werden müsse. Im Um
+kehrschluss bedeute dies, dass eine umfassende Beistandschaft ange
+ordnet werden müsse, wenn eine Person ihre Angelegenheiten über
+haupt nicht mehr selber erledigen könne.
+
+Anders als im bisherigen Recht sei mit dem revidierten Erwach
+senenschutzrecht die stigmatisierende Wirkung einer Entmündigung
+eliminiert worden. Die Terminologie sei angepasst worden und die
+Massnahmen würden nicht mehr publiziert.
+Da eine dauerhaft urteilsunfähige Person den Unterschied dieser
+Massnahmen sowieso nicht mehr erfassen könne, werde sie durch die
+Errichtung einer umfassenden Beistandschaft auch subjektiv nicht
+belastet.
+Schliesslich seien die von der Vorinstanz verwendeten Um
+schreibungen der mandatsgebundenen Aufgaben nicht praxistauglich.
+Die in Ziffer 2 Spiegelstrich 4 und 5 umschriebenen Aufgabenberei
+che der Mandatsträgerin seien problematisch, da zu befürchten sei,
+dass diese in der Praxis zu Auslegungsproblemen und unnötiger
+Rechtsunsicherheit führten. Insbesondere sei unklar, in welchem Ver
+hältnis diese zueinander stehen würden. Während die Mandatsträge
+rin gemäss Punkt 4 beim Erledigen der finanziellen und administrati
+ven Angelegenheiten nur "soweit nötig" zur Vertretung beauftragt
+sei, insbesondere im Verkehr mit Dritten, fehle bei Punkt 5 eine sol
+che Einschränkung, obwohl es ebenfalls um die Erledigung der
+finanziellen Angelegenheiten (insbesondere die Einkommens und
+Vermögensverwaltung) gehe. Angesicht der starken Hilfsbedürftig
+keit der Betroffenen hätte die Vorinstanz bei der Formulierung des
+Aufgabenkatalogs das Muster der KOKES unter Ziff.5.5.3. überneh
+men müssen (Kombination von Beistandschaften, teilweise mit Ein
+schränkung der Handlungsfähigkeit). Dieses kenne die Einschrän
+kung "soweit nötig" weder in administrativen noch in finanziellen
+Belangen.
+3.3.
+Die behördlichen Massnahmen des Erwachsenenschutzes stel
+len das Wohl und den Schutz hilfsbedürftiger Personen sicher
+(Art.388 Abs. 1 ZGB). Gleichzeitig haben sie die Selbstbestimmung
+der betroffenen Person so weit wie möglich zu erhalten und zu för
+dern (Art. 388 Abs. 2 ZGB). Voraussetzung einer beistandschaft
+lichen Massnahme ist ein Schwächezustand, der in einer geistigen
+Behinderung, einer psychischen Störung oder in einem ähnlichen
+Schwächezustand des Betroffenen liegt sowie eine daraus folgende
+
+Schutzbedürftigkeit (Art. 390 Abs. 1 Ziff. 1 ZGB). Dabei ist auch die
+Belastung und der Schutz von Angehörigen und Dritten zu berück
+sichtigen (Art. 390 Abs. 2 ZGB). Im Weiteren hat die Massnahme
+subsidiär und verhältnismässig zu sein (Art. 389 ZGB). Das heisst,
+Erwachsenenschutzmassnahmen dürfen nur angeordnet werden,
+wenn den negativen Folgen eines Schwächezustandes nicht anders
+begegnet werden kann und die Massnahme erforderlich und geeignet
+ist. Das bedeutet, dass die Massnahme so wenig wie möglich, aber so
+stark wie nötig in die Privatsphäre und in die Rechtsstellung des
+Betroffenen eingreifen darf, namentlich nur soweit als es der
+Schwächezustand erforderlich macht und dies den Bedürfnissen des
+Betroffenen entspricht. Die Befugnisse des Beistandes sind folglich
+so begrenzt wie möglich zu halten, sollen sich aber nicht auf einzelne
+Angelegenheiten beschränken, wenn weitere Bedürfnisse absehbar
+sind. Umgekehrt dürfen nicht Massnahmen auf Vorrat angeordnet
+werden. Zudem muss der mit der Massnahme einhergehende Eingriff
+in einer vernünftigen Relation zum Ziel desselben stehen und zwi
+schen den öffentlichen und privaten Interessen an der Massnahme
+und dem privaten Interesse, keinen Eingriff erdulden zu müssen,
+abgewogen werden (HENKEL, in: Basler Kommentar, Erwachsenen
+schutz, 2012, N.5 ff. zu Art.389 ZGB; ROSCH, in: Kurzkommentar,
+Schweizerisches Zivilgesetzbuch, 2012, N. 4 ff. zu Art.389 ZGB;
+FOUNTOULAKIS, in: Handkommentar zum Schweizer Privatrecht,
+2.Aufl. 2012, N.2 ff. zu Art. 389 ZGB).
+Eine Vertretungsbeistandschaft wird errichtet, wenn die hilfsbe
+dürftige Person bestimmte Angelegenheiten nicht erledigen kann und
+deshalb vertreten werden muss (Art. 394 Abs. 1 ZGB). Die Hand
+lungsfähigkeit der betroffenen Person kann entsprechend einge
+schränkt werden (Art. 394 Abs.2 ZGB). Ist eine Person besonders
+hilfsbedürftig, ist eine umfassende Beistandschaft anzuordnen (Art.
+398 Abs. 1 ZGB). Diese lässt die Handlungsfähigkeit der betroffenen
+Person von Gesetzes wegen entfallen (Art. 398 Abs. 3 ZGB). Die
+umfassende Beistandschaft bezieht sich auf die gesamte Personen
+und Vermögenssorge sowie auf die umfassende Vertretung mit Aus
+nahme der absolut höchstpersönlichen Rechte (Art.398 Abs. 2
+ZGB).
+
+Die Lehre ist sich uneinig, ob es die starre und damit system
+fremde Massnahme der umfassenden Beistandschaft angesichts der
+sonst durchwegs massgeschneiderten Beistandschaften überhaupt
+noch braucht (ablehnend LANGENEGGER, Aspekte des Systems der
+amtsgebundenen behördlichen Massnahmen des neuen Erwachse
+nenschutzrechtes, ZVW 5/2003 S. 317 ff., E.3.2.3.). Immerhin er
+weist sich ein Entzug der Handlungsfähigkeit bei Personen mit
+schwerer geistiger Behinderung oder demenzkranken pflegebedürfti
+gen Menschen im fortgeschrittenen Stadium gerade nicht notwendig,
+da die Handlungsfähigkeit infolge der dauernden Urteilsunfähigkeit
+ohnehin gestützt auf Art.17 ZGB nicht mehr besteht und dem
+Schutzbedürfnis mittels einer Vertretungsbeistandschaft in der Regel
+genügend begegnet werden kann (BIDERBOST, Eine Beistandschaft
+ist eine Beistandschaft?!?, ZVW 5/2003 S. 299 ff., Rz. 23;
+FASSBIND, Erwachsenenschutz, 2012, S.246, Fn.548; HÄFELI,
+Grundriss zum Erwachsenenschutzrecht, 2013, Rz.19.60 f.; HEN
+KEL, a.a.O., N.17 zu Art. 398 ZGB; KOKES, Praxisanleitung Er
+wachsenenschutzrecht, 2012, Rz. 5.40; MEIER, in: FamKommentar,
+Erwachsenenschutz, 2013, N.7 zu Art.398 ZGB). Dennoch wird in
+der Literatur das Institut der umfassenden Beistandschaft mehrheit
+lich befürwortet, allerdings sehr restriktiv und weitgehend in Fällen,
+in denen die betroffene Person unter dauernder Urteilsunfähigkeit
+leidet, ein Bedürfnis nach umfassender Personen und Vermögens
+sorge aufweist, ein ausgedehntes Vertretungsbedürfnis vorhanden ist
+und die betroffene Person gegen ihre Interessen zu handeln droht
+oder der Gefahr ausgesetzt ist, durch Dritte ausgenutzt zu werden. So
+beispielsweise bei Personen mit einer geistigen Behinderung, die für
+Dritte nicht offensichtlich ist, und die am sozialen Leben teilnehmen
+und Rechtsgeschäfte abschliessen, deren Tragweite sie nicht
+abschätzen können, und die deshalb auch besonders gefährdet sind,
+ausgenutzt zu werden. Aber auch, wenn eine Person an einer immer
+wieder auftretenden Urteilsunfähigkeit leidet und in den dazwischen
+liegenden Zeiträumen gegen ihre Interessen handelt. Während die
+mildere Variante der kombinierten Vertretungsbeistandschaft bei
+älteren Menschen bezüglich Schutz und Unterstützung regelmässig
+als hinreichend betrachtet wird (vgl. Fassbind, a.a.O., S.245f.;
+
+Fountoulakis,a.a.O., N.2 f. zu Art.398 ZGB; Hausheer/Geiser/
+Aebi Müller, Das Familienrecht des Schweizerischen Zivilgesetz
+buches, 5. Aufl. 2014, Rz.20.116 f.; Henkel, a.a.O., N.5/14 zu
+Art.398 ZGB; Häfeli, a.a.O., Rz. 19.62; KOKES, a.a.O., Rz. 5.51 f.;
+MEIER, a.a.O., N. 10 ff. zu Art.398 ZGB; SCHMID, Kommentar Er
+wachsenenschutz, 2010, N. 6 ff. zu Art.398 ZGB).
+Nach der Botschaft kommen der umfassenden Beistandschaft
+zwei Funktionen zu: Zum einen steht sie zur Verfügung, wenn es
+nicht verantwortet werden kann, dass eine Person Rechtshandlungen
+vornimmt, und ihre Handlungsfähigkeit bewusst entzogen werden
+soll. Zum anderen geht es um Personen, die überhaupt nicht mehr
+handeln können und deren Handlungsfähigkeit ohnehin nicht mehr
+gegeben ist. Dabei werden als Beispiel für besonders ausgeprägte
+Hilfsbedürftigkeit schwer demezkranke Personen genannt (BBl 2006
+7048 f.).
+3.4.
+Fest steht, dass die betagte Betroffene an einer neurodegenerati
+ven Erkrankung mit progredienter Demenz leidet, so dass sie schwer
+pflegebedürftig ist und nach einem ärztlichen Attest vom 20.No
+vember 2012 keinerlei Entscheidungen hinsichtlich ihres sozialen
+oder wirtschaftlichen Lebens mehr treffen kann (act. 11). Die Be
+troffene verbringt denn auch 70% im Bett, während sie die restli
+chen 30 % im Rollstuhl sitzt (act. 32). Selbst ein Gespräch über
+grundlegende alltägliche Belange erweist sich nicht mehr als möglich
+(Anhörungsprotokoll der Vorinstanz, act. 37). Unter diesen Beding
+ungen erscheint die Gefahr selbstschädigender Handlungen äusserst
+gering, zumal hier gutgläubige Dritte keine Urteilsfähigkeit und da
+mit keine Handlungsfähigkeit der Betroffenen mehr vermuten kön
+nen. Ausserdem sind rechtsgeschäftliche Handlungen allein infolge
+der fehlenden Mobilität der Betroffenen nicht zu erwarten. Eine er
+weiterte Massnahme der Betroffenen bringt somit keinen konkret er
+sichtlichen Zusatznutzen. Der Entzug der Handlungsfähigkeit bzw.
+eine umfassende Beistandschaft erscheinen daher mit Blick auf die
+Schutzbedürftigkeit der Betroffenen trotz umfassender Hilfsbedürf
+tigkeit nicht erforderlich.
+
+Nichtsdestotrotz sehen die Materialien explizit für Fälle schwer
+demenzerkrankter Personen die Möglichkeit der umfassenden Bei
+standschaft vor. Hierfür sprechen zunächst die klaren Verhältnisse
+und die Rechtssicherheit, die mit einer umfassenden Beistandschaft
+geschaffen werden und es den Rechtsteilnehmenden erlauben, die
+Situation richtig einzuschätzen, was auch im Interesse der betroffe
+nen Person sein kann. So hat eine umfassend verbeiständete Person
+einen unselbständigen gesetzlichen Wohnsitz (Art. 26 ZGB) am Sitz
+der Erwachsenenschutzbehörde, was dem Wohnsitz leichte Erkenn
+barkeit und Stabilität verleiht. Dies erleichtert den Behörden, sich in
+administrativen und gerichtlichen Verfahren um das Wohl der schutz
+bedürftigen Person zu kümmern (BBl 2006 7096 f.). Der mit einer
+umfassenden Beistandschaft einhergehende Entzug der Handlungs
+fähigkeit hat weiter Auswirkungen auf Vollmachten bzw. Aufträge
+(Art.35 Abs. 1 und 405 Abs. 1 OR) oder unter Umständen auf das
+Stimmrecht (Art.2 BPR). Solange eine aufgetretene Handlungsun
+fähigkeit behördlich nicht festgestellt ist, besteht im Rechtsverkehr
+womöglich Unsicherheit in den aufgeführten Punkten. Hinweise,
+dass im konkreten Fall solche Probleme zum Nachteil der Be
+troffenen auftreten könnten, sind allerdings aus den Akten nicht er
+sichtlich.
+Kaum von Bedeutung für die Ausgestaltung der Massnahme
+sein kann, inwieweit diese der Beiständin die Aufgaben erleichtert,
+da für die Entscheidung der passenden Massnahme die Bedürfnisse
+der betroffenen Person entscheidend sind. Als Vertretungsbeiständin
+ist die Beschwerdeführerin allerdings – unabhängig einer Einschrän
+kung der Handlungsfähigkeit der Betroffenen – selbständig hand
+lungsberechtigt, ohne dass Dritte zu prüfen hätten, ob die Betroffene
+mit konkreten Handlungen einverstanden ist oder nicht. Zuzu
+stimmen ist der Beschwerdeführerin hingegen in ihrem Einwand,
+dass die Einschränkung der Vertretungsbefugnis hinsichtlich admini
+strativer und finanzieller Angelegenheiten "soweit nötig" zu un
+nötigen Auslegungsproblemen führt. Bei der vorliegend ausgewiese
+nen umfassenden Hilfsbedürftigkeit erscheint dieser Vorbehalt
+überflüssig, weshalb er zugunsten der Rechtssicherheit zu streichen
+ist.
+
+Was die mit dem neuen Recht beseitigte stigmatisierende Wir
+kung der Entmündigung anbelangt, ist zu befürchten, dass sich diese
+auf die umfassende Beistandschaft übertragen wird. Immerhin ent
+fällt im neuen Recht die Publikation. Der Beschwerdeführerin ist als
+dann zuzustimmen, dass es für ihre schwer demente Mutter subjektiv
+keine Rolle spielen dürfte, ob deren Handlungsunfähigkeit primär
+mit der fehlenden Urteilsfähigkeit oder aber der angeordneten umfas
+senden Beistandschaft begründet wird. Dasselbe gilt wohl auch für
+eine allfällige stigmatisierende Wirkung einer umfassenden Beistand
+schaft. Beizupflichten ist der Beschwerdeführerin auch hinsichtlich
+dem dargelegten grundsätzlichen Widerspruch, jemandem die Hand
+lungsfähigkeit belassen zu wollen, der tatsächlich dauerhaft über
+keine solche mehr verfügt. Dennoch würde hier eine umfassende
+Beistandschaft trotz umfassender Hilfsbedürftigkeit der Betroffenen
+dem Geist des neuen Erwachsenenschutzrechts und der damit einher
+gehenden Massschneiderung nach Bedarfsprinzip zuwiderlaufend. Es
+kann gerade nicht der Sinn der Revision sein, in Fällen mit sehr um
+fangreicher Hilfsbedürftigkeit stets eine umfassende Beistandschaft
+anzuordnen, weil diese "ultima ratio" darstellt und mit gesamthaft
+umschriebenem Aufgabenbereich ein Teil der Massschneiderung
+möglich bleibt.
+Im konkreten Fall stellt sich überdies das Problem, dass gemäss
+der bundesgerichtlichen Auslegung von Art. 446 Abs. 2 ZGB, die
+sich auf die Botschaft und bewährte Lehre stützt, die Erwachsenen
+schutzbehörde ein Gutachten einer sachverständigen Person einzuho
+len hat, wenn eine umfassende Beistandschaft ins Auge gefasst wird
+und dem Spruchkörper der erforderliche Sachverstand fehlt
+(BGE140 III 97 E.4.). Die Lehre befürwortet mit der bundesrätli
+chen Botschaft (BBl 2006 7078f.) das Einholen eines Gutachtens,
+falls eine Massnahme zur Beschränkung der Handlungsfähigkeit
+wegen psychischen Störungen oder Geistesschwäche führt und kein
+Mitglied der Behörde über die erforderlichen Fachkenntnisse verfügt
+(AUER/MARTI, in: Basler Kommentar, Erwachsenenschutz, N.19 zu
+Art. 446 ZGB; FASSBIND, in: Navigator Kommentar, Schweizeri
+sches Zivilgesetzbuch, 2. Aufl. 2011, N. 2 zu rev. Art. 446 ZGB;
+STECK, in: FamKommentar, Erwachsenenschutz, 2013, N. 13 zu
+
+Art.446 ZGB; vgl. auch BBl 2006 7078; unklar HENKEL, a.a.O.,
+N.15 zu Art. 398 ZGB; SCHMID, a.a.O., N. 6 zu Art.446 ZGB;
+Urteil des Bundesgerichts 5A_211/2014 vom 17. Juli 2014 E. 3.2.1.).
+3.5.
+Zusammengefasst kann festgehalten werden, dass bei einer so
+stark ausgeprägten Demenz wie bei der Betroffenen eine Vertre
+tungsbeistandschaft mit besonders breit gefasstem Auftrag ausreicht,
+um dem Schutzbedürfnis der Betagten zu begegnen. Die angestreb
+ten Wirkungen können auch im Rahmen dieser gegenüber einer
+umfassenden Beistandschaft milderen Massnahme erreicht werden.
+Die vorinstanzlich angeordnete Vertretungsbeistandschaft mit Ein
+kommens und Vermögensverwaltung ist daher im Grundsatz nicht
+zu beanstanden. Der Aufgabenkatalog ist indes im Sinne der vorer
+wähnten Erwägungen anzupassen, namentlich der Vorbehalt der Ver
+tretung "soweit nötig" zu streichen. Damit ist der Eventualantrag der
+Beschwerdeführerin gutzuheissen.
+Ferner ist infolge der offensichtlichen Handlungsunfähigkeit der
+Betroffenen die Beschränkung der Handlungsfähigkeit von Amtes
+wegen aufzuheben.
+
+62 Art. 647 Abs. 2 Ziffer 1 ZGB; Art. 221 Abs. 1 lit. b ZPO
+Zulässige Rechtsbegehren nach Art. 647 Abs. 2 Ziffer 1 ZGB
+Aus dem Entscheid des Obergerichts, 3. Zivilkammer, vom 23. Juni 2014 in
+Sachen B. gegen STWEG (ZSU.2014.85).
+Aus den Erwägungen
+3.
+3.1.
+Die Vorinstanz ist auf das von der Klägerin im Gesuch gestellte
+Feststellungsbegehren (Begehren 1c) nicht eingetreten, was von der
+Klägerin nicht angefochten worden ist. Mit ihren beiden anderen
+Begehren verlangte die Klägerin, es sei eine notwendige Sanierung
+der in ihrem ausschliesslichen Benutzungsrecht stehenden Dach
+terrasse ihrer Maisonettewohnung (Nr. 7) unter Kostenbeteiligung
+nach Wertquoten sämtlicher Stockwerkeigentümer gemäss einer von
+ihr bei der Firma Y eingeholten Offerte (vgl. Gesuchsbeilage 15) in
+Auftrag zu geben (Begehren 1a), und zwar durch das Gericht selber
+(Begehren 1b). Die Vorinstanz hat demgegenüber die Klägerin
+berechtigt, die Sanierung im Rahmen der besagten Offerte unter
+Kostenbeteiligung nach Wertquoten in Auftrag zu geben (Dispositiv
+Ziffer 1 des angefochtenen Entscheids), und damit, auch wenn es im
+Entscheid nicht zum Ausdruck gelangt, das Gesuch jedenfalls nicht
+in Bezug auf die ursprünglichen Begehren gutgeheissen.
+3.2.
+3.2.1.
+In der Berufung anerkennt die Beklagte ausdrücklich, dass die
+Sanierung der "Dachterrasse" (mit der Beklagten [vgl. act. 17] ist
+von einem Balkon auszugehen, vgl. insbesondere Gesuchsbeilage 6)
+in Auftrag zu geben ist, weshalb darauf nicht weiter einzugehen ist.
