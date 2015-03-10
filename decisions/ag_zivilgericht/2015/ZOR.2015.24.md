@@ -1,0 +1,231 @@
+---
+decision_id: "ag_zivilgericht_ZOR.2015.24"
+court: "AG Zivilgericht"
+court_id: "ag_zivilgericht"
+chamber: "1. Zivilkammer"
+docket: "ZOR.2015.24"
+decided: "2015-03-10"
+published: "2015-07-02"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2658"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2658"
+cites_decisions: ["4A_131/2013", "4A_562/2014", "BGE 139 III 133"]
+cites_law: ["switzerland/bund/acts/210/art-416.md", "switzerland/bund/acts/210/art-533.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-065.md", "switzerland/bund/acts/272/art-110.md", "switzerland/bund/acts/272/art-206.md", "switzerland/bund/acts/272/art-207.md", "switzerland/bund/acts/272/art-208.md", "switzerland/bund/acts/272/art-212.md", "switzerland/bund/acts/272/art-241.md", "switzerland/bund/acts/272/art-242.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-328.md"]
+---
+
+# Obergericht / Zivilgericht / 1. Zivilkammer — ZOR.2015.24
+
+## Regeste
+
+Art. 319 lit. b ZPO 
+Die Verfügung, mit der das "Verfahren infolge Rückzugs des Schlichtungsgesuches als gegenstandslos abgeschrieben" wird, kann mit Beschwerde nach Art. 319 lit. b ZPO angefochten werden, sofern der anfechtenden Partei ein nicht leicht wiedergutzumachender Nachteil droht.
+
+## Text
+
+55 Art. 319 lit. b ZPO
+Die Verfügung, mit der das "Verfahren infolge Rückzugs des Schlich
+tungsgesuches als gegenstandslos abgeschrieben" wird, kann mit Be
+schwerde nach Art. 319 lit. b ZPO angefochten werden, sofern der an
+fechtenden Partei ein nicht leicht wiedergutzumachender Nachteil droht.
+Aus dem Entscheid des Obergerichts, 1. Zivilkammer, vom 2. Juli 2015, i.S.
+Sch. gegen Sch. (ZOR.2015.24).
+Aus den Erwägungen
+1.
+1.1.
+Die Friedensrichterin hat mit Verfügung vom 10. März 2015 das
+von der Klägerin eingeleitete Schlichtungsverfahren "infolge Rück
+zugs des Schlichtungsgesuches als gegenstandslos abgeschrieben".
+Die Klägerin hat dagegen das Rechtsmittel der Beschwerde ergriffen.
+1.2.
+1.2.1.
+Mit Beschwerde gemäss Art. 319 ZPO anfechtbar sind nicht
+berufungsfähige erstinstanzliche Endentscheide, Zwischenentscheide
+und Entscheide über vorsorgliche Massnahmen (lit. a), andere erstin
+stanzliche Entscheide und prozessleitende Verfügungen in den vom
+Gesetz bestimmten Fällen (lit. b Ziff. 1) oder wenn durch sie ein
+nicht leicht wiedergutzumachender Nachteil droht (lit. b Ziff. 2) so
+wie Fälle von Rechtsverzögerung (lit. c).
+1.2.2.
+Ein Vergleich, eine Klageanerkennung oder ein Klagerückzug
+haben die Wirkung eines rechtskräftigen Entscheides (Art. 241
+Abs.2 ZPO), führen also zu einer abgeurteilten Sache (sogenannte
+res iudicata), die einem weiteren Prozess über den gleichen Streit
+gegenstand entgegensteht (vgl. Art. 59 Abs. 2 lit. e ZPO), bei einem
+
+Klagerückzug jedenfalls dann, wenn das Gericht die Klage der
+beklagten Partei bereits zugestellt hat und diese dem Rückzug nicht
+zustimmt (Art. 65 ZPO). Die genannten Parteierklärungen beenden
+den Prozess unmittelbar; die in Art. 241 Abs. 3 ZPO vorgeschriebene
+Abschreibung des Verfahrens durch den Richter bzw. das Gericht
+stellt einen rein deklaratorischen Akt dar. Der Abschreibungs
+beschluss bildet mithin kein Anfechtungsobjekt, das mit Berufung
+oder Beschwerde gemäss Art. 308 ff. bzw. 319 ff. ZPO angefochten
+werden könnte (nur der im Abschreibungsbeschluss enthaltene
+Kostenentscheid ist mit Beschwerde nach Art. 110 ZPO anfechtbar).
+Materielle und/oder prozessuale Mängel der Parteierklärung, die zur
+Beendigung des Prozesses geführt haben, sind ausschliesslich mit
+Revision nach Art. 328 ff. ZPO geltend zu machen (vgl. BGE 139 III
+133 f. sowie BGE 4A_562/2014 E.1.1.).
+Ein Prozess kann auch ohne (prozessualen oder materiellen)
+Entscheid des Gerichts oder Urteilssurrogat (Klagerückzug, Klagean
+erkennung oder Vergleich) enden. In diesen Fällen schreibt der
+Richter bzw. das Gericht das Verfahren zufolge Gegenstandslosigkeit
+ab (Art. 242 ZPO). Da das Gesetz die generelle Anfechtbarkeit einer
+Abschreibung des Verfahrens nach Art. 242 ZPO nicht vorsieht, steht
+einer Partei als Rechtsmittel nur die Beschwerde nach Art. 319 lit. b
+Ziff. 2 ZPO zur Verfügung, wenn ihr durch die Abschreibung ein
+nicht leicht wiedergutzumachender Nachteil droht. Ein solcher kann
+dem Kläger beispielsweise entstehen, wenn ihm die erneute
+Einreichung eines Schlichtungsgesuchs nichts mehr nützt, weil
+infolge des Ablaufs einer Verwirkungsfrist bei Abschreibung des
+Schlichtungsverfahrens ein materieller Rechtsverlust eingetreten ist.
+In anderen Fällen, in denen infolge der Abschreibung des
+Schlichtungsverfahrens kein Rechtsverlust eintritt, steht dem Kläger
+die Möglichkeit offen, ein neues Schlichtungsgesuch einzureichen
+(BGE 4A_131/2013 E.2.2.2.2.).
+1.2.3.
+Während im ordentlichen (und vereinfachten) Verfahren nach
+der Zustellung der Klage an die beklagte Partei der Kläger die Klage
+– ohne Rechtskraftwirkung – nur noch mit Zustimmung der beklag
+ten Partei zurückziehen kann (Art. 65 ZPO), ist im Schlich
+
+tungsverfahren zu unterscheiden (vgl. Gloor/Umbricht, in: Ober
+hammer [Hrsg.], Schweizerische Zivilprozessordnung, Kurzkom
+mentar [KUKO ZPO] 2.Auflage, Basel 2014, N. 3 zu Art. 208 ZPO)
+zwischen
+dem (ebenfalls zulässigen "vorbehaltlosen") Rückzug der Kla
+ge (vgl. Art.208Abs.2ZPO), der eine abgeurteilte Sache
+schafft (vgl. Honegger, in: Sutter Somm/Hasenböhler/Leuen
+berger, Kommentar zur Schweizerischen Zivilprozessordnung,
+2.Auflage, Zürich/Basel/ Genf 2013, N. 11 zu Art. 208 ZPO)
+und
+dem Rückzug des Schlichtungsgesuchs (ein solcher wird
+insbesondere bei Säumnis des Klägers in der Schlichtungsverhand
+lung angenommen, Art. 206 Abs. 1 ZPO), aufgrund dessen das Ver
+fah ren als gegenstandslos abgeschrieben wird (Art. 206 Abs. 1 und 3
+sowie Art.207 Abs. 1 lit. a ZPO), ohne dass materielle Rechtskraft
+einträte (Honegger, a.a.O., N. 5 zu Art. 206 ZPO).
+1.3.
+Im vorliegenden Fall hat die Friedensrichterin das Verfahren
+nicht infolge Klagerückzugs, sondern "infolge Rückzugs des
+Schlichtungsgesuches als gegenstandlos abgeschrieben". Diese Ab
+schreibungsverfügung ist per analogiam als solche nach Art. 242
+ZPO (und nicht nach Art. 241 ZPO) zu betrachten. Im Lichte der vor
+stehenden Ausführungen ist gegen diese Verfügung als Rechtsmittel
+die Beschwerde nach Art. 319 ff. ZPO möglich, sofern die besondere
+Voraussetzung des nicht leicht wiedergutzumachenden Nachteils
+nachgewiesen ist (Art. 319 lit. b Ziff. 2 ZPO), nicht aber die Revision
+(vgl. Art.328 Abs.1 ZPO, wonach die Revision nur gegen
+rechtskräftige Entscheide zur Verfügung steht).
+Auch wenn in der Beschwerde ein nicht leicht wiedergutzuma
+chender Nachteil nicht explizit geltend gemacht wird, ergibt sich ein
+solcher mit Blick auf die Ausführungen im Schlichtungsbegehren
+vom 29. Dezember 2014, worin die Klägerin geltend machte, die
+Klage gegen das Testament von X sel. vom 6. Oktober 2013, in dem
+ihr Pflichtteil verletzt worden sei, "zur Fristwahrung" zu erheben,
+ohne Weiteres. Ist die Anfechtungsfrist gemäss Art. 533 ZGB ver
+wirkt, ist eine Herabsetzungsklage nicht mehr möglich. Ebenso evi
+
+dent ist das Rechtsschutzinteresse der Klägerin an der Beschwerde,
+mit welcher sie die Abschreibung des Verfahrens zufolge Vergleichs
+anbegehrt, nachdem einem gerichtlichen Vergleich materielle Rechts
+kraft und Vollstreckbarkeit zukommt (Art. 208 Abs. 2 ZPO; Bot
+schaft zur Schweizerischen Zivilprozessordnung [ZPO] vom 28. Juni
+2006, S. 7332). Auf die Beschwerde der Klägerin ist folglich ein
+zutreten, zumal die übrigen Rechtsmittelvoraussetzungen (insbeson
+dere Fristerfordernis und Bezahlung des Kostenvorschusses) erfüllt
+sind.
+2.
+2.1.
+Die Klägerin macht geltend, dass die Friedensrichterin des
+Kreises Y das Verfahren infolge Rückzugs des Schlichtungsgesuchs
+als gegenstandlos abgeschrieben habe, obwohl sie gestützt auf die
+mit dem Beklagten geschlossenen Vereinbarung vom 21./25. Januar
+2015 die Entgegennahme als gerichtlichen Vergleich beantragt habe.
+Die Friedensrichterin bringt in dem den Akten beigelegten
+Schreiben vom 2. April 2015 vor, dass sie von den Parteien einen un
+terschriebenen Vergleich mit der Bitte, die Klage als erledigt abzu
+schreiben, erhalten habe. Deshalb habe sie die Klage "infolge einer
+aussergerichtlichen Einigung" abgeschrieben. Es sei ihr nicht be
+wusst gewesen, damit einen Fehler begangen zu haben.
+2.2.
+Entgegen den Ausführungen der Friedensrichterin im Schreiben
+vom 2.April 2015 hat sie das Verfahren nicht infolge eines Ver
+gleichs, sondern infolge Rückzugs des Schlichtungsgesuchs als
+gegenstandslos abgeschrieben. Dies, obwohl offenkundig kein sol
+cher Rückzug vorlag, sondern ausdrücklich verlangt worden war, den
+Vergleich als gerichtlichen Vergleich entgegenzunehmen und das
+Verfahren aufgrund des entsprechenden Antrages beider Parteien in
+Ziffer 7 des Vergleichs ["Die Parteien beantragen der Friedensrichte
+rin, dass das Verfahren aufgrund des abgeschlossenen gerichtlichen
+Vergleiches abgeschrieben wird"] abzuschreiben (vgl. die Eingabe
+3.März 2015). Auch wenn Art. 208 Abs.1 ZPO den Regelfall,
+nämlich den unter Mitwirkung der Schlichtungsbehörde zustande
+gekommenen Vergleich im Visier hat, kann die Schlichtungsbehörde
+
+auch einen im Rahmen privater Verhandlungen zustande gekom
+menen Vergleich zu Protokoll nehmen (Art. 208 Abs. 1 ZPO; Bot
+schaft, S. 7331; Honegger, a.a.O., N. 8 zu Art. 208 ZPO; Staehe
+lin/Staehelin/Grolimund, Zivilprozessrecht, 2. Auflage, Zürich/Basel/
+Genf 2013, § 20 Rz. 31). Damit hat die Friedensrichterin das
+Verfahren zu Unrecht als durch Rückzug des Schlichtungsbegehrens
+erledigt abgeschrieben.
+2.3.
+In der Lehre wird die Auffassung vertreten, das Gericht habe ei
+nen Vergleich (wie auch einen Klagerückzug und eine Klageaner
+kennung) auf Vergleichsfähigkeit (bzw. Anerkennungsfähigkeit),
+Klarheit und Vollständigkeit (vgl. z.B. Leumann Liebster, in: Sutter
+Somm/Hasenböhler/Leuenberger, a.a.O., N. 19 zu Art. 241 ZPO)
+bzw. auf Rechtswidrigkeit, Übervorteilung, absichtliche Täuschung
+und Drohung zu überprüfen (Honegger, a.a.O., N. 10 zu Art. 208
+ZPO, der in diesem Zusammenhang gar von einer Genehmigungs
+pflicht spricht). Auch wenn derartige Vorstellungen über die Aufga
+ben des Richters nicht leicht mit der gesetzgeberischen Lösung in
+Einklang zu bringen sind, dass die entsprechenden – unterzeichneten
+(vgl. Art. 208 Abs.1 und Art. 241 Abs. 1 ZPO) – Parteierklärungen
+selber den Prozess eo ipso beenden (und sogar schon vor dem
+gerichtlichen Abschreibungsbeschluss bzw. vor der richterlichen Ab
+schreibungsverfügung [Art. 241 Abs. 3 ZPO] einem rechtskräftigen
+Entscheid gleichgestellt sind, vgl. Naegeli, KUKO ZPO, a.a.O.,
+N.11 zu Art. 241 ZPO), ist mit Bezug auf den vorliegenden Fall
+festzuhalten, dass die von den Parteien am 21./25. Januar 2015 ge
+troffene und der Vorinstanz eingereichte Vereinbarung in dieser
+Hinsicht problemlos erscheint. Sie wurde über einen vergleichs
+fähigen, vermögensrechtlichen Gegenstand geschlossen und ist
+sowohl klar als auch – gemessen am im Schlichtungsgesuch gestell
+ten Begehren – vollständig. Insbesondere ist sie auch vom gesetz
+lichen Vertreter des noch minderjährigen Beklagten unterzeichnet
+und es liegt eine rechtskräftige Zustimmungserklärung der Kindes
+und Erwachsenenschutzbehörde (vgl. Art. 308 Abs. 2 und Art.314
+Abs. 1 in Verbindung mit Art. 416 Abs. 1 Ziff. 9 ZGB) zum
+Vergleich vor. Damit ist das von der Klägerin eingeleitete Schlich
+
+tungsverfahren als zufolge gerichtlichen Vergleichs erledigt abzu
+schreiben.
+56 Art. 91, 212, 235 ZPO. Wechsel vom Schlichtungsverfahren ins Ent
+scheidverfahren vor dem Friedensrichter
+Während die Aussagen der Parteien im Schlichtungsverfahren nicht
+protokolliert werden dürfen, ist nach dem Wechsel ins Entscheidver
+fahren über die Verhandlung Protokoll zu führen.
+Steht der Wechsel vom Schlichtungsverfahren ins Entscheidverfah
+ren zur Diskussion, hat die Schlichtungsbehörde die Parteien zur Be
+zifferung des Streitwerts anzuhalten, wenn sich dieser nicht bereits
+aus dem Rechtsbegehren ergibt. Erst wenn eine solche Einigung
+nicht zustande gekommen ist oder die übereinstimmende Bezifferung
+offensichtlich unrichtig ist, hat der Friedensrichter den Streitwert zu
+schätzen.
+Aus dem Entscheid des Einzelrichters des Obergerichts, 3. Zivilkammer,
+vom 25. September 2015 (ZVE.2015.41).
+Aus den Erwägungen
+2.3.
+2.3.1.
+Vermögensrechtliche Streitigkeiten bis zu einem Streitwert von
+Fr.2'000.00 kann die Schlichtungsbehörde entscheiden, sofern die
+klagende Partei einen entsprechenden Antrag stellt (Art. 212 Abs. 1
+ZPO). Wird dieser Antrag gestellt und macht die Schlichtungsbehör
+de von ihrer Entscheidkompetenz Gebrauch, hat sie zuerst ein
+formloses Schlichtungsverfahren durchzuführen (Alvarez/Peter, in:
+Berner Kommentar, Schweizerische Zivilprozessordnung, Band II,
+Bern 2012, N. 8 zu Art. 212 ZPO). In diesem Stadium des Verfahrens
+dürfen die Aussagen der Parteien nicht protokolliert werden (Art. 205
