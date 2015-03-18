@@ -1,0 +1,305 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2014.363"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "1. Kammer"
+docket: "WBE.2014.363"
+decided: "2015-03-18"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2611"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2611"
+cites_decisions: ["1C_70/2014", "1C_748/2013"]
+cites_law: ["switzerland/bund/acts/741.01/art-015d.md", "switzerland/bund/acts/741.01/art-055.md", "switzerland/bund/acts/741.11/art-002.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 1. Kammer — WBE.2014.363
+
+## Regeste
+
+Art. 15d Abs. 1 lit. e SVG 
+Ein Arztbericht, der sich nicht abschliessend zur Fahreignung oder Fahrkompetenz der untersuchten Person äussert, sondern zusätzliche medizinische Abklärungen (einer anderen Fachrichtung) empfiehlt, stellt für sich genommen noch keine Meldung dar, derentwegen die betroffene Person einer Fahreignungsuntersuchung unterzogen werden darf. Erst anhand der empfohlenen zusätzlichen medizinischen Abklärungen kann im Rahmen einer Gesamtwürdigung zuverlässig beurteilt werden, ob die vom Erstarzt geweckten Zweifel an der Fahreignung oder Fahrkompetenz einer Person für die Anordnung einer Fahreignungsuntersuchung ausreichen. Der Bericht des Zweitarztes muss nicht den Beweiswert eines nach anerkannten Methoden durchgeführten medizinischen Gutachtens aufweisen und die Verdachtsdiagnose des Erstarztes zweifelsfrei bestätigen oder widerlegen. Wird vom Zweitarzt schlüssig aufgezeigt, dass kein genügender Anfangsverdacht auf das Vorliegen einer die Fahrfähigkeit beeinträchtigenden Krankheit besteht, ist in Ermangelung einer ärztlichen Meldung, die eine Fahreignungsuntersuchung als notwendig erscheinen lässt, von der Anordnung einer solchen Massnahme abzusehen.
+
+## Text
+
+8 Art.15d Abs.1 lit.e SVG
+Ein Arztbericht, der sich nicht abschliessend zur Fahreignung oder Fahr
+kompetenz der untersuchten Person äussert, sondern zusätzliche medizi
+nische Abklärungen (einer anderen Fachrichtung) empfiehlt, stellt für
+sich genommen noch keine Meldung dar, derentwegen die betroffene Per
+son einer Fahreignungsuntersuchung unterzogen werden darf. Erst an
+hand der empfohlenen zusätzlichen medizinischen Abklärungen kann im
+Rahmen einer Gesamtwürdigung zuverlässig beurteilt werden, ob die
+vom Erstarzt geweckten Zweifel an der Fahreignung oder Fahrkompe
+tenz einer Person für die Anordnung einer Fahreignungsuntersuchung
+ausreichen. Der Bericht des Zweitarztes muss nicht den Beweiswert eines
+nach anerkannten Methoden durchgeführten medizinischen Gutachtens
+aufweisen und die Verdachtsdiagnose des Erstarztes zweifelsfrei bestäti
+gen oder widerlegen. Wird vom Zweitarzt schlüssig aufgezeigt, dass kein
+genügender Anfangsverdacht auf das Vorliegen einer die Fahrfähigkeit
+beeinträchtigenden Krankheit besteht, ist in Ermangelung einer ärztli
+chen Meldung, die eine Fahreignungsuntersuchung als notwendig er
+scheinen lässt, von der Anordnung einer solchen Massnahme abzusehen.
+Aus dem Entscheid des Verwaltungsgerichts, 1.Kammer, vom 18.März
+2015, i.S.A. gegen das Departement Volkswirtschaft und Inneres
+(WBE.2014.363).
+Aus den Erwägungen
+II.
+4.3.3.
+Aktueller Anlass für die vom Strassenverkehrsamt erlassene
+Verfügung ist ein Geschehen ausserhalb des Strassenverkehrs, wel
+ches die Beschwerdeführerin nicht bestreitet: Es erging vor bald zwei
+
+Jahren ein Bericht der Klinik, Z., Dr. med. B., Oberarzt Neurologie,
+vom 2.April 2013, welcher bei der Beschwerdeführerin wegen eines
+diagnostizierten phobischen Schwankschwindels eine psychiatrische
+Stellungnahme zur Einschätzung der Fahreignung bei phobischem
+Schwankschwindel empfohlen hatte. Auch Dr. med. C., Amtsarzt,
+unterstützte diese Empfehlung mit Schreiben vom 11.April 2013.
+Die Vorinstanz ist der Auffassung, dass sich die Beschwerdeführerin
+mit den psychiatrischen Abklärungen bei Dr. med. D. der Aufforde
+rung des Strassenverkehrsamts in der Verfügung vom 1.November
+2013 zur verkehrspsychiatrischen bzw. psychologischen Begutach
+tung (teilweise) unterzogen hat. Nicht bekannt ist und es wird weder
+von der Vorinstanz noch vom Strassenverkehrsamt behauptet ge
+schweige denn substantiiert dargelegt, dass die Beschwerdeführerin
+seither und ebenso wenig im Vorfeld jenes Berichts im Strassenver
+kehr auffällig geworden oder negativ in Erscheinung getreten wäre.
+Auch sind für die Beschwerdeführerin keine Warnungsentzüge oder
+andere Administrativmassnahmen aktenkundig. Es gibt damit keine
+Hinweise dafür, dass die Beschwerdeführerin in der Vergangenheit
+SVG Widerhandlungen mit Administrativmassnahmen begangen
+hätte, dies auch nicht als Folge einer allfällig bestehenden fehlenden
+Fahreignung aus psychiatrischen Gründen. Die ärztliche Empfehlung
+der Abklärung der Fahreignung der Beschwerdeführerin erscheint im
+Verlauf der Zeit als Ereignis ohne direkten Bezug zu Implikationen
+im Strassenverkehr, das als solches allein unter den vorliegenden
+Umständen sowie nach den bereits getätigten aktenkundigen Abklä
+rungen nicht (mehr) geeignet ist, die Fahrfähigkeit der Be
+schwerdeführerin ernsthaft in Frage zu stellen.
+4.3.4.
+Der automobilistische Leumund der Beschwerdeführerin ist –
+ausweislich der Akten – ungetrübt. Die Beschwerdeführerin gewär
+tigte bislang keinen Führerausweisentzug. Ebenso wenig wurde ihr
+bisher der Führerausweis vorsorglich entzogen und es erfolgten bis
+her auch noch keine gutachterlichen Abklärungen. Es ist davon
+auszugehen, dass sich die Beschwerdeführerin im Strassenverkehr
+bisher nichts zuschulden kommen lassen hat.
+4.3.5.
+
+Mit Blick auf den ärztlichen Bericht von Dr. med. B. vom
+2.April 2013 gilt es Folgendes zu beachten: Dr. med. B. hielt im be
+sagten Bericht zusammenfassend fest, der neurologische Untersu
+chungsbefund zeige keine relevanten Auffälligkeiten. Anamnestisch
+fänden sich keine Hinweise für Stürze, Synkopen oder Anfälle in den
+letzten Monaten. Die festgestellte multifaktorielle Gangstörung
+schrieb Dr. med. B. neben einer degenerativen HWS Veränderung
+und einer leichten unspezifischen vestibulären Funktionseinschrän
+kung einem phobischen Schwankschwindel zu. Aus neurologischer
+Sicht sei die Beschwerdeführerin aber geeignet, ein Fahrzeug zu füh
+ren. Zur Beurteilung der Fahreignung bei phobischem Schwank
+schwindel sollte laut Einschätzung von Dr. med. B. eine psychiatri
+sche Stellungnahme erfolgen, da aus neurologischer Sicht nicht aus
+geschlossen werden könne, dass während der Fahrt plötzlich ausbre
+chende Angst oder Panik vom Verkehr ablenken könnte oder unbere
+chenbare Fahrmanöver veranlasst würden.
+Mit anderen Worten konnte sich Dr. med. B., der Neurologe ist,
+nicht oder zumindest nicht abschliessend zu einer allfälligen
+psychiatrisch bedingten Einschränkung der Fahreignung der Be
+schwerdeführerin äussern.
+Damit kann der ärztliche Bericht vom 2.April 2013 für sich ge
+nommen – ohne die vom Neurologen empfohlene psychiatrische Ab
+klärung der Auswirkungen des diagnostizierten phobischen
+Schwankschwindels auf die Fahreignung der Beschwerdeführerin –
+nicht als Meldung im Sinne von Art.15d Abs.1 lit.e SVG verstan
+den werden, dass eine Person wegen einer körperlichen oder psychi
+schen Krankheit oder eines Gebrechens Motorfahrzeuge nicht sicher
+führen kann. Als Grundlage für die direkte Anordnung einer ver
+kehrsmedizinischen Begutachtung kann eine ärztliche Meldung nur
+dann dienen, wenn daraus ein genügender Anfangsverdacht für eine
+verkehrsmedizinisch relevante Problematik hervorgeht. Ein solcher
+bestand mit dem ärztlichen Bericht vom 2.April 2013 gerade noch
+nicht. Dr. med. B. hat nur, aber immerhin in den Raum gestellt, dass
+der von ihm diagnostizierte phobische Schwankschwindel einen Ein
+fluss auf die Fahreignung der Beschwerdeführerin haben könnte. Die
+vorläufige Beurteilung dessen, ob eine Beeinträchtigung der Fahreig
+
+nung in psychiatrischer Hinsicht vorliegt, wollte er jedoch erklärter
+massen einem Psychiater überlassen.
+Das Strassenverkehrsamt hätte somit den ärztlichen Bericht
+vom 2.April 2013 nicht ohne weitere vorgängige Abklärungen zum
+Anlass nehmen dürfen, eine verkehrspsychiatrische bzw. psycholo
+gische Begutachtung anzuordnen. Vielmehr wäre es gehalten gewe
+sen, entweder selbst die von Dr. med. B. empfohlene psychiatrische
+Stellungnahme einzuholen oder die von der Beschwerdeführerin im
+Rahmen der Gewährung des rechtlichen Gehörs angebotenen Arztbe
+richte abzuwarten, um anschliessend anhand einer vollständigen Ak
+tenlage zu prüfen, ob sich der Anfangsverdacht auf eine verkehrs
+medizinisch relevante Problematik erhärtet. Wenn aus Gründen der
+Verkehrssicherheit nicht länger mit der Anordnung einer Fahreig
+nungsabklärung hätte zugewartet werden dürfen, wie das Strassen
+verkehrsamt in der Stellungnahme im vorinstanzlichen Verfahren
+vom 20.Dezember 2013 vorbrachte, hätte der Beschwerdeführerin
+der Führerausweis vorsorglich entzogen werden müssen, was nicht
+geschehen ist. Das Strassenverkehrsamt hat der Beschwerde gegen
+die Anordnung der Fahreignungsabklärung nicht einmal die aufschie
+bende Wirkung entzogen.
+In unzutreffender Interpretation der Ausgangslage hat die Vorin
+stanz angenommen, die Beschwerdeführerin habe sich im Laufe des
+vorinstanzlichen Verfahrens mit den psychiatrischen Abklärungen bei
+Dr.med. D. der vom Strassenverkehrsamt angeordneten verkehrspsy
+chiatrischen bzw. psychologischen Begutachtung unterzogen. Dem
+ist nicht so. Das Strassenverkehrsamt hat eine Begutachtung bei den
+Psychiatrischen Diensten Aargau AG, Klinik Königsfelden / Foren
+sik, angeordnet. Mit dem Hinweis in der Beschwerdeantwort im vo
+rinstanzlichen Verfahren, es werde einen ärztlichen Bericht von Dr.
+med. D. zur Fahreignung der Beschwerdeführerin prüfen und allen
+falls gestützt darauf seine Verfügung vom 1.November 2013 in Wie
+dererwägung ziehen, ist das Strassenverkehrsamt dem Anliegen der
+Beschwerdeführerin entgegengekommen, die Durchführung der
+angeordneten verkehrspsychiatrischen bzw. psychologischen Begut
+achtung doch noch zu vermeiden. Es wird denn in diesem Zusam
+menhang auch ausdrücklich von einem Bericht, und nicht etwa von
+
+einem Fahreignungsgutachten gesprochen. An einen solchen Arztbe
+richt dürfen nicht die gleichen formellen und inhaltlichen Anforde
+rungen geknüpft werden wie an ein Fahreignungsgutachten, was mit
+der unterschiedlichen Funktion der beiden Instrumente zu erklären
+ist. Anhand eines Arztberichts zu einer allfälligen psychischen Fahr
+eignungseinschränkung der Beschwerdeführerin, wie er bis zum
+Arztbericht von Dr. med. D. vom 10.April 2014 (in dieser Form)
+nicht vorgelegen hat, kann erst zuverlässig beurteilt werden, ob es
+überhaupt ein verkehrsmedizinisches Fahreignungsgutachten
+braucht. Entsprechend hat die Vorinstanz die Messlatte für die Quali
+tät des Arztberichts zu hoch angesetzt. Der Bericht muss – zwecks
+Vervollständigung des ärztlichen Berichts von Dr. med. B. vom
+2.April 2013 – nicht mehr, aber auch nicht weniger beinhalten als
+eine ärztliche Meldung im Sinne von Art.15d Abs.1 lit.e SVG und
+folglich darauf Antwort geben, ob ein genügender Verdacht auf das
+Vorliegen einer die Fahrfähigkeit der Beschwerdeführerin beein
+trächtigenden psychischen Krankheit besteht. Hingegen muss er eine
+entsprechende psychische Erkrankung nicht (mit vollem Beweiswert)
+ausschliessen. Wie im Folgenden zu zeigen sein wird, genügt die
+"Gutachterliche Stellungnahme" von Dr.med. D. vom 10.April 2014
+diesen Anforderungen allemal.
+4.3.6.
+Für den Beweiswert eines medizinischen Gutachtens ist gemäss
+den insoweit korrekten Ausführungen der Vorinstanz u.a. entschei
+dend, ob es für die streitigen Belange umfassend ist, auf allseitigen
+Untersuchungen beruht, in Kenntnis der Vorakten abgegeben worden
+ist, in der Beurteilung der Zusammenhänge und in der Beurteilung
+der Situation einleuchtet und ob die Schlussfolgerungen des Gutach
+ters begründet sind. Die Beweiskraft eines von der Verwaltung einge
+holten medizinischen Gutachtens oder ärztlichen Berichtes richtet
+sich nach den drei generellen Kriterien der Vollständigkeit, Nachvoll
+ziehbarkeit und Schlüssigkeit (vgl. AGVE2010, S.85ff. mit weite
+ren Hinweisen auf die bundesgerichtliche Rechtsprechung; vgl.
+BGE133II384, Erw.4.2.3). Wie gesehen (Erw.4.3.5 hiervor), dür
+fen diese Kriterien nicht unbesehen auf eine ärztliche Meldung im
+Sinne von Art.15d Abs.1 lit.e SVG angewandt werden.
+
+Aus den Akten ergibt sich, dass Dr.med. D. in seiner Stellung
+nahme vom 10.April 2014 samt Ergänzungen vom 9.Juli und vom
+4.August 2014 aus ähnlichen Überlegungen, wie sie andere Fachper
+sonen zuvor auch angestellt haben (…), zum gleichen Schluss ge
+langte wie in seiner früheren Einschätzung gemäss Schreiben vom
+5.November 2013, nämlich, dass die Fahreignung der Beschwerde
+führerin gegeben sei. Die vorinstanzliche Kritik an der Stellungnah
+me vom 10.April 2014 fällt grösstenteils zu generell und pauschal
+aus und orientiert sich zu Unrecht am strengeren Beurteilungsmass
+stab für ein verkehrsmedizinisches Fahreignungsgutachten, welches
+Zweifel an der Fahreignung bestätigen oder beseitigen und – anders
+als die ärztliche Meldung gemäss Art.15d Abs.1 lit.e SVG – nicht
+bloss solche Zweifel im Hinblick auf eine allfällige Fahreignungsab
+klärung begründen muss.
+Zutreffend ist, dass Dr.med. D. bloss sehr knapp darlegte, wo
+rauf er seine ärztliche Beurteilung stützte. Ebenso trifft zu, dass er
+auf die Durchführung von Testverfahren (neuropsychologische
+Screeningverfahren) verzichtete und sich nicht vertieft mit der ak
+tuellen Medikation der Beschwerdeführerin sowie der Einnahme
+anderer Substanzen auseinandersetzte. Es gilt jedoch zu berücksichti
+gen, dass es sich bei Dr.med. D. um den behandelnden Arzt der Be
+schwerdeführerin handelt, der ihre Krankengeschichte kennt und der
+zur Frage der Fahreignung bereits am 5.November 2013 einen Be
+richt verfasst und darin klar festgehalten hatte, es bestehe aus
+psychiatrischer Sicht kein Hinweis auf klinisch relevante Beein
+trächtigungen in Bezug auf ihre "Fahrtüchtigkeit". Diese Ein
+schätzung deckt sich, wie erwähnt, mit derjenigen anderer Fach
+personen, weshalb sich keine andere Schlussfolgerung aufdrängte.
+Im Weiteren beruht die Stellungnahme vom 10.April 2014 auf einer
+eingehenden Exploration der Beschwerdeführerin unter Würdigung
+ihrer Vorgeschichte und des Behandlungsverlaufs. Der Vorwurf der
+Unvollständigkeit ist mit Blick auf die Funktion des Arztberichts
+(Abklärung, ob Zweifel an der psychischen Fahreignung der
+Beschwerdeführerin gerechtfertigt sind) unberechtigt. Ebenso ist das
+Resultat der Stellungnahme vom 10.April 2014 entgegen der Auf
+fassung der Vorinstanz nachvollziehbar und schlüssig. Wenn der
+
+Gutachter ausführt, weitere prognostische und gutachterliche Fragen
+seien über eine verkehrsmedizinische Gutachterstelle abzuwickeln,
+so ist verständlich, dass eine solche Aussage im vorliegenden Kon
+text auffällt. Indes heisst dies noch nicht, dass die Fahreignung der
+Beschwerdeführerin schon deswegen zu bezweifeln oder die
+Stellungnahme vom 10.April 2014 "wertlos" wäre, denn es resultiert
+daraus keineswegs eine Relativierung der eigenen Befunde. Als
+Facharzt für Psychiatrie und Psychotherapie FMH ist Dr. med. D.
+ohne weiteres in der Lage zu beurteilen, ob Anhaltspunkte für eine
+psychiatrisch bedingte Fahreignungseinschränkung (durch einen kli
+nisch relevanten phobischen Schwankschwindel) bestehen, was er
+einleuchtend verneint hat. Erneut ist zu betonen, dass es nicht seine
+Aufgabe war, eine verkehrsmedizinische Fahreigungsbegutachtung
+mit allen dazugehörigen Testverfahren durchzuführen. Es ist kein
+Grund ersichtlich, weshalb zur Beantwortung der Frage nach Zwei
+feln an der Fahreignung der Beschwerdeführerin nicht auf die
+Stellungnahme von Dr.med. D. abgestellt werden könnte. Es können
+keine (ins Gewicht fallende) Unzulänglichkeiten erkannt werden.
+Weil sich den Arztberichten von Dr. med. B. vom 2.April 2013
+und von Dr. med. D. vom 10.April 2014 in der gebotenen Gesamtbe
+trachtung unter Einbezug der Fachrichtungen Neurologie und Psy
+chiatrie nichts mehr entnehmen lässt, was ernsthafte Zweifel an der
+Fahreignung der Beschwerdeführerin aufkommen liesse, braucht es
+auch kein verkehrsmedizinisches Fahreignungsgutachten, um derarti
+ge Zweifel zu entkräften. Insofern erweist sich der Entscheid der
+Vorinstanz, wonach es mit Bezug auf die Beurteilung der Fahreig
+nung der Beschwerdeführerin wegen mangelhaften Gutachtens
+weitergehender Abklärungen bedürfe, als rechtsfehlerhaft.
+4.3.7. (…)
+4.3.8.
+Alsdann hat das Bundesgericht in seiner jüngsten Rechtspre
+chung klargestellt, dass für Fahreignungsabklärungen grundsätzlich
+die gleichen Anforderungen gelten wie für den vorsorglichen Siche
+rungsentzug des Führerausweises, und im Falle der Anordnung einer
+Fahreignungsabklärung in der Regel auch der Führerausweis vor
+sorglich zu entziehen ist (Urteile des Bundesgerichts vom 27.Mai
+
+2014 [1C_70/2014], Erw.2.2, und vom 16.Januar 2014
+[1C_748/2013], Erw.3.3; vgl. auch PHILIPPE WEISSENBERGER,
+Kommentar Strassenverkehrsgesetz und Ordnungsbussengesetz,
+2.Auflage, Zürich/St. Gallen 2015, Art.15d N12f.; JÜRG BICKEL,
+in: MARCEL ALEXANDER NIGGLI/THOMAS PROBST/BERNHARD
+WALDMANN, [HRSG.], Basler Kommentar, Strassenverkehrsgesetz,
+Basel 2014, Art.15d N12). Das Strassenverkehrsamt hat auf einen
+vorsorglichen Entzug des Führerausweises der Beschwerdeführerin
+(ursprünglich) verzichtet und – soweit aus den Akten ersichtlich –
+auch in der Zwischenzeit keinen solchen angeordnet, was darauf
+hindeutet, dass es die Verkehrssicherheit nicht akut gefährdet sieht.
+Für die Annahme einer Ausnahmesituation, in welcher die Bedenken
+an der Fahreignung der Betroffenen (knapp) ausreichen für die
+Anordnung einer Fahreignungsabklärung, nicht jedoch für den sich
+als schwerwiegenderen Eingriff zu qualifizierenden vorsorglichen
+Sicherungsentzug (vgl. zu dieser Ausnahmekonstellation auch
+WEISSENBERGER, a.a.O., Art.15d N13), besteht im vorliegenden
+Fall kein Raum, zumal auch weder die Vorinstanz noch das
+Strassenverkehrsamt entsprechende Überlegungen thematisieren.
+Dementsprechend drängt sich auch unter diesem Aspekt keine
+verkehrsmedizinische Begutachtung auf (vgl. auch WEISSENBERGER,
+a.a.O., Art.15d N96).
+9 Fahreignungsabklärung aufgrund von Fahren unter Einfluss von
+Cannabis
+Art.2 Abs.2 VRV i.V.m. Art.34 VSKVASTRA verstossen nicht ge
+gen das Legalitätsprinzip, denn der Bundesrat hat die in Art.55
+Abs.7 lit.a SVG delegierte Kompetenz zur Festlegung der im Blut
+nachzuweisenden Konzentrationsmengen durch die Weiterdelegation
+an das ASTRA nicht überschritten (Erw.6.5).
+Art.15d Abs.1 lit.b SVG verlangt nicht, dass wiederholt unter dem
+Einfluss von Betäubungsmitteln gefahren wird oder darüber hinaus
