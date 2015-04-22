@@ -1,0 +1,380 @@
+---
+decision_id: "ag_verwaltungsgericht_WKL.2015.9"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "1. Kammer"
+docket: "WKL.2015.9"
+decided: "2015-04-22"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2558"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2558"
+cites_decisions: ["8C_294/2011"]
+cites_law: ["switzerland/bund/acts/220/art-324a.md", "switzerland/bund/acts/220/art-328b.md", "switzerland/bund/acts/220/art-336.md", "switzerland/bund/acts/220/art-336c.md", "switzerland/bund/acts/235.1/art-012.md", "switzerland/bund/acts/235.1/art-013.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 1. Kammer — WKL.2015.9
+
+## Regeste
+
+Beginn der Sperrfrist bei vorzeitiger Kündigung 
+Die Sperrfrist nach Art. 336 Abs. 1 lit. b OR beginnt mit Eintritt der Arbeitsunfähigkeit zu laufen, unabhängig davon, ob die (vom Kündigungstermin zurückzurechnende) Kündigungsfrist zu diesem Zeitpunkt bereits läuft oder nicht. Bei vorzeitiger Kündigung kann die Sperrfrist somit konsumiert werden, bevor die Kündigungsfrist überhaupt zu laufen beginnt. Das gilt jedenfalls insoweit, als Art. 336c Abs. 1 lit. b und Abs. 2 OR (gestützt auf § 7 GAL) als kantonales öffentliches (Personal-)Recht (für Lehrpersonen) anwendbar sind. In diesem Anwendungsbereich erheischen Gründe des Arbeitnehmerschutzes keine Verlängerung der Kündigungsfrist infolge Arbeitsunfähigkeit.
+
+## Text
+
+gene Arbeit ist davon direkt betroffen", "meine Stellvertretung ist
+klar geregelt") gleichwohl schon vor dem Dienstantritt ihrer neuen
+Vorgesetzten nicht gewesen sein.
+8.5.3.
+In Würdigung aller massgeblichen Aspekte (das grundsätzlich
+zu begrüssende Motiv der Beschwerdegegnerin, mit der Versetzung
+der Beschwerdeführerin einen Arbeitskonflikt zu lösen, ohne dabei
+auch die Interessen der Beschwerdeführerin ausreichend zu gewich
+ten, die vorübergehende Weiterbeschäftigung mit einem reduzierten
+Pensum, das fortgeschrittene Alter der Beschwerdeführerin, ihre so
+ziale Lage, das finanzielle Ungleichgewicht zwischen den Parteien,
+das über einen langen Zeitraum mehrheitlich klaglose Verhalten der
+Beschwerdeführerin, ein gewisses Mitverschulden der Beschwerde
+führerin am Arbeitskonflikt mit der Vorgesetzten, der letztlich zur
+Änderungskündigung geführt hat), erscheint es angezeigt, der Be
+schwerdeführerin – in Übereinstimmung mit der Vorinstanz – eine
+Entschädigung in der Höhe von Fr.18'245.00 (entsprechend 3 Mo
+natslöhnen bei einem Jahreslohn von Fr.72'979.90) zuzusprechen.
+42 Beginn der Sperrfrist bei vorzeitiger Kündigung
+Die Sperrfrist nach Art.336 Abs.1 lit.b OR beginnt mit Eintritt der Ar
+beitsunfähigkeit zu laufen, unabhängig davon, ob die (vom Kündigungs
+termin zurückzurechnende) Kündigungsfrist zu diesem Zeitpunkt bereits
+läuft oder nicht. Bei vorzeitiger Kündigung kann die Sperrfrist somit
+konsumiert werden, bevor die Kündigungsfrist überhaupt zu laufen be
+ginnt. Das gilt jedenfalls insoweit, als Art.336c Abs.1 lit.b und Abs.2 OR
+(gestützt auf §7 GAL) als kantonales öffentliches (Personal )Recht (für
+Lehrpersonen) anwendbar sind. In diesem Anwendungsbereich erhei
+schen Gründe des Arbeitnehmerschutzes keine Verlängerung der Kündi
+gungsfrist infolge Arbeitsunfähigkeit.
+Aus dem Entscheid des Verwaltungsgerichts, 1.Kammer, vom 22.April
+2015 in Sachen A. gegen Gemeindeverband B. (WKL.2015.9).
+
+Aus den Erwägungen
+II.
+1.
+1.1.
+Die Klägerin wurde per 1.Februar 2011 als Lehrperson beim
+Beklagten unbefristet angestellt. Am 28.Oktober 2013 kündigte die
+Kreisschulpflege das Arbeitsverhältnis mit der Klägerin im Rahmen
+der Umstellung von 5/4 (5 Jahre Primarstufe, 4 Jahre Oberstufe) auf
+6/3 aus organisatorischen Gründen per 31.Juli 2014.
+Die Klägerin war, wie aus den eingereichten Arztzeugnissen er
+sichtlich, vom 28.November 2013 – 20.Dezember 2013, vom
+6.Januar 2014 – 20.Januar 2014 sowie vom 8.Februar 2014 –
+5.Juli 2014 vollumfänglich (100% arbeitsunfähig) sowie vom 5.Juli
+2014 – 18.Juli 2014 teilweise krankgeschrieben (60% arbeitsun
+fähig). Seit dem 19.Juli 2014 ist die Klägerin wieder voll arbeitsfä
+hig.
+1.2.
+Streitgegenstand des vorliegenden Verfahrens bildet die Frage,
+wie lange die Lohnzahlungspflicht des Beklagten dauerte. Dies hängt
+letztlich davon ab, ob das Anstellungsverhältnis der Klägerin per
+31.Juli 2014 endete oder ob sich ihre Anstellung infolge Krankheit
+bis zum nächstmöglichen Kündigungstermin verlängerte. Die Recht
+mässigkeit der am 28.Oktober 2013 erfolgten Kündigung wird von
+der Klägerin nicht in Frage gestellt.
+2.
+2.1.
+Die Beurteilung, wann das Anstellungsverhältnis der Klägerin
+endete, richtet sich nach §7 GAL in Verbindung mit Art.336c OR.
+Gemäss dieser Bestimmung darf der Arbeitgeber das Arbeitsverhält
+nis im ersten Dienstjahr während 30Tagen, ab zweitem bis und mit
+fünftem Dienstjahr während 90Tagen und ab sechstem Dienstjahr
+während 180Tagen nicht kündigen, sofern die Arbeitnehmerin ohne
+eigenes Verschulden durch Krankheit ganz oder teilweise an der Ar
+beitsleistung verhindert ist (Art.336c Abs.1 lit.b OR). Eine wäh
+rend einer solchen Sperrfrist erklärte Kündigung ist nichtig; ist die
+
+Kündigung dagegen vor Beginn einer solchen Frist erfolgt, aber die
+Kündigungsfrist bis dahin noch nicht abgelaufen, so wird deren Ab
+lauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt
+(Art.336c Abs.2 OR).
+2.2.
+Die Sperrfrist für die Klägerin, welche seit dem 1.Februar 2011
+als Lehrperson bei der Beklagten tätig war, betrug gemäss Art.336c
+Abs.1 lit.b OR 90Tage.
+2.3.
+In concreto betrug die Kündigungsfrist gemäss Vertrag und Ge
+setz drei Monate. Gestützt auf die bundesgerichtliche Rechtspre
+chung beginnt die Kündigungsfrist nicht mit dem Zugang der Kündi
+gung zu laufen, sondern ist durch Rückrechnung vom Endtermin aus
+zu bestimmen (BGE134III354, Erw.2f. mit Hinweisen). Der Be
+klagte kündigte der Klägerin mit Schreiben vom 28.Oktober 2013
+auf den 31.Juli 2014. Somit begann die dreimonatige Kündigungs
+frist am 1.Mai 2014 zu laufen.
+3.
+3.1.
+Die Klägerin stellt sich auf den Standpunkt, sie sei in der mass
+gebenden dreimonatigen Kündigungsfrist vom 1.Mai bis zum
+31.Juli 2014 krank gewesen, und zwar vom Beginn weg bis und mit
+dem 19. (recte: 18.) Juli 2014. Die Kündigungsfrist sei dementspre
+chend unterbrochen worden bzw. habe erst am 19.Juli 2014 zu lau
+fen begonnen und Anfang Oktober 2014 geendet. Da gemäss Anstel
+lungsvertrag vom 21.Mai 2013 und gemäss §10 Abs.4 GAL eine
+Kündigung ab dem 2.Anstellungsjahr nur auf das Ende eines Schul
+halbjahrs möglich sei, sei gestützt auf Art.336c Abs.3 OR die Kün
+digung erst per 31.Januar 2015 wirksam geworden. Damit habe auch
+die Lohnfortzahlung bis zu diesem Zeitpunkt zu erfolgen. Die Krank
+heitstage vor Beginn der Kündigungsfrist würden "keine Rechtswir
+kung" entfalten.
+3.2.
+Der Beklagte argumentiert demgegenüber, dass das Anstel
+lungsverhältnis zwischen der Klägerin und ihm per 31.Juli 2014 be
+endet worden sei. Die durch die Krankheit der Klägerin ausgelöste
+
+Sperrfrist von 90Tagen habe spätestens am 28.November 2013 zu
+laufen begonnen und damit spätestens am 25.Februar 2014 geendet.
+Folglich sei zu Beginn der Kündigungsfrist, laufend ab 30.April
+2014, die Sperrfrist bereits abgelaufen gewesen und habe keine Aus
+wirkungen mehr zeitigen können. Ein Aufschub des Kündigungster
+mins sei nur möglich, wenn im Zeitpunkt der Kündigungsfrist über
+haupt noch eine Sperrfrist laufe, was im vorliegenden Fall nicht zu
+treffe.
+4.
+4.1.
+Ausgangspunkt jeder Auslegung bildet der Wortlaut der Bestim
+mung. Ist der Text nicht ganz klar und sind verschiedene Interpretati
+onen möglich, so muss nach seiner wahren Tragweite gesucht wer
+den unter Berücksichtigung aller Auslegungselemente. Abzustellen
+ist dabei namentlich auf die Entstehungsgeschichte der Norm und
+ihren Zweck, auf die dem Text zu Grunde liegenden Wertungen so
+wie auf die Bedeutung, die der Norm im Kontext mit anderen
+Bestimmungen zukommt. Die Gesetzesmaterialien sind zwar nicht
+unmittelbar entscheidend, dienen aber als Hilfsmittel, um den Sinn
+der Norm zu erkennen. Namentlich bei neueren Texten kommt den
+Materialien eine besondere Stellung zu, weil veränderte Umstände
+oder ein gewandeltes Rechtsverständnis eine andere Lösung weniger
+nahelegen. Das Bundesgericht hat sich bei der Auslegung von Erlas
+sen stets von einem Methodenpluralismus leiten lassen und nur dann
+allein auf das grammatische Element abgestellt, wenn sich daraus
+zweifelsfrei die sachlich richtige Lösung ergab (BGE133V9,
+Erw.3.1 mit Hinweisen; vgl. auch AGVE2003, S.191f. mit
+Hinweisen).
+4.2.
+Gemäss Art.336c Abs.2 OR wird der Ablauf der Kündigungs
+frist unterbrochen und nach Beendigung der Sperrfrist fortgesetzt,
+wenn die Kündigung vor Beginn einer Sperrfrist erfolgt ist, aber die
+Kündigungsfrist bis dahin noch nicht abgelaufen ist. Wie der Beklag
+te zu Recht festhält, lässt dieser Wortlaut darauf schliessen, dass die
+Sperrfrist grundsätzlich durch Eintritt der (durch Krankheit oder Un
+fall verursachten) Arbeitsunfähigkeit ausgelöst wird.
+
+Die so verstandene Bedeutung von Art.336c Abs.2 OR er
+scheint in all jenen Konstellationen unproblematisch, in denen der
+Arbeitnehmer (erst) innerhalb der Kündigungsfrist erkrankt oder ver
+unfallt. Demgegenüber lässt sich mit Fug die Frage stellen, ob der
+Wortlaut der Bestimmung auch jene Fälle erfasst, wo die Kündigung
+bereits erfolgt ist, die Arbeitsunfähigkeit jedoch vor Beginn der Kün
+digungsfrist eintritt. Allerdings hätte eine Auslegung, wonach dieser
+Sachverhalt nicht von Art.336c Abs.2 OR erfasst wird, den Makel,
+dass je nach Zeitpunkt der Kündigung der Beginn der Arbeitsunfä
+higkeit einmal die Sperrfrist auslöst (wenn er in die Kündigungsfrist
+fällt; dasselbe im Übrigen auch, wenn er vor der Kündigung erfolgt)
+und einmal nicht (wenn er in die Zeit zwischen Kündigung und Be
+ginn der Kündigungsfrist fällt). Für eine derartige unterschiedliche
+Behandlung bietet der Wortlaut von Art.336c Abs.2 OR nicht den
+geringsten Anhaltspunkt.
+4.3.
+Aus der systematischen Stellung von Art.336c Abs.2 OR und
+der historischen Auslegung ergeben sich keine Anhaltspunkte dafür,
+ob bei einer vorzeitigen Kündigung die Sperrfrist mit Eintritt der Ar
+beitsunfähigkeit oder erst später (mit Beginn der Kündigungsfrist) zu
+laufen beginnt. Insbesondere die Gesetzesmaterialien enthalten keine
+hilfreichen Hinweise zur Beantwortung der vorliegenden Streitfrage.
+4.4.
+Art.336c Abs.1 und 2 OR wollen den Arbeitnehmer in einer
+Periode, in der er in aller Regel keine Chance bei der Stellensuche
+hat und von einem Arbeitgeber in Kenntnis der Arbeitsverhinderung
+nicht angestellt würde, vor dem Verlust seiner Arbeit schützen (siehe
+statt vieler ULLIN STREIFF/ADRIAN VON KAENEL/ROGER RUDOLPH,
+Arbeitsvertrag, 7.Auflage, Art.336c N2). Sinn und Zweck von
+Art.336c OR liegen somit darin, dass dem Arbeitnehmer eine besse
+re Chance geboten wird, die neue Stelle gesund anzutreten, und dass
+sich zwischen dem alten und neuen Arbeitsverhältnis nach Möglich
+keit kein Unterbruch ergeben soll.
+Im Zusammenhang mit der Frage, ob die Kündigungsfrist bei
+einer vorzeitigen Kündigung mit Zugang der Kündigung zu laufen
+beginnt oder ob der Anfang der Kündigungsfrist durch Rückrech
+
+nung vom Kündigungsendtermin aus festlegt wird, hielt das Bundes
+gericht Folgendes fest (BGE115V437, Erw.3bf.):
+(Wiedergabe von BGE115V437, Erw.3b und c)
+Gestützt auf diese Erwägungen könnte der Schluss gezogen
+werden, Art.336c Abs.2 OR sei so auszulegen, dass bei einer vorzei
+tigen Kündigung eine Arbeitsunfähigkeit infolge Krankheit bzw. Un
+fall nur dann eine Sperrfrist auszulösen vermag, wenn die Kündi
+gungsfrist bereits zu laufen begonnen hat; andernfalls beginnt die
+Sperrfrist erst, wenn und soweit die Arbeitsunfähigkeit in die Kündi
+gungsfrist fällt.
+Gleichzeitig gilt es indessen darauf hinzuweisen, dass eine Re
+gelung, wonach die Sperrfrist stets mit Eintritt der Arbeitsunfähigkeit
+zu laufen beginnt (also unabhängig davon, ob die Kündigungsfrist
+bereits läuft oder nicht), für den Arbeitgeber einen gewissen Anreiz
+darstellen kann, eine Kündigung möglichst früh zu kommunizieren.
+Dies dürfte aber auch im Interesse der betroffenen Arbeitnehmer lie
+gen, damit sie frühzeitig die Stellensuche organisieren können.
+5.
+In der bundesgerichtlichen Rechtsprechung lassen sich keine
+Aussagen in Bezug auf den Beginn der Sperrfrist finden, wenn die
+Arbeitsunfähigkeit infolge Krankheit oder Unfall nach der Kündi
+gung und vor Beginn der Kündigungsfrist eintritt. In der Lehre wird
+überwiegend die Auffassung vertreten, auch bei dieser Konstellation
+löse der Eintritt der Arbeitsunfähigkeit die Sperrfrist aus; die Kündi
+gungsfrist werde aber bloss unterbrochen, wenn und soweit die Ar
+beitsunfähigkeit in die Kündigungsfrist falle:
+ "Die Kündigungserklärung geht dem Arbeitnehmer vor
+Beginn der Sperrfrist zu; die Kündigungsfrist reicht
+aber in die Sperrfrist hinein, d.h., die Sperrfrist beginnt
+erst nach erfolgtem Zugang der Kündigung, dauert aber
+während der noch laufenden Kündigungsfrist. In die
+sem Fall ist die Kündigung als solche gültig. Jedoch
+verlängert sich die Kündigungsfrist mindestens um die
+Dauer der hineinragenden Sperrfrist" (ADRIAN STÄHE
+LIN, in: Zürcher Kommentar, Teilband V 2c, 4.Auflage,
+Zürich 2013, Art.336c OR N19).
+
+ CHRISTIANE BRUNNER/JEAN MICHEL BÜHLER/JEAN
+BERNARD WAEBER/CHRISTIAN BRUCHEZ, Kommentar
+zum Arbeitsvertragsrecht, 3.Auflage, Basel 2005,
+S.253, Fall 2.
+ "Fällt (…) die Sperrfrist teilweise in die Kündigungs
+frist, so verlängert sich diese entsprechend (…)" (JÜRG
+BRÜHWILER, Kommentar zum Einzelarbeitsvertrag,
+3.Auflage, Basel 2014, Art.336c OR N7c).
+ "Damit Art.336c zur Anwendung kommt, muss sich ein
+in Absatz 1 genannter Tatbestand zum Zeitpunkt der
+Kündigung oder während der Kündigungsfrist verwirk
+licht haben" (STREIFF/VON KAENEL/RUDOLPH, a.a.O.,
+Art.336c OR N2 sowie N3/Beispiel C. Wesentlich ist
+jedoch auch das Beispiel B, wonach die Arbeitsunfähig
+keit nach der Kündigung eintritt und vor Beginn der
+Kündigungsfrist beendet ist. In diesem Zusammenhang
+wird ausgeführt: "[…] Sperrfrist tangiert Kündigungs
+frist nicht […]." Diese Aussage belegt, dass nach Mei
+nung der Autoren eine Sperrfrist tatsächlich lief bzw.
+diese nicht erst zu laufen beginnt, wenn sie mit der
+Kündigungsfrist zusammenfällt).
+ "Auszugehen ist stets vom 'ursprünglichen' Endtermin,
+d.h. vom Zeitpunkt, auf den das Arbeitsverhältnis geen
+det hätte, wenn kein Sperrtatbestand eingetreten wäre.
+Von diesem Zeitpunkt aus ist durch 'Zurückrechnen' zu
+ermitteln, wievieleTage der Kündigungsfrist beim Ein
+tritt des Sperrtatbestandes noch nicht abgelaufen wa
+ren" (ANDREA TARNUTZER MÜNCH, in: PETER
+MÜNCH/MARKUS MERZ [Hrsg.], Stellenwechsel und
+Entlassung, 2.Auflage, Basel 2012, N2.52).
+ "Die Kündigungsfrist wird unterbrochen, solange sie
+sich mit der Sperrfrist überschneidet" (ROLF A. TOB
+LER/CHRISTIAN FAVRE/CHARLES MUNOZ/DANIELA
+GULLO EHM, Arbeitsrecht, Lausanne 2006, Art.336c
+OR N2.5).
+
+Explizit zur Frage, ob die Sperrfrist vor Beginn der Kündi
+gungsfrist nicht nur zu laufen anfangen, sondern unter Umständen
+auch ablaufen kann, äussert sich (soweit ersichtlich) nur eine Litera
+turstelle: "War die Arbeitnehmerin wegen einer Diskushernie
+65Tage im Spital, so wäre sie bei einem Rückfall und einer Sperr
+frist von 90Tagen noch während 25Tagen gegen eine Kündigung
+geschützt bzw. würde eine bereits laufende Kündigungsfrist um wei
+tere 25Tage unterbrochen. Damit ist auch gesagt, dass der Schutz
+durch die Sperrfrist bereits vor der Kündigung konsumiert wer
+den kann (…)" (STREIFF/VON KAENEL/RUDOLPH, a.a.O., Art.336c
+OR N4; Hervorhebung im vorliegenden Urteil).
+Eine gegenteilige Lehrmeinung zum Beginn der Sperrfrist ver
+tritt FRANK EMMEL (Handkommentar zum Schweizer Privatrecht,
+Vertragsverhältnisse 2.Teil, 2. Auflage, Zürich 2012, Art.336c OR
+N2): "Auf diese Weise lösen insbesondere Arbeitsunfähigkeiten, die
+nach Zugang der Kündigung, aber vor Beginn dieser Kündigungsfrist
+eintreten, bis zu diesem Beginn noch keine Sperrfristen aus (gegen
+teilig jedoch BGE131III467, Erw.2.1)."
+6.
+Für den vorliegenden Fall ist zusätzlich zu den vorstehenden
+Erwägungen Folgendes von entscheidender Bedeutung: Gemäss §7
+GAL gelten die subsidiär anwendbaren Normen des Obligationen
+rechts als kantonales öffentliches Recht. Dies entspricht dem allge
+meinen Grundsatz, dass dort, wo durch Verweis im kantonalen öf
+fentlichen Recht ergänzend die Bestimmungen des Obligationen
+rechts zur Anwendung gelangen, diese Bestimmungen zum öffentli
+chen Recht des betreffenden Gemeinwesens werden. Entsprechend
+ist in diesen Fällen das Privatrecht nach den Regeln des kantonalen
+öffentlichen Rechts anzuwenden und auszulegen (Urteil des
+Bundesgerichts vom 29.Dezember 2011 [8C_294/2011], Erw.3.4
+mit zahlreichen Hinweisen).
+In diesem Zusammenhang fällt auf, dass das kantonale öffentli
+che Recht im Gegensatz zum Obligationenrecht (vgl. Art.324a OR
+bzw. die hierzu entwickelte Berner, Zürcher und Basler Skala) eine
+bedeutend grosszügigere Lohnfortzahlungspflicht bei Krankheit und
+Unfall des Arbeitnehmers kennt (Lohnfortzahlung von 6 Monaten so
+
+wie Krankentaggeldversicherung für weitere 18 Monate; §19f.
+LDLP). Diese Besserstellung zeigt sich auch am Ende eines Anstel
+lungsverhältnisses. So ist es nach der OR Regelung ohne weiteres
+denkbar, dass infolge einer verlängerten Kündigungsfrist das Arbeits
+verhältnis noch andauert, dem arbeitsunfähigen Arbeitnehmer jedoch
+kein Lohnanspruch mehr zusteht; gemäss dem kantonalen öffentli
+chen Recht ist eine derartige Konstellation jedoch weitgehend ausge
+schlossen. Diese grundsätzlich deutliche finanzielle Besserstellung
+des erkrankten bzw. verunfallten öffentlich rechtlichen Arbeitneh
+mers spricht dagegen, in der vorliegenden Streitfrage bzw. bei der
+Auslegung von Art.336c OR als kantonales öffentliches Recht dem
+Arbeitnehmerschutz ein zusätzliches Gewicht einzuräumen; diesem
+Gedanken wurde schon mit der grosszügigen Lohnfortzahlungs
+pflicht Rechnung getragen.
+Hinzu kommt, dass eine teleologische Auslegung, welche sich
+primär nach dem Gedanken des Arbeitnehmerschutzes richtet, bei
+kantonalen Lehrpersonen auch deshalb kaum gerechtfertigt ist, weil
+ihnen bereits ab dem zweiten Anstellungsjahr bloss auf Ende eines
+Schulhalbjahres gekündigt werden darf (§10 Abs.4 GAL). Jede Ver
+längerung der Kündigungsfrist ist daher für den Arbeitgeber mit mas
+siven Konsequenzen verbunden, weshalb auch seine Interessen adä
+quat zu berücksichtigen sind.
+7.
+Insgesamt ergibt sich Folgendes: Der Wortlaut von Art.336c
+Abs.2 OR spricht grundsätzlich dafür, dass die Sperrfrist auch dann
+mit Eintritt der Arbeitsunfähigkeit zu laufen beginnt (und unter Um
+ständen auch bereits ablaufen kann), wenn die Kündigung zwar be
+reits ausgesprochen wurde, die Kündigungsfrist jedoch noch gar
+nicht läuft. Eine teleologische Auslegung von Art.336c Abs.2 OR
+spricht, soweit die Norm allein als privatrechtliche Bestimmung ver
+standen wird, tendenziell eher dagegen, dass die Sperrfrist schon vor
+der Kündigungsfrist zu laufen beginnen kann. Allerdings orientiert
+sich diese Auslegung nach Sinn und Zweck der Norm an der Über
+zeugung, aus Gründen des Arbeitnehmerschutzes dürfe die Sperrfrist
+weder ganz noch teilweise vor Beginn der Kündigungsfrist konsu
+miert werden. Genau diese Überlegung spielt indessen eine unterge
+
+ordnete Rolle, soweit Art.336c Abs.2 OR als öffentliches Recht des
+Kantons Aargau zur Anwendung gelangt, steht doch hier dem er
+krankten bzw. verunfallten Arbeitnehmer ein deutlich besserer Lohn
+fortzahlungsanspruch zu als nach dem Obligationenrecht (vgl.
+Erw.II/6). Zudem bewirkt in Fällen wie dem vorliegenden jede Ver
+längerung der Kündigungsfrist eine erhebliche Beeinträchtigung der
+Interessen des Arbeitgebers, da eine Kündigung nur per Ende Schul
+halbjahr zulässig ist. Der teleologischen Auslegung zugunsten des
+Arbeitnehmers kommt insofern ein deutlich geringeres Gewicht zu,
+als ihr allenfalls im Privatrecht zuzubilligen ist.
+Daraus folgt, dass Art.336c Abs.2 OR jedenfalls insofern, als
+die Norm als öffentliches kantonales Recht zur Anwendung gelangt,
+primär anhand des Wortlauts auszulegen ist. Dieser legt es nahe, dass
+die Sperrfrist einheitlich stets mit Eintritt der Arbeitsunfähigkeit zu
+laufen beginnt, und zwar unabhängig davon, ob die Kündigungsfrist
+bereits läuft oder nicht. Dies entspricht im Übrigen der herrschenden
+Lehre zu Art.336c Abs.2 OR. Konsequenterweise kann, sofern die
+Kündigung entsprechend vorzeitig erfolgt, unter Umständen die
+Sperrfrist bereits abgelaufen sein, bevor die Kündigungsfrist über
+haupt zu laufen anfängt.
+43 Referenzauskunft; Genugtuung
+Im Bewerbungsverfahren dürfen keine (vom Stellenbewerber) nicht auto
+risierten Referenzauskünfte bei früheren Arbeitgebern eingeholt werden,
+solange kein besonderer Rechtfertigungsgrund im Sinne von Art.13 DSG
+vorliegt. Dieser Grundsatz gilt kraft des Verweises in §4 Abs.3 GAL
+i.V.m. Art.328b OR auf Art.12 Abs.2 lit.c DSG auch für im Kanton Aar
+gau tätige Lehrpersonen, selbst wenn der Schutz des kantonalen Daten
+schutzrechts (IDAG) weniger weit reichen sollte. Für die Zusprechung ei
+ner Genugtuung wog jedoch die Persönlichkeitsverletzung im konkreten
+Fall zu wenig schwer.
