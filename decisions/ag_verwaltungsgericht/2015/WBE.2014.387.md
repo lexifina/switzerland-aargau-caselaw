@@ -1,0 +1,380 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2014.387"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2014.387"
+decided: "2015-07-16"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2639"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2639"
+cites_decisions: ["2D_14/2009", "BGE 126 I 228", "BGE 139 III 98"]
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/101/art-191b.md", "switzerland/bund/acts/101/art-191c.md", "switzerland/bund/acts/272/art-059.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2014.387
+
+## Regeste
+
+Schulrecht; Fachhochschule Nordwestschweiz (FHNW) 
+- Die Beschwerdekommission FHNW ist keine Verwaltungsjustizbehörde und hat im verwaltungsgerichtlichen Verfahren keine Parteistellung; diese kommt der FHNW zu, welche durch die Direktion bzw. das Direktionspräsidium handelt. 
+- Das Anwaltsmonopol (§ 14 Abs. 3 VRPG), die Vorschriften über den Rechtsstillstand (§ 28 Abs. 2 VRPG) und das Verbot der reformatio in peius (§ 48 Abs. 2 VRPG) gelten im Verfahren vor der Beschwerdekommission FHNW nicht.
+
+## Text
+
+36 Schulrecht; Fachhochschule Nordwestschweiz (FHNW)
+Die Beschwerdekommission FHNW ist keine Verwaltungsjustizbe
+hörde und hat im verwaltungsgerichtlichen Verfahren keine Partei
+stellung; diese kommt der FHNW zu, welche durch die Direktion
+bzw. das Direktionspräsidium handelt.
+Das Anwaltsmonopol (§14 Abs.3 VRPG), die Vorschriften über den
+Rechtsstillstand (§28 Abs.2 VRPG) und das Verbot der reformatio
+in peius (§48 Abs.2 VRPG) gelten im Verfahren vor der Beschwer
+dekommission FHNW nicht.
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 16.Juli 2015 in Sachen A.
+gegen Fachhochschule Nordwestschweiz (WBE.2014.387).
+Aus den Erwägungen
+2.2.
+Die Parteistellung in einem Beschwerdeverfahren regelt §13
+Abs.2 VRPG. Gemäss §13 Abs.2 lit.e VRPG ist die Vorinstanz
+Partei. Nur wenn die erstinstanzliche Entscheidungsbehörde einem
+andern Gemeinwesen angehört, kommt ihr im Beschwerdeverfahren
+ebenfalls Parteistellung zu (§13 Abs.2 lit.f VRPG). Vorinstanz und
+damit Partei im vorliegenden Verfahren wäre daher die Beschwerde
+kommission FHNW; der FNHW selber käme demgegenüber keine
+Parteistellung zu.
+Die Beschwerdekommission FHNW erfüllt indessen nach ihrem
+eigenen Verständnis die Kriterien eines Gerichts im Sinne der
+Rechtsweggarantie von §29a BV und wäre daher als Verwaltungs
+justizbehörde zu betrachten (Entscheid der Beschwerdekommission
+FHNW vom 18.Juni 2012, Nr. 11.016, Erw.3 unter Hinweis auf
+GABRIELLA MATEFI, Das Verfahren vor der Beschwerdekommission
+
+der Fachhochschule Nordwestschweiz [FHNW], in: Der Weg zum
+Recht, Festschrift für Alfred Bühler, Zürich 2008, S.301ff.). Verwal
+tungsjustizbehörden haben nach dem Verwaltungsrechtspflegegesetz
+keine Parteistellung (§13 Abs.3 VRPG).
+2.3.
+Das Verwaltungsgericht hat in seiner bisherigen Rechtspre
+chung die Rechtsnatur der Beschwerdekommission FHNW offen ge
+lassen (AGVE 2010, S.225ff., Erw.2.4.2). Der zitierte Entscheid
+erging im Rahmen eines Beschwerdeverfahrens in Schulsachen (Prü
+fungsentscheid).
+Die Entscheide der Beschwerdekommission FHNW in Perso
+nalfragen waren bis zum 31.Dezember 2012 beim früheren Perso
+nalrekursgericht des Kantons Aargau anfechtbar. Das Personalrekurs
+gericht entschied mit Urteil vom 3.Juli 2008 (AGVE 2008,
+S.433ff.), dass bei personalrechtlichen Streitigkeiten aus einem Ver
+trag das Personalgesetz des Kantons Aargau, PersG) und seine
+Folgeerlasse sowie für den Rechtsmittelweg analog die
+Bestimmungen der Aargauischen Zivilprozessordnung zur
+Anwendung gelangen würden. Demzufolge entscheide die
+Beschwerdekommission FHNW im Klageverfahren; die ent
+sprechenden Entscheide seien mittels Appellation an das Personalre
+kursgericht weiterziehbar (AGVE 2008, S.433, Erw.2). Zumindest
+implizit beruht diese Auffassung auf der Grundlage, dass die Be
+schwerdekommission FHNW im Personalbereich eine Gerichtsbe
+hörde darstellt.
+Seit der Umsetzung der Justizverfassungsreform im Kanton
+Aargau auf den 1.Januar 2013 entscheidet das Verwaltungsgericht
+auch über Beschwerden gegen Entscheide der Beschwerdekommis
+sion FHNW in Personalsachen (AGS 2012/5 02). Die Aargauische
+Zivilprozessordnung wurde mit Inkrafttreten der Schweizerischen Zi
+vilprozessordnung aufgehoben (AGS 2010/5 07). Das Rechtsmittel
+verfahren in der Schweizerischen Zivilprozessordnung mit Berufung
+und Beschwerde an die (obere) kantonale Rechtsmittelinstanz unter
+scheidet sich in wesentlichen Punkten von der Regelung, wie sie un
+ter der Aargauischen Zivilprozessordnung galt. Für die Berufung be
+steht eine Streitwertgrenze und das Novenrecht im Rechtsmittel
+
+verfahren unterscheidet sich von der früheren aargauischen Rege
+lung.
+In verschiedenen Beschwerdeverfahren vor dem Verwaltungs
+gericht in Schulsachen war die funktionale Zuständigkeit einzelner
+Organe und Institutionen der FHNW im Beschwerdeverfahren kon
+trovers. Eine grundsätzliche Prüfung der verfassungsmässigen Stel
+lung der Beschwerdekommission FHNW ist schliesslich auch mit
+Blick auf die Verfahrensgarantien der Parteien im verwaltungsge
+richtlichen Verfahren angebracht.
+3.
+3.1.
+Der Staatsvertrag FHNW (Staatsvertrag zwischen den Kantonen
+Aargau, Basel Landschaft, Basel Stadt und Solothurn über die Fach
+hochschule Nordwestschweiz [FHNW] vom 27.Oktober 2004
+[SAR426.070]) regelt Aufgaben, Organisation und Zuständigkeit der
+Beschwerdekommission FHNW in §33. Danach besteht die Be
+schwerdekommission aus fünf, von den Regierungen der Vertrags
+kantone auf vier Jahre gewählten Mitgliedern, inkl. Präsidentin/ Prä
+sident (Abs.1). Jeder Vertragskanton ist durch mindestens ein Mit
+glied vertreten (Abs.2). Die Beschwerdekommission organisiert sich
+selbst (Abs.2bis) und entscheidet über Beschwerden gegen Verfü
+gungen der Fachhochschule und in personalrechtlichen Streitigkeiten
+in einer Besetzung mit mindestens drei Mitgliedern (Abs.4).
+Mit der Beschwerde an die Beschwerdekommission können alle
+Mängel des Verfahrens und der angefochtenen Verfügung geltend ge
+macht werden (Abs.5). Die Beschwerdekommission informiert den
+Fachhochschulrat jährlich summarisch über die erledigten Verfahren
+(Abs.8).
+Die Regierungen haben die Mitglieder der Beschwerdekommis
+sion zu wählen (§17 Abs.1 lit.g Staatsvertrag FHNW) und die Ver
+gütung der Beschwerdekommission festzulegen (§17 Abs.1 lit.h
+Staatsvertrag FHNW).
+3.2.
+Art.191b Abs.1 BV verpflichtet die Kantone, für öffentlich
+rechtliche Streitigkeiten richterliche Behörden einzusetzen. Sie kön
+nen die Rechtsprechung auch gemeinsamen richterlichen Behörden
+
+übertragen (Abs.2). Richterliche Behörden sind unabhängige, nur
+dem Recht verpflichtete Organe der Rechtsprechung (Art.191c BV).
+Diese Kriterien gewährleisten die institutionelle Unabhängigkeit der
+Justiz in grundrechtlicher Hinsicht (Art.29a und 30 BV) und sichern
+organisationsrechtlich das Gewaltenteilungsprinzip (CHRISTINA
+KISS/HEINRICH KOLLER, in: St.Galler Kommentar zur BV, 3. Aufl.,
+Zürich/St.Gallen 2014, Art.191b N13; GEROLD STEINMANN, in:
+St.Galler Kommentar, a.a.O., Art.191c N3; REGINA KIENER, Rich
+terliche Unabhängigkeit, Verfassungsrechtliche Anforderungen an
+Richter und Gerichte, Bern 2001, S.25f.; BGE126I228,
+Erw.2a/bb). Verfassungskonforme richterliche Behörden sind im
+formellen Sinn die Rechtsprechungsinstanzen, welche in die Justizor
+ganisation eines Kantons eingebunden sind (vgl. zur Differenzierung
+BGE 139 III 98, Erw.3.2.1).
+Im Kanton Aargau wird die Verwaltungsgerichtsbarkeit durch
+das Spezialverwaltungsgericht, das Obergericht und das Justizgericht
+ausgeübt (§100 KV). Auch nach den Kantonen Solothurn und Basel
+Landschaft ist die Beschwerdekommission FHNW verfassungsrecht
+lich keine Justizbehörde mit Zuständigkeit in der Rechtsprechung
+öffentlich rechtlicher Streitigkeiten (Art.91 Abs.1 lit.a f der Verfas
+sung des Kantons Solothurn vom 8.Juni 1986 [KV/SO; BGS 111.1];
+vgl. auch: §§47ff. des Gesetzes über die Gerichtsorganisation vom
+13.März 1977 [GO; BGS 125.12]; §85 der Verfassung des Kantons
+Basel Landschaft vom 17.Mai 1984 [KV/BL; SGS 100]). Die Ver
+fassung des Kantons Basel Stadt vom 23.März 2005 (KV/BS;
+SG111.100) weist die Verwaltungsgerichtsbarkeit dem Sozialversi
+cherungsgericht, den vom Gesetz vorgesehenen Rekurskommissio
+nen und dem Appellationsgericht zu (§115 KV/BS). Rekurskom
+missionen im Sinne dieser Bestimmung sind die Behörden, deren
+Mitglieder ausschliesslich vom Grossen Rat oder Regierungsrat des
+Kantons Basel Stadt gewählt werden (vgl. §10 Abs.1 des Gesetzes
+über die Verfassungs und Verwaltungsrechtspflege vom 14.Juni
+1928 [SG 270.100]), nicht aber Behörden, deren Mitglieder von
+mehreren Kantonsregierungen gewählt werden (STEPHAN WULL
+SCHLEGER/ANDREAS SCHRÖDER, Praktische Fragen des Verwal
+tungsprozesses im Kanton Basel Stadt, in: BJM 2005, S.285f.). In
+
+den Verfassungen der vier Vertragskantone der FHNW ist auch keine
+institutionelle oder organisatorische Zusammenarbeit, insbesondere
+in der Verwaltungsjustiz, vorgesehen (vgl. §3 KV/BS; Art.2
+KV/SO; §3 KV/BL; §4 Abs.1 KV/AG). Eine verfassungsrechtliche
+Grundlage für eine institutionelle interkantonale Zusammenarbeit be
+steht in den Kantonsverfassungen der Kantone Basel Landschaft und
+Basel Stadt nur im gegenseitigen Verhältnis (§3 KV/BS; §3
+KV/BL).
+Die Beschwerdekommission FHNW ist in die Justizorganisa
+tion der Vertragskantone nicht eingebunden und somit kein Gericht
+im formellen Sinn.
+3.3.
+Für die Qualifikation als richterliche Behörde ist eine Einbin
+dung in die (ordentliche) Gerichtsstruktur eines Kantons nicht erfor
+derlich. Ein Gericht im materiellen Sinn, das die Anforderungen der
+Bundesverfassung an die richterliche Unabhängigkeit erfüllt, genügt.
+Die Bundesverfassung (Art.191c BV) und die Kantonsverfassung
+(§95 KV/AG) gewährleisten in grundrechtlicher Hinsicht die rich
+terliche Unabhängigkeit in der Rechtsprechung nach Massgabe der
+verfassungsrechtlichen Garantien aus Art.29a und Art.30 Abs.1 BV.
+Ein verfassungskonformes Gericht zeichnet sich funktional durch
+seine rechtsprechende Tätigkeit und organisatorisch durch seine
+institutionelle Unabhängigkeit aus. Die Behörde muss organisato
+risch und personell, nach der Art ihrer Ernennung, der Amtsdauer,
+dem Schutz vor äusserer Beeinflussung und nach ihrem Erschei
+nungsbild sowohl gegenüber anderen Behörden als auch gegenüber
+den Parteien unabhängig und unparteiisch sein (BGE 126 I 228,
+Erw.2 a/bb; vgl. auch BGE 139 III 98, Erw.4.2; 134 I 16, Erw.4.2;
+STEINMANN, a.a.O., Art.30 N8).
+Die Unabhängigkeit eines Gerichts wird nach der Praxis und
+Lehre noch nicht in Frage gestellt, nur weil dessen Mitglieder durch
+eine Exekutivbehörde gewählt werden. Bedenken ergeben sich be
+züglich solcher Gerichte, die regelhaft zur Überprüfung von Akten
+der Verwaltung aufgerufen sind, gerade wenn in regelmässigen Ab
+ständen eine Wiederwahl der Richter erforderlich ist. Hier rechtfer
+tigt sich eine Wahl durch die Exekutive allein dann, wenn das
+
+Vorverfahren der Richterauslese transparenten Kriterien folgt und die
+Gewählten ihrem Werdegang und persönlichen Zuschnitt nach Ge
+währ für eine unabhängige Kontrolle der Verwaltung bieten (KIENER,
+a.a.O., S.258).
+3.4.
+Der Staatsvertrag regelt in §33 Abs.2 die Vertretung der Ver
+tragskantone in der Beschwerdekommission, nicht aber die Wählbar
+keitsvoraussetzungen. Er enthält auch keine Bestimmung, welche die
+Unabhängigkeit gegenüber den Organen der Fachhochschule sichert
+(vgl. demgegenüber §30 des Vertrages zwischen den Kantonen
+Basel Landschaft und Basel Stadt über die gemeinsame Trägerschaft
+der Universität Basel vom 27.Juni 2006 [SG 442.400]). Im Organi
+sationsstatut der Fachhochschule Nordwestschweiz vom 1.Januar
+2006 wird die Beschwerdekommission nicht erwähnt. Sie erscheint
+auch nicht im Organigramm und im Funktionsdiagramm der Fach
+hochschule (vgl. www.fhnw.ch/ueber uns/organisation fhnw, letzt
+mals besucht am 16.Juli 2015). Der Staatsvertrag verlangt keine Un
+abhängigkeit der Mitglieder der Beschwerdekommission. Insbeson
+dere ist die Wahl von Personen, die bei der FHNW oder ihren In
+stitutionen tätig sind, vom Wortlaut des Staatsvertrages nicht ausge
+schlossen. Eine Garantie für die Unabhängigkeit gibt auch §20 des
+Staatsvertrages nicht. Die Nichterwähnung der Beschwerdekom
+mission in der Liste der obligatorischen Organe der FHNW sichert
+ihre institutionelle und organisatorische Unabhängigkeit nicht (a.A.
+MATEFI, a.a.O., S.305, FN26), zumal der Fachhochschulrat weitere
+Organe bezeichnen kann (§20 Abs.2 Staatsvertrag FHNW).
+Von den fünf Mitgliedern der Beschwerdekommission in dieser
+Amtsperiode sind die Präsidentin, die Vertreterin des Kantons Basel
+Stadt und der Vertreter des Kantons Basel Landschaft (vornehmlich)
+in der Justiz ihrer Kantone tätig (der Vertreter des Kantons Basel
+Landschaft ist auch Inhaber eines Anwaltsbüros in Liestal). Der Ver
+treter des Kantons Aargau ist im Generalsekretariat des Departe
+ments Bildung, Kultur und Sport und die Vertreterin des Kantons
+Solothurn im Bildungs und Kulturdepartement (Rechtsabteilung) ih
+res Kantons hauptamtlich tätig. Die Vertreter des Kantons Aargau
+und Solothurn sind somit in ihrer beruflichen Haupttätigkeit bei Mit
+
+gliedern ihrer Wahlbehörde, die auch die Entschädigung der Mitglie
+der der Beschwerdekommission festsetzen (§17 Abs.1 lit.h Staats
+vertrag FHNW), angestellt.
+Nach dem Reglement über die Organisation der Beschwerde
+kommission FHNW vom 3.Juli 2007 nimmt an den Beratungen eine
+Kommissionsschreiberin bzw. ein Kommissionsschreiber mit bera
+tender Stimme teil (§4 Abs.4 Reglement). Die Kanzlei, der die
+Kommissionsschreiberinnen und Kommissionsschreiber und das üb
+rige Kanzleipersonal angehören, wird von der FHNW geführt (§6
+Abs.1 und 2 Reglement). Aus diesen Organisationsregeln ergibt sich
+nicht zwingend, dass der Kommissionsschreiber unabhängig sein
+muss und nicht für die FHNW oder ihre Institute tätig sein darf (a.A.
+offenbar MATEFI, a.a.O., S.305). Gegenüber dem Kanzleipersonal ist
+das Präsidium weisungsbefugt (§6 Abs.3 Reglement), was darauf
+schliessen lässt, dass die arbeits oder auftragsrechtliche Weisungs
+befugnis nicht – zumindest nicht zwingend und ausschliesslich – aus
+serhalb der Organisation der Fachhochschule Nordwestschweiz lie
+gen muss. In ihrem Auftritt in der (Schul ) Öffentlichkeit präsentiert
+sich die Beschwerdekommission auf der Homepage der FHNW als
+eine Organisationseinheit der Fachhochschule (www.fhnw.ch/ueber
+uns/organisation fhnw, letztmals besucht am 16.Juli 2015).
+Die Unabhängigkeit muss vor allem gegenüber den Organen der
+Hochschule bestehen (BENJAMIN SCHINDLER, Erstinstanzlicher
+Rechtsschutz gegen universitäre Prüfungsentscheidungen, in: ZBl
+112/2011, S.514 mit Hinweis auf das Urteil des Bundesgerichts vom
+2.April 2009 [2D_14/2009], Erw.2.1). Diese Unabhängigkeit ist
+nach dem Wortlaut von §33 und §17 des Staatsvertrages nicht ge
+währleistet und angesichts der Zuständigkeiten und der Aufsichtsbe
+fugnisse der Regierungen der Vertragskantone (§17 Abs.1 Satz 1
+Staatsvertrag FHNW) und der Interparlamentarischen Kommission
+(§16 Abs.5 und 6 Staatsvertrag FHNW) auch institutionell nicht
+abgesichert. Die organisatorischen Bestimmungen in den Reglemen
+ten der FHNW und der Beschwerdekommission FHNW gewährleis
+ten nicht, jedenfalls nicht in einem den Anforderungen von Art.30
+BV und Art.191c BV genügenden Mass, die Unabhängigkeit der Be
+schwerdekommission gegenüber der Fachhochschule und ihrer Or
+
+gane. Die Beschwerdekommission erscheint zudem im Auftritt in der
+(Schul ) Öffentlichkeit als eine Institution der Schule.
+Diese Beurteilung der Rechtsnatur der Beschwerdekommission
+findet eine teilweise Bestätigung in den Materialien zum Staatsver
+trag: Gemäss Bericht der Regierungen der Vertragskantone "Detailer
+läuterungen zum Staatsvertrag" vom 27.Oktober 2004 (Beilage 3 zur
+Botschaft des Regierungsrats des Kantons Aargau an den Grossen
+Rat vom 27.Oktober 2004, GR.04.294) nimmt die Beschwerdekom
+mission auch Aufgaben der Qualitätssicherung wahr und informiert
+über ihre Arbeit den Fachhochschulrat (§33 Abs.8 Staatsvertrag
+FHNW), damit dieser die notwendigen Verbesserungen einleiten
+kann. Die Beschwerdekommission hat diese Funktion auch schon di
+rekt gegenüber einer einzelnen Hochschule der FHNW ausgeübt, als
+sie der Hochschule für Architektur, Bau und Geomatik (HABG)
+untersagte, eine Bestimmung der Prüfungsordnung anzuwenden
+(Entscheid Nr. 11.016 vom 18.Januar 2012, Erw.3).
+Zusammenfassend ist die Ausgestaltung der Organisationsnor
+men mit Blick auf die personelle und institutionelle Unabhängigkeit
+nicht ausreichend, um die Beschwerdekommission FHNW als
+richterliche Behörde im materiellen Sinne zu qualifizieren. Es fehlen
+die grundlegenden formellen Organisationsregeln zur Gewährleis
+tung der verfassungsrechtlich erforderlichen institutionellen und
+organisationsrechtlichen Unabhängigkeit. Sie ist zwar kein Organ der
+Fachhochschulleitung (§20 Abs.1 lit.b und §23 Abs.1 Staatsver
+trag FHNW), erscheint jedoch als eine Instanz der interkantonalen
+öffentlich rechtlichen Anstalt FHNW (§1 Abs.1 Staatsvertrag
+FHNW), die von den Vertragskantonen im Rahmen und zur Wahrung
+der Selbstbestimmung (Autonomie) der Fachhochschule eingerichtet
+wurde.
+3.5.
+3.5.1.
+Die fehlende Qualität der Beschwerdekommission als richter
+liche Behörde hat zur Folge, dass sie keine Verwaltungsjustizbehörde
+im Sinne von §13 Abs.3 VRPG ist und im System von §13 Abs.2
+VRPG Partei im Beschwerdeverfahren vor dem Verwaltungsgericht
+wäre (siehe vorne Erw.2.2). Im (internen) Rechtsmittelverfahren vor
+
+der Beschwerdekommission FHNW hat die FHNW Parteistellung
+gemäss §13 Abs.2 lit.e VRPG. Die Beschwerdekommission ist in
+dessen kein Organ der FHNW, welche für die FHNW im Beschwer
+deverfahren vor dem Verwaltungsgericht handeln kann. Im Be
+schwerdeverfahren vor Verwaltungsgericht bleibt aufgrund dieser or
+ganisationsrechtlichen Besonderheit die FHNW als öffentlich recht
+liche Anstalt Partei. Sie wird durch die Direktion (§23 Abs.1 Staats
+vertrag FHNW) bzw. durch das Direktionspräsidium (§8 lit.a
+Organisationsstatut der FHNW vom 1.Januar 2006) vertreten. Ent
+sprechend ist im vorliegenden Verfahren das Rubrum zu ändern und
+die Fachhochschule Nordwestschweiz, vertreten durch die Direktion
+FHNW, als Beschwerdegegnerin aufzuführen.
+3.5.2.
+Die Rechtsnatur und Stellung der Beschwerdekommission ha
+ben auch Auswirkungen auf die Verfahrensordnung und den Rechts
+mittelweg in personalrechtlichen Belangen. Die Regelung in §39
+PersG, wonach vertragliche Streitigkeiten im Klageverfahren beur
+teilt werden, lässt sich nicht auf Fälle der FHNW übertragen. Viel
+mehr werden auch diese Streitigkeiten – obwohl das Arbeitsverhält
+nis auf einem Vertrag beruht – seitens der FHNW stets mittels Verfü
+gung entschieden. Der anschliessende Rechtsmittelzug mit Einspra
+che, Verwaltungsbeschwerde an die Beschwerdekommission FHNW
+und anschliessender verwaltungsgerichtlicher Beschwerde an das
+Verwaltungsgericht entspricht den Vorgaben des Staatsvertrags, dem
+VRPG (§54 und §60 VRPG) und ist auch im Gesamtarbeitsvertrag
+vorgesehen (vgl. Gesamtarbeitsvertrag für die Fachhochschule Nord
+westschweiz vom 23.Oktober 2006, Fassung vom 1.Januar 2011,
+Ziff.15.2 bis 15.4). Die Beschwerdekommission FHNW entscheidet
+somit auch in Personalsachen stets im Verwaltungsbeschwerde
+verfahren gemäss §§41ff. VRPG. Die abweichende Rechtsauffas
+sung und die Praxis des früheren Personalrekursgerichts zum Verfah
+ren und zum Rechtsmittelweg werden vom Verwaltungsgericht nicht
+weitergeführt.
+Weitere prozessuale Konsequenzen der rechtlichen Qualifika
+tion der Beschwerdekommission FHNW sind, dass in den Beschwer
+deverfahren das Anwaltsmonopol (§14 Abs.3 VRPG) keine Geltung
+
+hat und die Rechtsstillstandsfristen (§28 Abs.2 VRPG) sowie das
+Verschlechterungsverbot (§48 Abs.2 VRPG) nicht zur Anwendung
+gelangen.
+
+37 §10 Abs.1 lit.c PersG
+Inhalt und Funktion der personalrechtlichen Mahnung (wegen Mängeln
+in der Leistung oder im Verhalten des Arbeitnehmers); die Mahnung bil
+det nach aargauischem Recht keine Verfügung. Der Betroffene kann sich
+grundsätzlich nicht mittels Klage gegen die Mahnung wehren, soweit die
+se lediglich an die bestehenden gesetzlichen und vertraglichen (Arbeits )
+Pflichten erinnert bzw. diese konkretisiert und keine neuen Pflichten be
+gründet.
+Aus dem Entscheid des Verwaltungsgerichts, 1.Kammer, vom 22.April
+2015 in Sachen A. gegen Kanton Aargau (WKL.2015.4).
+Aus den Erwägungen
+I.
+6.
+6.1.
+In Antrag2 verlangt die Klägerin, es seien "Ziff.1 bis 3 des
+Entscheids des Beklagten vom 19.Juni 2014 (inkl. Verfügung vom
+31.Juli 2013) ersatzlos aufzuheben." Gemäss den entsprechenden
+Ziffern des Entscheids des Generalsekretärs DVI wurden die Mah
+nung vom 31.Juli 2013 aufrechterhalten (Ziffer1), die Bewährungs
+zeit von vier Monaten neu festgelegt (Ziffer2) und die ursprüngli
+chen Leistungs und Verhaltensziele bestätigt (Ziffer3).
+6.2.
+Gemäss §59 Abs.1 ZPO tritt das Gericht auf eine Klage ein,
+sofern die Prozessvoraussetzungen erfüllt sind. Zu den Prozessvor
+aussetzungen gehört insbesondere, dass die klagende Partei ein
+schutzwürdiges Interesse hat (Art.59 Abs.2 lit.a ZPO).
+6.3.
