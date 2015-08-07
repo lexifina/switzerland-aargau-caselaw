@@ -1,0 +1,334 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2014.140"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2014.140"
+decided: "2015-08-07"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2629"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2629"
+cites_decisions: ["1C_534/2012", "BGE 134 II 97"]
+cites_law: ["switzerland/bund/acts/101/art-026.md", "switzerland/bund/acts/101/art-027.md", "switzerland/bund/acts/101/art-075.md", "switzerland/bund/acts/101/art-094.md", "switzerland/bund/acts/700.1/art-002.md", "switzerland/bund/acts/700/art-001.md", "switzerland/bund/acts/700/art-002.md", "switzerland/bund/acts/700/art-003.md", "switzerland/bund/acts/700/art-014.md", "switzerland/bund/acts/700/art-016a.md", "switzerland/bund/acts/700/art-021.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2014.140
+
+## Regeste
+
+Nutzungsplanung; Gärtnereizone 
+- Nutzungsbestimmungen einer Gärtnereizone, welche die Nettoladenfläche auf die bereits bestehende Verkaufsnutzung beschränken und nur den Ersatz bestehender Verkaufsnutzungen zulassen, widersprechen den Anforderungen an eine Bauzone. 
+- Das öffentliche Interesse an der optischen Trennung zweier Ortsteile rechtfertigt keine Nutzungsbestimmungen in einer Bauzone, welche das Verkehrsaufkommen auf den bisherigen Rahmen und die zulässige Nutzung auf den unmittelbaren betrieblichen und branchenmässigen Zusammenhang mit einem bestehenden Betrieb beschränken.
+
+## Text
+
+rechtlich vertretbar. Die Aufhebung des Gemeinderatsbeschlusses be
+deutet entgegen den Beschwerdeführenden keine Verletzung der Ge
+meindeautonomie.
+26 Nutzungsplanung; Gärtnereizone
+Nutzungsbestimmungen einer Gärtnereizone, welche die Nettoladen
+fläche auf die bereits bestehende Verkaufsnutzung beschränken und
+nur den Ersatz bestehender Verkaufsnutzungen zulassen, widerspre
+chen den Anforderungen an eine Bauzone.
+Das öffentliche Interesse an der optischen Trennung zweier Ortsteile
+rechtfertigt keine Nutzungsbestimmungen in einer Bauzone, welche
+das Verkehrsaufkommen auf den bisherigen Rahmen und die zuläs
+sige Nutzung auf den unmittelbaren betrieblichen und branchen
+mässigen Zusammenhang mit einem bestehenden Betrieb beschrän
+ken.
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 7.August 2015 in Sachen
+A. AG gegen Einwohnergemeinde B. und Regierungsrat (WBE.2014.140).
+Aus den Erwägungen
+1.
+Der vom Einwohnerrat am 17.Oktober 2013 beschlossene und
+vom Regierungsrat am 19.März 2014 genehmigte §21 BNO lautet
+wie folgt:
+§21 Spezialzone Gärtnerei SG
+1 Zulässig sind der Gärtnerei und dem Gartenbau dienende,
+mässig störende Bauten wie Treibhäuser, Büros, Werkstätten, Ab
+stellräume und betriebsnotwendige Wohnungen. Innerhalb der Spe
+zialzone Gärtnerei C. dürfen bestehende Verkaufsnutzungen bis max.
+3'000 m2 Nettoladenfläche als Ersatz neu erstellt werden, sofern sie
+einen unmittelbaren betrieblichen und branchenmässigen Zusam
+
+menhang mit dem bestehenden Gärtnerei und Gartenbaubetrieb ha
+ben und das Verkehrsaufkommen im gleichen Rahmen bleibt.
+2 Gegenüber angrenzenden Zonen sind deren Abstandsvor
+schriften einzuhalten.
+3 Die Bauten und Anlagen sind gut ins Landschafts und Orts
+bild einzupassen. Der Gemeinderat kann im Rahmen der Baube
+willigung besondere Auflagen für die Bepflanzung und die Ein
+passung ins Landschafts und Ortsbild machen.
+2. 3.(…)
+4.
+4.1.
+Die Beschwerdeführerin verlangt Modifikationen von §21
+Abs.1 der revidierten BNO. Einerseits sei die Einschränkung auf
+"betriebsnotwendige" Wohnnutzung aufzuheben, eventuell mittels
+einer mengenmässigen Beschränkung festzulegen. Zudem wird die
+Aufhebung aller (qualitativen) Nutzungsanforderung an die Ver
+kaufsnutzung beantragt mit Ausnahme der Flächenbegrenzung auf
+3'000 m2. Die beanstandeten Einschränkungen der Verkaufsnutzung
+sind im Einzelnen (§21 Abs.1 Satz 2 BNO):
+Nur bestehende Verkaufsnutzungen dürfen ersetzt werden.
+Ein Ersatz erfordert einen "unmittelbaren betrieblichen und
+branchenmässigen Zusammenhang mit dem bestehenden
+Gärtnerei und Gartenbaubetrieb".
+Das Verkehrsaufkommen hat im gleichen Rahmen zu blei
+ben.
+4.2.(…)
+5.
+5.1. 5.2.
+5.3.
+5.3.1.
+Die Gemeinden sind zum Erlass kommunaler Bau und Nut
+zungsvorschriften von Verfassung und Gesetz ermächtigt und auch
+verpflichtet (§§45 und 47 KV; vgl. auch Art.2 Abs.1 RPG und
+§§13ff. und 46ff. BauG). Der Nutzungsplan gemäss §15 BauG ist
+ein Rahmennutzungsplan (Art.14 RPG), der die zulässige Nutzung
+von Grundstücken verbindlich regelt (Art.21 Abs.1 RPG) und in
+
+welchem die Gemeinde die raumwirksamen Zielvorstellungen um
+setzt (vgl. dazu Richtplan 2011, Planungsanweisungen im Richt
+planbeschluss S 1.1). Die Planungspflicht umfasst Anforderungen
+inhaltlicher Natur an die Nutzungsplanung; inhaltliche Vorgaben
+ergeben sich aus den Planungszielen (Art.1 RPG) und den Planungs
+grundsätzen (Art.3 RPG), welche die Behörden bei der Nutzungs
+planung zu prüfen haben (Art.2 RPV; AGVE 2001, S.266, Erw.2e;
+vgl. auch PIERRE TSCHANNEN, in: Kommentar RPG, Zürich 2010,
+Art.2 N37ff.). Mit der Nutzungsplanung wird das Gemeindegebiet
+in verschiedene Nutzungszonen eingeteilt und werden Art und Mass
+der Nutzung geregelt. Die Gemeinden können dabei insbesondere
+Bauzonen mit differenzierten Nutzungen ausscheiden (vgl. §15
+Abs.1 und Abs.2 BauG). Bei der Ausscheidung und Definition der
+verschiedenen Zonen geniessen die Gemeinden aufgrund von §106
+KV verfassungsrechtliche Autonomie.
+5.3.2.
+Kommunale Zonenvorschriften führen zu Beschränkungen des
+Eigentums und sind mit der Eigentumsgarantie (Art.26 BV) und der
+Wirtschaftsfreiheit (Art.27 BV) vereinbar, sofern die Einschränkun
+gen durch die Raumplanung bedingt sind, im Zielbereich von Art.75
+Abs.1 BV liegen und die Wirtschaftsfreiheit dadurch nicht völlig
+ihres Gehalts entleert wird (BGE 110 Ia 167). Die Beschränkungen
+müssen sodann verhältnismässig sein (vgl. ULRICH HÄFELIN/GEORG
+MÜLLER/FELIX UHLMANN, Allgemeines Verwaltungsrecht, 6. Auf
+lage, Zürich 2010, Rz.2062ff.).
+Planungsrechtlich sind Wohn und Arbeitsgebiete einander
+zweckmässig zuzuordnen (Art.3 Abs.3 lit.a RPG) und es sind mit
+Mitteln der Raumplanung günstige Voraussetzungen für die Versor
+gung mit Gütern und Dienstleistungen sicherzustellen (Art.3 Abs.3
+lit.d RPG). Mit diesen Planungsgrundsätzen werden die Planungs
+ziele von Art.1 Abs.2 lit.d RPG und die Förderung der günstigen
+Rahmenbedingungen für die private Wirtschaft (Art.1 Abs.2 lit.bbis
+RPG, Fassung ab 1.Mai 2014; Art.94 Abs.3 BV) konkretisiert. Ver
+fahrensrechtlich sind die massgebenden öffentlichen Interessen an
+der Siedlungsgestaltung und die privaten Interessen zu ermitteln.
+Diese Interessen sind einzeln zu beurteilen und deren Vereinbarkeit
+
+mit der anzustrebenden räumlichen Entwicklung und den möglichen
+Auswirkungen ist zu berücksichtigen. Die Interessenabwägung ist
+umfassend vorzunehmen und in der Begründung der Planungsent
+scheide darzulegen (Art.3 Abs.1 und 2 RPV). Massstab für die In
+teressenabwägung und beurteilung bilden neben den Planungszielen
+und Grundsätzen auch die kantonalen Vorschriften (BGE 134 II 97,
+Erw.3.1 mit Hinweisen; Urteil des Bundesgerichts vom 16.Juli 2013
+[1C_534/2012], Erw.2.3.2; AGVE 2004, S.143, Erw.7a).
+5.4.
+(…)
+Die Spezialzone Gärtnerei ist gemäss §10 Abs.1 BNO, wie die
+angrenzenden Zonen für öffentliche Bauten (OEB) und für Sport und
+Freizeit (SF), eine Bauzone. Die Liegenschaften befanden sich früher
+in der Landwirtschaftszone und wurden für die Bedürfnisse des Gar
+tenbau und Gärtnereibetriebs der Beschwerdeführerin sukzessive
+überbaut und 1991 bzw. 1993 eingezont. Die historische Entstehung
+ändert nichts daran, dass mit der Einzonung keine landwirtschaft
+liche Spezialzone mehr besteht (vgl. zu landwirtschaftlichen Spezial
+zonen Art.16a Abs.3 RPG und Art.34 bis Art.38 RPV; BERNHARD
+WALDMANN/PETER HÄNNI, Raumplanungsgesetz, Bern 2006,
+Art.16a N30ff.). Für die Spezialzone SG gelten die Planungsgrund
+sätze für das Siedlungsgebiet und die (allgemeinen) Bestimmungen
+für Bauzonen.
+5.5. (…)
+5.6.
+Die angefochtenen Bestimmungen in §21 Abs.1 Satz 2 BNO
+sind mit der Eigentumsfreiheit nur soweit vereinbar, als sie zur
+planerischen Umsetzung der "Ortsbildteile Zäsur" in der Zone SG er
+forderlich und auch verhältnismässig sind (vgl. Erw.5.3.2). In der
+Zone SG sind Bauten wie Treibhäuser, Büros, Werkstätten, Abstell
+räume und betriebsnotwendige Wohnungen zulässig, welche der
+Gärtnerei und dem Gartenbau dienen (§21 Abs.1 Satz 1 BNO). §21
+Abs.2 und 3 BNO regeln die Einpassung der Nutzungen, auch der
+Verkaufsnutzungen bis max.3'000 m2 Nettoladenfläche, ins Ortsbild
+und in die Umgebung. Die zusätzlichen Nutzungsregelungen in §21
+Abs.1 Satz 2 BNO, wonach nur Ersatz für bestehende Verkaufsnut
+
+zungen neu erstellt werden darf, referenziert an die aktuelle, beste
+hende Nutzungsfläche von 2'975 m2; zonenkonform ist eine Netto
+verkaufsfläche von 3'000 m2. Für die Beschränkung der Nettoladen
+fläche auf die bereits bestehende Verkaufsnutzung und die Vorausset
+zung, dass die Verkaufsnutzung nur als "Ersatz neu" erstellt werden
+kann, fehlt daher eine raumplanerische Begründung. Eine Ver
+mischung von Regelungen einer Spezialzone im Landwirtschafts
+gebiet mit den Nutzungsregeln für die Bauzone SG widerspricht den
+planungsrechtlichen Vorgaben an eine Bauzone (WALDMANN/
+HÄNNI, a.a.O., Art.15 N42). Die beiden Einschränkungen werden
+auch dem Planungsgrundsatz in Art.3 Abs.3 lit.d RPG und der
+Verpflichtung, durch Bauvorschriften günstige Voraussetzungen u.a.
+für die Versorgung mit Gütern und Dienstleistungen zu schaffen
+(TSCHANNEN, a.a.O., Art.3 N58 mit Hinweisen), nicht gerecht. Sie
+schränken auch entgegen Art.1 Abs.2 lit.b RPG die wirtschaftli
+chen Entfaltungsmöglichkeiten der Beschwerdeführerin ein.
+Die optische Trennung der Ortsteile D. und E. erfordert die
+beanstandeten Beschränkungen nicht. Mit der zulässigen Bauhöhe
+(eingeschossige Bauten) in §10 Abs.1 BNO und der Rücksicht
+nahme auf das Ortsbild (§21 Abs.3 BNO) ist die Erscheinung der
+Bauten geregelt. Für die "Ortsbildteile Zäsur" hat die beanstandete
+Einschränkung keine Bedeutung.
+Aus den gleichen Gründen und vor allem auch mit Blick auf die
+zonengemässe Nutzung (§21 Abs.1 Satz 1 BNO; "Gärtnerei und
+dem Gartenbau dienende Nutzung") ist ein rechtlicher Gehalt der
+weiteren Einschränkung des "unmittelbaren betrieblichen und bran
+chenmässigen Zusammenhangs" mit dem bestehenden Gärtnerei
+und Gartenbaubetrieb nicht erkennbar. Soweit es darum geht, mit
+dieser Sonderbestimmung die Besitzstandsgarantie zu konkretisieren,
+widerspricht diese Bestimmung dem kantonalen Recht. Die kantona
+len Bestimmungen über die Besitzstandsgarantie (§68 BauG) sind
+im Verhältnis zu den Gemeinden abschliessend (AGVE 2000, S.250,
+Erw.2c mit Hinweisen; 1986, S.243, Erw.3b; 1983, S.174, Erw.3
+mit Hinweisen). Das kantonale Recht erlaubt den Gemeinden eine
+Einschränkung oder ein Verbot der zeitgemässen Erneuerung in
+Schutzzonen (§68 lit.a BauG); die Zone SG ist keine Schutzzone.
+
+Die kommunalen Nutzungsvorschriften können sodann einer zonen
+widrigen Erweiterung, einem Umbau oder einer Zweckänderung
+bestehender, zonenfremder Bauten entgegenstehen. Eine Erweiterung
+der Besitzstandgarantie gemäss §68 BauG durch kommunale Nut
+zungsvorschriften ist generell ausgeschlossen (vgl. dazu VGE IV/52
+vom 26.Mai 2014 [WBE.2011.301], Erw.II/3.5 = AGVE 2014,
+S.172ff.). Soweit die beanstandeten Beschränkungen die Be
+sitzstandsgarantie für bestehende Bauten und Anlagen zu Gunsten
+der Beschwerdeführerin modifizieren wollten, sind sie daher rechts
+widrig.
+Die beanstandeten Beschränkungen der zonenkonformen Nut
+zung lassen sind durch das geltend gemachte öffentliche Interesse
+(Ortsbildteil Zäsur) nicht hinreichend rechtfertigen. Zonenbestim
+mungen dürfen grundsätzlich nicht in dem Sinne statisch sein, dass
+ein planerischer Entscheid die bestehende Bebauung oder Nutzung
+als unveränderbar voraussetzt. Die Nutzungsvorschriften in der Zone
+SG sind deshalb auf die erwünschte Entwicklung und Ordnung der
+Besiedlung auszurichten (Art.75 Abs.1 BV), weshalb sich einander
+gegenüberstehende Interessen oder Konflikte nach Massgabe der
+Planungsziele optimal anzugleichen sind (vgl. zum Ganzen BGE 119
+Ia 362, Erw.5; AGVE 1990, S.130). Eine Planung, welche die
+zonenkonforme Überbauung in einer Arbeitszone auf den beste
+henden Bauzustand zementiert, erfordert daher erhebliche öffentliche
+Interessen, welche hier nicht geltend gemacht werden und auch nicht
+ersichtlich sind. Das von der Vorinstanz angeführte Interesse an
+zusätzlichen Gebieten für eine öffentliche Nutzung ist aufgrund der
+Zonierung in die Zone SG nicht massgebend. Die Ortsbildtrennung
+durch öffentliche Nutzungen des Gebiets F. oder die Rücksichtnahme
+auf solche ist kein massgebendes planungsrechtliches oder öffent
+liches Interesse, da mit der Zuweisung in die Zone SG öffentliche
+Nutzungsinteressen für die Beurteilung der Zonenkonformität
+ausscheiden. Abgesehen davon ist die Unterscheidung mit Bezug auf
+die Ablesbarkeit der "Ortsbildteile Zäsur" zwischen (eingeschossi
+ger) öffentlicher Nutzung und (eingeschossiger) zonengemässer
+gewerblicher Nutzung schwer nachvollziehbar. Die Sicherstellung
+oder Gewährleistung zukünftiger öffentlicher Nutzungen mittels
+
+Nutzungsbeschränkungen in einer Gewerbezone ist schliesslich mit
+Art.26 BV und Art.27 BV nicht vereinbar.
+Damit erweisen sich die Beschränkungen der Nettoladenfläche,
+soweit sie die Nutzung auf die Neuerstellung für Ersatz der alten
+Verkaufsflächen beschränken und einen "unmittelbaren" betriebli
+chen und branchenmässigen Zusammenhang mit dem bestehenden
+Betrieb der Beschwerdeführerin verlangen, als rechtswidrig.
+Aus den gleichen Gründen hält auch die Beschränkung des Ver
+kehrsaufkommens "auf den gleichen Rahmen" einer näheren Prüfung
+nicht stand. Wie bereits erwähnt, sind für die Spezialzone Gärtnerei
+die Bestimmungen über die Bauzonen massgebend (vgl. vorne
+Erw.5.4). Die Liegenschaften der Beschwerdeführerin und auch die
+Parzelle 829 sind unbestrittenermassen erschlossen. Ein planerisch
+relevanter Zusammenhang zwischen der optischen Markierung der
+Ortsteiletrennung und dem aktuellen Verkehrsaufkommen ist nicht
+erkennbar. Einer raumplanerischen Lenkung der Nutzung auf das
+bisherige, in seinem Ausmass unbekannte und unbestimmte Ver
+kehrsaufkommen, stehen zudem rechtliche Hindernisse entgegen.
+Die Nutzungsplanung wurde mit Bezug auf das Verkehrsaufkommen
+in der Gemeinde vorbehaltlos genehmigt. Besondere planerische
+Massnahmen zur Beschränkung des Verkehrsaufkommens im Hin
+blick auf die Kapazität des Strassennetzes sind nicht vorgesehen (vgl.
+dazu §15 Abs.3 BauG; Kapazitätsnachweis, Empfehlungen des
+BVU, vom August 2011). Die Nutzungsplanung der Gemeinde B.
+erfüllt die Anforderungen von §13 Abs.2bis BauG i.V.m. §4 Abs.2
+BauV (Abstimmung der Verkehrserzeugung). Zudem fehlt ein ko
+mmunaler Gesamtplan Verkehr, weshalb die verkehrsmässigen Be
+zugsgrössen nicht beurteilbar sind. Schliesslich ist auch nicht er
+sichtlich, inwiefern die kantonalen Vorgaben an die Baureife, ins
+besondere Art.32 Abs.2 BauG i.V.m. §46 BauV, als Beschränkung
+bzw. verkehrsbedingte Bausperre der überlasteten Kantonsstrasse
+(…) nicht ausreichen. Damit erweist sich auch die Beschränkung der
+Nettoverkaufsfläche mit Bezug auf das bisherige Verkehrsauf
+kommen als unrechtmässig.
+6.
+6.1. (…)
+
+6.2.
+Die Aufzählung der nach kantonalem Recht zulässigen Bauzo
+nen in §15 Abs.2 BauG ist nicht abschliessend (vgl. dazu auch
+Musterbau und Nutzungsordnung [M BNO], Empfehlung des BVU,
+Abteilung Raumentwicklung, Stand März 2014, S.12ff.). Für die
+Gewerbe oder Arbeitszonen (vgl. Richtplan 2011, Kap. S 1.2) kann
+die Wohnnutzung ausgeschlossen werden. Die Festlegung der zonen
+spezifischen Nutzungen fällt in die Zuständigkeit der Gemeinden
+(vgl. vorne Erw.5.3.1). Der Umstand, dass in der Spezialzone SG
+nur betriebsnotwendige Wohnungen zugelassen sind, ist daher nicht
+zu beanstanden (vgl. AGVE 1999, S.250ff., insbesondere Erw.5;
+WALDMANN/HÄNNI, a.a.O., Art.18 N8 und Art.22 N36). Die glei
+che Einschränkung bezüglich Wohnen gilt im Übrigen auch für die
+Gewerbezone (G), welche nach der BNO die einzige alternative Ar
+beitszone wäre (§16 Abs.1 BNO).
+Diese Beschränkung der Wohnnutzung besteht, weil die Grund
+stücke der Beschwerdeführerin zusammen mit der Parzelle 829 der
+Spezialzone SG zugewiesen sind, die der gewerblichen Nutzung
+vorbehalten ist. Mit dieser Zonierung des Betriebs der Beschwerde
+führerin wurde die "Ortsbildteile Zäsur" umgesetzt. Diese Zielset
+zung wäre bei einer Ausdehnung des Zonenzwecks auf eine Wohn
+nutzung insofern beeinträchtigt, als kein eindeutiger Unterschied zu
+den gemischten Zonen mehr bestünde.
+Die Gemeinden sind nicht verpflichtet, in der Nutzungsplanung
+gemischte Zonen auszuscheiden. Der Umstand, dass die Wohnnut
+zung auf der Parzelle 829 besitzstandsgeschützt ist, vermag keine
+Änderung des Zonenzweckes zu begründen; die Beschränkung ist in
+einer Arbeitszone auch nicht unverhältnismässig. Damit erweisen
+sich dieser Antrag der Beschwerdeführerin und der Eventualantrag
+als unbegründet.
+
+27 Zuschlagskriterien; Preisgewichtung, Qualität
+Grundsätze zur Preisgewichtung; eine Gewichtung des Preises mit
+22% für eine durchschnittlich komplexe Beschaffung ist zu tief
+(Erw.3.2 und 3.3).
+Unzulässige Besserbewertung von Angeboten, die lokale Subunter
+nehmer berücksichtigen, beim Zuschlagskriterium "Qualität"
+(Erw.4.3.).
+Urteil des Verwaltungsgerichts, 3.Kammer, vom 11.Juni 2015 in Sachen A.
+AG gegen Einwohnergemeinde B. (WBE.2015.70).
+Aus den Erwägungen
+3.2.
+Dem Zuschlagskriterium "Preis" kommt zwar nicht grundsätz
+lich ein höheres Gewicht zu als den übrigen Kriterien (PETER
+GALLI/ANDRÉ MOSER/ELISABETH LANG/MARC STEINER, Praxis des
+öffentlichen Beschaffungsrechts, 3.Auflage, Zürich/Basel/Genf
+2013, Rz.879). Nach der Rechtsprechung des Bundesgerichts darf
+die Gewichtung des Preises allerdings auch bei komplexen
+Beschaffungen 20% nicht unterschreiten, ansonsten der Grundsatz,
+dass das wirtschaftlich günstigste Angebot den Zuschlag erhalten
+soll, seines Gehalts entleert werde (BGE129 II 313ff., 327). Das
+Verwaltungsgericht des Kantons Graubünden hat in einem Urteil
+vom 14.März 2014 festgehalten, dem Preis komme bei der Mehrzahl
+der öffentlichen Arbeitsvergaben "in markanter Weise das Haupt
+gewicht zu". Es könne dabei als allgemeine Faustregel gesagt
+werden, dass dem Preis umso höheres Gewicht zuzuerkennen sei, je
+einfacher der Schwierigkeitsgrad der Auftragserfüllung sei. Bei
+Aufgaben mittlerer Komplexität solle die Gewichtung des Preises in
