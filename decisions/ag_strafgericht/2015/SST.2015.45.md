@@ -1,0 +1,117 @@
+---
+decision_id: "ag_strafgericht_SST.2015.45"
+court: "AG Strafgericht"
+court_id: "ag_strafgericht"
+chamber: "Berufungskammern"
+docket: "SST.2015.45"
+decided: "2015-08-13"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2604"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2604"
+cites_decisions: ["1P.548/2002", "6B_1021/2013", "BGE 138 IV 169"]
+cites_law: ["switzerland/bund/acts/312.0/art-122.md", "switzerland/bund/acts/312.0/art-141.md", "switzerland/bund/acts/312.0/art-317.md"]
+---
+
+# Obergericht / Strafgericht / Berufungskammern — SST.2015.45
+
+## Regeste
+
+Art. 141 Abs. 4 StPO 
+Eine Fernwirkung gemäss Art. 141 Abs. 4 StPO ist zu verneinen, wenn der Folgebeweis im Sinne eines hypothetischen Ermittlungsverlaufs zumindest mit einer grossen Wahrscheinlichkeit auch ohne den illegalen ersten Beweis erlangt worden wäre.
+
+## Text
+
+1 Art.141 Abs. 4 StPO
+Eine Fernwirkung gemäss Art. 141 Abs. 4 StPO ist zu verneinen, wenn
+der Folgebeweis im Sinne eines hypothetischen Ermittlungsverlaufs zu
+mindest mit einer grossen Wahrscheinlichkeit auch ohne den illegalen
+ersten Beweis erlangt worden wäre.
+Aus dem Entscheid des Obergerichts, 1.Strafkammer, vom 13. August
+2015 i.S. Staatsanwaltschaft Baden gegen M.L. (SST.2015.45).
+Aus den Erwägungen
+2.9.1.
+Betroffen vom Verwertungsverbot sind nicht die überwachten
+Gespräche bzw. Gesprächsprotokolle an sich, sondern lediglich die
+damit zusammenhängenden Übersetzungen, die von der AGK Num
+mer 33 erstellt worden sind. Es wäre dem Obergericht unbenommen,
+die betroffenen Gespräche nochmals übersetzen zu lassen und die
+neu übersetzten Gespräche zu verwerten (vgl. Urteil des Bundesge
+richts 1P.548/2002 vom 13. Februar 2003 E. 4.3). Davon kann vorlie
+gend aber abgesehen werden, da es auf diese Übersetzungen nicht
+massgebend ankommt bzw. die vom Beschuldigten behauptete Fern
+wirkung ohnehin nicht derart weitreichende Folgen zeitigt.
+Bei der Frage nach der Fernwirkung von Beweisverwertungs
+verboten gilt es, einen angemessenen Ausgleich zwischen den di
+vergierenden Interessen zu erzielen. Während für eine Fernwirkung
+von Beweisverwertungsverboten spricht, dass andernfalls die Regeln
+über die Beweiserhebung unterminiert würden, können indirekte
+Beweisverbote auf der anderen Seite der Ermittlung der materiellen
+Wahrheit hinderlich sein. Im Gegensatz zur früheren Praxis wollte
+der Gesetzgeber in Art. 141 Abs. 4 StPO zwar eine sehr weitgehende,
+
+nicht jedoch eine absolute Fernwirkung verankern. Würde ein
+Verwertungsverbot von Folgebeweisen immer angenommen, wenn
+nicht sicher bzw. mit an Sicherheit grenzender Wahrscheinlichkeit
+feststeht, dass der zweite Beweis nicht auch ohne den ersten, ille
+galen Beweis erlangt worden wäre, käme es gerade nicht zu einem
+"Ausgleich zwischen den divergierenden Interessen". Dies ent
+spräche nicht dem mit Art. 141 Abs. 4 StPO anvisierten Mittelweg,
+sondern käme einer strikten Bejahung der Fernwirkung gleich. Steht
+sicher fest, dass der erste Beweis keinen Einfluss auf die Erlangung
+des zweiten Beweises hatte, sondern Letzterer auch ohne bzw.
+unabhängig vom Ersteren erhoben worden wäre, besteht grund
+sätzlich kein Grund für eine Unverwertbarkeit des zweiten Beweises,
+da der illegale Beweis nicht kausal für den zweiten Beweis war und
+demnach nicht von einer Fernwirkung gesprochen werden kann
+(BGE 138 IV 169 E. 3.3.2 mit Hinweisen).
+Eine Fernwirkung gemäss Art. 141 Abs. 4 StPO ist demnach zu
+verneinen, wenn der Folgebeweis im Sinne eines hypothetischen Er
+mittlungsverlaufs zumindest mit einer grossen Wahrscheinlichkeit
+auch ohne den illegalen ersten Beweis erlangt worden wäre.
+Entscheidend sind die konkreten Umstände des Einzelfalls (Urteil
+des Bundesgerichts 6B_1021/2013 vom 29. September 2014 E. 2.3.2
+mit Hinweisen).
+2.9.2.
+[...]
+2.9.3.
+Die Kantonspolizei hat den Beschuldigten in 19 delegierten
+Einvernahmen ausführlich zum Marihuana Handel befragt und mit
+weiteren Beweismitteln (u.a. Whatsapp Chat zwischen Beschuldig
+tem und H.R.) konfrontiert. Auch ohne die nicht verwertbaren
+Telefonprotokolle hätte sie den Sachverhalt in alle Richtungen hin
+ausgeleuchtet, so dass der geständige Beschuldigte mit grösster
+Wahrscheinlichkeit ohnehin auf das geplatzte Geschäft zu sprechen
+gekommen wäre. Ohnehin hat der Beschuldigte sodann anlässlich
+der Konfrontationseinvernahme vom 21. Januar 2014 den ihm
+vorgeworfenen Sachverhalt in eigenen Worten bestätigt. Auch anläss
+lich der Schlusseinvernahme legte der Beschuldigte nochmals ein
+
+Geständnis ab: Nachdem die Staatsanwaltschaft die bisherigen Aus
+sagen des Beschuldigten bzw. die ihm vorgeworfenen Sachverhalte
+zunächst gesamthaft zusammenfasste (siehe vorne), bestätigte der
+Beschuldigte die Korrektheit dieser Zusammenfassung. Die in
+Art.317 StPO gesetzlich vorgesehene Schlusseinvernahme wäre
+auch durchgeführt worden, wenn die vom Beschuldigten bemängel
+ten Beweise nicht erhoben worden wären. Es trifft nicht zu, dass das
+Geständnis an der Schlusseinvernahme auf früheren, angeblich
+rechtswidrig erlangten Beweisen (delegierte Einvernahmen, Kon
+frontationseinvernahme und Telefonüberwachung) basiert – vielmehr
+hat es eigenständigen Charakter.
+Selbst ohne die vom Beschuldigten zu Recht bemängelten über
+setzten Gesprächsüberwachungen hätte der stets geständige Beschul
+digte unter dem Druck der Aussagen von A. A. sowie der verwertba
+ren (nicht übersetzten) Gesprächsüberwachungen mit grösster Wahr
+scheinlichkeit den ihm in der Anklage vorgeworfenen Sachverhalt
+anlässlich der Schlusseinvernahme vom 21. Februar 2014 sowie an
+lässlich der vorinstanzlichen Hauptverhandlung vom 2. Juli 2014
+eingestanden. Darauf deuten im Übrigen auch seine Ausführungen
+im Rahmen der Strafzumessung hin, wonach er "bereits ab der ersten
+delegierten Einvernahme" begonnen habe, ein Geständnis abzulegen.
+2 Art. 122 StPO
+Vertragliche Ansprüche fallen nicht unter Art. 122 StPO.
+Aus dem Entscheid des Obergerichts, 1. Strafkammer, vom 12.November
+2015, i.S. Staatsanwaltschaft Muri Bremgarten gegen M.J. (SST.2015.156).
+Aus den Erwägungen
+5.2
+5.2.1.
