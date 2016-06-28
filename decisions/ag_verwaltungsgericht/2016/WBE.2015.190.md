@@ -1,0 +1,337 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2015.190"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2015.190"
+decided: "2016-06-28"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2565"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2565"
+cites_decisions: ["BGE 138 II 346", "BGE 140 I 2", "BGE 140 II 495"]
+cites_law: ["switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/235.1/art-019.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2015.190
+
+## Regeste
+
+Zugang zu amtlichen Dokumenten 
+§ 5 IDAG stellt in Fällen, in denen um Zugang zu amtlichen Dokumenten mit nicht anonymisierbaren Personendaten Dritter ersucht wird, keine gesetzliche Grundlage im Sinne von § 15 Abs. 1 lit. a IDAG da.
+
+## Text
+
+49 Zugang zu amtlichen Dokumenten
+§5 IDAG stellt in Fällen, in denen um Zugang zu amtlichen Dokumenten
+mit nicht anonymisierbaren Personendaten Dritter ersucht wird, keine
+gesetzliche Grundlage im Sinne von §15 Abs.1 lit.a IDAG da.
+Aus dem Entscheid des Verwaltungsgerichts, 3. Kammer, vom 28.Juni
+2016 in Sachen Beauftragte für Öffentlichkeit und Datenschutz gegen Regie
+rungsrat (WBE.2015.190).
+Aus den Erwägungen
+1.
+1.1.
+Das dem Verfahren zugrundeliegende Einsichtsgesuch stützt
+sich auf §5 IDAG. Demnach hat jede Person Zugang zu amtlichen
+Dokumenten, unabhängig davon, welche Interessen sie mit diesem
+Zugang verfolgt.
+Ein amtliches Dokument liegt vor, wenn ein öffentliches Organ
+Verfügungsmacht über das Dokument hat, sich das Dokument auf die
+Erfüllung öffentlicher Aufgaben bezieht und sich die Informationen
+auf einem beliebigen Informationsträger befinden (§3 Abs.1 lit.a
+IDAG).
+1.2.
+Der Gesuchsteller beantragte vorliegend Einsicht in den zwi
+schen dem KSD und der Vermieterschaft geschlossenen Mietvertrag.
+Dieser Mietvertrag für eine als Asylunterkunft genutzte Liegenschaft
+bezieht sich auf die Erfüllung öffentlicher Aufgaben und befindet
+sich bei der kantonalen Verwaltung als Mieterin. Der Vertrag stellt
+somit ein amtliches Dokument dar und untersteht grundsätzlich dem
+Öffentlichkeitsprinzip.
+
+1.3. (…)
+1.4.
+Abgesehen von der allgemeinen Regelung der Zugangs
+beschränkung enthält §6 Abs.1 IDAG für amtliche Dokumente mit
+Personendaten Dritter die Spezialregelung, wonach diese
+Personendaten auszusondern oder zu anonymisieren sind.
+Personendaten sind nach §3 Abs.1 lit.d IDAG alle Daten, die sich
+auf eine bestimmte oder bestimmbare Person beziehen. Eine
+Anonymisierung liegt erst vor, wenn die betroffene Person vernünf
+tigerweise nicht identifizierbar ist (JENNIFER EHRENSPERGER, in:
+URS MAURER LAMBROU/GABOR P. BLECHTA [Hrsg.], Basler Kom
+mentar zum Datenschutzgesetz/Öffentlichkeitsgesetz, 3.Aufl., Basel
+2014, Art.19 N35 DSG). Ist dies nicht oder nur mit
+unverhältnismässigem Aufwand möglich, ist für den Zugang zu den
+Dokumenten §15 IDAG zu beachten. Demnach geben öffentliche
+Organe Privaten Personendaten nur bekannt, wenn
+a) sie dazu gesetzlich verpflichtet sind, oder
+b) die Bekanntgabe nötig ist, um eine gesetzliche Aufgabe
+erfüllen zu können, oder
+c) die um Auskunft ersuchende Person glaubhaft macht, dass
+sie ohne die Bekanntgabe an der Durchsetzung von
+Rechtsansprüchen gehindert wird, oder
+d) die betroffene Person eingewilligt hat.
+Ausserdem sind Personendaten weder zu anonymisieren bzw.
+auszusondern noch ist der Zugang zu beschränken, wenn der Be
+troffene selber die Daten öffentlich zugänglich gemacht hat bzw.
+wenn der öffentliche Zugang offensichtlich im Interesse des
+Betroffenen liegt (§6 Abs.3 IDAG).
+1.5.
+Der vorliegend zur Diskussion stehende Mietvertrag enthält
+Personendaten im Sinn von §6 IDAG, da sich der Vertragsinhalt
+auch auf die Vermieterschaft bezieht. Zwar lassen sich im Vertrag
+Name und Adresse der Vermieterschaft schwärzen. Aufgrund der
+Öffentlichkeit des Grundbuchs einerseits sowie der bereits breit er
+folgten öffentlichen Berichterstattung andererseits ist aber der Name
+der Vermieterschaft kein Geheimnis mehr bzw. lässt sich in jedem
+
+Fall leicht eruieren. Sämtliche übrigen Personendaten im Vertrag las
+sen sich demzufolge, auch bei Schwärzung der Personalien, ohne
+weiteres direkt der Vermieterschaft zuordnen. Während also die Ano
+nymisierung in Bezug auf Name und Adresse nichts bringt, würde
+die Schwärzung der übrigen Daten, insbesondere der detaillierten
+Mietkonditionen, keinen Sinn ergeben, weil gerade diese Angaben
+die Öffentlichkeit und insbesondere den Gesuchsteller interessieren.
+Damit liegt ein Dokument mit nicht anonymisierbaren Personendaten
+vor.
+2.
+Zu klären ist vorliegend die Frage, ob gestützt auf §6 Abs.2 in
+Verbindung mit §15 IDAG der Mietvertrag als amtliches Dokument
+mit darin enthaltenen, nicht anonymisierbaren Personendaten öffent
+lich zugänglich zu machen ist.
+2.1.
+2.1.1.
+Der Kanton Aargau regelt in einem einzigen Gesetz sowohl das
+Öffentlichkeitsprinzip (§§4–7 IDAG) wie auch den Datenschutz
+(§§8–29 IDAG) und das Archivwesen (§§43–48 IDAG), mit allge
+meinen Bestimmungen für alle drei Bereiche (§§1–3 IDAG) und ge
+meinsamen Bestimmungen für Öffentlichkeitsprinzip und Daten
+schutz (§§30–42 IDAG). Die gemeinsamen Bestimmungen betreffen
+dabei die beauftragte Person für Öffentlichkeit und Datenschutz so
+wie das Verfahren zur Überprüfung und Durchsetzung der sich aus
+dem Gesetz ergebenden Ansprüche.
+Während sich Einsichtsgesuche allgemein auf §5 IDAG abstüt
+zen können, gelangt, sofern im Dokument Personendaten enthalten
+sind, §6 IDAG zur Anwendung. Demnach sind die Personendaten zu
+anonymisieren. Falls dies nicht möglich ist, wird auf §15 IDAG und
+andere Erlasse verwiesen, welche den Zugang in solchen Fällen re
+geln.
+Spezialgesetzliche Bestimmungen, welche einen Zugang zum
+nicht anonymisierbaren Mietvertrag vorsehen, sind nicht ersichtlich.
+2.1.2.
+Die Voraussetzungen nach §15 Abs.1 lit.c IDAG (Bekannt
+gabe erforderlich zur Durchsetzung von Rechtsansprüchen) sowie
+
+lit.d (Einwilligung der betroffenen Person) sind nicht erfüllt. Auch
+§15 Abs.1 lit.b IDAG (Notwendigkeit der Bekanntgabe zur Erfül
+lung einer gesetzlichen Aufgabe) ist nicht anwendbar. Diese Bestim
+mung entspricht derjenigen von Art.19 Abs.1 lit.a des Bundesgeset
+zes über den Datenschutz vom 19.Juni 1992 (DSG; SR235.1), wo
+bei die Formulierung dort etwas präziser lautet: "[…] die Daten für
+den Empfänger im Einzelfall zur Erfüllung seiner gesetzlichen Auf
+gabe unentbehrlich sind".
+Somit stellt sich die Frage, ob die Voraussetzungen nach §15
+Abs.1 lit.a IDAG (gesetzliche Verpflichtung zur Bekanntgabe)
+gegeben sind.
+2.2.
+2.2.1.
+Ausgangspunkt der Auslegung eines Gesetzes bildet der Wort
+laut der Bestimmung (grammatikalisches Element). Ist der Wortlaut
+klar, d.h. eindeutig und unmissverständlich, darf davon nur abgewi
+chen werden, wenn ein triftiger Grund für die Annahme besteht, der
+Wortlaut ziele am "wahren Sinn" der Regelung vorbei. Anlass für
+eine solche Annahme können die Entstehungsgeschichte der Bestim
+mung (historisch), ihr Zweck (teleologisch) oder der Zusammenhang
+mit andern Vorschriften (systematisch) geben. Ist der Text unklar
+bzw. nicht restlos klar und bleiben verschiedene Interpretationen
+möglich, muss nach der wahren Tragweite der Bestimmung gesucht
+werden. Dabei sind alle anerkannten Auslegungselemente zu berück
+sichtigen (Methodenpluralismus). Von Bedeutung sind insbesondere
+der Zweck der Regelung, die dem Text zugrunde liegenden Wertun
+gen sowie der Sinnzusammenhang, in dem die Norm steht. Bleiben
+bei nicht klarem Wortlaut letztlich mehrere Auslegungen möglich, ist
+jene zu wählen, die der Verfassung am besten entspricht. Auch eine
+verfassungskonforme Auslegung findet ihre Grenzen aber am klaren
+Wortlaut und Sinn einer Gesetzesbestimmung (BGE 140 II 495,
+Erw.2.3 mit Hinweisen).
+2.2.1.1.
+Allein gestützt auf den Wortlaut lässt sich die vorliegende Frage
+nicht beantworten. Von wesentlicher Bedeutung ist demgegenüber im
+konkreten Fall das Zusammenspiel der §§5, 6 und 15 IDAG.
+
+Systematisch enthält §5 IDAG den Grundsatz der Öffentlichkeit
+amtlicher Dokumente, wobei zur Beantwortung der Frage, ob Zu
+gangsbeschränkungen nötig sind, regelmässig eine Interessenabwä
+gung vorzunehmen ist (§5 Abs.3 IDAG). §6 IDAG enthält die
+spezielle Regelung, sofern die Dokumente Personendaten enthalten.
+In diesen Fällen ist grundsätzlich eine Aussonderung oder
+Anonymisierung der Dokumente vorzunehmen. Ist dies nicht mög
+lich, besteht kein Zugangsrecht (Ausschluss der Öffentlichkeit), es
+sei denn, der Zugang sei gestützt auf §15 IDAG zu gewähren.
+Aus systematischer Sicht erschiene es unlogisch, wenn auch das
+in §5 Abs.1 IDAG verankerte Öffentlichkeitsprinzip als gesetzliche
+Grundlage im Sinne von §15 Abs.1 lit.a IDAG zu verstehen wäre.
+Die spezielle Regelung in §6 IDAG würde dadurch insoweit obsolet,
+als alle amtlichen Dokumente mit nicht anonymisierbaren Personen
+daten mit dem "Umweg" über §6 Abs.2 in Verbindung mit §15
+Abs.1 lit.a und §5 Abs.1 IDAG doch wieder zugänglich würden
+(unter Vorbehalt der allgemeinen Zugangsbeschränkung nach § 5
+Abs.3 IDAG). Diese Lösung hätte, falls sie tatsächlich so gewollt
+wäre, gesetzestechnisch deutlich einfacher geregelt werden können.
+Entsprechend lässt sich aufgrund der Systematik darauf schliessen,
+dass in §15 Abs.1 IDAG lediglich spezialgesetzliche Regelungen
+ausserhalb des IDAG selber gemeint sind. Dies gilt umso mehr, als
+andernfalls die Dokumente mit anonymisierbaren Personendaten
+restriktiver gehandhabt würden als diejenigen mit nicht
+anonymisierbaren Personendaten.
+2.2.1.2.
+Gemäss Botschaft hat das IDAG den Zweck, einerseits die
+Transparenz der Verwaltung zu fördern, andererseits aber auch Per
+sönlichkeit und Privatsphäre der Bürgerinnen und Bürger zu
+schützen und in diesem Zusammenhang den Missbrauch von Perso
+nendaten zu verhindern (Botschaft des Regierungsrats des Kantons
+Aargau an den Grossen Rat vom 6. Juli 2005, 05.180, S.24). Zwar
+statuiert das Öffentlichkeitsprinzip ein allgemeines und jederzeitiges
+Zugangsrecht zu amtlichen Dokumenten, für bestimmte Fälle sind je
+doch Einschränkungen vorgesehen (Botschaft des Regierungsrats des
+Kantons Aargau an den Grossen Rat vom 6.Juli 2005, 05.180,
+
+S.30). In Bezug auf Personendaten wird zu §6 IDAG in der Bot
+schaft ausgeführt, es sei hinsichtlich der Einschränkungen das
+Verhältnismässigkeitsprinzip zu beachten. Vorenthalten werden dürfe
+nur, was zur Wahrung überwiegender öffentlicher oder privater Inte
+ressen unbedingt notwendig sei. Unter Umständen sei den betroffe
+nen Interessen mit Auflagen, Bedingungen oder Fristen Rechnung zu
+tragen oder je nachdem nur ein Teil der Akten zugänglich zu machen
+(Botschaft des Regierungsrats des Kantons Aargau an den Grossen
+Rat vom 6.Juli 2005, 05.180, S.31). Zu §15 IDAG wird allerdings
+ausgeführt, Privaten würden grundsätzlich keine Personendaten be
+kannt gegeben, weshalb ihnen konsequenterweise auch im Rahmen
+des Öffentlichkeitsprinzips keine Einsicht in amtliche Dokumente zu
+gewähren sei, wenn diese nicht anonymisierbare Personendaten ent
+halten (Botschaft des Regierungsrats des Kantons Aargau an den
+Grossen Rat vom 6.Juli 2005, 05.180, S.39).
+Die Ausführungen in der Botschaft zu §6 IDAG einerseits und
+§15 IDAG widersprechen sich zwar teilweise. Die zitierte Aussage
+zu §15 IDAG betrifft allerdings genau die vorliegend zu beurtei
+lende Frage, weshalb ihr im Rahmen der Auslegung nach dem Willen
+des Gesetzgebers ein erhöhtes Gewicht beizumessen ist.
+2.2.1.3.
+Sinn und Zweck des IDAG liegen zur Hauptsache darin, die
+Interessen des Anspruchs auf umfassenden Zugang zu amtlichen Do
+kumenten einerseits und auf umfassenden Schutz der die
+Privatsphäre betreffenden Personendaten andererseits aufeinander
+abzustimmen. Zur Auflösung des dadurch entstehenden Zielkonflikts
+enthält das IDAG in §6 Abs.2 eine Kollisionsnorm, wonach bei
+amtlichen Dokumenten mit nicht anonymisierbaren Personendaten
+Dritter ein grundsätzlicher Vorrang zugunsten des Datenschutzes be
+steht. Auch wenn bei Einführung des IDAG von einem richtungswei
+senden Wechsel vom Geheimhaltungsprinzip mit Öffentlichkeitsvor
+behalt hin zum Öffentlichkeitsprinzip mit Geheimhaltungsvorbehalt
+die Rede war (Botschaft des Regierungsrats des Kantons Aargau an
+den Grossen Rat vom 6.Juli 2005, 05.180, S.5) und mit diesem
+Richtungswechsel dem Öffentlichkeitsprinzip ein hoher Stellenwert
+eingeräumt wurde, kann somit nicht auf einen höheren Stellenwert
+
+des Öffentlichkeitsprinzips im Vergleich zum Datenschutz geschlos
+sen werden.
+2.2.1.4.
+Gemäss Art.13 Abs.2 BV hat jede Person Anspruch auf Schutz
+vor Missbrauch ihrer persönlichen Daten. Gemäss Rechtsprechung
+beinhaltet das verfassungsmässig geschützte Recht auf informatio
+nelle Selbstbestimmung, dass grundsätzlich ohne Rücksicht darauf,
+wie sensibel die fraglichen Informationen tatsächlich sind, dem
+Einzelnen die Herrschaft über seine personenbezogenen Daten zu
+steht (BGE 138 II 346, Erw.8.2). Demnach muss jede Person gegen
+über fremder, staatlicher oder privater Bearbeitung und Speicherung
+von sie betreffenden Informationen bestimmen können, ob und zu
+welchem Zwecke diese Informationen über sie bearbeitet und gespei
+chert werden (BGE 140 I 2, Erw.9.1). Der sachliche Anwendungsbe
+reich von Art.13 Abs.2 BV setzt somit voraus, dass Personendaten
+bearbeitet werden. Als persönlich gelten alle Daten, die sich auf die
+betroffene Person beziehen, also etwa auch Informationen über die
+wirtschaftlichen Verhältnisse (EVA MARIA BELSER, in: EVA MARIA
+BELSER/ASTRID EPINEY/BERNHARD WALDMANN, Datenschutz,
+Grundlagen und öffentliches Recht, Bern 2011, §6 N31). Bearbeiten
+stellt jeden Umgang mit personenbezogenen Angaben dar, insbeson
+dere auch die Weitergabe (BELSER, a.a.O., §6 N95). Somit fällt die
+Offenlegung des nicht anonymisierbaren Mietvertrags in den sachli
+chen Anwendungsbereich des Grundrechts auf informationelle
+Selbstbestimmung. Im Gegensatz etwa zum Kanton Bern, wo ein
+Grundrecht auf Zugang zu amtlichen Dokumenten statuiert ist (vgl.
+Art.17 Abs.3 der Verfassung des Kantons Bern vom 6. Juni 1993
+[KV; BSG 101.1]), stellt der Zugang zu amtlichen Dokumenten im
+Kanton Aargau lediglich ein Prinzip dar, auf das kein
+verfassungsmässiger Anspruch besteht (vgl. die Einordnung von § 72
+KV ausserhalb des Grundrechtskatalogs sowie Botschaft des Regie
+rungsrats des Kantons Aargau an den Grossen Rat vom 6.Juli 2005,
+05.180, S.23), wohingegen sich das Recht auf informationelle
+Selbstbestimmung unter anderem aus internationalen Konventionen
+(Internationaler Pakt über bürgerliche und politische Rechte vom
+16.Dezember 1966 [SR0.103.2] und EMRK) sowie der BV ergibt.
+
+Deshalb ist gestützt auf eine verfassungskonforme Auslegung für
+einen Eingriff in das Grundrecht auf informationelle Selbstbestim
+mung eine klare gesetzliche Grundlage erforderlich. Eine solche ist
+indessen im vorliegenden Kontext nicht erkennbar.
+2.2.1.5.
+Zusammenfassend ist festzuhalten, dass alle Auslegungs
+elemente den Schluss nahe legen, dass in Fällen, in denen um Zu
+gang zu amtlichen Dokumenten ersucht wird, die nicht anonymisier
+bare Personendaten Dritter enthalten, §5 IDAG keine gesetzliche
+Grundlage im Sinne von §15 Abs.1 lit.a IDAG darstellt. Auch
+wenn sich Gesuche um Zugang zu amtlichen Dokumenten in vielen
+Fällen auf Dokumente beziehen, die nicht anonymisierbare
+Personendaten enthalten, sind aufgrund des IDAG in der geltenden
+Fassung solche Gesuche abzuweisen. Sollte es dem Willen des
+Gesetzgebers entsprechen, dass auch nicht anonymisierbare Doku
+mente zugänglich zu machen sind, so hätte er dies – beispielsweise
+wie der Bundesgesetzgeber mit Art.19 Abs.1bis DSG – entsprechend
+zu legiferieren.
+(…)
+2.2.2.
+Vorliegend wäre für einen Anspruch auf Zugang zu amtlichen
+Dokumenten mit nicht anonymisierbaren Personendaten Dritter eine
+gesetzliche Grundlage Voraussetzung. Da eine solche jedoch nicht
+vorhanden ist, stellt sich zusätzlich die Frage, ob der Mietvertrag auf
+grund des Verhältnismässigkeitsprinzips teilweise zugänglich ge
+macht werden soll. Ein solches Vorgehen ergibt jedoch keinen Sinn,
+da Leistung und Gegenleistung in einem Austauschverhältnis
+zueinander stehen, weshalb es wenig aussagekräftig wäre, nur ein
+zelne Verpflichtungen – beispielsweise ausschliesslich den Mietzins
+– offen zu legen. Nachdem somit auch eine teilweise Zugänglichma
+chung nicht zielführend ist, ist die Beschwerde vollumfänglich abzu
+weisen.
+
+50 Betreuungsgesetz; ausländisches Pflegekind
+§27 Abs.2 des Betreuungsgesetzes (Elternbeiträge an stationäre
+Sonderschulen und Einrichtungen) ist auf Pflegeeltern nicht anwend
+bar.
+Keine Verfügungskompetenz bezüglich der Verpflichtung der Pflege
+eltern, für den Unterhalt eines ausländischen Pflegekindes in der
+Schweiz aufzukommen; im Falle einer Fremdplatzierung als Kindes
+schutzmassnahme ist der Kostenersatzanspruch des Gemeinwesens
+auf dem Weg der verwaltungsrechtlichen Klage geltend zu machen.
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 3.November 2016 in
+Sachen A. und B. gegen Stadt C. und Regierungsrat (WBE.2016.243).
+Aus den Erwägungen
+1.
+Gemäss §27 Abs.2 des Gesetzes über die Einrichtungen für
+Menschen mit besonderen Betreuungsbedürfnissen vom 2.Mai 2006
+(Betreuungsgesetz; SAR428.500) leisten die Eltern den stationären
+Einrichtungen gemäss §2 Abs.1 lit.b und c für den Aufenthalt ihrer
+Kinder eine vom Regierungsrat auf maximal Fr.30.00 pro Kind und
+Nacht festgesetzte Pauschale, wobei der Regierungsrat diesen Eltern
+beitrag auf Fr.25.00 pro Übernachtung festsetzte (§54 Abs.1 der
+Verordnung über die Einrichtungen für Menschen mit besonderen
+Betreuungsbedürfnissen vom 8.November 2006 [Betreuungsverord
+nung; SAR428.511]). Dabei haben alle Eltern von Kindern, Jugend
+lichen und jungen Erwachsenen im Rahmen ihrer Unterhaltspflicht
+einen Beitrag an den Aufenthalt einer Einrichtung zu leisten (vgl.
+Botschaft des Regierungsrats des Kantons Aargau an den Grossen
+Rat vom 28.September2005, GR.05.256, S.54f.). Die Wohnsitz
+gemeinden bevorschussen den Einrichtungen die Elternbeiträge und
+beziehen diese von den Eltern (§27 Abs.3 i.V.m. §25 Abs.2
+Betreuungsgesetz).
