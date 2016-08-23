@@ -1,0 +1,450 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2015.131"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2015.131"
+decided: "2016-08-23"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2544"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2544"
+cites_decisions: ["1A.104/2001", "1A.331/2000", "BGE 140 II 262", "VB.2002.00255"]
+cites_law: ["switzerland/bund/acts/101/art-076.md", "switzerland/bund/acts/721.80/art-003.md", "switzerland/bund/acts/721.80/art-023.md", "switzerland/bund/acts/721.80/art-043.md", "switzerland/bund/acts/721.80/art-061.md", "switzerland/bund/acts/721.80/art-062.md", "switzerland/bund/acts/814.01/art-007.md", "switzerland/bund/acts/814.01/art-010b.md", "switzerland/bund/acts/814.01/art-010c.md", "switzerland/bund/acts/814.011/art-001.md", "switzerland/bund/acts/814.011/art-003.md", "switzerland/bund/acts/814.011/art-009.md", "switzerland/bund/acts/814.011/art-012.md", "switzerland/bund/acts/923.0/art-009.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2015.131
+
+## Regeste
+
+Wassernutzung: Konzession und Projektgenehmigung 
+- Je separate Zuständigkeit der beteiligten Kantone zur Konzessionierung und Bewilligung von Wasserkraftwerken bei interkantonaler Gewässernutzung 
+- Das aargauische Recht sieht für Wasserkraftwerke grundsätzlich ein einstufiges Konzessions-und Projektgenehmigungsverfahren vor, in welchem die Umweltverträglichkeitsprüfung und die Koordination erfolgen. 
+- Massnahmen zum Fischschutz (d.h. für Fischauf-und -abstieg), welche sich auf gesicherte wissenschaftliche Erkenntnisse abstützen und technisch machbar sind, sind notwendiger Bestandteil der Projektgenehmigung; es besteht keine Pflicht, Massnahmen, deren Eignung und Realisierbarkeit aufgrund des aktuellen Forschungsstandes nicht nachgewiesen sind, im Umweltverträglichkeitsbericht zu prüfen; in Bereichen, wo Forschungsbedarf besteht und in den nächsten Jahren mit Ergebnissen und verbesserten Lösungen zu rechnen ist, sind Vorbehalte in der Konzession zu prüfen.
+
+## Text
+
+Privilegierung für terrassierte Bauten kenne das kantonale Recht nur
+bezüglich Gebäudehöhe, Firsthöhe und Geschosszahl in dem Sinne,
+dass diese für jeden Gebäudeteil einzeln gemessen würden (§12
+Abs.3 ABauV), nicht aber bezüglich Gebäudelänge (VGE III/74
+vom 27.September 2006 [WBE.2005.29], S.9). Was den vorliegen
+den Fall anbelangt, weisen die Häuser von der Südostfassade bis zur
+Nordwestfassade eine Länge von rund 26m auf, womit die maximal
+zulässigen 25m überschritten werden. Es kann offen bleiben, ob
+darüber hinaus auch noch das Dach der Einstellhalle, welches den
+Erdgeschosswohnungen als Terrasse dient, der Gebäudelänge ange
+rechnet werden müsste.
+28 Wassernutzung: Konzession und Projektgenehmigung
+Je separate Zuständigkeit der beteiligten Kantone zur Konzessionie
+rung und Bewilligung von Wasserkraftwerken bei interkantonaler
+Gewässernutzung
+Das aargauische Recht sieht für Wasserkraftwerke grundsätzlich ein
+einstufiges Konzessions und Projektgenehmigungsverfahren vor, in
+welchem die Umweltverträglichkeitsprüfung und die Koordination
+erfolgen.
+Massnahmen zum Fischschutz (d.h. für Fischauf und abstieg), wel
+che sich auf gesicherte wissenschaftliche Erkenntnisse abstützen und
+technisch machbar sind, sind notwendiger Bestandteil der Projektge
+nehmigung; es besteht keine Pflicht, Massnahmen, deren Eignung
+und Realisierbarkeit aufgrund des aktuellen Forschungsstandes
+nicht nachgewiesen sind, im Umweltverträglichkeitsbericht zu prü
+fen; in Bereichen, wo Forschungsbedarf besteht und in den nächsten
+Jahren mit Ergebnissen und verbesserten Lösungen zu rechnen ist,
+sind Vorbehalte in der Konzession zu prüfen.
+Urteil des Verwaltungsgerichts, 3. Kammer, vom 23.August 2016 in Sa
+chen A. und weitere gegen B. AG und Regierungsrat (WBE.2015.131).
+
+Aus den Erwägungen
+I.
+1. (…)
+2.
+Die Gewässerhoheit über die Aare steht im Bereich der Was
+sernutzung durch das Kraftwerk Aarau dem Kanton Solothurn und
+dem Kanton Aargau gemeinsam zu (Art.76 Abs.4 Satz 1 BV). Die
+Verleihung der Nutzungsrechte erfolgt gemeinsam durch die Kantone
+Solothurn und Aargau als verfügungsberechtigte Gemeinwesen
+(Art.3 Abs.1 WRG). Das Bundesrecht sieht vor, dass sich die Kan
+tone über die interkantonale Gewässernutzung durch ein einzelnes
+Wasserkraftwerk einigen können. Bei Uneinigkeit ist eine Entschei
+dung der Bundesbehörde vorgesehen (Art.76 Abs.5 BV; 38 Abs.2
+WRG). Liegt ein Gewässer, dessen Nutzung ein Dritter beabsichtigt,
+auf dem Gebiet mehrerer Kantone, muss von jedem dieser Gemein
+wesen das Recht auf Sondernutzung erhältlich gemacht werden
+(MICHAEL MERKER, in: BRIGITTA KRATZ/MICHAEL
+MERKER/RENATO TAMI/STEFAN RECHSTEINER/KATHRIN FÖHSE
+[Hrsg.], Kommentar zum Energierecht, Band I, Bern 2016, Art.38
+N4). Die interkantonale Einigung kann in verschiedenen Formen des
+Verwaltungshandelns erfolgen (vgl. dazu RICCARDO JAGMETTI,
+Energierecht, in: HEINRICH KOLLER/GEORG MÜLLER/RENÉ
+RHINOW/ULRICH ZIMMERLI [Hrsg.], Schweizerisches Bundesverwal
+tungsrecht, Band VII, Basel 2005, Ziffern 4115ff.). Die subsidiäre
+Bundeszuständigkeit bei der Verleihung von Wasserrechten an inter
+kantonalen Gewässerstrecken greift, wenn sich die Kantone nicht
+innert angemessener Frist über die Konzessionierung einigen können
+(MERKER, in: Kommentar zum Energierecht, a.a.O., Art.38 N4).
+Im vorliegenden Fall wurde das Konzessionsverfahren je für
+den Kanton Aargau und für den Kanton Solothurn durchgeführt; für
+die Verleihung an die Beschwerdegegnerin ist eine von beiden
+Kantonen gemeinsam unterzeichnete Konzessionsurkunde vorge
+sehen. Die Genehmigung der Nutzungsplanung "Konzessionserneue
+rung und Ausbau Wasserkraftwerk (…)" durch den Regierungsrat des
+Kantons Solothurn erfolgte (unter anderem) unter der aufschieben
+
+den Bedingung, dass der Regierungsrat des Kantons Aargau das Ge
+samtprojekt genehmigt und die "zugehörige Konzession (…) in Kraft
+gesetzt wird". Der Beschluss des Kantonsrats Solothurn betreffend
+Konzessionserteilung steht unter der gleichen aufschiebenden Bedin
+gung. Der angefochtene Entscheid des Regierungsrats des Kantons
+Aargau steht ebenfalls unter dem interkantonalen Koordinationsvor
+behalt.
+Werden mehrere Kantone durch die Verleihung von Wasserrech
+ten berührt, so ist das Verfahren in jedem Kanton nach dessen Vor
+schriften durchzuführen (Art.61 Abs.1 WRG). Die von den Kanto
+nen Solothurn und Aargau durchgeführten getrennten, koordinierten
+Bewilligungsverfahren entsprechen somit den bundesrechtlichen
+Vorgaben. Die beidseits angeordneten interkantonalen Bedingungen
+sowie die geplante Umsetzung der Entscheide in einer gemeinsamen
+Konzessionsurkunde gewährleisten die Einheit der Konzession.
+Voraussetzung für die Unterzeichnung der Konzessionsurkunde ist,
+dass die Konzessionierungs und Projektbewilligungsverfahren in
+beiden Kantonen rechtskräftig abgeschlossen sind.
+Die Selbständigkeit und die Unabhängigkeit der kantonalen
+(Rechtsmittel )Verfahren schliessen aus, dass die Beschwerdelegi
+timation im Kanton Aargau von der Erhebung von Rechtsmitteln
+gegen die (parallelen) Entscheide im Kanton Solothurn abhängig
+gemacht wird. Der Antrag der Beschwerdegegnerin auf Nicht
+eintreten wegen fehlender Anfechtung der Entscheide im Kanton
+Solothurn ist daher abzuweisen. Von der Legitimation zu un
+terscheiden ist die materielle Frage, ob das Verwaltungsgericht bei
+einer allfälligen Gutheissung der Beschwerde mehr als die von den
+Beschwerdeführern beantragte Aufhebung der Konzessionserteilung
+und Projektgenehmigung des (aargauischen) Regierungsrats anord
+nen kann.
+3.–5. (…)
+II.
+1.
+Die nachgesuchte Konzession für das Wasserkraftwerk Aarau
+erfolgt auf den Zeitpunkt des Konzessionsablaufs, weshalb unabhän
+gig von einer Erweiterung des Kraftwerks eine neue Konzession er
+
+teilt werden muss. Die im Zeitpunkt der Konzessionserneuerung gel
+tenden Umweltschutzvorschriften sind grundsätzlich uneinge
+schränkt anzuwenden (vgl. GIERI CAVIEZEL, Wasserrechtskonzes
+sionen und Umweltrecht, in: ZBl 105/2004, S.90f. mit Verweis auf
+BGE 119 Ib 254, Erw.5b; JAGMETTI, a.a.O., Ziffer4215).
+Das geplante Laufkraftwerk ist eine Anlage im Sinne von Art.7
+Abs.7 USG mit einer Leistung von mehr als 3 MW. Gemäss
+Ziff.21.3 des Anhangs zur UVPV ist daher das Kraftwerk Aarau der
+Umweltverträglichkeitsprüfung unterstellt (vgl. Art.10a Abs.2 und 3
+USG in Verbindung mit Art.1 UVPV). Bei Energieanlagen ist eine
+mehrstufige Umweltverträglichkeitsprüfung vorgesehen, wobei das
+massgebliche Verfahren für die zweite Stufe durch das kantonale
+Recht bestimmt werden kann (BGE 140 II 262, Erw.4.1). Wie be
+reits erwähnt, sieht das massgebende kantonale Verfahrensrecht ein
+einstufiges Verfahren vor (§29 Abs.1 lit.a WnG). Die Beschwerde
+gegnerin hat keinen Antrag auf ein getrenntes Verfahren für Konzes
+sionserteilung und Projektgenehmigung gestellt (vgl. §29 Abs.1
+lit.b WnG; Botschaft des Regierungsrats des Kantons Aargau an den
+Grossen Rat vom 2.Mai 2007, Neues Wassernutzungsgesetz, Bericht
+und Entwurf zur 1.Beratung, GR.07.106 [nachfolgend Botschaft
+WnG], S.37; MICHAEL MERKER, Wasserkraft und Wasserkraft
+nutzung, in: GIOVANNI BIAGGINI/ISABELLE HÄNER/URS
+SAXER/MARKUS SCHOTT [Hrsg.], Fachhandbuch Verwaltungsrecht,
+Zürich 2015, Rz. 11.102; ENRICO RIVA, Wasserkraftanlagen: Anfor
+derungen an die Vollständigkeit und Präzision des Konzessionsent
+scheids, in: URP 2014, S.9).
+Die Beurteilung der Umweltverträglichkeit im einstufigen
+Verfahren ist grundsätzlich einfacher möglich, weil das konkrete
+Bauprojekt vorliegt und nicht bloss ein generelles Konzessionspro
+jekt. Gemäss Art.32 Abs.4 EG UWR darf auf die mehrstufige UVP
+verzichtet werden, wenn in der ersten Stufe eine umfassende Beurtei
+lung der Umwelt möglich ist. Das einstufige Verfahren ist auch für
+die Erteilung von Wassernutzungskonzessionen durch den Bund
+vorgesehen (Art.62 WRG; vgl. dazu Botschaft zu einem Bundesge
+setz über die Koordination und Vereinfachung der Plangeneh
+migungsverfahren vom 25.Februar 1998, 98.017, in: BBl 1998 III
+
+2601f.; JAGMETTI, a.a.O, Ziffer 4434; RETO HÄGGI FURRER, in:
+Kommentar zum Energierecht, a.a.O., Vorbem. zu Art.62 62k N10).
+2.
+Die Erstellung einer Wasserwerkanlage bedarf nicht nur der
+Verleihung der Wasserkraftnutzung, sondern auch der Erteilung
+weiterer Bewilligungen, so namentlich der gewässerschutzrecht
+lichen, der fischereirechtlichen und der naturschutzrechtlichen Be
+willigung. Es entspricht dem Koordinationsgebot, dessen Beachtung
+unter anderem die UVP dient (Art.14 und 21 UVPV; BGE 119 Ib
+254, Erw.6b; 116 Ib 260, Erw.1b und c), wenn die Regierung als
+Genehmigungs und Bewilligungsbehörde mit ihrem Entscheid die
+Umweltverträglichkeit des Werkes feststellt.
+Der Regierungsrat, dem sämtliche Pläne des Bauprojekts vorla
+gen (vgl. Projektdossier), erteilte die umstrittene Projektgenehmi
+gung gestützt auf folgende Bewilligungen:
+– fischereirechtliche Bewilligung
+– Rodungsbewilligung
+– gewässerschutzrechtliche Bewilligungen
+– Bewilligung zum Einbau eines Koaleszenzabscheiders
+– Ausnahmebewilligung für die Beseitigung von Ufervegetation
+– Bewilligung für Bauten und Anlagen innerhalb des Gewässer
+raums
+– Bewilligung für Bauten und Anlagen ausserhalb Bauzonen.
+Mit diesem Vorgehen hat der Regierungsrat dem Koordinations
+gebot Genüge getan. Dessen Verletzung wird nicht gerügt.
+3.
+3.1.
+Wer eine Anlage, die der UVP untersteht, planen, errichten oder
+ändern will, muss der zuständigen Behörde einen Umweltverträglich
+keitsbericht (UVB) unterbreiten (Art.10b Abs.1 Satz1 USG). Der
+Bericht enthält alle Angaben, die zur Prüfung des Vorhabens nach
+den Vorschriften über den Schutz der Umwelt nötig sind, und um
+fasst folgende Punkte: a) den Ausgangszustand; b) das Vorhaben,
+einschliesslich der vorgesehenen Massnahmen zum Schutze der Um
+welt und für den Katastrophenfall, sowie einen Überblick über die
+wichtigsten allenfalls vom Gesuchsteller geprüften Alternativen;
+
+c)die voraussichtlich verbleibende Belastung der Umwelt (Art.10b
+Abs.2 USG; die zitierte Fassung von lit.b trat per 1.Juni 2014, mit
+hin erst nach der Erstellung des UVB, in Kraft). Das Konzessions
+und Genehmigungsgesuch datiert vom 9.September 2013; am
+19.August 2014 reichte die Beschwerdeführerin korrigierte Pläne
+ein. Der Regierungsrat entschied am 18.Februar 2015 über die Ein
+sprachen und das Konzessions und Projektgenehmigungsgesuch.
+Damit gelangt die zitierte Bestimmung in der aktuellen Fassung zur
+Anwendung. Der Bericht muss insbesondere alle Angaben enthalten,
+welche die zuständige Behörde benötigt, um gemäss Art.3 UVPV
+die Umweltverträglichkeit des Projekts überprüfen zu können (Art.9
+Abs.2 UVPV). Er muss die der geplanten Anlage zurechenbaren
+Auswirkungen auf die Umwelt sowohl einzeln als auch gesamthaft
+und in ihrem Zusammenwirken ermitteln und bewerten (Art.9
+Abs.3 UVPV).
+Die Umweltschutzfachstellen beurteilen die Voruntersuchung
+und den Bericht und beantragen der für den Entscheid zuständigen
+Behörde die zu treffenden Massnahmen (Art.10c Abs.1 Satz1
+USG). Bei Projekten, zu denen nach dem Anhang das Bundesamt für
+Umwelt (BAFU) anzuhören ist, nimmt dieses gestützt auf die
+Beurteilung der kantonalen Umweltschutzfachstelle summarisch zu
+Voruntersuchung, Pflichtenheft und Bericht Stellung (Art.12 Abs.3
+UVPV).
+3.2.
+Der vorliegenden Konzessionierung und Projektgenehmigung
+liegen insbesondere folgende umwelt und gewässerschutzrechtliche
+Berichte zu Grunde:
+– Bericht über die Umweltverträglichkeit – UVB Haupt
+untersuchung
+– Beilagen zur UVB Hauptuntersuchung (mit einem
+Fachbericht Gewässerökologie und Fische sowie einer
+Fischbestandserhebung Entleerung Oberwasserkanal)
+– Restwasserbericht
+– Definitive Beurteilung durch die Umweltschutzfachstel
+len der Kantone Aargau und Solothurn
+– Stellungnahme des BAFU
+
+Somit wurden die gemäss den einschlägigen Vorgaben von
+USG und UVPV notwendigen Berichte eingeholt. Ebenso ist die vor
+geschriebene Beurteilung durch die Umweltschutzfachstellen der
+Kantone Aargau und Solothurn erfolgt. Schliesslich hat das BAFU
+die erforderliche Stellungnahme erstattet.
+4.
+4.1.
+Die Beschwerdeführer beanstanden insbesondere eine Verlet
+zung von Art.9 Abs.1 lit.b und d des Bundesgesetzes über die
+Fischerei vom 21.Juni 1991 (BGF; SR923.0), Art.23 WRG und
+Art.10b Abs.2 lit.b USG. Sie verlangen namentlich eine vertiefte
+Prüfung von sämtlichen bekannten technischen und betrieblichen
+Fischschutz und Fischabstiegsmassnahmen beim Maschinenhaus
+(unter Berücksichtigung von Louvers, Bar Racks, Horizontalrechen
+mit Bypass, Feinrechen mit Bypass, Feinrechen mit Fischheberinne
+sowie fischfreundlicher Turbinen). Auf der Grundlage des vorliegen
+den UVB sei eine seriöse Überprüfung der vorgesehen Massnahmen
+nicht möglich, weil er die angedachten Massnahmen zum Fisch
+schutz nicht genügend detailliert ausarbeite, für die abschliessende
+Beurteilung ein Fachgutachten fehle und trotz der Fortschritte in der
+Forschung zum Fischabstieg lediglich auf eine generelle Nicht Reali
+sierbarkeit entsprechender Anlagen bei Grosswasserkraftwerken ver
+wiesen werde. Aus dem UVB gehe lediglich hervor, dass zur Proble
+matik des Fischabstiegs insbesondere für grössere Fische und Aale
+keine Art.9 Abs.1 lit.b und d BGF genügende Lösung gefunden
+werden konnte. Der Fischabstieg erfolge beim Hauptkraftwerk über
+die Turbinen. Das Mortalitätsrisiko sei auch bei den geplanten Turbi
+nen hoch. Der UVB enthalte keine detaillierten Ausführungen zur
+Umsetzbarkeit und Wirksamkeit von Abstiegsmassnahmen wie bei
+spielsweise dem Einbau fischfreundlicher Turbinen oder der Erstel
+lung von Fischabstiegsanlagen. Art.9 Abs.1 lit.b BGF verlange
+Massnahmen zur Sicherstellung der freien Fischwanderung flussauf
+und flussabwärts. Nach Art.9 Abs.1 lit.d BGF sei zu verhindern,
+dass Fische und Krebse beim Passieren der Anlagen getötet oder ver
+letzt würden. In der Replik wird zusätzlich ausgeführt, im Rahmen
+der Umweltverträglichkeitsprüfung seien Variantenvergleiche von
+
+Fischabstiegsanlagen und detaillierte Abklärungen durch Fachexper
+ten zu tätigen. Es müssten auch neue und innovative Lösungsansätze
+berücksichtigt werden.
+Weiter bemängeln die Beschwerdeführer, dass die Einstiege zu
+den Fischaufstiegshilfen am linken Ufer nicht korrekt platziert seien.
+Deren Lage sei mit weitergehenden Modellversuchen und Mes
+sungen zu überprüfen. Am rechten Ufer bestehe ein ungünstiger Ein
+mündungswinkel, wobei der Einstieg ebenfalls zu weit vom Wander
+hindernis entfernt sei. Zur Sicherstellung der Fischwanderung seien
+angepasste Lockströmungen erforderlich. Generell seien die bisher
+erfolgten Abklärungen betreffend Verbesserung des Fischschutzes,
+Reduktion der Fischmortalität und Fischabstiegsmassnahmen
+ungenügend.
+4.2.
+Der Regierungsrat erwog, Fischabstiegsmassnahmen seien
+aktuell Gegenstand der Forschung und Entwicklung. Damit
+Anpassungen – gestützt auf gesicherte Erkenntnisse – vorgenommen
+werden könnten, werde die Konzessionärin verpflichtet, zum Schutze
+der Fische alle zweckmässigen Massnahmen zu treffen, geeignete
+Einrichtungen zu erstellen und diese bei Bedarf zu verbessern. Ferner
+könnten die zuständigen Behörden zu Lasten der Konzessionärin An
+passungen an den jeweiligen Stand der Technik und Gesetzgebung
+verfügen. Darin eingeschlossen seien auch Massnahmen für den
+Fischabstieg beim Maschinenhaus.
+Zu den Fischaufstiegsmassnahmen erwog die Vorinstanz, sie
+seien das Resultat zahlreicher Fachgespräche und erfüllten nach
+heutigem Kenntnisstand die gestellten Anforderungen. Die Einstiege
+seien so ausgestaltet, dass die Lockstromverhältnisse je nach den Er
+kenntnissen der Erfolgskontrolle nachträglich angepasst werden
+könnten. Die Resultate weitergehender Modellversuche wären in
+folge zahlreicher Annahmen mit Unsicherheiten behaftet und
+Möglichkeiten zur Anpassung der Strömungsverhältnisse dennoch
+vorzusehen.
+5.
+5.1.
+
+Die zur Erteilung der fischereirechtlichen Bewilligung zuständi
+gen Behörden haben unter Berücksichtigung der natürlichen
+Gegebenheiten und allfälliger anderer Interessen insbesondere alle
+Massnahmen vorzuschreiben, die geeignet sind, günstige Lebens
+bedingungen für die Wassertiere zu schaffen (Art.9 Abs.1 lit.a
+BGF); die freie Fischwanderung sicherzustellen (lit.b); die natür
+liche Fortpflanzung zu ermöglichen (lit.c); zu verhindern, dass
+Fische und Krebse durch bauliche Anlagen oder Maschinen getötet
+oder verletzt werden (lit.d). Mit diesen Zielsetzungen hat das um
+weltschutzrechtliche Vorsorgeprinzip in der Fischereigesetzgebung
+eine strenge Ausgestaltung erfahren. Nach der bundesgerichtlichen
+Rechtsprechung gehören zu den wesentlichen Massnahmen nament
+lich die Ausgestaltung des Fischpasses und die Massnahmen zur Ab
+weisung der Fische vor Turbinen. Dies gilt insbesondere, wenn es
+sich um ein bedeutsames Fischaufstiegsgewässer für gefährdete
+Fischarten handelt (Urteil des Bundesgerichts vom 15.März 2002
+[1A.104/2001], Erw.4.4). Für den Fischaufstieg sind Fischpässe von
+Bedeutung (JAGMETTI, a.a.O., Ziffer 4317 mit Hinweis). Die Recht
+sprechung anerkennt ferner die Wirksamkeit von Umgehungsgewäs
+sern zur Verbesserung von Fischauf und abstieg (Urteil des
+Bundesgerichts vom 15.März 2002 [1A.104/2001], Erw.4.5.3).
+Die aufgrund der fischereirechtlichen Bewilligung erforderli
+chen Massnahmen müssen grundsätzlich bereits in der Bewilligung
+vorgeschrieben werden und ihre Anordnungen gehören zu deren not
+wendigen Inhalt (vgl. Art.9 Abs.3 BGF; Urteil des Bundesgerichts
+vom 29.Oktober 2001 [1A.331/2000], Erw.3a/5d). Es ist allerdings
+denkbar, dass Einzelheiten der in Art.9 Abs.1 BGF aufgezählten
+Massnahmen nicht schon bei der Projektierung, sondern erst auf
+grund zu sammelnder Erfahrungen festgelegt werden können (vgl.
+RIVA, a.a.O., S.16f.).
+5.2.
+Soweit sich Massnahmen zum Fischschutz, mithin auch im Zu
+sammenhang mit dem Fischabstieg, auf gesicherte wissenschaftliche
+Erkenntnisse abstützen und technisch machbar sind, sind diese not
+wendiger Bestandteil der Projektgenehmigung. Ebenso sind sie – ge
+stützt auf den UVB – im Rahmen der UVP zu würdigen. Die Ver
+
+pflichtung zur Realisierung der Massnahmen erfolgt im einstufigen
+Verfahren über entsprechende Auflagen in der Projektgenehmigung.
+Wie gesehen (vorne Erw.5.1) statuiert Art.9 Abs.1 BGF weit
+gehende Massnahmen zugunsten des Fischschutzes. Daraus darf
+indessen nicht abgeleitet werden, dass beim Fehlen von gesicherten
+wissenschaftlichen Grundlagen die entsprechenden Forschungsarbei
+ten gewissermassen "am Projekt" vorzunehmen bzw. im Rahmen des
+UVB zu erbringen sind. Die Rechtsprechung hat erkannt, dass keine
+Pflicht besteht, "ein Paket aller für den Schutz der Fischerei in einem
+bestimmten Wasserlauf denkbaren Massnahmen umzusetzen"
+(JAGMETTI, a.a.O., Ziffer 4318, Fn 471a mit Hinweis). Dies ergibt
+sich letztlich auch aus dem Wortlaut von Art.9 Abs.1 BGF, ist doch
+darin explizit festgehalten, dass die angeordneten Massnahmen
+"geeignet" sein müssen. Ungeeignete Massnahmen bzw. Massnah
+men, deren Eignung und Realisierbarkeit nicht nachgewiesen sind
+und sich aufgrund des aktuellen Forschungsstandes auch nicht nach
+weisen lassen, fallen daher ausser Betracht. Demzufolge besteht
+apriori auch keine Pflicht, derartige Massnahmen im Rahmen von
+Art.10b Abs.2 lit.b USG zu prüfen, wobei offen gelassen werden
+kann, ob diese Bestimmung – entgegen deren Wortlaut – überhaupt
+eine Prüfung von Alternativen zu den bereits vorgesehenen Massnah
+men verlangt.
+5.3.
+Immerhin sind in jenen Bereichen, wo Forschungsbedarf be
+steht und in den nächsten Jahren mit Ergebnissen und verbesserten
+Lösungen zu rechnen ist, Vorbehalte in der Konzession zu prüfen.
+Die Konzession verschafft dem Konzessionär nach Massgabe des
+Verleihungsaktes ein wohlerworbenes Recht auf die Benutzung des
+Gewässers (Art.43 Abs.1 WRG). Aufgrund der grundsätzlichen Ge
+setzesbeständigkeit sind allgemeine Vorbehalte der künftigen Gesetz
+gebung zwar unbeachtlich. Der Umfang wohlerworbener Rechte
+kann indessen durch genau umschriebene Vorbehalte in der Konzes
+sion eingeschränkt werden (vgl. CAVIEZEL, a.a.O., S.73f. mit Ver
+weis auf BGE 119 Ib 254, Erw.9d). Sind in der Konzession spätere
+Entscheide aufgrund neuer wissenschaftlicher Erkenntnisse
+beispielsweise im Zusammenhang mit dem Fischschutz vorbehalten,
+
+können diese zu gegebener Zeit ausserhalb des Konzessionsverfah
+rens getroffen werden (vgl. JAGMETTI, a.a.O., Ziffern 4214 und
+4505). Die Rechtsprechung erachtet Vorbehalte in der Konzession im
+Bereich der Fischerei jedenfalls als beachtlich, soweit entsprechende
+Massnahmen wirtschaftlich voraussehbar, planbar und letztlich trag
+bar sind (vgl. zum Ganzen: MERKER, in: Kommentar zum Energie
+recht, a.a.O., Art.43 N7 und 15 mit Hinweisen).
+Grundsätzlich ist die Zulässigkeit derartiger nachlaufender Ver
+fahren selbst dann gegeben, wenn sie in der Spezialgesetzgebung
+nicht ausdrücklich vorgesehen sind. Wesentlich ist, dass im nachlau
+fenden Verfahren die Parteirechte wie etwa der Anspruch auf rechtli
+ches Gehör umfassend zu wahren sind. Weiter ist der Entscheid in
+eine Verfügung zu kleiden. Den Parteien ist überdies der Rechts
+schutz im gleichen Umfang zu gewähren wie gegen die Projektge
+nehmigung selbst. In sachlicher Hinsicht muss sich die zu ver
+feinernde Projektplanung an die vorausgehende Projektgenehmigung
+halten; diese kann im nachfolgenden Verfahren nicht mehr in Frage
+gestellt werden. Schliesslich muss sichergestellt sein, dass die
+Anforderungen des Enteignungsrechts gewahrt bleiben (Urteil des
+Bundesverwaltungsgerichts vom 20.Dezember 2012 [A 567/2012],
+Erw.3.4.3 mit zahlreichen Hinweisen und Erw.3.4.6).
+5.4.
+Aus den obigen Ausführungen folgt, dass entgegen dem Vor
+bringen der Beschwerdeführer im UVB nicht alle möglichen tech
+nischen und betrieblichen Massnahmen einer Überprüfung hinsicht
+lich "einer technischen Machbarkeit" unterzogen werden müssen.
+Vielmehr haben die geplanten fischereirechtlichen Massnahmen und
+allenfalls im UVB aufzuzeigende Alternativen dem aktuellen Stand
+der Technik zu entsprechen und sind daher auf gesicherte wissen
+schaftliche Erkenntnisse (insbesondere betreffend Wirksamkeit und
+technische Realisierbarkeit) angewiesen. Im Weiteren ist es zulässig,
+dass die zuständige Behörde unter bestimmten Voraussetzungen (vgl.
+vorne Erw.5.3) Anpassungen an allfällige spätere neue Erkenntnisse
+vorbehält. Dies ist im vorliegenden Verfahren unbestritten.
+
+29 Zuschlagskriterien; "Ausbildung Lehrlinge"
+Anwendungsfall bei einer Konzerngesellschaft; kein vergaberechtlicher
+Durchgriff auf weitere Konzerngesellschaften
+Urteil des Verwaltungsgerichts, 3.Kammer, vom 7.Juli 2016 in Sachen
+A.AG gegen B.AG und C.AG (WBE.2016.170).
+Aus den Erwägungen
+3.
+3.1.
+Das an sich vergabefremde Zuschlagskriterium "Ausbildung
+Lehrlinge" ist mit einer untergeordneten Gewichtung grundsätzlich
+zulässig (§18 Abs.2 SubmD; ferner AGVE2001, S.342ff., insbe
+sondere S.345; PETER GALLI/ANDRÉ MOSER/ELISABETH
+LANG/MARC STEINER, Praxis des öffentlichen Beschaffungsrechts,
+3.Auflage, Zürich/Basel/Genf 2013, Rz.931f.). Es darf aber keine
+Diskriminierung auswärtiger Anbieter bewirken und insbesondere
+gegenüber Anbietern aus Vertragsstaaten der einschlägigen Überein
+kommen, die keine dem schweizerischen Lehrlingswesen vergleich
+bare Berufsausbildung kennen, nicht angewandt werden (vgl. Urteil
+des Verwaltungsgerichts des Kantons Zürich vom 9.Juli 2003
+[VB.2002.00255], Erw.3b und e). Für die vorliegenden Leistungen –
+obwohl nach GATT/WTO Abkommen resp. Staatsvertrag ausge
+schrieben – haben nur schweizerische Unternehmen offeriert. Die
+Frage der Diskriminierung nichtschweizerischer Anbieter stellt sich
+daher von vornherein nicht.
+Beim Kriterium Lehrlingsausbildung geht es nicht darum, die
+Erfüllung des konkreten Auftrags zu sichern, sondern um einen
+sozialpolitischen Gesichtspunkt, der zusätzlich berücksichtigt wird.
