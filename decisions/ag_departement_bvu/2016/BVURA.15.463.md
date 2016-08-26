@@ -1,0 +1,374 @@
+---
+decision_id: "ag_departement_bvu_BVURA.15.463"
+court: "AG Departement Bvu"
+court_id: "ag_departement_bvu"
+chamber: "Rechtsabteilung"
+docket: "BVURA.15.463"
+decided: "2016-08-26"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2591"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2591"
+cites_decisions: ["BE.1994.00216"]
+---
+
+# Departement Bau, Verkehr und Umwelt / Rechtsabteilung — BVURA.15.463
+
+## Regeste
+
+Grenzabstand in Dorfzone 
+In einer Dorfzone, die den Erhalt des Bestehenden bezweckt und wo für Neu-und Umbauten die Grenzabstände im Einzelfall festgelegt werden, ist für die Abstandsbestimmung auf die Stellung bestehender Bauten und die Einpassung ins Ortsbild abzustellen, und nicht auf die Werte einer Referenzzone (Erw. 5.2.4).
+
+## Text
+
+gelingen, wenn es als zulässig erachtet würde, die Anträge zu erwei
+tern. Auch eine Gemeinde als Planungsträgerin hat ein eigenes legiti
+mes Interesse, im Einwendungsverfahren gegen die Revision der
+Nutzungsplanung dargelegt zu bekommen, welche Punkte umstritten
+sind und wo sie ein zeitliches und finanzielles Risiko eingeht, wenn
+sie abweichend von den Einwendungsanträgen entscheidet, und sie
+vertritt auch die gleichgerichteten und öffentlich bedeutsamen Inte
+ressen der Bauwilligen im Planungsgebiet. §4 Abs.2 BauG in Ver
+bindung mit §24 BauG schützt diese Interessen. §60 Abs.2 BauV
+erweist sich damit als gesetzmässig (§2 Abs.2 Satz 1 VRPG).
+75 Grenzabstand in Dorfzone
+In einer Dorfzone, die den Erhalt des Bestehenden bezweckt und wo für
+Neu und Umbauten die Grenzabstände im Einzelfall festgelegt werden,
+ist für die Abstandsbestimmung auf die Stellung bestehender Bauten und
+die Einpassung ins Ortsbild abzustellen, und nicht auf die Werte einer
+Referenzzone (Erw. 5.2.4).
+Aus dem Entscheid des Departements Bau, Verkehr und Umwelt vom
+26.August 2016 (BVURA.15.463).
+Aus den Erwägungen
+2. Ausgangslage
+…
+2.2 Bauvorhaben …
+Mit dem nun strittigen Bauprojekt ist die Aufstockung der an
+das Einfamilienhaus angebauten Garage um ein Geschoss als Er
+weiterung des Obergeschosses des Wohngebäudes vorgesehen. Die
+bestehende Garage weist einen Grenzabstand von 2,85m zur
+Nachbarparzelle 3225 der Beschwerdeführenden auf. …
+
+5. Grenzabstand
+5.1 Vorbringen der Beschwerdeführenden
+Materiell rügen die Beschwerdeführenden zunächst, die vor
+gesehene Aufstockung der Garage führe zu einer Verletzung der
+Grenzabstände. Als Begründung führen sie im Wesentlichen an, dass
+die Garage mit der nunmehr vorgesehenen Aufstockung ihren
+Charakter als Klein und Anbaute verliere und zur Hauptbaute werde.
+…
+5.2 Massgebender Grenzabstand
+…
+5.2.2
+§8 Abs.1 BNO legt die Grenzabstände für die verschiedenen
+Zonen in A. wie folgt fest:
+klein gross
+m m
+Dorfzone o –
+Landhauszone 4.00 7.00
+Wohnzone W2 4.00 8.00
+Wohnzone W3 5.00 9.00
+Wohn und Gewerbezone 3 5.00 9.00
+Wohn und Gewerbeparkzone 5.00 9.00
+Arbeitszone 6.00 6.00
+Zone für öffentliche Bauten und Anlagen o o
+Die mit «o» bezeichneten Werte und Masse legt der Gemeinde
+rat unter Abwägung der betroffenen öffentlichen und privaten
+Interessen im Einzelfall fest (vgl. §8 Abs.5 BNO).
+5.2.3
+In der Dorfzone D, in der sich das Bauvorhaben befindet, hat
+der Gesetzgeber somit keinen kleinen Grenzabstand (numerisch)
+festgelegt, sondern überlässt dies dem Gemeinderat im Einzelfall un
+ter Abwägung der betroffenen öffentlichen und privaten Interessen
+(§8 Abs.5 BNO). Die Beschwerdeführenden berufen sich dies
+bezüglich auf folgende verwaltungsgerichtliche Rechtsprechung, die
+insbesondere im Zusammenhang mit Zonen für öffentliche Bauten
+und Anlagen entwickelt wurde (vgl. AGVE 2002, S.232 ff.):
+
+«Das Verwaltungsgericht hatte sich schon in verschiedenen
+analogen Fällen mit dieser Problematik rechtssatzmässiger Verwal
+tung zu befassen (siehe zum vorhin Gesagten und zum Folgenden:
+AGVE 1992, S.313 ff., und 1994, S.374 ff., je mit Hinweisen; VGE
+III/71 vom 22.September 1995 [BE.1994.00216] in Sachen S., S.15
+ff.). Zusammengefasst ist das Verwaltungsgericht dabei zu folgenden
+Schlüssen gelangt: In der bisherigen Rechtsprechung sei es bei
+inhaltlich unbestimmten Normen jeweils als zulässig erachtet wor
+den, auf die Wertungen zurückzugreifen, welche sich in andern Be
+stimmungen des gleichen Erlasses fänden (AGVE 1970, S.168 ff.;
+1972, S.300 ff.; 1980, S.142 ff.; 1987, S.275 ff.). Daran sei fest
+zuhalten. Nutzungsbestimmungen der in Frage stehenden Art seien
+bewusst sehr offen gehaltene Normen, welche der rechtsanwen
+denden Behörde einen grossen Spielraum bei der Anwendung, insbe
+sondere bei der Gewichtung der zu beachtenden öffentlichen und pri
+vaten Interessen einräumten. Dies könne freilich nicht bedeuten, dass
+ohne Bindung an allgemein geltende Regeln einzig unter Berück
+sichtigung der konkreten Verhältnisse des Einzelfalls Billigkeits
+entscheide getroffen werden dürften; vielmehr sei die rechtsan
+wendende Behörde gehalten, nach objektiven Kriterien und in Anleh
+nung an das bestehende Recht Regeln zu erarbeiten, welche der Ver
+allgemeinerung fähig seien. Als Besonderheit sei sodann die Stellung
+des Gemeinderats zu beachten, der bei derartigen Baugesuchen von
+Einwohnergemeinden sozusagen in eigener Sache zu entscheiden
+habe. Aus dieser Sicht drängten sich Leitplanken und Begrenzungen
+seiner Entscheidungsfreiheit auf. Namentlich sei dem Schutz der
+Nachbarn generell grosse Beachtung zu schenken.
+Entsprechend der bisherigen Praxis sei also festzuhalten, dass
+Entscheide im Rahmen derartiger Bestimmungen an das geltende
+kommunale Baurecht gebunden seien, aus welchem die erforderli
+chen Massstäbe und Kriterien in erster Linie abgeleitet werden
+müssten. Von Bedeutung seien insbesondere die allgemeinen Bestim
+mungen der Bau und Zonenordnung einerseits und die speziellen
+Bestimmungen der angrenzenden Zonen sowie jener Zonen, in wel
+chen ein Bauvorhaben der fraglichen Art am ehesten zu realisieren
+wäre (sog. Referenzzonen), anderseits. In diesem Sinne bleibe der
+
+Rechtsanwender und auch der Richter an das geltende kommunale
+Baurecht gebunden, auch wenn er zu dessen Vervollständigung
+gleichsam an die Stelle des Gesetzgebers trete. Von den auf diese
+Weise gewonnenen Kriterien und Vorgaben dürfe nur insofern abge
+wichen werden, als dies auf Grund einer Abwägung der konkret in
+Betracht fallenden öffentlichen und privaten Interessen begründet er
+scheine und die Grundmassstäblichkeit der geltenden Ordnung
+insgesamt nicht erheblich gestört und damit verletzt werde.
+Dies müsse auch bei einem hoch zu veranschlagenden öffent
+lichen Interesse gelten. Wenn sich der kommunale Gesetzgeber nicht
+veranlasst gesehen habe, in Bezug auf die Errichtung von Bauten in
+der Zone für öffentliche Bauten und Anlagen Vorschriften über die
+Nutzungsstärke und zulässige Bauweise zu erlassen, sei es dem Ge
+meinderat auch bei einer solchen Interessenlage verwehrt, die in den
+vergleichbaren Zonen bestehenden Vorschriften erheblich zu über
+schreiten, ohne dass das Gewaltenteilungsprinzip verletzt werde.»
+Gestützt auf diese Rechtsprechung erachten die Beschwerdefüh
+renden vorliegend in Anbetracht der Referenzwerte in §8 Abs.1
+BNO einen Grenzabstand von 4m als erforderlich. Anlässlich der
+Augenscheinsverhandlung brachten sie konkretisierend vor, als Refe
+renzzone kämen die Landhauszone oder die Wohnzone W2 in Frage.
+5.2.4
+Wie erwähnt, wurde die vorstehende verwaltungsgerichtliche
+Rechtsprechung insbesondere im Zusammenhang mit offenen
+Zonenbestimmungen für Zonen für öffentliche Bauten und Anlagen
+entwickelt, in der nicht nur die Ausmasse der Baute offen gelassen
+wurden, sondern sich auch aus den übrigen Zonenbestimmungen
+keine Einschränkungen in Bezug auf Ausmasse und Nutzung der zu
+lässigen Bauten ergaben.
+Nun ist aber zu berücksichtigen, dass das vorliegende Bau
+vorhaben im Ortsteil S. liegt, der integral der Dorfzone zugeordnet
+ist. In der Dorfzone sind Wohnungen, mässig störendes Gewerbe,
+landwirtschaftliche und öffentliche Bauten sowie Läden und Gast
+stätten zulässig (vgl. §9 Abs.1 BNO). Die Dorfzone bezweckt die
+Erhaltung und, wo dazu Anlass gegeben, die Wiederinstandstellung
+der baulichen Einheit und Eigenart des Ortsbildes. Dies betrifft so
+
+wohl den Schutz ortsgestalterisch wertvoller Einzelgebäude als auch
+Gebäudegruppen und deren Umgebung (vgl. §9 Abs.3 BNO). Es
+dürfen nur Bauten und Anlagen erstellt werden, welche sich in das
+Ortsbild einfügen. Neu , Um und Anbauten haben sich in Stellung,
+Bau und Dachform, Massstab, Material und Farbgebung den beste
+henden Bauten anzupassen. Der Bau von Flachdächern auf
+Hauptbauten ist untersagt (§9 Abs.3 BNO). Hinzu kommt, dass der
+Weiler S. gemäss ISOS als Weiler von regionaler Bedeutung einge
+stuft ist. Das strukturell noch weitgehend intakte Ortsbild wurde im
+ISOS mit dem Erhaltungsziel A versehen, was der höchsten Einstu
+fung entspricht und bedeutet, dass die Substanz integral zu erhalten
+ist.
+Aus diesen Bestimmungen lässt sich entnehmen, dass der
+Gesetzgeber u.a. die Grenzabstände in dieser Zone deshalb nicht
+festlegen wollte, weil die Zone dem Erhalt des Bestehenden dient.
+Die Referenzmasse, nach der sich Bauten in dieser Zone zu richten
+haben, ergeben sich – was sich insbesondere aus §9 Abs.3 BNO ex
+plizit ergibt – damit nicht aus Massen angrenzender Zonen, sondern
+aus Stellung und Massstab bestehender Bauten in der betreffenden
+Zone selbst, denen sich Neu Um und Anbauten gemäss §9 Abs.3
+BNO anzupassen haben. Das geltende kommunale Baurecht hat so
+mit in §9 BNO bereits jene Massstäbe und Kriterien in Bezug auf
+die Dorfzone festgelegt, welche in anderen Zonen, in denen derartige
+Bestimmungen fehlen, zunächst durch den Gemeinderat noch festge
+legt werden müssen. Die Suche nach Referenzzonen … erübrigt sich
+daher. Die Kriterien und Massstäbe, an denen sich Bauten zu
+orientieren haben, ergeben sich direkt aus §9 BNO bzw. aus dem
+Bestand (vgl. so auch im Ergebnis: RRB2014 676 vom
+20.Juni2014, S.8). Diesbezüglich ergibt sich Folgendes:
+5.2.5
+Typisch im Weiler S. sind nach den Ausführungen der Fachper
+son anlässlich der Augenscheinsverhandlung die traufständig den
+Strassenraum begleitenden Bauten und die kompakte Siedlungsform,
+umgeben von der schönen unbebauten Reusslandschaft. Oft werden
+Weiler einer eigenen Zone, der sogenannten Weilerzone zugeteilt. In
+diesem Fall wurde der Weiler der Dorfzone zugeteilt. Das Erhal
+
+tungsziel beider Zonen unterscheidet sich nicht: Ziel ist es, die
+bauliche Einheit zu erhalten, in diesem Fall die bäuerlichen Bauten
+bzw. Bauweise. Hinsichtlich der Grenz (und Gebäude)abstände ist
+die Vielfalt typisch. Sowohl Engnisse wie auch grosse Volumen mit
+dazugehörigen grösseren Freiräumen, die als Vorgärten und Vor
+plätze ausgestaltet sind, werden angetroffen. Damit auch künftig
+diese Struktur nicht verloren geht, stehen gewisse Gebäude unter Vo
+lumenschutz.
+Demgemäss hielt die kantonale Fachperson anlässlich der Au
+genscheinsverhandlung denn auch fest, dass die Einhaltung eines
+Grenzabstands von 4m als Regelmass – wie von den Beschwerde
+führenden gefordert – dem Charakter und den bestehenden Struktu
+ren in der fraglichen Zone zuwiderlaufen und zu einer für diese Zone
+untypischen Gleichförmigkeit führen würde. Das Beibehalten der
+Vielfältigkeit, also das Vermeiden einheitlicher Abstände, sei mit
+einem hohen öffentlichen Interesse zu veranschlagen.
+Weiter hielt die Fachperson fest, dass der Zwischenraum zwi
+schen den beiden Häusern vorliegend durch die Aufstockung zwar
+optisch verengt werde, aber nicht in einer Weise, die aus Sicht des
+Ortsbildes nachteilig wäre. Das Gebäude trete im Strassenraum zu
+dem nicht wesentlich in Erscheinung.
+5.2.6
+Die Beschwerdeinstanz kann sich diesen nachvollziehbaren, in
+sich schlüssigen … Ausführungen der Fachperson ohne Weiteres an
+schliessen. Bereits ein Blick auf den Situationsplan zeigt, dass die
+Abstände im Weiler S. in der Tat sehr uneinheitlich sind. So betragen
+die Abstände im Bereich der vom Gemeinderat anlässlich der Augen
+scheinsverhandlung erwähnten Ensembles auf den Parzellen 3102
+und 3103 bis zu gar nur ca. 2,1m Gebäudeabstand, Grenzabstände
+bestehen in diesem Ensemble teilweise gar keine. Und auch in der di
+rekten Umgebung der vorliegend zur Diskussion stehenden Situation
+finden sich geringe Grenzabstände von bis zu lediglich ca. 2,55m.
+Demgegenüber bestehen auch die von der Fachperson erwähnten
+grossen Bauten mit grösseren Freiräumen. Einheitliche Abstände las
+sen sich in der fraglichen Zone jedenfalls nicht feststellen. Bereits
+aus diesem Grund wäre das Heranziehen eines Regelmasses von 4m
+
+Grenzabstand in der fraglichen Zone verfehlt und entspräche – dies
+ergibt sich explizit aus §9 Abs.3 BNO – offensichtlich auch nicht
+den Intentionen des Gesetzgebers.
+Ebenso ist die Auffassung der Fachperson, dass sich durch die
+Aufbaute der Zwischenraum zwischen den beiden Häusern verenge,
+aber nicht in einer für das Ortsbild nachteiligen Weise, für die Be
+schwerdeinstanz ohne Weiteres nachvollziehbar. Die fragliche Situa
+tion liegt in der zweiten Bautiefe und ist – was auch an der Augen
+scheinsverhandlung festgestellt werden konnte – vom Strassenraum
+zwar einsehbar, aber nicht in dominierender Weise. Auch in Anbe
+tracht dessen kann von einer Beeinträchtigung des Ortsbildes durch
+den Grenzabstand von 2,85m – was wie gesagt im Weiler S. nicht
+aussergewöhnlich ist – keine Rede sein. …
+Die dem Bauvorhaben entgegenstehenden privaten Interessen
+der Beschwerdeführenden werden durch einen Grenzabstand von
+2,85m ebenfalls nicht übermässig beeinträchtigt bzw. sind mit die
+sem ebenfalls verträglich. Zwar erscheint es aufgrund der am Augen
+schein gewonnen Eindrücke in der Tat plausibel, dass – wie von den
+Beschwerdeführenden geltend gemacht – mit der Aufstockung der
+Garage ein gewisser Verlust an Abendsonne auf der Liegenschaft der
+Beschwerdeführenden einhergeht. Hiervon betroffen ist der nord
+westliche Gebäudeteil der Liegenschaft der Beschwerdegegner, in
+dem sich im Erdgeschoss der Hauseingang, das Gäste WC und ein
+Teil des Wohnzimmers sowie das Treppenhaus und im Obergeschoss
+ein weiteres Badezimmer und ein Schlafzimmer befinden. Letzteres
+weist auf diese Gebäudeseite allerdings keine Fenster auf, das ein
+zige auf diese Gebäudeseite weisende Fenster ist jenes im Badezim
+mer im Erdgeschoss. Insoweit fällt eine etwaige Einbusse an Sonnen
+licht (wenn überhaupt) auf dieser Gebäudeseite kaum ins Gewicht;
+der Gartensitzplatz und die Hauptwohnseite der Liegenschaft der Be
+schwerdeführenden weisen auf die dem Bauvorhaben abgewandte
+südwestliche Gebäudeseite, die von dem Aufbau in keiner Weise be
+einträchtigt wird. Weitere konkrete Interessen machen die
+Beschwerdeführenden weder geltend, noch wären solche erkennbar.
+Demgemäss stehen auch keine überwiegenden privaten Interessen ei
+nem Grenzabstand von 2,85m vorliegend entgegen.
+
+5.2.7
+Zusammenfassend kann somit festgehalten werden, dass der
+vorliegend vorgesehene Grenzabstand der Aufstockung von 2,85m
+mit den tangierten öffentlichen und privaten Interessen kompatibel
+ist und diese nicht bzw. nicht in rechtserheblicher Weise beeinträch
+tigt.
+5.3 Bedeutung Dienstbarkeitsvertrag
+5.3.1
+Die Beschwerdeführenden berufen sich weiter auf das auf ihrer
+Parzelle 3225 im Grundbuch zu Gunsten von Parzelle 3214 eingetra
+gene «Näherbaurecht für Garage». Da nun mit der Aufstockung
+nicht mehr nur eine Garage vorhanden ist, sondern sich ein weiterer,
+dem Wohnen dienender Raum darauf befindet, ist der Umbau klarer
+weise nicht mehr von dem Dienstbarkeitsvertrag gedeckt. …
+5.3.2
+Im Übrigen vermögen die Beschwerdeführenden aus dem
+Vorliegen des fraglichen Dienstbarkeitsvertrags öffentlich rechtlich
+aber nichts zu ihren Gunsten abzuleiten. Diesbezüglich gilt Folgen
+des:
+Die Baubewilligungsbehörde muss lediglich prüfen, ob einem
+Bauvorhaben öffentlich rechtliche, insbesondere baupolizeiliche und
+raumplanerische, Hindernisse entgegenstehen. In diesem Zusammen
+hang muss sie untersuchen, ob sich das Bauvorhaben an die gesetzli
+chen Grenzabstände hält. Soweit diese unterschritten sind, hat die
+Baubewilligungsbehörde ausserdem abzuklären, ob die Voraus
+setzungen für eine Unterschreitung des gesetzlichen Grenzabstands
+erfüllt sind (vgl. §47 Abs.2 BauG). Werden diese eingehalten, hat
+die Baubewilligungsbehörde dagegen nicht zu prüfen, ob dem
+gewählten Grenzabstand privatrechtliche Vereinbarungen entge
+genstehen. Es ist generell nicht Aufgabe der Baubewilligungsbehörde
+und der Rechtsmittelinstanzen, die Rechte Privater durch die Verwei
+gerung einer Baubewilligung zu wahren, mögen diese Rechte noch
+so offenkundig sein. Diese Aufgabe ist von Verfassungs wegen den
+Zivilbehörden zugedacht. Im Baubewilligungsverfahren sind privat
+rechtliche Fragen nur zu beantworten, sofern und soweit die öffent
+lich rechtliche Ordnung unmittelbar an das Privatrecht anknüpft. Da
+
+bei muss sich aber aus dem öffentlichen Recht selber ergeben, dass
+eine privatrechtliche Vorfrage durch die Baubewilligungsbehörde zu
+gunsten des Baugesuchstellers entschieden sein muss, bevor er bauen
+darf (vgl. AGVE 1987, S.227 f.; 1986, S.248 f.; 1992, S.305).
+Zwar gewährt §47 Abs.2 BauG die Möglichkeit, die Grenzab
+stände mittels Dienstbarkeitsvertrags zu reduzieren. Soweit der
+gesetzlich vorgesehene Grenzabstand aber eingehalten ist, nimmt das
+öffentliche Recht keine Rücksicht auf privatrechtliche Vereinbarun
+gen. Ist der Grenzabstand damit eingehalten, kann dieser nicht in öf
+fentlich rechtlich verbindlicher Weise erhöht werden (vgl. so im Er
+gebnis: VGE III/4 vom 18. Februar 2008, S.5 f.). §47 Abs.2 BauG
+spricht denn auch lediglich von ungleicher Verteilung, Verkleinerung
+oder Aufhebung der Grenzabstände mittels öffentlich beurkundeten
+Dienstbarkeitsvertrags, nicht jedoch von einer Erhöhung. Dasselbe
+gilt, wenn der Gesetzgeber – wie hier (vgl. §8 Abs.5 BNO) – eine
+einzelfallweise Festlegung des Grenzabstands durch den Gemeinde
+rat vorsieht. Auch in diesen Fällen ist eine privatrechtlich vereinbarte
+Fixierung eines Grenzabstands für die Bewilligungsbehörde nicht
+verbindlich, da sich deren Erfordernis nicht aus dem öffentlichen
+Recht selbst ergibt. …
+5.4 Fazit
+Zusammenfassend kann der Auffassung der Beschwerdeführen
+den, dass vorliegend ein Grenzabstand von 4m einzuhalten wäre,
+nicht gefolgt werden. Gemäss den einschlägigen Zonenbestimmun
+gen haben sich Neu , An und Umbauten insbesondere in Stellung
+und Massstab den bestehenden Bauten anzupassen, d.h. es ist diesbe
+züglich auf die bauliche Umgebung abzustellen. Nachdem in dieser
+diverse Bauten mit geringen bis gar keinen Grenzabständen vorhan
+den sind, die Vielfalt der Abstände aus Sicht des Ortsbilds an dieser
+Lage geradezu typisch ist und hieran ein grosses öffentliches Inte
+resse besteht und dem vorliegend auch keine überwiegenden privaten
+Interessen entgegenstehen, steht einer Aufstockung der Garage mit
+einem Grenzabstand von 2,85m öffentlich rechtlich nichts entgegen.
+Der zwischen den beiden Parzellen vorhandene Dienstbarkeitsvertrag
+ist für die vorliegende Situation öffentlich rechtlich ohne Belang, da
+das öffentliche Recht in dieser Hinsicht nicht an das Privatrecht an
+
+knüpft und allfällige privatrechtliche Baubeschränkungen öffentlich
+rechtlich unbeachtlich sind.
+76 Rückweisung
+Die Beschwerdeinstanz kann bei einer nötigen Anpassung des Baugesuchs
+die Sache an den Gemeinderat zurückweisen, wenn die Anpassung im
+vereinfachten Verfahren (§61 BauG) beurteilt und so eine Wiederholung
+der Publikation des ganzen Baugesuchs vermieden werden kann.
+Aus dem Entscheid des Departements Bau, Verkehr und Umwelt vom
+31.August 2016 (BVURA.14.538).
+Aus den Erwägungen
+3.4 Verhältnismässigkeitsprinzip
+Ist ein Baugesuch mangelhaft bzw. stimmt es nicht durchwegs
+mit dem objektiven Recht überein, hat die Baupolizeibehörde nach
+den konkreten Umständen und nach pflichtgemässem Ermessen zu
+entscheiden, ob das Gesuch gesamthaft abgewiesen werden muss
+oder ob die Mängel mit Nebenbestimmungen geheilt werden können.
+Das Vorgehen der Behörde hat sich in solchen Fällen nach dem
+Grundsatz der Verhältnismässigkeit zu richten. Die Baubewilligungs
+behörde hat den Grundsatz der Verhältnismässigkeit als allgemeines
+verfassungs und verwaltungsrechtliches Prinzip von Amtes wegen
+zu beachten (vgl. BGE 108 la 216). Diese Grundsätze gelten in
+analoger Weise auch für das verwaltungsinterne und das verwal
+tungsexterne Beschwerdeverfahren (vgl. auch Verwaltungs und
+Verwaltungsgerichtsentscheide des Kantons Obwalden [VVGE] IV,
+Nr.59, S.119 f.; zur Bedeutung der Verhältnismässigkeit als Grund
+prinzip des Verwaltungsrechts auch ULRICH HÄFELIN / GEORG
+MÜLLER / FELIX UHLMANN, Allgemeines Verwaltungsrecht, 7. Aufl.,
+Zürich 2016, Rz.320, 514 ff.). Eine Baubewilligung zu verweigern,
