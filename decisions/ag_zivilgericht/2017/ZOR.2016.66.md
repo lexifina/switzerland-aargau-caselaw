@@ -1,0 +1,191 @@
+---
+decision_id: "ag_zivilgericht_ZOR.2016.66"
+court: "AG Zivilgericht"
+court_id: "ag_zivilgericht"
+chamber: "1. Zivilkammer"
+docket: "ZOR.2016.66"
+decided: "2017-01-17"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2481"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2481"
+cites_decisions: ["BGE 111 II 404", "BGE 93 II 387"]
+cites_law: ["switzerland/bund/acts/210/art-120.md", "switzerland/bund/acts/210/art-205.md", "switzerland/bund/acts/220/art-545.md", "switzerland/bund/acts/272/art-090.md", "switzerland/bund/acts/272/art-197.md", "switzerland/bund/acts/272/art-198.md", "switzerland/bund/acts/272/art-221.md", "switzerland/bund/acts/272/art-237.md", "switzerland/bund/acts/272/art-274.md", "switzerland/bund/acts/272/art-283.md", "switzerland/bund/acts/281.1/art-080.md"]
+---
+
+# Obergericht / Zivilgericht / 1. Zivilkammer — ZOR.2016.66
+
+## Regeste
+
+Art. 283 ZPO; Art. 545 ff. OR 
+Das Scheidungsgericht kann auf Antrag einer Partei die Versteigerung einer von den Eheleuten im Rahmen einer Ehegattengesellschaft gehaltenen Liegenschaft anordnen. Damit ist kein Verstoss gegen den Grundsatz der Einheit des Scheidungsurteils verbunden, weil nicht über eine Scheidungsnebenfolge, sondern über einen mit der Scheidungsklage in objektiver Klagenhäufung verbundenen Punkt entschieden wird. Die Versteigerungsanordnung erfolgt in einem Teilentscheid und nicht in einem Zwischenentscheid im Sinne von Art. 237 ZPO.
+
+## Text
+
+55 Art. 283 ZPO; Art. 545 ff. OR
+Das Scheidungsgericht kann auf Antrag einer Partei die Versteigerung
+einer von den Eheleuten im Rahmen einer Ehegattengesellschaft gehalte
+nen Liegenschaft anordnen. Damit ist kein Verstoss gegen den Grundsatz
+der Einheit des Scheidungsurteils verbunden, weil nicht über eine Schei
+dungsnebenfolge, sondern über einen mit der Scheidungsklage in objekti
+ver Klagenhäufung verbundenen Punkt entschieden wird. Die Versteige
+rungsanordnung erfolgt in einem Teilentscheid und nicht in einem
+Zwischenentscheid im Sinne von Art. 237 ZPO.
+Aus dem Entscheid des Obergerichts, 1. Zivilkammer, vom 17. Januar 2017
+in Sachen G.C.G. gegen I.Z.G (ZOR.2016.66).
+Aus den Erwägungen
+3.
+3.1.
+Die Vorinstanz hat den vorliegend zu beurteilenden "Beschluss"
+explizit (vgl. dessen S. 7) als "Zwischenentscheid" bezeichnet. Ein
+solcher liegt nach Art. 237 Abs. 1 ZPO dann vor, wenn durch ab
+weichende oberinstanzliche Beurteilung sofort ein Endentscheid her
+beigeführt und so ein bedeutender Zeit und Kostenaufwand gespart
+werden kann. An dieser Voraussetzung fehlt es vorliegend offensicht
+lich, wird doch mit dem obergerichtlichen Entscheid kein Endent
+scheid im Scheidungsverfahren herbeigeführt. Ebenso wenig ist der
+angefochtene Entscheid prozessleitender Natur, weil darin keine ver
+fahrensrechtliche Anordnung, sondern mit dem darin angeordneten
+Eingriff in eine im (Gesamt ) Eigentum der Parteien stehende
+Liegenschaft eine materiell rechtliche Anordnung getroffen worden
+ist (BGE 93 II 387 ff.). Da durch den angefochtenen Entscheid aber
+
+nicht das ganze vom Kläger eingeleitete (Scheidungs ) Verfahren
+zum Abschluss gelangt, handelt es sich um einen (materiellen)
+Teilentscheid (Genna, Auflösung und Liquidation der Ehegatten
+gesellschaft, Diss., Bern 2008, S. 97; Bessenich/Bopp, in: Sutter
+Somm/Hasenböhler/Leuenberger, Schweizerisches Zivilprozessrecht,
+3. Aufl., Zürich/Basel/Genf 2016, N. 13 zu Art. 90 ZPO).
+3.2.
+3.2.1.
+Damit ist die Frage aufgeworfen, inwieweit mit der Ausfällung
+dieses Teilentscheids im Rahmen eines Scheidungsverfahrens allen
+falls gegen den Grundsatz der Einheit des Scheidungsurteils (vgl.
+Art. 283 ZPO) verstossen wurde. Dies ist deshalb zu verneinen, weil
+es sich bei der Auflösung und Liquidation einer Ehegattengesell
+schaft um ausserhalb des Scheidungsrechts stehende schuld bzw. ge
+sellschaftsrechtliche Fragen handelt (Genna, a.a.O., S. 117 und 151)
+und ein Streitpunkt, der nicht von Gesetzes wegen Gegenstand des
+Scheidungsverfahrens (vgl. Art. 120 ff. ZGB betreffend Güterrecht,
+Familienwohnung, Vorsorgeausgleich, nachehelichen Unterhalt und
+Kinderbelange) bildet, nach den allgemeinen prozessualen Grundsät
+zen überhaupt nur auf dem Weg der (objektiven) Klagenhäufung mit
+der Scheidungsklage verbunden werden kann (vgl. dazu Genna,
+a.a.O., S. 147). Immerhin scheint das Bundesgericht in BGE 111 II
+404 (E. 4b) die Auffassung vertreten zu haben, dass alle vermögens
+rechtlichen Streitigkeiten zwischen den Ehegatten, die im Schei
+dungsprozess zufolge eines ausreichenden Bezugs zur ehelichen Ge
+meinschaft behandelt werden dürfen, auch in diesem behandelt wer
+den müssen.
+Vor dem Inkrafttreten des neuen Eherechts am 1. Januar 1988
+hatte sich die Auffassung durchgesetzt, dass – ohne Rücksicht auf die
+allfällig durch die damals gültigen kantonalen Prozessordnungen hin
+sichtlich einer Klagenhäufung gesetzten Schranken – weitere Klagen
+mit der Scheidungsklage sollten verbunden werden können, wenn
+von ihrem Ausgang die Höhe von Unterhaltsleistungen abhing oder
+sie – wie etwa eine Klage auf Teilung von Miteigentum – in engem
+Zusammenhang mit der güterrechtlichen Auseinandersetzung stan
+den (vgl. – neben dem bereits erwähnten BGE 111 II 404 E. 4b –
+
+Bühler/Spühler, Berner Kommentar 1980, N. 61 der Vorbemerkun
+gen vor aArt. 149 157 ZGB; Guldener, Schweizerisches Zivilpro
+zessrecht, 3. Aufl., Zürich 1979, S. 215). Die seit 1. Januar 2011 in
+Kraft stehende Schweizerische Zivilprozessordnung (die anders als
+die kantonalen Zivilrechtspflegegesetze dem ZGB gleichgeordnetes
+Recht darstellt) macht die objektive Klagenhäufung zwar davon
+abhängig, dass das gleiche Gericht für beide Klagen sachlich
+zuständig und die gleiche Verfahrensart anwendbar ist (Art. 90 ZPO).
+Aber abgesehen davon, dass es sich beim Scheidungsverfahren sei
+ner Natur nach durchaus um ein (wenn auch "besonderes", vgl.
+Siehr/Bähler, Basler Kommentar, 2. Aufl., 2013, N. 1b zu Art. 274
+ZPO; Sutter Somm/Stanischewski, in: Sutter Somm/Hasenböhler/
+Leuenberger, a.a.O., N. 5 zu Art. 274 ZPO) ordentliches Verfahren
+handelt, ist daraus nicht zu folgern, dass diese zur alten Rechtslage
+entwickelte Auffassung ihre Berechtigung verloren hätte. Dies umso
+weniger, als im Rahmen des neuen Scheidungsrechts Art. 205 ZGB
+in Kraft getreten war, der in seinen Absätzen 1 und 3 vorsieht, dass
+bei Auflösung des Güterstandes jeder Ehegatte seine Vermögens
+werte, die sich im Besitz des andern befinden, zurücknimmt und die
+Ehegatten ihre gegenseitigen Schulden (gleichgültig aus welchem
+Rechtsgrund sie entstanden sind, Hausheer/Reusser/Geiser, Berner
+Kommentar, 1992, N.65 zu Art. 205 ZGB; anders noch BGE 111 II
+404 E. 4b betreffend Ansprüchen aus ausservertraglicher Schädigung
+zum alten Scheidungsrecht) regeln (vgl. dazu Hausheer/Reusser/
+Geiser, a.a.O., N. 10 zu Art. 205 ZGB). Auf jeden Fall ist der Sach
+zusammenhang zwischen der Auflösung und Liquidation einer
+Ehegattengesellschaft einerseits und der güterrechtlichen Auseinan
+dersetzung anderseits derart eng, dass sich schon aus prozessöko
+nomischen Gründen die entsprechende objektive Klagenhäufung
+zwingend aufdrängt (Genna, a.a.O., S. 151).
+3.2.2.
+Nach dem Gesagten ist davon auszugehen, dass Eheleute im
+Rahmen des Scheidungsverfahrens (die Auflösung und) die tatsäch
+liche Liquidation einer von ihnen geschlossenen Ehegattengesell
+schaft verlangen und damit zum Prozessgegenstand des Schei
+dungsverfahrens machen können. Sie müssen es aber nicht.
+
+Unterbleiben entsprechende Begehren der Eheleute im Scheidungs
+verfahren, kann und muss der Scheidungsrichter im Rahmen der
+güterrechtlichen Auseinandersetzung die Liquidation der Ehe
+gattengesellschaft rechnerisch vornehmen (Genna, a.a.O., S.54 und
+152 sowie – zur rechnerischen Liquidation als solcher und der
+Notwendigkeit, einen umstrittenen Verkehrswert mittels Gutachten
+zu ermitteln – S. 56 ff.). Die Eheleute bleiben dann – vorbehältlich
+eigener Liquidationshandlungen – über die Scheidung hinaus Ge
+samteigentümer der Liegenschaft (auch wenn die Ehegattengesell
+schaft unter Umständen, z.B. zufolge Zweckfortfalls [Art. 545 Abs. 1
+Ziff. 1 OR] eventuell bereits von Gesetzes wegen aufgelöst ist, vgl.
+dazu Genna, a.a.O., S. 41 ff.).
+Wird im Scheidungsverfahren die (Auflösung und tatsächliche)
+Liquidation der Ehegattengesellschaft verlangt, ist zum einen zu be
+achten, dass die Auflösung und die Liquidation, die sich in eine
+äussere und eine innere unterteilt (Genna, a.a.O., S. 12 ff.), naturge
+mäss aufeinanderfolgen, und zum andern, dass das tatsächliche
+Ergebnis der äusseren Liquidation zuerst gesellschaftsrechtlich bei
+der inneren Liquidation einzusetzen ist (Art.548 f. OR) und dieses
+Ergebnis der inneren Liquidation noch nach güterrechtlichen
+Gesichtspunkten den Gütermassen zugeordnet werden muss
+(Hausheer, Anmerkungen zur Ehegattengesellschaft, ZBJV 1995,
+S.622 f.). Das Güterrecht seinerseits ist grundsätzlich in einer Weise
+zu regeln, dass der entsprechende auf Geldleistung gerichtete Aus
+gleichsanspruch (vgl. Art.205ZGB) im Urteilsdispositiv betrags
+mässig festgehalten und so ein definitiver Rechtsöffnungstitel (Art.
+80 SchKG) geschaffen wird. Ist somit zufolge eines entsprechenden
+Antrags eines oder beider Ehegatten eine tatsächliche Liquidation
+durchzuführen, muss grundsätzlich deren Ergebnis bekannt sein,
+damit der güterrechtliche Schlussanspruch (vollstreckbar) franken
+mässig bestimmt werden kann (Genna, a.a.O., S. 54 mit Hinweisen).
+Daraus folgt, dass bei einem Antrag auf tatsächliche Liquidation der
+Ehegattengesellschaft, der sich ein Ehegatte widersetzt, das
+Scheidungsgericht zunächst darüber zu befinden hat, ob die Ehe
+gattengesellschaft aufgelöst ist (vgl. die Fälle von Art. 545 Abs. 1
+Ziff. 1 6 OR, die von Gesetzes wegen zur Auflösung der Gesellschaft
+
+führen) oder nach Art. 545 Abs. 1 Ziff. 7 in Verbindung mit Art. 545
+Abs. 2 OR aus wichtigem Grund durch Gestaltungsurteil aufzulösen
+(vgl. Genna, a.a.O., S. 37 ff.) und – gegebenenfalls – die (äussere)
+Liquidation (vgl. Genna, a.a.O., S. 11 ff. und 90 ff.) anzuordnen ist.
+Zwar spricht namentlich bei überschaubaren Verhältnissen grund
+sätzlich nichts dagegen, die Auflösung und Liquidation im Schei
+dungsurteil selber anzuordnen und für den (noch unbekannten)
+Liquidationserlös einen separaten Verteilschlüssel vorzusehen, der
+neben eine die übrigen Vermögenswerte umfassende güterrechtliche
+Auseinandersetzung tritt. Stellen sich die güterrechtlichen Verhält
+nisse indes komplex dar oder ist gar ein negatives Liquidationsergeb
+nis zu befürchten, drängt es sich hingegen – jedenfalls, soweit die
+Scheidung als solche unstrittig ist – auf, über die Auflösung und
+Liquidation der Ehegattengesellschaft im Scheidungsverfahren vor
+weg einen Teilentscheid zu erlassen.
+56 Art. 221 Abs. 2 lit. b ZPO
+Angesichts des klaren Wortlauts von Art. 221 Abs. 2 lit. b ZPO bleibt kein
+Raum für einen konkludenten Verzicht auf das gesetzlich vorge
+schriebene Schlichtungsverfahren (Art. 197 in Verbindung mit Art. 198
+ZPO) in dem Sinne, dass sich die beklagte Partei einer direkten Klage
+einreichung nicht widersetzt.
+Aus dem Entscheid des Obergerichts, 1. Zivilkammer, vom 22. August 2017
+in Sachen R. Sch. und X gegen M.G. und P.Sch. (ZOR.2017.31).
+Aus den Erwägungen
+3.3.
+3.3.1.
+Dem Entscheidverfahren geht grundsätzlich ein Schlichtungs
+versuch vor einer Schlichtungsbehörde voraus (Art. 197 ZPO).
