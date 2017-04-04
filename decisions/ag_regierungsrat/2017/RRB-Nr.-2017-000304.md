@@ -1,0 +1,260 @@
+---
+decision_id: "ag_regierungsrat_RRB-Nr. 2017-000304"
+court: "AG Regierungsrat"
+court_id: "ag_regierungsrat"
+docket: "RRB-Nr. 2017-000304"
+decided: "2017-04-04"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2510"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2510"
+cites_law: ["switzerland/bund/acts/921.0/art-025.md"]
+---
+
+# Regierungsrat — RRB-Nr. 2017-000304
+
+## Regeste
+
+Zulässigkeit von Nebenbestimmungen 
+Heilung von geringfügigen Mängeln eines Baugesuches durch Statuierung von Nebenbestimmungen und Nachreichung korrigierter Pläne
+
+## Text
+
+Rüge des Beschwerdeführers 1 erweist sich damit als unbegründet,
+da der Waldabstand dem bewilligten temporären Projekt nicht entge
+gensteht.
+(…)
+84 Zulässigkeit von Nebenbestimmungen
+Heilung von geringfügigen Mängeln eines Baugesuches durch Statuie
+rung von Nebenbestimmungen und Nachreichung korrigierter Pläne
+Aus dem Entscheid des Regierungsrats i.S. H.M. und Z. AG gegen den Ent
+scheid des Departements Bau, Verkehr und Umwelt (Abteilung für Baube
+willigungen)/Stadtrats B. vom 4. April 2017 (RRBNr. 2017 000304).
+Aus den Erwägungen
+7.2
+Geringfügige Mängel eines Baugesuchs können grundsätzlich
+mit der Statuierung von Nebenbestimmungen und – soweit erforder
+lich – der Nachreichung korrigierter Pläne geheilt werden. Der
+Baubewilligungsbehörde kommt bei der Frage Ermessen zu, ob ein
+Baugesuch abgewiesen werden muss oder ob eine Heilung möglich
+ist. Dabei ist sie an den Grundsatz der Verhältnismässigkeit gebun
+den. Eine Baubewilligung zu verweigern, statt sie mit Neben
+bestimmungen zu erteilen, kann namentlich deswegen unverhältnis
+mässig sein, weil die Ablehnung des Baugesuchs die Bauherrschaft
+zwingt, ein nur geringfügig abgeändertes Baugesuch nochmals dem
+vollständigen Baubewilligungsverfahren mit öffentlicher Auflage
+und Rechtsmittelweg zu unterstellen; damit geht sie möglicherweise
+das Risiko von Rechtsänderungen, weiteren Einsprachen und
+Kostennachteilen ein. Derartige Verfahrensverzögerungen zu vermei
+den, kann zudem auch im Interesse der Öffentlichkeit liegen
+(AGVE2002, S. 243). Führen die Mängel jedoch dazu, dass ein
+
+Projekt grundlegend überarbeitet werden muss, fällt eine Korrektur
+mittels Nebenbestimmung ausser Betracht (VGE III/95 vom 7.Juli
+2016, Erw. 5.1).
+Die Statuierung von Nebenbestimmungen der Baubewilligung
+darf nicht verwechselt werden mit der Bewilligung von Projektände
+rungen (§52 Abs. 1 BauV). Mit Projektänderungsgesuchen werden
+nämlich keine Mängel des Baugesuchs auf Anordnung der Baube
+willigungsbehörde behoben, sondern diese basieren auf neuen, zu
+sätzlichen Wünschen und Begehren der Bauherrschaft, welche sich
+erst nach Erhalt der Baubewilligung beziehungsweise während des
+Bauens materialisieren. Die Gültigkeit der bereits erteilten Baube
+willigung wird mit der Stellung eines Projektänderungsgesuchs denn
+auch nicht in Frage gestellt, das heisst die Bauherrschaft behält das
+Recht, von der Baubewilligung auch bei Ablehnung des Projektän
+derungsgesuchs Gebrauch zu machen.
+Im Gegensatz dazu werden mit Nebenbestimmungen Mängel
+des Baugesuchs behoben und damit erst die Bewilligungsfähigkeit
+des Baugesuchs beziehungsweise die Rechtskonformität der erteilten
+Baubewilligung sichergestellt. Nebenbestimmungen können in Form
+von Auflagen oder Bedingungen statuiert werden. Als Bedingungen
+erlassene Nebenbestimmungen führen dazu, dass von der Bewilli
+gung erst bei Erfüllung der Bedingung Gebrauch gemacht werden
+darf (Suspensivbedingung) beziehungsweise, dass die Bewilligung
+mit der Erfüllung einer Bedingung dahinfällt (Resolutivbedingung).
+Die oft verwendete Formel, "vor Baubeginn" sei eine bestimmte Vor
+aussetzung zu erfüllen, ist eine Kennzeichnung der im Baurecht viel
+stärker verbreiteten Suspensivbedingung. Demgegenüber wirken sich
+Auflagen nicht auf den Bestand der Baubewilligung aus. Die Auflage
+verpflichtet vielmehr die baugesuchstellende Person zu einem Tun,
+Dulden oder Unterlassen und kann – bei Nichterfüllung – mit den
+Mitteln des Verwaltungszwangs durchgesetzt werden (RRB
+Nr.2000 000856 vom 3.Mai 2000, Erw. 2.b; WALTER HALLER/
+PETER KARLEN, Raumplanungs , Bau und Umweltrecht, 3.Aufl.,
+Zürich 1999, Rz. 530 ff.).
+
+7.3
+Der Stadtrat stellte verschiedene Mängel des Bauprojekts fest
+und verlangt von der Bauherrschaft in den Nebenbestimmungen de
+ren Behebung. Dabei verfügte der Stadtrat insbesondere die folgen
+den, im Beschwerdeverfahren umstrittenen Nebenbestimmungen:
+“15. Insgesamt ist für das vorliegende Bauvorhaben mindestens ein
+Parkfeld erforderlich und sind maximal vier zulässig. Auf den fraglichen
+Parzellen können bzw. dürfen keine Parkfelder erstellt werden. Der Abtei
+lung Planung und Bau ist stattdessen das Vorhandensein mindestens eines
+Parkfelds mittels Mietvertrag oder ähnlichem vor Baubeginn nachzuweisen.
+16. Für das Bauvorhaben sind mindestens 13 genügend markierte, gut
+zugängliche und nach Möglichkeit überdachte Abstellplätze für den leichten
+Zweiradverkehr zu erstellen. Der oder die Standorte sind planlich darzu
+stellen und der Abteilung Planung und Bau vor Baubeginn zweifach zur Ge
+nehmigung einzureichen.
+17. Die geplanten Toiletten sind behindertengerecht auszugestalten.
+Ein entsprechender Nachweis ist der Abteilung Planung und Bau vor Bau
+beginn zukommen zu lassen. Massgebend ist die Norm SIA 500 Hindernis
+freie Bauten, Ausgabe 2009 des SIA.
+18. Bezüglich der Umgebung gelten die unter Ziff. 6.3 der vorstehen
+den Erwägungen formulierten Auflagen. Der Zustand und die Entwicklung
+des Naturschutzobjekts Wiese O. dürfen durch das Vorhaben zu keiner Zeit
+gefährdet werden.
+19. (…)
+20. Der Container ist hochwertig zu gestalten. Die Toiletten sind bau
+lich besser mit dem Hauptcontainer zu verbinden. Farbgebung, Materia
+lisierung und die definitive Anordnung der Bauten bleiben vorbehalten. Sie
+sind rechtzeitig vor der Ausführung mit der Abteilung Planung und Bau
+abzusprechen und im Detail aufzuzeigen.“
+7.4
+7.4.1
+Wie oben bereits festgestellt, können und dürfen auf der
+Bauparzelle keine Parkfelder errichtet werden (Erw. 6.3). Nichts
+desto trotz entband der Stadtrat die Bauherrschaft nicht gänzlich von
+der Parkplatzerstellungspflicht, sondern er verfügte i.S.v. § 55 Abs. 1
+Satz 2 BauG, dass die Bauherrschaft das Vorhandensein mindestens
+
+eines Parkfelds mittels eines Mietvertrags nachzuweisen habe. Mit
+anderen Worten ausgedrückt geht es nicht darum, eine zusätzliche
+Baute oder Anlage auf der Bauparzelle zu errichten, sondern ledig
+lich um die Erbringung des Nachweises, dass der Bauherrschaft ein
+Parkplatz für das Bauvorhaben zur Verfügung steht. Die Erbringung
+eines solchen Nachweises stellt eine übliche Nebenbestimmung einer
+Baubewilligung dar und ist nicht zu beanstanden. Die Erbringung des
+Nachweises eines externen Parkfelds bereits im Zeitpunkt der Einrei
+chung des Baugesuchs erwiese sich als unverhältnismässig, da der
+Parkplatz der Bauherrschaft erst bei Aufnahme des Betriebs zur
+Verfügung stehen muss. Da die Nebenbestimmung im vorliegenden
+Kontext als Bedingung für den Baubeginn, das heisst als Bedingung
+für die Inanspruchnahme der Baubewilligung, formuliert ist, ist deren
+Einhaltung sichergestellt.
+Die Suspensivbedingung ist daher rechtlich zulässig und nicht
+zu beanstanden.
+7.4.2
+Der Stadtrat B. verlangt von der Bauherrschaft, mindestens 13
+gut zugängliche und wenn möglich überdachte Veloabstellplätze zu
+schaffen. Die Bereitstellung von 13 Veloabstellplätzen bedarf keiner
+grossen baulichen Massnahme und führt daher nur zu Projektan
+passungen, die noch als geringfügig qualifiziert werden können. Das
+gilt selbst dann, wenn die 13 zu schaffenden Veloabstellplätze – wie
+vom Stadtrat gewünscht, aber nicht gefordert – überdacht werden
+sollen. Beim blossen Aufstellen eines Veloständers würde sich denn
+sogar die Frage stellen, ob es sich dabei überhaupt um ein baube
+willigungspflichtiges Vorhaben handelt. Jedenfalls ist die Nach
+barschaft von der geforderten Schaffung eines (allenfalls über
+dachten) Veloständers mit 13 Abstellplätzen nicht wesentlich be
+troffen. Im Gesamtkontext der erteilten Baubewilligung führt die Ne
+benbestimmung nur zu einer geringfügigen Änderung der bewilligten
+Pläne.
+Die Suspensivbedingung zur Schaffung von 13 Veloabstellplät
+zen erweist sich daher als rechtmässig.
+
+7.4.3
+Ebenfalls nicht zu einer erheblichen Projektänderung führt die
+vom Stadtrat verlangte behindertengerechte Ausführung der WC
+Anlagen. Eine behindertengerechte Ausführung bedingt zwar, dass
+die Toiletten von je 1.2 m x 1.4m auf mind. 1.65 m x 1.8 m ver
+grössert werden (§37 Abs. 1 BauV i.V.m. Ziff. 7.2.3.2 der SIA 500
+"Hindernisfreie Bauten", Ausgabe 2009, des Schweizerischen Inge
+nieur und Architektenvereins). Die Vergrösserung um insgesamt we
+niger als 3m2 stellt jedoch ebenfalls keine wesentliche Projektan
+passung dar, welche nicht mit der verfügten Suspensivbedingung ge
+fordert werden könnte.
+Die gegen diese Nebenbestimmung erhobenen Rügen erweisen
+sich demgemäss als unbegründet.
+7.4.4
+Zum Schutz der Wiese O. verfügte der Stadtrat, dass die Wiese
+in den Randbereichen weder begangen noch durch Nährstoffeinträge
+oder Abfälle beeinträchtigt werden dürfe und dass das Wildbienen
+haus beibehalten werden müsse. Weiter verlangt der Stadtrat, dass
+mindestens zwei Zugänge zum Hang sicherzustellen seien. Diese
+Auflagen sind genügend klar formuliert und auch durchsetzbar. Sie
+führen zu keiner Projektanpassung und können daher ohne weiteres
+als Auflage zur Baubewilligung verfügt werden. Ebenfalls keine bau
+bewilligungspflichtigen Projektanpassungen stellen die von der Bau
+herrschaft allenfalls zum Schutz des Hangs aufzustellenden Zäune
+oder Infotafeln dar.
+Die dagegen vorgebrachten Rügen erweisen sich demgemäss
+als unberechtigt.
+7.4.5
+Der Stadtrat hat in Ziff. 20 seines Beschlusses diverse Anord
+nungen zur Gestaltung des Café Containers erlassen und verlangt
+von der Bauherrschaft, dass Farbgebung, Materialisierung und
+definitive Anordnung der Bauten rechtzeitig vor der Ausführung mit
+der Abteilung Planung und Bau abzusprechen und im Detail auf
+zuzeigen seien.
+Diese Nebenbestimmung ist nicht zu beanstanden: Es entspricht
+einer weit verbreiteten Praxis, dass Detailfragen der Materialisierung
+
+und Farbgebung der Aussenhülle eines Bauwerks nach Erteilung der
+Baubewilligung mit der zuständigen Planungsabteilung der Gemein
+de abzusprechen sind und dass entsprechende Farb und Material
+muster zur Kontrolle abgegeben werden müssen (vgl. dazu auch
+RRB Nr. 2013 001100 vom 4.September 2013, Erw. 6). Aus Sicht
+des Regierungsrats würde es denn auch den Gegenstand des Baube
+willigungsverfahrens (die Kontrolle, ob die Bauten den gesetzlichen
+Grundlagen entsprechen) sprengen, wenn bereits im Baubewilli
+gungsverfahren solche Detailfragen beantwortet werden müssten.
+Nichts anders gilt für die Auflage, dass die Toilettenanlage baulich
+mit dem Café Container besser zu verbinden ist. Diese Auflage ist
+klar formuliert und führt nur zu einer geringfügigen Anpassung des
+Projekts. Die Auflage kann damit ebenfalls in Form einer Nebenbe
+stimmung zur Baubewilligung angeordnet werden.
+Die Auflage gemäss Ziff. 20 der erteilten Baubewilligung ist da
+mit ebenfalls rechtlich nicht zu beanstanden.
+7.5
+Soweit die Beschwerdeführenden rügen, dass der Stadtrat zu
+Unrecht die Kompetenz zur Genehmigung der nachträglichen
+Planänderungen an die Abteilung Planung und Bau delegiert habe
+(…), ist darauf hinzuweisen, dass der Anhang der Verordnung über
+die Delegation von Entscheidbefugnissen des Stadtrats (Kompetenz
+delegationsverordnung) vom 18.Juni 2007 verschiedene Kom
+petenzdelegationen ausdrücklich vorsieht. Der Stadtrat delegierte der
+Abteilung Planung und Bau die Erteilung von Bagatellbaube
+willigungen beziehungsweise die Genehmigungen von Planände
+rungen mit Bagatellcharakter. Da die verfügten Projektanpassungen –
+wie oben gezeigt – nur zu geringfügigen Planänderungen führen, ist
+nicht zu beanstanden, wenn der Stadtrat die entsprechende Genehmi
+gungskompetenz der Abteilung Planung und Bau übertrug.
+Ebenfalls nicht ersichtlich ist, inwieweit die Beschwerdeführen
+den durch die nachträglichen geringfügigen Projektanpassungen ihrer
+Mitwirkungsrechte beraubt werden. Die Beschwerdeführenden haben
+im erstinstanzlichen Verfahren Einwendungen erhoben und konnten
+sich damit zum Bauprojekt äussern. Die Beschwerdeführenden wer
+den von den vom Stadtrat verfügten Projektanpassungen nicht belas
+
+tet. Im Gegenteil verlangt der Stadtrat von der Bauherrschaft in
+gestalterischer Hinsicht eine Verbesserung. Da keine Belastung der
+Beschwerdeführenden stattfindet, können die Projektänderungen
+ohne erneute öffentliche Publikation bewilligt werden
+Die diesbezüglich erhobenen Rügen erweisen sich damit eben
+falls als unbegründet.
+(…)
+85 Art. 25 Abs. 1 WaG und § 24 Abs. 1 AWaV
+Kantonale Bewilligungspflicht für die Veräusserung von Wald in öffent
+lichem Eigentum an Private
+Anforderungen an die waldrechtliche Bewilligungsprüfung; Be
+schränkung auf die Beurteilung einer allfälligen Beeinträchtigung
+der Waldfunktionen
+Keine Beeinträchtigung der Waldfunktionen alleine durch die Ver
+äusserung von Wald in öffentlichem Eigentum an Private, d.h. kein
+prinzipieller, absoluter Vorrang einer öffentlichen Eigentümerschaft
+bei der Veräusserung von Wald in öffentlichem Eigentum
+Aus dem Entscheid des Regierungsrats vom 3. Mai 2017 i.S. Ortsbürgerge
+meinde T. gegen die Verfügung der Abteilung Wald des Departements Bau,
+Verkehr und Umwelt (RRB Nr. 2017000478).
+Aus den Erwägungen
+3.1
+Gemäss Art. 25 Abs. 1 WaG bedürfen die Veräusserung von
+Wald im Eigentum von Gemeinden und Korporationen sowie die
+Teilung von Wald einer kantonalen Bewilligung. Diese darf nur er
+teilt werden, wenn dadurch die Waldfunktionen nicht beeinträchtigt
+werden. Zu diesen durch den Wald zu erfüllenden Funktionen zählt
+das Waldgesetz namentlich die Schutz , Wohlfahrts und Nutzfunk
