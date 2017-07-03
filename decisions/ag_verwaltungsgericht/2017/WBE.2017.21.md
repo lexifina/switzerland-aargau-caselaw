@@ -1,0 +1,338 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2017.21"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "WBE.2017.21"
+decided: "2017-07-03"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2442"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2442"
+cites_decisions: ["2A.480/2004", "2C_153/2014", "2C_233/2011", "2C_286/2014"]
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — WBE.2017.21
+
+## Regeste
+
+Liegenschaftsunterhaltskosten (§ 39 Abs. 2 StG) 
+Umbau von Ein-in Zweifamilienhaus als umfassende Instandstellung, bei welcher kein Unterhaltsabzug gewährt wird (kein Unterhaltsanteil; Quasi-Neubau-Praxis)
+
+## Text
+
+Vorinstanz vertretene Auffassung sogar zu einer rechtsungleichen
+Schlechterstellung des beschränkt Steuerpflichtigen gegenüber dem
+unbeschränkt Steuerpflichtigen führen. Auch insoweit erweist sich
+der Entscheid der Vorinstanz somit als rechtsfehlerhaft.
+16 Liegenschaftsunterhaltskosten (§39 Abs.2 StG)
+Umbau von Ein in Zweifamilienhaus als umfassende Instandstellung, bei
+welcher kein Unterhaltsabzug gewährt wird (kein Unterhaltsanteil;
+Quasi Neubau Praxis)
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom 3.Juli 2017,
+i.S. R.J. und B.J. gegen KStA (WBE.2017.21)
+Aus den Erwägungen
+1.
+1.1.
+Streitgegenstand bildet die Höhe der abzugsfähigen Unterhalts
+kosten für die Liegenschaft bei der Kantons und Gemeindesteuer
+2012. In diese Periode fallen von den gesamten Kosten von
+Fr.1'250'000.00 lediglich Fr.26'407.00. Das Spezialverwaltungs
+gericht ging davon aus, dass es sich beim Umbau der Liegenschaft
+um eine umfassende Instandstellung handelte, welche sämtliche we
+sentlichen Bereiche der Liegenschaft betraf und deren Nutzungswert
+im Vergleich zum Standard beim Erwerb erheblich erhöhte. Es
+taxierte die Renovation im Sinne einer Gesamtbetrachtung als wert
+vermehrende Investition und dementsprechend als nicht abziehbar.
+1.2.
+Die Beschwerdeführer machen geltend, die Renovations resp.
+Umbaukosten hätten Fr.830'000.00 betragen und nicht
+Fr.1'250'000.00. Die Kosten für den Anbau, den alleinstehenden
+Carport sowie die Kosten im Zusammenhang mit dem abparzellier
+
+ten Grundstück (Teichanlage, Stützmauer) seien nicht zu berück
+sichtigen. Für diese habe man auch keinen Abzug verlangt. Die Lie
+genschaft sei dauernd bewohnt und in einem gut unterhaltenen Zu
+stand gewesen; wenn auch nicht mehr dem heutigen Standard
+entsprechend. Der Standard der Liegenschaft habe sich mit dem Um
+bau nicht erhöht und der umgebaute Teil habe keine Wertsteigerung
+erfahren. Die Kosten seien daher zum Abzug zuzulassen.
+2.
+2.1.
+Das Spezialverwaltungsgericht hat die gesetzlichen Grundlagen
+zu den abzugsfähigen und nicht abzugsfähigen Kosten von Arbeiten
+an Liegenschaften richtig dargestellt. Auch der Hinweis, wonach bei
+der Ausscheidung von werterhaltenden und wertvermehrenden Auf
+wendungen grundsätzlich eine Einzelbetrachtung und nur ausnahms
+weise eine Gesamtbetrachtung erfolgt, ist korrekt und lediglich mit
+einem Verweis auf die bundesgerichtliche Rechtsprechung zu ergän
+zen (Urteil vom 4.September 2014 [2C_153/2014] Erw.2.2 mit
+zahlreichen Hinweisen).
+2.2.
+Beim Entscheid, ob es sich um nicht abziehbare Um und Aus
+baukosten oder um abziehbare Liegenschaftsunterhaltskosten han
+delt, ist der Zweck der baulichen Massnahme wegleitend. Dient die
+Massnahme in erster Linie oder ganz überwiegend einer Ausweitung
+der Nutzung, so ist in aller Regel auf reine Um bzw. Ausbaukosten
+zu schliessen. Dagegen liegen zumindest hinsichtlich des nicht klar
+wertvermehrenden Anteils baulicher Massnahmen Liegenschafts
+unterhaltskosten vor, wenn die infrage stehenden Arbeiten insgesamt
+gesehen keine massgebliche Nutzungserweiterung zur Folge haben.
+Die Grenze zum Umbau dürfte indessen dann überschritten sein,
+wenn zusätzlicher Wohnraum geschaffen wird, d.h. wenn aus den
+baulichen Massnahmen zusätzliche Raumeinheiten resultieren. So
+bald diese eine gewisse Grösse übersteigen, überwiegt der Um bzw.
+Ausbaucharakter, so dass ein Unterhaltsabzug ausser Betracht fällt
+(Urteil des Verwaltungsgerichts vom 17.Dezember 2013
+[WBE.2013.245] Erw.3.4).
+
+2.3.
+Bei der Unterscheidung von werterhaltenden und wertvermeh
+renden Aufwendungen besteht eine grosse Begriffsvielfalt. Zuweilen
+ist auch von Modernisierungen die Rede. Diese können, müssen aber
+nicht Wertvermehrung darstellen: Das Wesen der Modernisierung,
+welche noch als Instandstellung bezeichnet werden kann, besteht da
+rin, dem Gebäude den zeitgemässen Komfort wiederzugeben, den es
+ursprünglich besessen, durch den technischen Fortschritt und die
+Veränderung der Lebensgewohnheiten jedoch verloren hatte. Die
+Aufwendungen für die Instandstellung oder Modernisierung eines
+Grundstücks, welche einer eigentlichen Neueinrichtung gleich
+kommt, sind dagegen nicht als Unterhaltskosten abzugsfähig. Wird
+ein Gebäude umfassend erneuert, spricht die Vermutung dafür, dass
+die gesamten Aufwendungen wertvermehrenden Charakter haben
+(FELIX RICHNER/WALTER FREI/STEFAN KAUFMANN/HANS ULRICH
+MEUTER, Handkommentar zum DBG, 3. Auflage, Zürich 2016,
+Art.32 N49ff.).
+3.
+3.1.
+Das Einfamilienhaus mit Einliegerwohnung liessen die Be
+schwerdeführer in ein Zweifamilienhaus umbauen und daran Stock
+werkeigentum begründen. Dazu musste die innenliegende Treppe ab
+gebrochen und mussten die Eingangsbereiche neu konzipiert werden,
+sodass jede Wohnung danach über einen eigenen Eingang verfügte.
+Weiter wurde die gesamte Haustechnik und der Innenausbau entfernt,
+sodass bloss noch der Rohbau vorhanden war. In etwa die Hälfte der
+Innenwände mussten weichen und zudem fand ein Eingriff in die tra
+gende Struktur des Gebäudes statt. Die beiden Wohnungsgrundrisse
+wurden grundlegend umgestaltet – Küchen und Nasszellen erhielten
+einen anderen Standort. Schliesslich vergrösserte sich das Volumen
+der Wohnliegenschaft durch einen zusätzlichen Anbau gemäss den
+Berechnungen der Beschwerdeführer um 24,4%. Durch den Anbau
+von je zwei zusätzlichen Zimmern entstanden nach dem Umbau zwei
+5½ Zimmer Wohnungen. Schliesslich liessen sie einen Carport mit
+Geräteschuppen und auf dem abparzellierten Grundstück eine Teich
+anlage sowie eine Stützmauer erstellen.
+
+3.2.
+Entgegen den Beschwerdeführern ist das vom Spezialverwal
+tungsgericht zitierte Urteil des Bundesgerichts vom 23.Februar 2015
+(2C_286/2014) für die Beurteilung ihres Falles einschlägig, obwohl
+der Sachverhalt nicht identisch ist. Das Spezialverwaltungsgericht
+hat denn auch bloss die auch auf den vorliegenden Fall zutreffenden
+allgemeingültigen Ausführungen in Erwägung 3.4 des Bundes
+gerichtsurteils wiedergegeben. Von einer Ruine, welche 30 Jahre un
+bewohnt war, ist das Spezialverwaltungsgericht klarerweise nicht
+ausgegangen. Zu relativieren ist einzig der Vorhalt im angefochtenen
+Urteil, wonach die Renovation deutlich mehr gekostet habe als die
+Liegenschaft – spielte sich der Kauf doch innerhalb der Familie ab,
+wobei meist Vorzugspreise zur Anwendung kommen. Wie im zitier
+ten Bundesgerichtsurteil wurden aber auch bei der Liegenschaft der
+Beschwerdeführer Heizung, elektrische Installationen, sanitäre Anla
+gen und Fenster mit kostspieligen Arbeiten auf einen Schlag erheb
+lich verbessert. Sämtliche wesentlichen Bereiche der Liegenschaft
+waren betroffen, womit es sich nicht mehr um eine partielle, sondern
+um eine umfassende Instandstellung handelte.
+Ein Bündel derartiger Baumassnahmen hebt den Standard eines
+Gebäudes gegenüber seinem Zustand beim Erwerb und führt zu einer
+Wertvermehrung (RICHNER UND ANDERE, a.a.O., Art.32 N53). In
+standstellungs und Modernisierungsmassnahmen, die für sich allein
+noch als Unterhaltsmassnahmen zu beurteilen wären, können in ihrer
+Gesamtheit zu einer Wertvermehrung führen, wenn dadurch der Ge
+brauchswert (das Nutzungspotenzial) des Gebäudes gegenüber dem
+ursprünglichen Zustand (im Zeitpunkt des Erwerbs bzw. der Herstel
+lung) deutlich erhöht wird (RICHNER UND ANDERE, a.a.O. Art.32
+N52). Dies trifft auf die Liegenschaft der Beschwerdeführer zu,
+denn mit dem Ausbau zu zwei separaten Wohnungen hat sich das
+Nutzungspotenzial verdoppelt. Das Spezialverwaltungsgericht hat
+damit die Abzugsfähigkeit der geltend gemachten Kosten zu Recht
+verneint.
+3.3.
+Auch im Hinblick auf die in Erw.2.2. dargelegte verwaltungs
+gerichtliche Rechtsprechung (WBE.2013.245) erscheint die vorin
+
+stanzliche Würdigung überzeugend. Im Ergebnis geht das Spezial
+verwaltungsgericht davon aus, dass ein Umbau der Liegenschaft vor
+liegt, durch den die Art der Nutzung der Liegenschaft zwar nicht
+grundlegend verändert, aber doch merklich ausgeweitet worden ist,
+weshalb keine Kosten zum Abzug zuzulassen sind. Aufgrund der er
+heblichen Umbaumassnahmen, der hohen Kosten und des Umstands,
+dass anstelle des Einfamilienhauses mit Einliegerwohnung neu zwei
+separate Eigentumswohnungen bestehen, sowie der vorgenommenen
+Abparzellierung wäre überdies die Annahme einer grundlegenden
+Neugestaltung und somit eines Neubaus – wie von der
+Steuerkommission angenommen – ebenfalls nicht abwegig. Da je
+doch das Resultat (Nichtabziehbarkeit der Kosten) dasselbe bleibt,
+erübrigen sich weitere Ausführungen dazu.
+3.4.
+Das Spezialverwaltungsgericht liess schliesslich offen, ob beim
+Umbau eines Einfamilienhauses mit Einliegerwohnung in ein Zwei
+familienhaus mit gleichzeitiger Wohnraumerweiterung eine
+Nutzungsänderung vorliegt. Gemäss ständiger bundesgerichtlicher
+Rechtsprechung ist immer dann von einer Wertvermehrung auszuge
+hen, wenn die Renovation zu einer Nutzungsänderung führt
+(BERNHARD ZWAHLEN/ALBERTO LISSI, in: MARTIN
+ZWEIFEL/MICHAEL BEUSCH [Hrsg.], Bundesgesetz über die direkte
+Bundessteuer, 3. Auflage, Basel 2017, Art.32 N13, mit Verweis auf
+die bundesgerichtliche Rechtsprechung).
+Die Beschwerdeführer haben die obere Wohnung von den unte
+ren Räumlichkeiten durch den Abbruch der innenliegenden Verbin
+dungstreppe abgetrennt, im Erd wie auch im Untergeschoss die
+Wohnfläche erweitert, die beiden Wohnungen mit separaten neuen
+Hauseingängen erschlossen und an den beiden Einheiten schliesslich
+Stockwerkeigentum begründet. Das vormals im Eigentum der Be
+schwerdeführer stehende Untergeschoss gehört neu ihrer Tochter und
+deren Ehemann. Es fand somit eine Nutzungsänderung statt. So ge
+sehen stand auch hier nicht der Erhalt der Einkommensquelle im
+Vordergrund, sondern die Schaffung einer neuen Einkommensquelle,
+welche die Beschwerdeführer allerdings mit dem Verkauf der Stock
+werkeinheit wieder abgestossen haben. Die Liegenschaft wurde ent
+
+sprechend umfunktioniert, was zur Verweigerung der Abzugsfähig
+keit der geltend gemachten Kosten führt (Urteil des Bundesgerichts
+vom 28.Juli 2011 [2C_233/2011] Erw.3.2; Urteil des Bundesge
+richts vom 4.September 2009 [2C_153/2014]). Damit ist der bean
+tragte Abzug auch deshalb zu verwehren, weil mit dem umstrittenen
+Umbau auch eine Nutzungsänderung einherging.
+4.
+Was die Beschwerdeführer gegen das angefochtene Urteil über
+dies noch einwenden, ändert an der Nichtabziehbarkeit der geltend
+gemachten Kosten nichts.
+4.1.
+Die Kosten des neu erstellten Carports mit Geräteschuppen, des
+Anbaus und der Umgebungsarbeiten sind entgegen den Beschwerde
+führern nicht einfach separat zu behandeln, auch wenn klar ist, dass
+die drei Positionen keine Unterhaltskosten darstellen. Die Kosten
+gehören zum Gesamtprojekt und die Arbeiten wurden in derselben
+Zeit realisiert, wie die Arbeiten am Einfamilienhaus. Das Spezialver
+waltungsgericht ist zu Recht von einer Bausumme von
+Fr.1'250'000.00 ausgegangen bei der Beurteilung, ob eine Gesamtbe
+trachtung vorzunehmen ist oder nicht.
+4.2.
+Nicht zu beanstanden ist auch die von den Beschwerdeführern
+kritisierte Begriffsverwendung des Spezialverwaltungsgerichts, wel
+ches die Umbauarbeiten als umfassende Instandstellung qualifizierte
+(die Beschwerdeführer erachten den Begriff Instandhaltung für kor
+rekt). Denn bezüglich der Rechtsfolgen ist die begriffliche
+Unterscheidung von Instandstellung und Instandhaltung mit Abschaf
+fung der Dumont Praxis bedeutungslos geworden (DIETER EGLOFF,
+in: MARIANNE KLÖTI WEBER/DAVE SIEGRIST/DIETER WEBER
+[Hrsg.], Kommentar zum Aargauer Steuergesetz, 4. Auflage,
+Muri/Bern 2015, §39 N43). In §39 Abs.2 StG werden die In
+standstellungskosten zudem explizit als abziehbar erwähnt. Handelt
+es sich jedoch um umfassende Instandstellungskosten, bei welchen
+die Ausweitung der Nutzung im Vordergrund steht, können diese
+Kosten, wie bereits ausgeführt, nicht abgezogen werden (siehe vorne
+Erw.3.2).
+
+4.3.
+Die Beschwerdeführer weisen ausserdem auf den gut
+unterhaltenen Zustand der Liegenschaft vor Ausführung der Arbeiten
+hin. Das Haus sei ohne jegliche Investitionen weiter bewohnbar
+gewesen. In den letzten sieben Jahren vor dem Umbau seien
+Fr.59'081.00 investiert worden. Diese Summe ist jedoch zu relativie
+ren: Aus den Steuerveranlagungen geht hervor, dass in fünf von sie
+ben Jahren lediglich der Pauschalabzug von 20% geltend gemacht
+worden ist. Für ihre eigene Berechnung haben sie zudem die höheren
+Ansätze für die direkte Bundessteuer verwendet. Der Pauschalabzug
+sagt offensichtlich nichts darüber aus, ob und wie hoch tatsächlich
+Unterhaltskosten angefallen sind. Zudem spricht die Tatsache, wo
+nach die Liegenschaft trotz des behaupteten gut unterhaltenen Zu
+stands dennoch umfassend erneuert worden ist, nicht für das Vorlie
+gen von abzugsfähigen Unterhaltskosten, sondern für Einkommens
+verwendung, respektive Lebenshaltungskosten. Als solche gelten der
+Ersatz von Installationen kurz nach deren Investition (RICHNER UND
+ANDERE, a.a.O., Art.32 N78). Letztendlich ändert dies nichts daran,
+dass die Beschwerdeführer die Liegenschaft 2012 und 2013 umfas
+send erneuert haben.
+Die Beschwerdeführer widersprechen sich zudem hinsichtlich
+des Standards, wenn sie einerseits ausführen, der Standard habe teil
+weise nicht mehr dem heutigen entsprochen und andererseits anmer
+ken, der Standard der Liegenschaft habe sich nicht erhöht. Sind die
+wesentlichen Einrichtungen (Heizungs , Sanitär und Elektroinstalla
+tionen sowie Fenster) im Zeitpunkt der Anschaffung nur im nötigen
+Umfang und/oder in einem technisch überholten Zustand vorhanden,
+handelt es sich um einen einfachen Wohnungsstandard. Wenn im Zug
+von Baumassnahmen diese Einrichtungen nicht nur in zeitgemässer
+Form ersetzt, sondern darüber hinaus in ihrer Funktion (Gebrauchs
+wert) deutlich erweitert und ergänzt werden und dadurch der Wohn
+komfort des Hauses insgesamt deutlich gesteigert wird (bspw. Ersatz
+einfach verglaster Fenster durch Isolierglasfenster, höhere Zahl von
+Elektroanschlüssen und neue Multimedia Anschlüsse, Ersatz tech
+nisch überholter Heizungsanlage durch eine dem Stand der Technik
+entsprechende Heizungsanlage), dann wird ein Wohnhaus dadurch
+
+wesentlich verbessert (RICHNER UND ANDERE, a.a.O., Art.32
+N52f.). Wie bereits ausgeführt, haben die Beschwerdeführer sämtli
+che wesentlichen Einrichtungen der Liegenschaft auf einmal er
+neuert. Damit wurde das Wohnhaus insgesamt wesentlich verbessert,
+weshalb die damit zusammenhängenden Kosten nicht Liegenschafts
+unterhalt, sondern Umbaukosten darstellen.
+4.4.
+Die Beschwerdeführer machen mit Verweis auf ihren Rekurs
+geltend, vom Eigenmietwert müssten die Kosten für den Anbau und
+den Carport in Abzug gebracht werden, dann falle die Erhöhung des
+Eigenmietwerts niedriger aus, was gegen die Annahme von nicht ab
+zugsfähigen Umbaukosten spreche.
+Diese Überlegung geht fehl. Im Eigenmietwert sind die Kosten
+von Anbau und Carport nicht spiegelbildlich enthalten und können
+daher auch nicht einfach so herausgerechnet werden. Zudem handelt
+es sich bei den ausgeführten Arbeiten um eine umfassende In
+standstellung, wofür eine Gesamtbetrachtung vorzunehmen ist. Diese
+kann nicht mittels Umweg über ein beliebiges Herausrechnen von
+Positionen aus dem Eigenmietwert umgangen werden. Damit gilt
+nach wie vor Folgendes: Erhöht sich der Eigenmietwert einer
+Liegenschaft infolge von Arbeiten an dieser, besteht kein Zusammen
+hang zwischen den dafür aufgewendeten Kosten und dem bis dahin
+versteuerten Ertrag der Liegenschaft. Im Umfang der zusätzlichen
+Nutzungsmöglichkeit und deren Ertrag liegen daher keine Liegen
+schaftsunterhaltskosten mehr vor (WBE.2013.245 Erw.3.2 mit Ver
+weis auf Urteil des Bundesgerichts vom 2.Februar 2005
+[2A.480/2004]). Vorliegend hat sich der Eigenmietwert von
+Fr.24'816.00 des Einfamilienhauses mit Einliegerwohnung auf
+Fr.46'979.00 für das Zweifamilienhaus erhöht, wobei für die Woh
+nung im Erdgeschoss ein Eigenmietwert von Fr.24'139.00 und für
+diejenige im Untergeschoss ein solcher von Fr.22'840.00 festgelegt
+worden ist. Der Eigenmietwert hat sich für die gesamte Liegenschaft
+beinahe verdoppelt. Hinsichtlich der Wohnung im Erdgeschoss ist
+der Eigenmietwert zwar annähernd gleich hoch geblieben,
+flächenmässig hat sich diese jedoch mit dem Wegfall der Nutzungs
+möglichkeit im Untergeschoss beinahe halbiert. Eine Erhöhung des
+
+Eigenmietwerts in diesem Umfang überschreitet die Schwelle der
+Wesentlichkeit der Nutzungserweiterung klar, womit keine Kosten
+zum Abzug zuzulassen sind.
+17 Berufskosten und Arbeitsweg (§35 Abs.1 lit.a und c StG)
+Beweisanforderungen, wenn berufliche Notwendigkeit der Benützung des
+Privatfahrzeugs geltend gemacht wird
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom
+15.September 2017, i.S. B.I. und S.I. gegen KStA (WBE.2017.102)
+Aus den Erwägungen
+1.
+Gemäss §35 Abs.1 lit.a StG werden die notwendigen Kosten
+für Fahrten zwischen Wohn und Arbeitsstätte als Berufskosten abge
+zogen. Steht kein öffentliches Verkehrsmittel zur Verfügung oder ist
+dessen Benutzung objektiv nicht zumutbar, so können die Kosten des
+privaten Fahrzeugs abgezogen werden (§12ff. StGV i.V.m. Art.5
+Abs.3 der Verordnung des EFD über den Abzug der Berufskosten
+unselbständig Erwerbstätiger bei der direkten Bundessteuer vom
+10.Februar 1993 [Berufskostenverordnung] in der Fassung vom
+1.Januar 2007 [AS 2006 4887]).
+1.1.
+Nach ständiger Praxis der aargauischen Steuerbehörden und
+Gerichte wird objektive Unzumutbarkeit namentlich dann angenom
+men, wenn die Benützung öffentlicher Verkehrsmittel für den
+Arbeitsweg zwar möglich wäre, aber dadurch täglich im Vergleich
+mit der Benützung des privaten Fahrzeugs ein zusätzlicher zeitlicher
+Aufwand von mehr als 60 Minuten entsteht (vgl. Nachweise bei
+PHILIP FUNK, in: MARIANNE KLÖTI WEBER/DAVE SIEGRIST/DIETER
+WEBER [Hrsg.], Kommentar zum Aargauer Steuergesetz, 4. Aufl.,
