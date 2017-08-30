@@ -1,0 +1,741 @@
+---
+decision_id: "ag_gerichte_RRB_Nr._2017-000956"
+court: "AG Gerichte"
+court_id: "ag_gerichte"
+docket: "RRB Nr. 2017-000956"
+decided: "2017-08-30"
+language: "de"
+source_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2419"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2419"
+cites_law: ["switzerland/bund/acts/101/art-049.md", "switzerland/bund/acts/220/art-954a.md", "switzerland/bund/acts/813.1/art-004.md"]
+---
+
+# AG Gerichte RRB Nr. 2017-000956
+
+## Regeste
+
+§ 12 HBV 
+- Führung einer Apotheke mit Drogerie 
+- Verwendung einer Firmenbezeichnung "Apotheke & Drogerie" in Auskündigungen (Werbung)
+
+## Text
+
+2018 
+Gesundheitsrecht 
+473 
+III. Gesundheitsrecht 
+ 
+67 
+§ 12 HBV 
+- 
+Führung einer Apotheke mit Drogerie 
+- 
+Verwendung einer Firmenbezeichnung "Apotheke & Drogerie" in 
+Auskündigungen (Werbung) 
+Aus dem Entscheid des Regierungsrats vom 30. August 2017 in Sachen 
+S.W. und T. Apotheke & Drogerie AG gegen die Verfügung des Departements 
+Gesundheit und Soziales (Abteilung Gesundheit) vom 16. Januar 2017 
+(RRB Nr. 2017-000956). 
+Aus den Erwägungen 
+1. Formelles 
+Rechtsanwalt A. rügt namens der T. Apotheke & Drogerie AG, 
+dass diese von der Vorinstanz nicht beigeladen worden sei und dass 
+ihr vor dem Erlass der Verfügung vom 16. Januar 2017 das rechtliche 
+Gehör nicht gewährt worden sei. Die Vorinstanz macht demgegen-
+über geltend, die T. Apotheke & Drogerie AG sei von der 
+angefochtenen Verfügung beziehungsweise von der getroffenen An-
+ordnung nicht direkt betroffen, dementsprechend nicht beizuladen, 
+nicht anzuhören und auch nicht beschwerdebefugt. Sie beantragt 
+allerdings die Beschwerdeabweisung, während auf die Beschwerde 
+der T. Apotheke & Drogerie AG nicht einzutreten wäre, wenn sie 
+durch die angefochtene Verfügung nicht beschwert und deshalb nicht 
+beschwerdebefugt wäre. 
+Die Abteilung Gesundheit des Departements Gesundheit und 
+Soziales hat am 16. Januar 2017 verfügt: 
+"S. W., als gesamtverantwortliche Leiterin der 'T. Apotheke 
+AG', (…), wird verpflichtet, innert 30 Tagen seit Rechtskraft dieses 
+Entscheids aus sämtlichen Auskündigungen den Zusatz 'Drogerie' zu 
+
+
+474 
+Verwaltungsbehörden 
+2018 
+entfernen beziehungsweise die Auskündigungen, unter Berücksichti-
+gung der massgeblichen Gesetzesvorschriften, anzupassen." 
+Gemäss § 25 Abs. 1 lit. a und b GesG benötigen Apotheken und 
+Drogerien eine Betriebsbewilligung der zuständigen Behörden. Zu-
+ständige Behörde für den Vollzug der Verordnung über die Berufe, 
+Organisationen und Betriebe im Gesundheitswesen (VBOB) vom 
+11. November 2009 ist das Departement Gesundheit und Soziales, 
+soweit nicht eine andere Behörde bezeichnet ist; insbesondere ist es 
+für das Bewilligungswesen gemäss den §§ 4-21 und 25-27, für 
+Aufsicht, Verbot und Disziplinarmassnahmen gemäss den §§ 22-24 
+sowie für Aufsicht und Massnahmen gemäss den §§ 48 und 49 GesG 
+zuständig (§ 2 VBOB). Gesuchstellende Person um Bewilligungs-
+erteilung an Organisationen und Betriebe im Gesundheitswesen 
+inklusive Stellvertretung gemäss den §§ 25 und 27 GesG ist die 
+gesamtverantwortliche Leitungsperson einer Apotheke oder Drogerie 
+(§ 3 Abs. 3 VBOB). Die Gesuchstellung hat immer im Einzelfall und 
+persönlich zu erfolgen (§ 3 Abs. 4 VBOB). Die Betriebsbewilligung 
+wird auf die gesamtverantwortliche Leitungsperson und auf den 
+bezeichneten Betrieb oder die Organisation ausgestellt. Bei ver-
+schiedenen Betriebsstandorten sind separate Bewilligungen not-
+wendig (§ 34 Abs. 1 VBOB). Das Departement Gesundheit und 
+Soziales kommuniziert aber immer mit der gesamtverantwortlichen 
+Leitungsperson. Bedingungen und Auflagen für den Betrieb, Verbote 
+und weitere Anordnungen im Zusammenhang mit der Betriebs-
+bewilligung werden an diese, für sich und allenfalls die juristische 
+Person adressiert, wenn es sich beim Betrieb wie vorliegend um eine 
+Aktiengesellschaft handelt. Wie die Betriebsbewilligung selbst sind 
+auch nachträgliche Auflagen und Weisungen auf die gesamt-
+verantwortliche Leitungsperson und den bezeichneten Betrieb oder 
+die Organisation auszustellen, auch wenn die Adressierung für beide 
+an die Leitungsperson und nicht zusätzlich separat an den Verwal-
+tungsrat der AG erfolgt. In diesem Sinn hat das Departement zwar 
+gegenüber der gesamtverantwortlichen Leitungsperson S. W. verfügt, 
+aus der gewählten Formulierung geht aber unmissverständlich 
+hervor, dass damit nicht nur ihr persönlich die Verwendung des 
+Zusatzes "Drogerie" in Auskündigungen verboten werden sollte, 
+
+
+2018 
+Gesundheitsrecht 
+475 
+sondern dass sie als verantwortliche Leitungsperson auch dafür zu 
+sorgen hatte, dass der Betrieb beziehungsweise die Aktiengesell-
+schaft das Verbot einhält (vgl. Schreiben des Departements DGS an 
+Rechtsanwalt A. vom …). Insofern wurde die Aktiengesellschaft in 
+der Gestaltungsfreiheit ihrer Auskündigungen eingeschränkt, womit 
+sie durch die Verfügung zweifellos in schutzwürdigen eigenen 
+Interessen betroffen, mithin beschwert und zur Anfechtung der 
+Verfügung befugt ist (§ 42 VRPG). Entgegen der Auffassung der 
+Vorinstanz ist daher auf die Beschwerde der T. Apotheke & Drogerie 
+AG einzutreten. 
+Was die Rüge der fehlerhaften Adressierung der Verfügung be-
+ziehungsweise der unterlassenen Beiladung der Aktiengesellschaft 
+anbelangt, ist festzuhalten, dass die für die verantwortliche Leitungs-
+person und die AG bestimmte und an deren gemeinsamen Anwalt ge-
+sandte angefochtene Verfügung zwar mit "T. Apotheke AG" über-
+schrieben ist, obschon die korrekte und vollständige Firmenbezeich-
+nung der Aktiengesellschaft gemäss Handelsregistereintrag "T. Apo-
+theke & Drogerie AG" lautet. Aus der verkürzten Bezeichnung ist der 
+Aktiengesellschaft aber kein Nachteil erwachsen, war doch für sie 
+ohne weiteres klar, wer gemeint war. Zudem hat das Gesundheitsde-
+partement entsprechend seiner Beurteilung, dass die Voraussetzungen 
+für den Betrieb einer Drogerie und die Bezeichnung als solche feh-
+len, in allen Korrespondenzen und insbesondere auch in der proviso-
+rischen und in der definitiven Betriebsbewilligung die Organisation 
+stets mit "T. Apotheke AG" bezeichnet. Die T. Apotheke & Drogerie 
+AG hat das nicht beanstandet und ist offenbar davon ausgegangen, 
+sie sei trotz vom offiziellen Firmennamen abweichender Bezeich-
+nung der Organisation im Besitz einer gültigen Betriebsbewilligung. 
+Dementsprechend ist auch die abweichende Bezeichnung in der 
+angefochtenen Verfügung nicht als fehlerhafte Adressierung zu be-
+trachten, sondern – soweit überhaupt erforderlich – zu korrigieren. 
+Die Verfügung wurde im Übrigen nicht an die gesamtverantwortliche 
+Leitungsperson S. W. gesandt, sondern an Rechtsanwalt A., nachdem 
+dieser dem Departement angezeigt hatte, dass er nicht nur S. W., son-
+dern auch die T. Apotheke & Drogerie AG vertritt (vgl. die 
+Vollmachten vom …). Die angefochtene Verfügung richtete sich also 
+
+
+476 
+Verwaltungsbehörden 
+2018 
+an die zutreffenden Personen und sie wurde mit der Zustellung an 
+deren Rechtsanwalt auch beiden korrekt eröffnet. Zudem hatte 
+Rechtsanwalt A. namens seiner beiden Mandantinnen vor Erlass der 
+angefochtenen Verfügung Gelegenheit, sich zum Verbot der Bezeich-
+nung als Drogerie zu äussern. Hiervon hat er am 28. Oktober 2016 in 
+knapper Form Gebrauch gemacht. Eine Gehörsverletzung liegt somit 
+nicht vor. 
+2. Bezeichnung als Apotheke und Drogerie 
+2.1 
+Die angefochtene Verfügung verbietet der gesamtverantwort-
+lichen Leitungsperson des Betriebs und dem Betrieb, diesen in "Aus-
+kündigungen" als Apotheke und Drogerie zu bezeichnen, zumal am 
+2. Oktober 2013 nur eine Bewilligung für den Betrieb einer Apo-
+theke und nicht auch für eine Drogerie erteilt wurde, nachdem S. W. 
+als verantwortliche Apothekerin und F. V. sowie J. E. als Verwal-
+tungsräte der T. Apotheke und Drogerie AG am 18. Juni 2012 nur ein 
+Gesuch um eine Betriebsbewilligung als öffentliche Apotheke 
+gestellt hatten. Auf Rückfrage der Kantonsapothekerin M. S. an F. V. 
+vom 28. Juni 2012 bestätigte F. V. zudem am 2. Juli 2012 telefonisch, 
+dass der Betrieb vorerst nur als Apotheke geführt und der Auftritt 
+nach aussen und die Ausschilderung entsprechend angepasst werden. 
+Gemäss § 54 Abs. 1 VBOB ist jede Auskündigung oder Wer-
+bung verboten, welche nicht wahrheitsgetreu oder irreführend ist, 
+insbesondere in Bezug auf die bewilligte beziehungsweise ausgeübte 
+Tätigkeit, die absolvierte Aus- und Weiterbildung, auf besondere Fä-
+higkeiten oder zu erwartende Therapieerfolge. § 18 GesG be-
+stimmt ferner, dass die Bekanntmachung der Berufstätigkeit ein-
+schliesslich Werbung objektiv sein und dem öffentlichen Bedürfnis 
+entsprechen muss. Sie darf weder aufdringlich noch irreführend sein 
+(Abs. 1). Der Regierungsrat kann bei geringem Gefährdungspotential 
+Ausnahmen regeln (Abs. 2). 
+Den Beschwerdeführerinnen wurde weder eine Berufsaus-
+übungsbewilligung als Drogistin noch eine Betriebsbewilligung für 
+eine Drogerie erteilt. Insofern erschiene eine Auskündigung als 
+Drogistin beziehungsweise Drogerie als nicht wahrheitsgetreu und 
+eventuell auch irreführend, dies jedenfalls dann, wenn auch keine 
+
+
+2018 
+Gesundheitsrecht 
+477 
+Bewilligung als Apothekerin beziehungsweise Apotheke erteilt 
+worden wäre. Letzteres ist aber nicht der Fall. Die Beschwer-
+deführerinnen machen nämlich geltend, eine Apotheke und eine 
+Apothekerin dürften auch eine Drogerie führen und in der Werbung 
+die Bezeichnung "Apotheke und Drogerie" verwenden, da ein 
+Apotheker oder eine Apothekerin aufgrund der absolvierten Ausbil-
+dung alles könne und wisse, was auch ein Drogist oder eine Drogis-
+tin können und wissen müsse. Eine Auskündigung als "Apotheke und 
+Drogerie" sei nicht zu verbieten, denn sie sei nicht irreführend und 
+schon gar nicht die Gesundheit der potentiellen Kundschaft gefähr-
+dend, da ein Apotheker oder eine Apothekerin alles Gesundheitsrele-
+vante ebenso gut oder gar besser könne als ein Drogist oder eine 
+Drogistin. 
+2.2 
+Zur Kombination von Apotheke und Drogerie bestimmt § 12 
+HBV folgendes: 
+"§ 12 Apotheke und Drogerie 
+1Wird einer Apotheke eine Drogerie angegliedert und will sie als 
+solche bezeichnet werden, muss eine Drogistin oder ein Drogist, 
+die oder der die Voraussetzungen zur Erteilung einer Berufsaus-
+übungsbewilligung erfüllt, zu mindestens 50 % angestellt sein. 
+2Bei Abwesenheit der Drogistin oder des Drogisten hat die ge-
+samtverantwortliche 
+Leitungsperson 
+der 
+Apotheke 
+die 
+Fachkompetenz im Drogeriebereich auf andere Weise sicherzu-
+stellen. 
+3Wird die in Absatz 1 genannte Bedingung nicht erfüllt, kann 
+sich die Apotheke als 'Apotheke mit Drogerieartikeln' bezeich-
+nen." 
+Gemäss § 1 HBV, welcher den Geltungsbereich der Verordnung 
+regelt, sollen die Bestimmungen der HBV den Vollzug der eidge-
+nössischen Heilmittel- und Betäubungsmittelgesetzgebung regeln, 
+insbesondere den Umgang mit Heilmitteln, die Bewilligungsvoraus-
+setzungen für die Abgabe von Heilmitteln und die Aufsicht über den 
+Verkehr mit Heilmitteln und Betäubungsmitteln. Die im Ingress der 
+HBV aufgeführten Bestimmungen des Gesundheitsgesetzes ermäch-
+tigen den Regierungsrat dementsprechend, den Umgang mit und die 
+
+
+478 
+Verwaltungsbehörden 
+2018 
+Abgabe von Heilmitteln und Betäubungsmitteln näher zu regeln. Die 
+regierungsrätlichen Verordnungsbestimmungen der Heilmittel- und 
+Betäubungsmittelverordnung sollen also der Gesundheit der Bevöl-
+kerung im Zusammenhang mit Heil- und Betäubungsmitteln dienen. 
+Im Bereinigten Bericht zur Heilmittel- und Betäubungsmittelver-
+ordnung vom 3. November 2009 wird zu § 12 HBV ausgeführt: 
+"Es gibt im Aargau eine gewisse Zahl von Apotheken, denen 
+eine Drogerie angegliedert ist. Die Tendenz ist eher zunehmend. Da-
+mit stellt sich die Frage, was für Konsequenzen in Bezug auf das 
+erforderliche Fachpersonal daraus gezogen werden müssen. Den 
+Heilmittelbereich einer Drogerie (Abgabekategorie D) kann die ver-
+antwortliche Apothekerin beziehungsweise der verantwortliche Apo-
+theker fachlich vollständig abdecken. Dagegen fehlt in Bezug auf das 
+übliche Drogeriesortiment das Knowhow insbesondere im Chemi-
+kalienbereich. Damit dieser Bereich fachlich auch abgedeckt ist, 
+muss bei einer Kombination Apotheke/Drogerie eine Drogistin be-
+ziehungsweise ein Drogist, die oder der die Voraussetzungen zur 
+Erteilung einer Berufsausübungsbewilligung erfüllt, zu mindestens 
+50 % angestellt sein. Bei Abwesenheit der Drogistin beziehungs-
+weise des Drogisten ist die verantwortliche Leitungsperson ver-
+pflichtet, die Fachkompetenz im Drogeriebereich auf andere Weise 
+sicherzustellen. Vorbehalten bleibt der Fall, wo eine Apotheke diese 
+Bedingungen nicht erfüllt (oder bewusst nicht erfüllen möchte). Sie 
+darf sich aber dennoch als Apotheke mit Drogerieartikeln bezeich-
+nen. Eine übergangsrechtliche Regelung findet sich in § 31. Diese 
+Grundsätze wurden in Absprache mit den beiden betroffenen 
+Verbänden erstellt." 
+Mit dieser Erläuterung wird anerkannt, dass ein Apotheker oder 
+eine Apothekerin im Heilmittelbereich und wohl auch im Betäu-
+bungsmittelbereich über Kompetenzen verfügt, die es erlauben, einen 
+Drogisten oder eine Drogistin fachgerecht zu ersetzen. Demge-
+genüber soll dies in Bezug auf das Drogeriesortiment und namentlich 
+den Chemikalienbereich nicht der Fall sein. Trifft dies im Einzelfall 
+tatsächlich zu, kann zwar die Gesundheit der Kundschaft beeinträch-
+tigt werden, d.h., es ist die Gesundheitsvorsorge betroffen, nicht aber 
+das Heilmittel- und Betäubungsmittelwesen, dessen Vollzug die Heil-
+
+
+2018 
+Gesundheitsrecht 
+479 
+mittel- und Betäubungsmittelverordnung sicherstellen will. Die 
+Regelung von § 12 HBV passt deshalb thematisch nicht so recht in 
+den Verordnungskontext und sie dient – wie aus dem letzten Satz der 
+Erläuterung zu schliessen ist – wohl eher dem Ausgleich der Interes-
+sen der konkurrierenden Apotheken und Drogerien als dem Gesund-
+heitsschutz der Kundschaft. Gemäss § 12 Abs. 3 HBV ist es nämlich 
+einer Apotheke, welche keine Drogistin und keinen Drogisten 
+beschäftigt, nicht verwehrt, Drogerieartikel zu verkaufen. Der Ver-
+kauf von Drogerieartikeln ohne artikelspezifische Kundenberatung 
+wird also nicht als Gesundheitsgefährdung der Kundschaft einge-
+schätzt, zumal auf der Verpackung in der Regel die relevanten Infor-
+mationen aufgedruckt sind, sofern kein Beipackzettel beiliegt, wel-
+cher die persönliche Kundenberatung gewissermassen ersetzt. Es 
+kommt hinzu, dass in einer Apotheke, welche sich als "Apotheke und 
+Drogerie" bezeichnen will, eine Drogistin oder ein Drogist nur zu 
+mindestens 50 % angestellt sein muss. Die Kundschaft hat also nur 
+eine 50 %-Chance, dass beim Apothekenbesuch eine Drogerie-
+fachperson anwesend ist, welche fachkompetent beraten kann. Bei 
+deren Abwesenheit hat die gesamtverantwortliche Leitungsperson 
+der Apotheke zwar gemäss § 12 Abs. 2 HBV "die Fachkompetenz im 
+Drogeriebereich auf andere Weise sicherzustellen". Ob dies tat-
+sächlich immer möglich ist, erscheint indessen mehr als fraglich, 
+wenn der Apotheker oder die Apothekerin nicht selbst über das 
+erwartete Fachwissen verfügt. Gemäss der Stellungnahme der 
+Abteilung Gesundheit DGS vom … kann die Fachkompetenz im 
+Drogeriebereich bei Abwesenheit der Drogistin oder des Drogisten 
+durch vorgängige Information und Unterrichtung der Apothekerin 
+oder des Apothekers durch die Drogistin oder den Drogisten 
+gewährleistet werden. Das Drogeriesortiment soll vor der Abwesen-
+heit so bereitgestellt und der Apotheker oder die Apothekerin so 
+instruiert werden, dass eine kompetente Beratung während der 
+drogistenlosen Zeit gewährleistet ist. Das würde aber voraussetzen, 
+dass die Drogeriekundschaft ihren Apothekenbesuch regelmässig 
+vorgängig ankündigt und den Beratungsbedarf anmeldet, was nicht 
+erwartet werden darf. Erscheint Drogeriekundschaft mit Beratungs-
+bedarf während der Abwesenheit des Drogisten oder der Drogistin in 
+
+
+480 
+Verwaltungsbehörden 
+2018 
+der Apotheke, müsste sie gebeten werden, zu einem späteren 
+Zeitpunkt – wenn wieder ein Drogist oder eine Drogistin anwesend 
+oder das Apothekenpersonal instruiert ist – erneut in die Apotheke zu 
+kommen. Bei einem 50 %-Pensum, das nicht in sechs Halbtagen pro 
+Woche bestehen muss, müsste die Kundschaft bis zu vier Tage, bei 
+Ferienabwesenheit des Drogisten oder der Drogistin gar Wochen 
+warten. Die Kundschaft wird in einer solchen Situation wohl eher auf 
+eine Beratung verzichten, als so lange zu warten und den Weg in die 
+Apotheke erneut zurückzulegen. Sofern das Apothekenpersonal nicht 
+über die erwartete Fachkompetenz verfügt, kann die Beratung im 
+Drogeriebereich mit einem Drogistenpensum von 50 % also nur sehr 
+beschränkt verbessert werden. Ob die Kundschaft zu einem 
+Zeitpunkt im Geschäft erscheint, da ein Drogist oder eine Drogistin 
+anwesend und eine Beratung durch eine solche Person gewährleistet 
+ist, hängt eher vom Zufall als von der Betriebsorganisation der 
+gesamtverantwortlichen Leitungsperson ab. Ist die Anwesenheit 
+einer Drogistin oder eines Drogisten für die Gewährleistung der 
+erforderlichen Fachkompetenz und zur Vermeidung einer Täuschung 
+der Kundschaft über die absolvierte Ausbildung und das vorhandene 
+Fachwissen des Personals erforderlich, genügt ein 50 %-Pensum der 
+Person mit Berufsausübungsbewilligung kaum. Für die Führung 
+einer Drogerie ohne Apotheke sieht die Heilmittel- und Betäubungs-
+mittelverordung denn auch nicht vor, dass die Anstellung eines Dro-
+gisten oder einer Drogistin zu mindestens 50 % genügt. Für die Ertei-
+lung 
+einer 
+Betriebsbewilligung 
+wird 
+offenbar 
+praxisgemäss 
+vorausgesetzt, dass die gesamtverantwortliche Leitungsperson, wel-
+che über die erforderliche Berufsausübungsbewilligung verfügt, 
+während mindestens 60 % der allgemein üblichen Öffnungszeiten 
+anwesend ist, für die übrige Zeit eine Stellvertreterbewilligung ein-
+holt und eine fachkompetente Stellvertretung auch tatsächlich sicher-
+stellt (vgl. die Formulare für das Betriebsbewilligungsgesuch, …, so-
+wie die Stellvertreterbewilligung, …). 
+2.3 
+2.3.1 
+Aus dem Internetauftritt des an der Gebäudefassade nur als "T. 
+Apotheke" angeschriebenen Betriebs geht hervor, dass derzeit eine 
+
+
+2018 
+Gesundheitsrecht 
+481 
+Drogistin N. S. beschäftigt wird. Offenbar wollen die Beschwerde-
+führerinnen aber nicht dauerhaft ein Minimalpensum von 50 % einer 
+zur selbständigen Berufsausübung berechtigten Drogistin oder eines 
+entsprechenden Drogisten sicherstellen müssen. Sie machen viel-
+mehr geltend, dass die anwesenden Apothekerinnen aufgrund ihrer 
+Ausbildung die Anwesenheit eines Drogisten oder einer Drogistin 
+fachkompetenzmässig zu 100 % zu ersetzen vermögen. 
+Die Abteilung Gesundheit des DGS führt in ihrer Stellung-
+nahme zur Beschwerde demgegenüber aus, ein Drogist oder eine 
+Drogistin sei in verschiedenen Bereichen besser ausgebildet als ein 
+Apotheker oder eine Apothekerin und verfüge dementsprechend über 
+eine andere, bessere Beratungskompetenz, welche von der Kund-
+schaft einer Drogerie erwartet werde und erwartet werden dürfe. 
+Zum Schutz vor Täuschung, Sicherheits- und Gesundheitsbeein-
+trächtigung der Kundschaft sei eine Drogistenausbildung erforder-
+lich. Zu drogerie- respektive drogistenspezifischen Dienstleistungen 
+gehörten insbesondere die Diätberatung, die Beratung betreffend 
+Chemikalien, der Umgang mit ökologischen Reinigungsmitteln, der 
+Nachfüllservice, die Fabrikation von Schönheits- und Sachproduk-
+ten, die Schädlingsberatung für Haus und Garten sowie die Beratung 
+betreffend Pflanzenschutzmittel und Pflanzendünger, die Beratung 
+betreffend Farben und Lösungsmittel sowie der Verkauf von Feuer-
+werk. Drogisten und Drogistinnen würden in den eben aufgelisteten 
+Gebieten speziell ausgebildet, während diese Ausbildung grössten-
+teils nicht Bestandteil eines Pharmaziestudiums sei. Dement-
+sprechend würden von Apothekern und Apothekerinnen auch keine 
+spezifischen Fachkenntnisse in diesen Sachgebieten verlangt und 
+erwartet. 
+2.3.2 
+Aufgefordert, die geltend gemachte bessere Ausbildung der 
+Drogistinnen und Drogisten in den genannten Bereichen zu belegen, 
+hat die Abteilung Gesundheit DGS in ihrer Duplik lediglich ausge-
+führt, Drogistinnen und Drogisten der höheren Fachschule (HF) wür-
+den in der Grundausbildung und in der HF-Ausbildung insgesamt ca. 
+1'200 spezifische, berufskundliche Lektionen (Naturheilkunde, 
+Phytotherapie, Spagyrik etc.) besuchen und nur bei ihnen sei eine 
+
+
+482 
+Verwaltungsbehörden 
+2018 
+drogeriespezifische Weiterausbildung gewährleistet und die Berechti-
+gung zur Ausbildung von Drogistinnen und Drogisten gegeben. Als 
+Beleg hat sie einen Ausdruck der Internetseite berufsberatung.ch (…) 
+vom 19. Juni 2017 eingereicht, worin die pauschale Aussage enthal-
+ten ist, Drogisten und Drogistinnen HF würden vertiefte Kenntnisse 
+in den Bereichen Gesundheit, Schönheitspflege, Ernährung und 
+Unternehmensführung besitzen, ohne dass dies mit einem detaillier-
+ten Studienplan unter Angabe der konkreten Ausbildungsinhalte und 
+der dafür aufgewendeten Lektionenzahl beziehungsweise Studienzeit 
+belegt wird. Auch die Höhere Fachschule für Drogistinnen und Dro-
+gisten (École supérieure de droguerie, ESD) in Neuenburg führt die 
+genauen Lerninhalte auf ihrer Homepage unter "Der Weg zum Ziel" 
+(…) nicht näher aus. Es gibt nur einen aktuellen Fächerspiegel mit 
+der Angabe, für die naturwissenschaftlichen und berufskundlichen 
+Fächer 
+(Krankheitslehre, 
+Pharmakognosie/Phytotherapie, 
+Che-
+mie/Chemielabor, Biochemie, Biologie/Biologielabor, Pharmakolo-
+gie/Pharmakotherapie/Galeniklabor, Ernährungslehre, Naturheilver-
+fahren und Komplementärmedizin, Ökologie) seien insgesamt 1'560 
+Lektionen vorgesehen. 
+Demgegenüber haben die Beschwerdeführerinnen sich bemüht, 
+die Ausbildung zum Apotheker mit derjenigen zur Drogistin zu ver-
+gleichen und sie haben verschiedene Unterlagen, u.a. der Eidge-
+nössischen Technischen Hochschule (ETH) Zürich und der Universi-
+tät Basel eingereicht, welche den Studieninhalt beschreiben und den 
+Vergleich der Ausbildungen belegen sollen. Bezüglich Diätberatung 
+hat sich ergeben, dass bereits das sechste Semester des Bachelorstu-
+diums Pharmazeutische Wissenschaften (BSc) an der ETH Zürich 
+Vorlesungen 
+über 
+weitergehende 
+Ernährungswissenschaften 
+(Advanced Topics in Nutritional Science) umfasst, während der Bil-
+dungsplan Drogistin EFZ/Drogist EFZ des Schweizerischen Drogis-
+tenverbandes mit Stand 30. März 2011 nur die Vermittlung von 
+Grundlagen der Ernährungslehre und von ernährungsbedingten Zu-
+sammenhängen vorsieht. Zusammen mit Erfahrungsmedizin und Sa-
+lutogenese sind dafür in vier Jahren total 160 Lektionen vorgesehen, 
+wobei der Anteil für Ernährungslehre unbestimmt ist, weshalb nicht 
+von einem Drittel oder etwa 50 Lektionen ausgegangen werden kann. 
+
+
+2018 
+Gesundheitsrecht 
+483 
+Die Ausbildung an der Höheren Fachschule für Drogistinnen und 
+Drogisten sieht zwar erneut Ernährungslehre vor; Hinweise, dass 
+diese zur Diätberatung besonders befähigen soll, sind aber keine auf-
+findbar. Höhere Kompetenzen einer Drogerie im Bereich der Diätbe-
+ratung lassen sich also aus dem Vergleich der Bildungsgänge nicht 
+ableiten. 
+2.3.3 
+Ähnlich präsentiert sich die Situation bezüglich der Ausbildung 
+im Hinblick auf die Beratungskompetenz betreffend Chemikalien. 
+Der Studienplan BSc Pharmazeutische Wissenschaften sieht im 
+Grund- und Aufbaustudium 15 Kreditpunkte in Chemie für Pharma-
+zeutische Wissenschaften und zusätzlich 29 Kreditpunkte für diesbe-
+zügliche Praktikamodule vor. Im Aufbaustudium kommen noch 11 
+Kreditpunkte für Pharmakologie und Toxikologie hinzu. Basierend 
+auf den Vorgaben der Bologna-Richtlinien der Schweizerischen Uni-
+versitäts-Konferenz vom 4. Dezember 2003, gemäss welchen eine 
+Studienleistung, die in 25 – 30 Arbeitsstunden erbracht werden kann, 
+einem Kreditpunkt entspricht, lassen sich 55 Kreditpunkte in 1'375 
+bis 1'650 Arbeitsstunden umrechnen, was annähernd einem akade-
+mischen Jahr (60 Kreditpunkte) entspricht. Der Drogisten-Bildungs-
+plan EFZ sieht demgegenüber nur total 200 Lektionen für "Che-
+mie/Ökologie/Sachpflege" zusammen vor, was nicht zu einer besse-
+ren Beratungskompetenz führen dürfte. Was im Bildungsgang Dro-
+gist/Drogistin HF in Chemie konkret vertieft wird und inwiefern pro-
+movierte Drogisten/Drogistinnen HF Apothekerinnen und Apothe-
+kern betreffend Chemikalien überlegen sein sollen, ist weder erkenn-
+bar noch glaubhaft gemacht, geschweige denn nachgewiesen. 
+2.3.4 
+Was den Umgang mit ökologischen Reinigungsmitteln anbe-
+langt, welche voraussetzungslos im gewöhnlichen Detailhandel ver-
+trieben werden dürfen, wofür die Kundschaft auch eine kompetente 
+Beratung erwarten darf, kann ein Apotheker oder eine Apothekerin 
+basierend auf der absolvierten vertieften Ausbildung zu physika-
+lischen, chemischen, biologischen und ökologischen Zusammen-
+hängen kompetent beraten, ohne den Vergleich mit einer Drogistin 
+oder einem Drogisten scheuen zu müssen. Eine spezielle Ausbildung 
+
+
+484 
+Verwaltungsbehörden 
+2018 
+betreffend Umgang mit (ökologischen) Reinigungsmitteln sieht auch 
+der Lehrplan für Drogisten und Drogistinnen nicht vor. Bezüglich 
+Kompetenz zum Nachfüllservice vermögen die Beschwerdeführerin-
+nen augenzwinkernd kein "Alleinstellungsmerkmal eines Drogisten 
+HF" zu erkennen und die Kundschaft erwartet dafür wohl auch keine 
+Ausbildung an einer höheren Fachschule oder gar an einer Hoch-
+schule. 
+2.3.5 
+Die Vorinstanz hat nicht bestritten, dass die "Arzneimittelher-
+stellung in kleinen Mengen" Bestandteil des Masterstudiengangs 
+Pharmazie bildet und auch geprüft wird. Es ist nicht einzusehen, 
+weshalb eine Person, welche zur Arzneimittelherstellung befähigt ist, 
+mit der "Fabrikation von Schönheits- und Sachprodukten" 
+fachkompetenzmässig überfordert sein sollte und keine adäquate Be-
+ratung leisten könnte. Bei der Beratung der Kundschaft kann ein 
+Apotheker oder eine Apothekerin zum Beispiel auch die in der Der-
+matologie erworbenen Kenntnisse nutzbringend einsetzen. Es ist im 
+Übrigen wohl eher so, dass sich eine Kleinmengenproduktion von 
+Schönheits- und Sachprodukten für einzelne Kundinnen und Kunden 
+heute kaum noch finanziell lohnt und die kompetente Beratung 
+dürfte deshalb in der Regel darin bestehen, ein das Kundenbedürfnis 
+befriedigendes Serienprodukt zu empfehlen, wofür die Kenntnis des 
+verfügbaren Produktesortiments genügt. 
+2.3.6 
+Bezüglich Beratung zu Schädlingsbekämpfungs- und Pflanzen-
+schutzmitteln können Apotheker und Apothekerinnen von ihrer Che-
+mie- und Toxikologieausbildung profitieren, welche nach dem oben 
+Gesagten den Vergleich mit derjenigen von Drogisten und Drogistin-
+nen nicht zu scheuen braucht. Eine besondere Ausbildung bezüglich 
+Schädlingsbekämpfungs- und Pflanzenschutzmitteln sieht der Bil-
+dungsplan für Drogistinnen und Drogisten EFZ wie HF nicht vor. 
+Gemäss Art. 7 Abs. 1 des Bundesgesetzes über den Schutz vor 
+gefährlichen 
+Stoffen 
+und 
+Zubereitungen 
+(Chemikaliengesetz, 
+ChemG) vom 15. Dezember 2000 muss, wer solche Stoffe oder Zu-
+bereitungen (vgl. Art. 4 Abs. 1 lit. e ChemG) in Verkehr bringt, Ab-
+nehmerinnen und Abnehmer über die gesundheitsrelevanten Eigen-
+
+
+2018 
+Gesundheitsrecht 
+485 
+schaften und Gefahren sowie über die erforderlichen Vorsichts- und 
+Schutzmassnahmen informieren. Eine Drogistenausbildung sieht das 
+Bundesrecht dafür nicht vor. Verkauf und Beratung erfolgen in der 
+Regel problemlos in Fachgeschäften für die Landwirtschaft sowie 
+den Gartenbau. Nach Art. 3 Abs. 2 der Verordnung des Eidge-
+nössischen Departements des Innern (EDI) über die erforderliche 
+Sachkenntnis zur Abgabe bestimmter gefährlicher Stoffe und Zu-
+bereitungen vom 28. Juni 2005 wird angenommen, dass über das 
+erforderliche Grundwissen verfügt, wer eine anerkannte berufliche 
+Grund- oder Weiterbildung erfolgreich abgeschlossen hat, über eine 
+hinreichende Berufserfahrung verfügt oder im Besitz eines Zertifika-
+tes einer anerkannten Prüfungsstelle ist. In einer Apotheke darf 
+vorausgesetzt werden, dass dieses Grundwissen bezüglich Schäd-
+lingsbekämpfungs- und Pflanzenschutzmitteln vorhanden ist, soweit 
+überhaupt Stoffe vertrieben werden, für welche die Verordnung über 
+den Schutz vor gefährlichen Stoffen und Zubereitungen (Chemi-
+kalienverordnung, ChemV) vom 5. Juni 2015 besondere Kenntnisse 
+vorschreibt. 
+2.3.7 
+Bezüglich Farben und Lösungsmitteln kann auf das bezüglich 
+Chemikalienausbildung Gesagte verwiesen werden. Zudem ist auch 
+in diesem Bereich – vorbehältlich besonders gefährlicher Produkte, 
+für welche das unter 2.3.6 Erwogene gilt – keine besondere Ausbil-
+dung für Beratung und Verkauf vorgeschrieben. Farben und Lösungs-
+mittel werden in Baufachmärkten, Do-it-yourself-Läden, Maler- und 
+Gipsergeschäften und vielen anderen mehr vertrieben und beraten, 
+ohne dass die Verkäuferschaft eine Drogistenausbildung oder derglei-
+chen absolviert hätte. Eine spezielle Ausbildung zu Farben und Lö-
+sungsmitteln ist denn auch dem Bildungsplan für Drogistinnen und 
+Drogisten nicht zu entnehmen. 
+2.3.8 
+Bezüglich Feuerwerk ist bereits fraglich, ob die Kundschaft 
+zwecks Beratung und Kauf prioritär eine Drogerie aufsuchen wird. 
+Der Verkauf beschränkt sich auf wenige Anlässe im Jahr wie private 
+Feiern, 1. August sowie Silvester und erfolgt wegen der damit 
+verbundenen Gefahren oft ausserhalb des bewohnten Gebiets, also 
+
+
+486 
+Verwaltungsbehörden 
+2018 
+fernab von Apotheken und Drogerien. Gewöhnliches Feuerwerk für 
+den privaten Bedarf kann über eine Vielzahl von Verkaufskanälen be-
+zogen werden, ohne dass an das Verkaufspersonal polizeiliche Anfor-
+derungen gestellt werden, da die Feuerwerkskörper selber bei der 
+Produktion geprüft und für den Import sowie den Handel zugelassen 
+werden müssen. Gemäss Art. 7 der Verordnung über explosionsge-
+fährliche Stoffe (Sprengstoffverordnung, SprstV) vom 27. November 
+2000 werden die Feuerwerkskörper vom Hersteller nach den Krite-
+rien von Anhang 1 Ziffer 2 in die Kategorien F1–F4 eingeteilt, wobei 
+Feuerwerkskörper der Kategorien F1-F3 nur an Personen ab 
+12/16/18 Jahren abgegeben werden dürfen und Feuerwerkskörper der 
+Kategorie F4 dem gewerblichen Gebrauch vorbehalten sind, nur von 
+Personen mit Fachkenntnissen verwendet werden und nicht in den 
+Detailhandel gebracht werden dürfen. Der Einsatz von Feuerwerks-
+körpern der Kategorie F4 erfordert eine Grossfeuerwerk-Ausbildung, 
+wofür das Staatssekretariat für Bildung, Forschung und Innovation 
+den Ausweis ausstellt. Wer ihn besitzt, bedarf keiner Beratung durch 
+eine Drogistin oder einen Apotheker und bezüglich Produkten der 
+Kategorie F4, welche Drogerien und Apotheken nicht vertreiben 
+dürfen, müssen sie auch nicht beraten können. 
+2.3.9 
+Zusammenfassend vermag die Argumentation der Vorinstanz 
+betreffend die höhere Ausbildung und bessere Beratungskompetenz 
+von Drogisten und Drogistinnen bezüglich drogeriespezifischer Pro-
+dukte nicht durchzudringen. Dies trifft ebenso zu auf die Argumenta-
+tion bezüglich des notwendigen Schutzes der Apothekenkundschaft 
+vor gesundheitsgefährdender mangelhafter Beratung und der Vor-
+täuschung nicht vorhandener Fachkompetenz. Weiterbildung müssen 
+Apotheker und Drogistin gleichermassen betreiben und die von der 
+Vorinstanz angeführte, nur in Drogerien vorhandene Berechtigung 
+zur Ausbildung von Drogistinnen und Drogisten ist ohne Relevanz, 
+da Personen, welche den Drogistenberuf erlernen wollen, keinen 
+Lehrvertrag mit einer Apotheke abschliessen werden. 
+Dass die absolvierte Ausbildung einen Apotheker oder eine 
+Apothekerin befähigt, eine Drogerie fachkompetent zu führen und 
+die Kundschaft angemessen zu beraten, wird denn auch vom Regie-
+
+
+2018 
+Gesundheitsrecht 
+487 
+rungsrat des Kantons Luzern anerkannt, hat er doch den Einbezug 
+einer Drogerie in eine Apotheke in § 24 der Heilmittelverordnung 
+vom 28. April 2009 wie folgt geregelt: 
+"Eine öffentliche Apotheke kann ohne zusätzliche Bewilligung 
+unter der Bezeichnung 'Apotheke und Drogerie' betrieben wer-
+den." 
+3. Firmengebrauchspflicht 
+Die Abteilung Gesundheit DGS hat den Beschwerdeführerinnen 
+in der angefochtenen Verfügung verboten, in Auskündigungen bezie-
+hungsweise in der Werbung für ihren Betrieb den Zusatz "Drogerie" 
+zu verwenden. Gemäss der Stellungnahme zur Beschwerde vom … 
+sollen die Beschwerdeführerinnen ihre Auskündigungen anpassen, 
+d.h., sie sollen auf die Bezeichnung "Apotheke und Drogerie" 
+verzichten und sich nur als "Apotheke mit Drogerieartikeln" bezeich-
+nen (vgl. § 12 Abs. 3 HBV). Eine Anpassung der Firma wird aus-
+drücklich nicht verlangt. 
+Wie bereits erwähnt lautet die im Handelsregister eingetragene 
+Firma "T. Apotheke & Drogerie AG". Gemäss Art. 954a OR, welcher 
+am 1. Januar 2008 in Kraft getreten ist, muss in der Korrespondenz, 
+auf Bestellscheinen und Rechnungen sowie in Bekanntmachungen 
+(also Auskündigungen) die im Handelsregister eingetragene Firma 
+oder der im Handelsregister eingetragene Name vollständig und 
+unverändert angegeben werden (Abs. 1). Zusätzlich können Kurzbe-
+zeichnungen, Logos, Geschäftsbezeichnungen, Enseignes und ähn-
+liche Angaben verwendet werden (Abs. 2). Aus der Botschaft zur Re-
+vision des Obligationenrechts (GmbH-Recht sowie Anpassungen im 
+Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht) vom 
+19. Dezember 2001 (BBl 2002 3148 ff.) ergibt sich, dass der Form 
+der Korrespondenz für die Massgeblichkeit der Firmengebrauchs-
+pflicht keine Relevanz zukommen kann; die eingetragene Firma 
+muss insbesondere auch im Internet in rechtskonformer Weise 
+verwendet werden. Andererseits stellt Absatz 2 unmissverständlich 
+klar, dass Kurzbezeichnungen, Logos, Geschäftsbezeichnungen, 
+Enseignes und ähnliche Angaben selbstverständlich auch nach 
+Einführung der Firmen- und Namensgebrauchspflicht durch Art. 
+954a Abs. 1 OR weiterhin verwendet werden dürfen. Einzige Voraus-
+
+
+488 
+Verwaltungsbehörden 
+2018 
+setzung ist, dass in den in Absatz 1 umschriebenen Texten zugleich 
+die im Handelsregister eingetragene Firma vollständig angegeben 
+wird (BBl 2002 3242). 
+Das Bundesrecht würde es den Beschwerdeführerinnen also ge-
+statten, sich in Auskündigungen auch als "T. Apotheke AG" oder 
+noch kürzer als "T. Apotheke" zu bezeichnen, sofern zusätzlich die 
+vollständige Firmenbezeichnung "T. Apotheke & Drogerie AG" 
+angegeben wird. Es ist nun aber nicht einzusehen, was hinsichtlich 
+der von der Vorinstanz mit dem strittigen Verbot angestrebten Klar-
+heit bezüglich der erteilten Betriebsbewilligung, der bestehenden Be-
+rufsausübungsbewilligung und der Vermeidung einer Täuschung 
+über die erworbenen Fachkompetenzen gewonnen ist, wenn in Aus-
+kündigungen die Kurzbezeichnung "T. Apotheke" oder "T. Apotheke 
+mit Drogerieartikeln" verwendet wird, wenn von Bundesrechts we-
+gen zusätzlich die vollständige Firmenbezeichnung "T. Apotheke & 
+Drogerie AG" verwendet werden muss. Die Beschwerdeführerinnen 
+dürfen zwar eine Kurzbezeichnung zusätzlich zur vollständigen Fir-
+menbezeichnung verwenden. Sie haben aber auch das Recht, nur die 
+vollständige Firmenbezeichnung zu verwenden und die von der Vor-
+instanz geforderte ausschliessliche Bezeichnung als "T. Apotheke 
+AG" ist ihnen von Bundesrechts wegen verwehrt. 
+4. Ergebnis 
+Nach dem Gesagten vermag bereits die Argumentation der Vor-
+instanz wenig zu überzeugen, in einer Drogerie dürfe regelmässig 
+eine andere und weitergehende Fachkompetenz als in einer Apotheke 
+erwartet werden und es gelte eine Gesundheitsgefährdung sowie eine 
+Täuschung der Kundschaft über die im Betrieb vorhandene 
+Fachkompetenz zu vermeiden. Wie es sich im Einzelfall damit 
+tatsächlich verhält, kann aber letztlich offenbleiben, nachdem die Be-
+schwerdeführerinnen gemäss Bundesrecht in Auskündigungen zur 
+Führung ihrer vollständigen Firmenbezeichnung verpflichtet sind 
+und dieses Bundesrecht dem entgegenstehenden kantonalen Recht 
+vorgeht (Art. 49 Abs. 1 BV). Ferner hat der Regierungsrat gemäss 
+§ 90 Abs. 5 der Verfassung des Kantons Aargau vom 25. Juni 1980 
+Erlassen die Anwendung zu versagen, die Bundesrecht, kantonalem 
+Verfassungs- oder Gesetzesrecht widersprechen. 
+
+
+2018 
+Gesundheitsrecht 
+489 
+Nach dem Gesagten ist Ziffer 1 der angefochtenen Verfügung 
+vom 16. Januar 2017 in Gutheissung der Beschwerde aufzuheben. 
+Ferner kann auch dem Beschwerdebegehren 2 insofern stattgegeben 
+werden, als festzustellen ist, dass die T. Apotheke & Drogerie AG 
+aufgrund des Bundesrechts befugt ist, ihre vollständige Firmenbe-
+zeichnung in Auskündigungen zu verwenden. Das Departement Ge-
+sundheit und Soziales wird eingeladen, bei der nächsten sich bieten-
+den Gelegenheit eine Revision von § 12 HBV an die Hand zu neh-
+men und dem Regierungsrat einen bundes-rechtskonformen Entwurf 
+zum Beschluss vorzulegen. 
+(…) 
+ 
+
+
+2018 Bau-, Raumentwicklungs- und Umweltschutzrecht 491 
+IV. Bau-, Raumentwicklungs- und Umweltschutzrecht 
+ 
+68 
+Zonenkonformität in einer Zone für öffentliche Bauten und Anlagen 
+Ein Fussballplatz ist in einer Zone für öffentliche Bauten und Anlagen zo-
+nenkonform, auch wenn er einem Fussballclub vermietet werden soll; 
+Kriterium der Allgemeinzugänglichkeit. 
+Aus dem Entscheid des Regierungsrats vom 29. November 2017 in Sachen 
+T.H. und Mitbeteiligte gegen den Entscheid des Departements Bau, Verkehr 
+und Umwelt (Abteilung für Baubewilligungen)/Gemeinderats U. betreffend 
+Baubewilligung für eine Sportanlage (RRB Nr. 2017-001456). 
+Aus den Erwägungen 
+4. 
+4.1 
+Das Bauvorhaben soll grundsätzlich – wie bereits erwähnt – in 
+der "Zone für öffentliche Bauten und Anlagen Sport" (OeBA S) er-
+stellt werden; ein Streifen von 2.24 m Breite und 95 m Länge auf der 
+Südwestseite des Spielfelds 2 käme allerdings in die Grünzone zu 
+liegen (vgl. dazu nachstehend Ziff. 4.3). Die Zone OeBA ist gemäss 
+§ 16 der geltenden BNO der Gemeinde U. vom 29. November 2001, 
+vom Regierungsrat genehmigt am 10. April 2002 (teilrevidiert am 3. 
+Juni 2004 und regierungsrätlich genehmigt am 8. Dezember 2004) 
+für Bauten und Anlagen bestimmt, die dem öffentlichen Interesse 
+dienen (Abs. 1); die OeBA S ist für Sportplatznutzungen vorgesehen 
+(Abs. 3). 
+Nach Ansicht der Beschwerdeführenden ist das Bauvorhaben 
+mit diesem Zonenzweck nicht vereinbar und damit nicht zonenkon-
+form. Sie begründen dies damit, dass die Sportanlage mit den vier 
+Fussballfeldern dem FC T. für 50 Jahre vermietet werden solle und 
+somit ausschliesslich diesem Verein und dessen Spielbetrieb zur Ver-
