@@ -1,0 +1,394 @@
+---
+decision_id: "ag_verwaltungsgericht_WKL.2016.10"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "1. Kammer"
+docket: "WKL.2016.10"
+decided: "2017-08-30"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2467"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2467"
+cites_decisions: ["2P.18/2006", "4A_558/2009", "4C.246/2005", "8C_467/2012"]
+cites_law: ["switzerland/bund/acts/220/art-337.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 1. Kammer — WKL.2016.10
+
+## Regeste
+
+Abgrenzung zwischen privatrechtlichen und öffentlich-rechtlichen Rechtsverhältnissen; Durchsetzung des Zeugnisanspruchs; fristlose Kündigung (§ 11 PersG und Art. 337 OR) 
+- Das Anstellungsverhältnis zwischen einem Gemeindeverband und einem von einer anderen Trägerorganisation übernommenen Arbeitnehmer ist öffentlich-rechtlicher Natur, wenn die Satzungen des Gemeindeverbands nicht explizit regeln, dass er mit seinen Angestellten privatrechtliche Arbeitsverhältnisse abschliessen darf (Erw. I/1). 
+- Aus prozessökonomischen Gründen können der Anspruch auf Ausstellung eines Arbeitszeugnisses und derjenige auf ein Zeugnis mit einem bestimmten Inhalt in einem einzigen Prozess geltend gemacht werden. Der Arbeitnehmer braucht nicht zuerst die Ausstellung eines Zeugnisses einzuklagen, um hernach in einem zweiten Prozess die Berichtigung des vom Arbeitgeber mittlerweile vorgelegten Zeugnisses verlangen zu können (Erw. I/8). 
+- Für die fristlose Kündigung eines bereits ordentlich gekündigten Arbeitsverhältnisses gelten erhöhte Anforderungen an das Vorliegen eines wichtigen Grundes. Das gilt speziell dann, wenn der Arbeitnehmer freigestellt ist und zwischen den Parteien kaum mehr Berührungspunkte bestehen. Nur ein krass illoyales Verhalten des freigestellten Arbeitnehmers bildet einen wichtigen Grund für dessen fristlose Entlassung (Erw. II/2.2.2).
+
+## Text
+
+mit der Klägerin war somit nicht nur in formeller, sondern auch in
+materieller Hinsicht rechtmässig. Damit ist das Feststellungsbegeh
+ren der Klägerin abzuweisen und sie hat keinen Anspruch auf eine
+Entschädigung wegen widerrechtlicher Kündigung gemäss §13
+Abs.1 GAL.
+41 Abgrenzung zwischen privatrechtlichen und öffentlich rechtlichen
+Rechtsverhältnissen; Durchsetzung des Zeugnisanspruchs; fristlose
+Kündigung (§11 PersG und Art.337 OR)
+Das Anstellungsverhältnis zwischen einem Gemeindeverband und
+einem von einer anderen Trägerorganisation übernommenen Arbeit
+nehmer ist öffentlich rechtlicher Natur, wenn die Satzungen des Ge
+meindeverbands nicht explizit regeln, dass er mit seinen Angestellten
+privatrechtliche Arbeitsverhältnisse abschliessen darf (Erw.I/1).
+Aus prozessökonomischen Gründen können der Anspruch auf Aus
+stellung eines Arbeitszeugnisses und derjenige auf ein Zeugnis mit
+einem bestimmten Inhalt in einem einzigen Prozess geltend gemacht
+werden. Der Arbeitnehmer braucht nicht zuerst die Ausstellung eines
+Zeugnisses einzuklagen, um hernach in einem zweiten Prozess die
+Berichtigung des vom Arbeitgeber mittlerweile vorgelegten Zeugnis
+ses verlangen zu können (Erw.I/8).
+Für die fristlose Kündigung eines bereits ordentlich gekündigten Ar
+beitsverhältnisses gelten erhöhte Anforderungen an das Vorliegen
+eines wichtigen Grundes. Das gilt speziell dann, wenn der Arbeitneh
+mer freigestellt ist und zwischen den Parteien kaum mehr
+Berührungspunkte bestehen. Nur ein krass illoyales Verhalten des
+freigestellten Arbeitnehmers bildet einen wichtigen Grund für dessen
+fristlose Entlassung (Erw.II/2.2.2).
+Aus dem Entscheid des Verwaltungsgerichts, 1.Kammer, vom 30.August
+2017, i.S. A. gegen Gemeindeverband B. (WKL.2016.10)
+
+Aus den Erwägungen
+I.
+1.
+Gemäss §48 Abs.1 PersG gelten bei Streitigkeiten aus einem
+öffentlich rechtlichen Anstellungsverhältnis zwischen Gemeinden,
+Gemeindeverbänden oder anderen öffentlich rechtlichen Körper
+schaften und ihren Mitarbeitenden die Bestimmungen über das ge
+richtliche Klage und Beschwerdeverfahren nach den §§39ff.
+PersG; das Schlichtungsverfahren nach §37 PersG entfällt. §39
+Abs.1 PersG sieht vor, dass das Verwaltungsgericht vertragliche
+Streitigkeiten aus dem Anstellungsverhältnis im Klageverfahren be
+urteilt.
+Die Satzungen des Gemeindeverbands (nachfolgend: Satzun
+gen) sind nach Zustimmung durch das DVI am 7. Januar 2016 per
+1.Januar 2016 in Kraft getreten (§21 Abs.1 Satzungen i.V.m. §1
+Abs.1 lit.b DelV). Folglich ist der Gemeindeverband ab diesem
+Zeitpunkt in alle Rechtsverhältnisse öffentlich rechtlicher und privat
+rechtlicher Art der bisherigen drei Vereine, Kindes und Erwachse
+nenschutzdienst, Jugend und Familienberatung, Mütter und Väter
+beratung, entsprechend auch in das mit Vertrag vom 20. Oktober
+2014 mit der Klägerin begründete Arbeitsverhältnis, eingetreten
+(§21 Abs.2 Satzungen). Grundlage des Arbeitsvertrages vom
+20.Oktober 2014 bildet das Personalreglement (…), wonach das Ar
+beitsverhältnis zwischen dem Personal der Jugend und Familienbe
+ratungsstelle als Arbeitnehmer und dem Jugendfürsorgeverein des
+Bezirks C. auf einem privatrechtlichen Arbeitsvertrag beruht (Art.3).
+Gemeinden oder Gemeindeverbände, die ihr Personal mit einem
+privatrechtlichen Arbeitsvertrag anstellen bzw. einen solchen Vertrag
+übernehmen wollen, haben dafür eine ausdrückliche und unmissver
+ständliche gesetzliche Grundlage (im Dienstreglement) vorzusehen
+(BGE118II213 = Pra 81/1992 Nr.238, Erw.3; Urteile des Bundes
+gerichts vom 14.Februar 2013 [8C_467/2012], Erw.5.4.1, und vom
+19.Mai 2006 [2P.18/2006], Erw.2.3; VGE I/204 vom 1.Dezember
+2014 [WKL.2014.12], Erw.I/1.4). §21 Abs.2 Satzungen genügt die
+sen (Bestimmtheits )Anforderungen insofern nicht, als darin nur
+
+ganz allgemein auf (öffentlich rechtliche und privatrechtliche)
+Rechtsverhältnisse (in die eingetreten wird), nicht hingegen spezi
+fisch auf Anstellungsverhältnisse Bezug genommen wird. Entspre
+chend ist davon auszugehen, dass das Gemeindeverbandsrecht, na
+mentlich was die Natur der Anstellungsverhältnisse des Verbandsper
+sonals anbetrifft, in der Periode vom 1.Januar 2016 bis zum Inkraft
+treten des Personalreglements des Beklagten per 1.Juli 2016 lücken
+haft war.
+Gemäss §50 des Gesetzes über die Einwohnergemeinden vom
+19.Dezember 1978 (Gemeindegesetz; SAR 171.100) ist in einem
+solchen Fall das kantonale Personalrecht sinngemäss anwendbar
+(AGVE 2010, S.396f.). Nach §3 Abs.1 PersG und §8 Abs.1 PLV
+wird das Anstellungsverhältnis durch öffentlich rechtlichen Vertrag
+begründet. Die Kündigung dieses Anstellungsverhältnisses stellt eine
+vertragliche Erklärung dar (§48 PLV). Zeugnisstreitigkeiten sind
+ebenfalls vertraglicher Natur. Das Verwaltungsgericht ist demnach
+zuständig, den vorliegenden Rechtsstreit integral im Klageverfahren
+zu beurteilen.
+2.–7. (…)
+8.
+8.1.
+Schliesslich beantragt die Klägerin, ihr sei innert zehnTagen ab
+Rechtskraft des verwaltungsgerichtlichen Urteils ein Arbeitszeugnis
+auszustellen, und reicht einen Zeugnistext mit der von ihr gewünsch
+ten Formulierung ein.
+8.2.
+Bislang noch nicht explizit höchstrichterlich entschieden ist, ob
+beim gänzlichen Fehlen eines Zeugnisses nur dessen Ausstellung ein
+geklagt werden kann und der Arbeitnehmer mithin zu zwei Prozessen
+gezwungen ist, wenn er mit dem vom Arbeitgeber nach dem ersten
+Prozess ausgestellten Arbeitszeugnis nicht einverstanden ist, oder ob
+er seine Klage mit einem konkreten Zeugnistext verknüpfen kann. In
+BGE129III177, Erw.3.3, hielt das Bundesgericht fest, dass der An
+spruch auf Ausstellung eines Zeugnisses mit einer Leistungsklage auf
+Ausstellung eines Zeugnisses durchsetzbar sei. Sei der Kläger nach
+Erhalt des Vollzeugnisses der Auffassung, dessen Inhalt sei unrichtig
+
+oder unvollständig, könne er beim zuständigen Gericht eine Berichti
+gungsklage erheben. Dieser Entscheid betraf eine Klage um Ausstel
+lung eines Arbeitszeugnisses, wobei der Kläger erstinstanzlich ein
+Zeugnis gemäss eingereichtem Entwurf verlangte, sich zweitinstanz
+lich und vor Bundesgericht jedoch auf die Forderung auf Ausstellung
+eines Zeugnisses beschränkte und darauf verzichtete, eine bestimmte
+Formulierung zu beantragen. Mit der Frage, ob der Kläger den kon
+kreten Inhalt des Zeugnisses zum Klagegegenstand hätte erheben
+können, musste sich das Bundesgericht nicht auseinandersetzen.
+Auch das Verwaltungsgericht hat sich diesbezüglich bisher noch nie
+einlässlich äussern müssen. In der Lehre und kantonalen Praxis zum
+privatrechtlichen Arbeitsrecht werden verschiedene Meinungen ver
+treten (vgl. ULLIN STREIFF/ADRIAN VON KAENEL/ROGER RUDOLPH,
+Arbeitsvertrag, 7.Auflage, Zürich/Basel/Genf 2012, Art.330a N5
+mit einer Übersicht). Grossmehrheitlich wird postuliert, dass der Ar
+beitnehmer zusammen mit der Ausstellung eines Zeugnisses auch
+einen bestimmten Zeugnistext zum Klagegegenstand erheben kann,
+dies aber nicht muss (WOLFGANG PORTMANN/ROGER RUDOLPH, in:
+HEINRICH HONSELL/NEDIM PETER VOGT/WOLFGANG WIEGAND
+[Hrsg.], Basler Kommentar zum Obligationenrecht, BandI, 6.Auf
+lage, Basel 2015, Art.330a N10; ROLAND MÜLLER/PHILIPP
+THALMANN, Streitpunkt Arbeitszeugnis, 2.Auflage, Basel 2016,
+S.109f.; Entscheid des Obergerichts des Kantons Thurgau vom
+1.Dezember 2009 [ZBO.2009.17], Erw.3, in: Rechenschaftsbericht
+des Obergerichts des Kantons Thurgau an den Grossen Rat [RBOG]
+2009, S.79f.; Arbeitsgericht des Kantons Bern vom 24.Mai 1989,
+in: SJZ 88/1992, S.11f.; BJM 2001, S.77ff. zur Praxis des ehemali
+gen Gewerblichen Schiedsgerichtes Basel Stadt).
+Bereits aus prozessökonomischen Gründen erscheint es wenig
+sinnvoll, nur die Klage auf Ausstellung eines Arbeitszeugnisses zu
+zulassen und den Kläger, sollte er mit dem im Anschluss an diesen
+Prozess vom Arbeitgeber ausgestellten Arbeitszeugnis nicht einver
+standen sein, auf die Berichtigung und damit in einen zweiten Pro
+zess zu verweisen. Dementsprechend ist es als zulässig zu erachten,
+einen bestimmten Zeugnistext zum Klagegegenstand zu erheben,
+auch ohne vorbestehendes Arbeitszeugnis des Arbeitgebers. Dies
+
+rechtfertigt sich umso mehr, wenn der Arbeitgeber – wie im vorlie
+genden Fall – einen eigenen Zeugnistext in den Prozess einbringt.
+II.
+1.–2.2.1. (…)
+2.2.2.
+Eine fristlose Entlassung ist nur bei besonders schweren Verfeh
+lungen des Arbeitnehmers gerechtfertigt. Diese müssen objektiv ge
+eignet sein, die für das Arbeitsverhältnis wesentliche Vertrauens
+grundlage zu zerstören oder zumindest so tief greifend zu erschüt
+tern, dass dem Arbeitgeber die Fortsetzung des Vertrags nicht mehr
+zuzumuten ist. Sind die Verfehlungen weniger schwerwiegend, müs
+sen sie trotz Verwarnung wiederholt vorgekommen sein (vgl.
+BGE130III213, Erw.3.1 mit Hinweis; STREIFF/VON KAENEL/RU
+DOLPH, a.a.O., Art.337 N2). Ob ein wichtiger Grund vorliegt, hängt
+von den Umständen des konkreten Einzelfalls ab. Es ist insbesondere
+auf die Stellung und Verantwortung des Mitarbeitenden, die Natur
+und die Dauer des Anstellungsverhältnisses, die Art, Häufung und
+Schwere der Vertrauensstörung sowie eine allenfalls vorausgegange
+ne Verwarnung abzustellen (STREIFF/VON KAENEL/RUDOLPH, a.a.O.,
+Art.337 N2). Ebenso ist in Betracht zu ziehen, wie lange der Kündi
+gende andernfalls an das Arbeitsverhältnis gebunden sein würde. Je
+eher das Arbeitsverhältnis durch Zeitablauf oder durch ordentliche
+Kündigung enden würde, desto eher ist der Ausschluss einer fristlo
+sen Kündigung durch Verneinung eines wichtigen Grundes zumutbar
+(Entscheid des Kantonsgerichts Graubünden vom 21.April 2009,
+Erw.3, in: JAR 2010, S.517ff.). Mit anderen Worten sind im gekün
+digten Arbeitsverhältnis strengere Anforderungen zu stellen, bis die
+Unzumutbarkeit der Fortsetzung des Arbeitsverhältnisses angenom
+men wird. Das gilt erst recht, wenn der Arbeitnehmer bereits freige
+stellt ist, da sich das Verhalten des Arbeitnehmers nicht mehr direkt
+auf die Arbeitsleistung auswirken kann (BGE129III 380, Erw.3.1f.
+mit Hinweisen; Urteil des Bundesgerichts vom 12.Oktober 2005
+[4C.246/2005], Erw.6). Die fristlose Kündigung ist die Ausnahme
+und darf nur mit grosser Zurückhaltung angewendet werden
+(BGE130III28, Erw.4.1 mit Hinweis).
+
+2.2.3.
+Die grobe Verletzung arbeitsvertraglicher Pflichten, sonstige
+Unkorrektheiten am Arbeitsplatz oder Illoyalitäten gegenüber dem
+Arbeitgeber ausserhalb des Arbeitsplatzes können eine fristlose Kün
+digung rechtfertigen. Oft ist die erforderliche Schwere der Pflichtver
+letzung bzw. der Unkorrektheit nur erreicht, wenn vorgängig eine
+Verwarnung erfolgte (STREIFF/VON KAENEL/RUDOLPH, a.a.O.,
+Art.337 N5). Eine Verwarnung muss nicht notwendigerweise in je
+dem Fall die fristlose Entlassung ausdrücklich androhen. Der
+Arbeitgeber hat dem Arbeitnehmer aber klar zu verstehen zu geben,
+dass er das beanstandete Verhalten als untragbar beurteilt und dass
+eine Wiederholung nicht sanktionslos hingenommen würde. Der Ar
+beitnehmer muss zudem klar wissen, welches Verhalten künftig nicht
+mehr toleriert wird (STREIFF/VON KAENEL/RUDOLPH, a.a.O.,
+Art.337 N13).
+2.3.
+2.3.1.
+Als die Klägerin die (aus Sicht des Beklagten für die fristlose
+Kündigung entscheidende) E Mail vom 23.Mai 2016 an die Ver
+bandsgemeinden versandte, befand sie sich bereits in gekündigter
+Stellung; sie hatte das Anstellungsverhältnis mit Schreiben vom
+17.April 2016 auf den 31.Juli 2016 gekündigt. Am 28.April 2016
+wurde die Klägerin, die seit dem 22.April 2016 zu 100% arbeitsun
+fähig war, vom Präsidenten des Beklagten unter Bezugnahme auf ihr
+Schreiben an die Geschäftsführerin des Beklagten vom 21.April
+2016 und unter Hinweis auf ein unwiderruflich zerrüttetes Arbeits
+verhältnis ab sofort freigestellt. Gleichzeitig wurde die Klägerin auf
+gefordert, am 3.Mai 2016 ihr Büro zu räumen, den Schlüssel und ge
+schäftliche Geräte abzugeben sowie dem Beklagten ihr Passwort für
+den Zugang zu seinem EDV System mitzuteilen. (…)
+2.3.2.
+Die E Mail der Klägerin vom 23. Mai 2016 an die Verbandsge
+meinden weist – auszugsweise – den folgenden Inhalt auf:
+(…)
+Die Entwicklungen seit dem Zusammenschluss zu einem Gemeinde
+verband verunmöglichten mir ein weiteres professionelles Wirken
+
+zum Wohle der betroffenen Personen. Zum einen konnte ich die neu
+anvisierten Wertvorstellungen wie haltungen aus ethisch morali
+schen Gründen nicht mehr mittragen. Zum anderen stiess ich bei der
+Zusammenarbeit mit Frau D. auf unüberwindbare, im Verhalten von
+Frau D. gründende Hürden, die eine vernünftige und wertschätzende
+Zusammenarbeit mit ihr als Vorgesetzte verunmöglichten.
+(…)
+2.4.
+2.4.1.
+Eine der grundlegendsten Pflichten des Arbeitnehmers besteht
+darin, die ihm übertragenen Arbeiten mit Sorgfalt auszuführen und
+die berechtigten Interessen des Arbeitgebers in guten Treuen zu wah
+ren (THOMAS GEISER/ROLAND MÜLLER, Arbeitsrecht in der
+Schweiz, 3.Auflage, Bern 2015, Rz.348f.; §22 Abs.1 PersG [vgl.
+auch Art.10 Personalreglement]).
+Die Treuepflicht des Arbeitnehmers enthält verschiedene As
+pekte und bedeutet insbesondere, dass der Arbeitnehmer alles zu un
+terlassen hat, was dem Arbeitgeber schaden könnte. Dazu gehört bei
+spielsweise die Diffamierung des Arbeitgebers in der Öffentlichkeit
+(ALFRED BLESI, Die Freistellung des Arbeitnehmers, Ein Handbuch
+für die Praxis, 2.Auflage, Zürich/Basel/Genf 2010, Rz.413). Die
+eigenen berechtigten Interessen des Arbeitnehmers stellen die Gren
+zen der Treuepflicht dar (MANFRED REHBINDER/JEAN FRITZ
+STÖCKLI in: Berner Kommentar, Der Arbeitsvertrag, Art.319–
+330bOR, Bern 2010 [REHBINDER/STÖCKLI, Art.319–330b OR],
+Art.321a N9).
+Wie bereits erwähnt (siehe Erw.2.2.2 vorne), können nur
+besonders schwere Verfehlungen eine fristlose Entlassung des Ar
+beitnehmers rechtfertigen. Dementsprechend taugt nur ein schwerer
+Verstoss gegen die Treuepflicht als Grund für eine fristlose Auflö
+sung des Arbeitsverhältnisses (REHBINDER/STÖCKLI, Art.319–330b
+OR, Art.321a N16). Die Sanktion richtet sich primär nicht nach
+dem durch die Verletzung dem Arbeitgeber erwachsenden Nachteil,
+sondern vor allem nach dem Mass der Treulosigkeit. Diese ist Aus
+fluss des erschütterten Vertrauens zwischen den Parteien, gilt also der
+Absicht, nicht dem Erfolg (REHBINDER/STÖCKLI, Art.319–330b OR,
+
+Art.321a N16; STREIFF/VON KAENEL/RUDOLPH, a.a.O., Art.321a
+N8). Sachverhalte, die eine fristlose Entlassung eines freigestellten
+Arbeitnehmenden durch den Arbeitgeber rechtfertigen, sind eher sel
+ten, da die persönliche Konfrontation zwischen Arbeitgeber und Ar
+beitnehmer entfällt (STREIFF/VON KAENEL/RUDOLPH a.a.O., Art.337
+N2). Dennoch sind solche denkbar. So etwa, wenn sich der Verdacht
+auf eine strafbare Handlung während der Freistellung erhärtet
+(BLESI, a.a.O., Rz.526) oder wenn sich die freigestellte Person
+gegenüber dem Arbeitgeber krass illoyal verhält (Urteil des
+Bundesgerichts vom 5.März 2010 [4A_558/2009], Erw.4; Entscheid
+des Obergerichts des Kantons Thurgau vom 9.Januar 2003
+[ZBR.2002.38], Erw.3, in: RBOG 2003, S.101ff.).
+2.4.2.
+Die E Mail der Klägerin an die Verbandsgemeinden mit dem
+hiervor auszugsweise wiedergegebenen Inhalt (siehe Erw.2.3.2
+vorne) ist entgegen der Auffassung der Klägerin geeignet, das Anse
+hen des Beklagten und dasjenige der Geschäftsführerin des Beklag
+ten zu schmälern. In ihrer an alle 25 Verbandsgemeinden gerichteten
+(teils an bestimmte Gemeindevertreter, teils allgemein an die Ge
+meinde) adressierten E Mail warf die Klägerin dem Beklagten
+sinngemäss mangelnde Professionalität und ethisch moralische Miss
+stände vor und setzte damit dessen Ansehen herab. Zudem diffamier
+te sie ihre Vorgesetzte, die Geschäftsführerin des Beklagten, deren
+Verhalten eine vernünftige und wertschätzende Zusammenarbeit ver
+unmöglicht haben soll. Am rufschädigenden Charakter solcher Äus
+serungen ändern auch die von der Klägerin verwendete "Ich
+Perspektive", die offenbar überwiegend positiven Reaktionen der An
+geschriebenen und das stellvertretend hierfür eingereichte E Mail
+vom Leiter Soziale Dienste C. nichts. Im Übrigen ist darauf hinzu
+weisen, dass das Vorgehen teilweise auch kritisch gewürdigt wurde.
+Eigenen Angaben zufolge verfasste die Klägerin die E Mail an
+die Verbandsgemeinden, weil ihr durch den Präsidenten des Beklag
+ten die Verabschiedung ihrer Klientinnen und Klienten verweigert
+worden ist. Ihr sei es – so die Klägerin an der Verhandlung vor Ver
+waltungsgericht – nie um eine Diffamierung des Beklagten oder des
+sen Geschäftsführerin gegangen. Ihre E Mail sei auch keine Reaktion
+
+auf die E Mail des Verbandspräsidenten vom 18. Mai 2016 gewesen,
+worin der krankgeschriebenen Klägerin unterstellt worden war, "blau
+zu machen".
+Mit ihrem Verhalten hat die Klägerin dem Ruf des Beklagten
+und dessen Geschäftsführerin geschadet bzw. in Kauf genommen,
+dass dieser Schaden trägt. Die von ihr angeführten Beweggründe
+stellen keine (hinreichende) Rechtfertigung für ihr Vorgehen dar.
+Ihrem Wunsch, sich von ihren Klientinnen und Klienten persönlich
+verabschieden zu können, hätte sie problemlos auch ohne die an den
+Beklagten und dessen Geschäftsführerin gerichteten Anschuldigun
+gen Nachdruck verleihen können. Diese waren im besagten Kontext
+völlig unnötig. Ob die Klägerin mit Bezug auf den Inhalt ihrer E
+Mail bzw. dessen Brisanz falsch beraten worden war, kann dahinge
+stellt bleiben. Die Klägerin erkannte durchaus, dass ihre Ausführun
+gen im dritten Absatz ihrer E Mail problematisch waren. Davon
+zeugt der Umstand, dass sie sich bei ihrem Berater rückversichern
+wollte, ob ihr die gewählte Formulierung nicht zum Nachteil gerei
+chen könnte. Dass ihr die möglichen Konsequenzen ihres Handelns
+nicht voll bewusst waren, ist von untergeordneter Bedeutung. Die
+Klägerin hat den Beklagten und dessen Geschäftsführerin wissent
+lich, willentlich und ohne jede Notwendigkeit angeschwärzt. Damit
+hat sie sich gegenüber ihrem Arbeitgeber klarerweise illoyal verhal
+ten und ihre Treuepflicht verletzt. Etwas relativiert wird diese Treue
+pflichtverletzung dadurch, dass sich der Präsident des Beklagten in
+der E Mail vom 18.Mai 2016 seinerseits ehrverletzend über die
+Klägerin geäussert hatte.
+Obschon das Vertrauensverhältnis zwischen den Parteien bereits
+zuvor stark belastet war (siehe Erw.2.3.1 vorne), war das Vorgehen
+der Klägerin grundsätzlich geeignet, die Vertrauensgrundlage zwi
+schen ihr und dem Beklagten endgültig zu zerstören. Dabei spielt es
+keine Rolle, ob die E Mail der Klägerin tatsächlich zu einer Vermin
+derung des Ansehens des Beklagten und/oder dessen Geschäftsführe
+rin geführt hat.
+Vorliegend fällt allerdings ins Gewicht, dass der Beklagte im
+Zeitpunkt der fristlosen Kündigung (28.Mai 2016) mit Rücksicht auf
+die ordentliche Beendigung des Anstellungsverhältnisses per 31.Juli
+
+2016 nur noch rund zwei Monate an das Anstellungsverhältnis mit
+der Klägerin gebunden gewesen wäre. Zudem war die Klägerin seit
+dem 28.April 2016 freigestellt. Es wäre während dieser rund zwei
+Monate – mit Ausnahme einer allfälligen Büroräumung – nicht mehr
+zu persönlichen Begegnungen zwischen den Parteien gekommen.
+Auch wenn die Verfehlung der Klägerin keinesfalls als geringfügig
+eingestuft werden kann, handelt es sich im Lichte der bundes
+gerichtlichen Praxis und mit Blick auf die vorbestehenden Anstände
+zwischen den Parteien nicht um ein derart krass illoyales Verhalten,
+dass dem Beklagten die Fortsetzung des Anstellungsverhältnisses mit
+allen daraus erwachsenden Pflichten, insbesondere der von ihm her
+vorgehobenen Lohnzahlungspflicht, bis zum Ablauf der ordentlichen
+Kündigungsfrist schlechterdings nicht mehr zumutbar gewesen wäre.
+Dies gilt umso mehr, als sich die Klägerin mit ihrer Kritik am Be
+klagten und dessen Geschäftsführerin nicht an die Öffentlichkeit
+wandte, sondern sich auf die Verbandsgemeinden beschränkte. In
+Würdigung der gesamten Umstände lag kein (objektiv) wichtiger
+Grund zur fristlosen Kündigung des Anstellungsverhältnisses im
+Sinne von §11 PersG respektive Art.337 OR vor.
+
+42 Aargauische Anwaltsprüfung
+Ein Lizentiat der philosophischen Fakultät mit Doktortitel der Rechtswis
+senschaft erfüllt die Zulassungsvoraussetzung des abgeschlossenen Stu
+diums der Rechtswissenschaft nicht.
+Aus dem Entscheid des Verwaltungsgerichts, 3. Kammer, vom 18.Januar
+2017, i.S. A. gegen Anwaltskommission (WBE.2016.385)
+Sachverhalt
+1.
+Am 18.August 2014 verlieh die Universität Zürich (UZH) A.
+den Doktor der Rechtswissenschaft (Dr. iur.). Während des Doktorats
+war er unter anderem als wissenschaftlicher Assistent und Mitarbei
+ter am Rechtswissenschaftlichen Institut (RWI) in Zürich tätig.
+Zuvor hatte er am 19.November 2010 den Titel lic. phil. erworben
+und dieses Studium mit Hauptfach Soziologie, dem ersten Nebenfach
+Strafrecht II und Strafprozessrecht sowie dem zweiten Nebenfach
+Philosophie abgeschlossen. Die Lizentiatsarbeit hatte das Thema
+"Punitivität – Bedeutung, Messung und Ursache der öffentlichen
+Strafstrenge". Momentan absolviert er ein Rechtspraktikum bei
+einem im Anwaltsregister eingetragenen Rechtsanwalt.
+Aus den Erwägungen
+3.
+3.1.
+Der Beschwerdeführer bringt vor, beim Doktortitel der Rechts
+wissenschaften handle es sich um den höchsten akademischen Grad.
