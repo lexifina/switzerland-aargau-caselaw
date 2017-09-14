@@ -1,0 +1,440 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2014.359"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2014.359"
+decided: "2017-09-14"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2457"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2457"
+cites_decisions: ["1C_71/2015", "1C_892/2013", "BGE 129 II 413", "BGE 133 II 370", "VB.2000.00403"]
+cites_law: ["switzerland/bund/acts/700.1/art-034.md", "switzerland/bund/acts/700/art-002.md", "switzerland/bund/acts/700/art-016.md", "switzerland/bund/acts/700/art-016a.md", "switzerland/bund/acts/700/art-018.md", "switzerland/bund/acts/700/art-022.md", "switzerland/bund/acts/700/art-027a.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2014.359
+
+## Regeste
+
+Nutzungsplanung; Landwirtschaftszone 
+- Rechtswidrigkeit einer Zonenvorschrift, welche in der Landwirtschaftszone eine Gestaltungsplanpflicht für Bauten und Anlagen mit Intensivtierhaltungsformen vorsieht 
+- Landwirtschaftliche Bauten und Anlagen zur bodenabhängigen Produktion oder inneren Aufstockung dürfen keinen Nutzungsvorschriften unterworfen werden, welche der bundesrechtlich vorgegebenen Grundnutzung in der Landwirtschaftszone widersprechen. 
+- Eine Gestaltungsplanpflicht für die gesamte Landwirtschaftszone ist mit § 21 BauG unvereinbar, wenn weder ein bestimmtes Gebiet innerhalb der (allgemeinen) Landwirtschaftszone mit der Sondernutzungsplanpflicht ausgeschieden wird noch die Planungsziele und -grundsätze positiv formuliert werden.
+
+## Text
+
+31 Nutzungsplanung; Landwirtschaftszone
+Rechtswidrigkeit einer Zonenvorschrift, welche in der Landwirt
+schaftszone eine Gestaltungsplanpflicht für Bauten und Anlagen mit
+Intensivtierhaltungsformen vorsieht
+Landwirtschaftliche Bauten und Anlagen zur bodenabhängigen Pro
+duktion oder inneren Aufstockung dürfen keinen Nutzungsvorschrif
+ten unterworfen werden, welche der bundesrechtlich vorgegebenen
+Grundnutzung in der Landwirtschaftszone widersprechen.
+Eine Gestaltungsplanpflicht für die gesamte Landwirtschaftszone ist
+mit §21 BauG unvereinbar, wenn weder ein bestimmtes Gebiet
+innerhalb der (allgemeinen) Landwirtschaftszone mit der Sondernut
+zungsplanpflicht ausgeschieden wird noch die Planungsziele
+und grundsätze positiv formuliert werden.
+Aus dem Entscheid des Verwaltungsgerichts, 3. Kammer, vom 14.Septem
+ber 2017, i.S. A. gegen Einwohnergemeinde B. und Regierungsrat
+(WBE.2014.359)
+Aus den Erwägungen
+1.
+Die revidierte BNO der Gemeinde B. enthält in §19 folgende
+Nutzungsbestimmung für Bauten in der Landwirtschaftszone:
+1Für alle Bauten und Anlagen ist ein in Abwägung sämtlicher betroffener
+Interessen optimaler Standort zu wählen. Sie haben sich unter Wahrung
+der betrieblichen Erfordernisse in Bezug auf Ausmass, Gestaltung, Stel
+lung sowie Bepflanzung in die Landschaft einzufügen.
+2Der Neubau und die Umnutzung bestehender Bauten und Anlagen für die
+landwirtschaftliche Intensivtierhaltung setzen einen Gestaltungsplan
+voraus. Im Rahmen eines Gestaltungsplanes sind Bauten und Anlagen für
+die Intensivtierhaltung nur zulässig, wenn die Immissionsentwicklung der
+geplanten Anlage zu keinen erheblichen Beeinträchtigungen des Sied
+lungsgebietes führt, die angestrebte Siedlungsentwicklung nicht einge
+schränkt wird, die landwirtschaftlichen Aspekte nicht gegen die Errichtung
+derartiger Anlagen sprechen und die Funktionen der Landwirtschaftszone,
+
+des Erholungsraumes und ökologischen Ausgleichs nicht beeinträchtigt
+werden. Landwirtschaftliche Intensivtierhaltung liegt vor, wenn Tiere be
+stimmter Arten in solcher Anzahl gehalten werden, dass die Auswirkungen
+auf die Umwelt und die räumliche Ordnung das bei Landwirtschaftsbetrie
+ben übliche Mass sprengen. Im Rahmen des Gestaltungsplanes werden
+insbesondere Stellung und Ausmass der geplanten Bauten und Anlagen so
+wie nötige technische Vorkehren festgesetzt.
+3(Wohngebäude)
+4(Empfindlichkeitsstufe gemäss LSV)
+2. (…)
+3.
+3.1.
+Das Raumplanungsgesetz umschreibt in Art.14ff. Zweck und
+Inhalt der wichtigsten Nutzungszonen, nämlich der Bau , der Land
+wirtschafts und der Schutzzonen. Mit den Teilrevisionen des Raum
+planungsgesetzes vom 20.März 1998 (in Kraft seit 1.September
+2000 [AS 2000 2042; BBl 1996 III 513]) und vom 23.März 2007 (in
+Kraft seit 1.September 2007 [AS 2007 3637; BBl 2005 7097]) sind
+die Bestimmungen über die Landwirtschaftszonen neu gefasst und
+der Begriff der Landwirtschaftszone erweitert worden (Art.16ff.
+RPG). Mit dieser Änderung verbunden ist die Abkehr von einem rei
+nen "Produktionsmodell", gemäss welchem die bodenabhängige Pro
+duktionsweise das Hauptcharakteristikum der landwirtschaftlichen
+Nutzung darstellte, in Richtung eines "Produktemodells", wonach in
+der Landwirtschaftszone grundsätzlich auch bodenunabhängige Be
+wirtschaftungsformen zugelassen sind, die der langfristigen Siche
+rung der Ernährungsbasis des Landes dienen (vgl. Botschaft des
+Bundesrats zu einer Teilrevision des Bundesgesetzes über die Raum
+planung vom 22.Mai 1999, in: BBl 1996 III 523f.; ALEXANDER
+RUCH/RUDOLF MUGGLI, in: HEINZ AEMISEGGER/PIERRE
+MOOR/ALEXANDER RUCH/PIERRE TSCHANNEN [Hrsg.], Praxiskom
+mentar RPG: Bauen ausserhalb der Bauzone, Zürich/Basel/Genf
+2017, Art.16 N22; PAUL RICHLI, Unvollendetes Produktemodell für
+die Landwirtschaft?, in: BlAR 3/2014, S.181f.).
+Die Zonenkonformität von Bauten und Anlagen in der
+Landwirtschaftszone richtet sich indes nicht unmittelbar nach dem in
+
+Art.16 RPG festgelegten Zonenzweck, sondern wird in Art.16a
+RPG besonders umschrieben. Zonenkonform sind grundsätzlich Bau
+ten und Anlagen, die zur landwirtschaftlichen Bewirtschaftung oder
+für den produzierenden Gartenbau nötig sind (Abs.1 Satz 1). Bauten
+und Anlagen für die bodenunabhängige Nutzung sind nur unter den
+Voraussetzungen von Abs.2 (innere Aufstockung) oder Abs.3
+(Intensivlandwirtschaftszone) zonenkonform. Diese Auslegung von
+Art.16a RPG wird durch Art.34 Abs.1 RPV bestätigt, wonach aus
+ser in den Fällen von Art.16a Abs.2 und 3 RPG die Bodenabhängig
+keit der Bewirtschaftung die grundlegende Voraussetzung für die Zo
+nenkonformität in der Landwirtschaftszone bildet (vgl.
+RUCH/MUGGLI, a.a.O., Art.16a N9, 30ff. und 34ff.). Die in BGE
+120 Ib 266 zu Art.16 RPG (in der bis zum 1.September 2000 gelten
+den Fassung) entwickelten Kriterien zur Abgrenzung zwischen
+bodenabhängiger und bodenunabhängiger Produktion sind auch nach
+der Teilrevision des Raumplanungsgesetzes vom 20.März 1998
+massgebend, da diese nichts daran geändert hat, dass Bauten und
+Anlagen (ausser in den Fällen von Art.16a Abs.2 und 3 RPG) in der
+Landwirtschaftszone nur zonenkonform sind, wenn sie der bodenab
+hängigen Bewirtschaftung dienen (vgl. hierzu auch BGE 129 II 413,
+Erw.3.1). Als bodenabhängige Bewirtschaftung gilt, wenn ein enger
+Bezug zum natürlichen Boden besteht. Dies ist bei der Tierhaltung
+der Fall, wenn die Tiere im Wesentlichen auf der Grundlage der auf
+dem Betrieb produzierten Futtermittel ernährt werden (Urteil des
+Bundesgerichts vom 23.Juni 2015 [1C_71/2015], Erw.4 und 5.2;
+BGE 133 II 370, Erw.4.2). Als innere Aufstockung werden jene
+Fälle bezeichnet, in denen einem überwiegend bodenabhängig
+geführten Betrieb Bauten und Anlagen für die bodenunabhängige
+Produktion landwirtschaftlicher Erzeugnisse angegliedert werden,
+um auf diese Weise dessen Existenzfähigkeit zu sichern (BERNHARD
+WALDMANN/PETER HÄNNI, Raumplanungsgesetz, Bern 2006,
+Art.16a N17ff.). Bauten und Anlagen, die über eine innere Auf
+stockung hinausgehen, können als zonenkonform bewilligt werden,
+wenn sie in einem Gebiet der Landwirtschaftszone erstellt werden
+sollen, das vom Kanton in einem Planungsverfahren dafür freigege
+ben wird (Art.16a Abs.3 RPG).
+
+3.2.
+Die Zonenkonformität in der Landwirtschaftszone wird somit
+grundsätzlich durch das Bundesrecht bzw. durch Art.16, 16a und
+16b RPG sowie Art.34 bis 38 RPV bestimmt. Kantonale
+Konkretisierungen der Landwirtschaftszone sind nur im Rahmen und
+den Grenzen des Bundesrechts zulässig (WALDMANN/HÄNNI, a.a.O.,
+Art.16 N4). Konkret bedeutet dies, dass die bundesrechtlichen
+Kriterien weder zugunsten noch – unter Vorbehalt einschränkender
+kantonaler Bestimmungen gemäss Art.27a RPG – zuungunsten der
+Landwirtschaft geändert werden dürfen (GIERI
+CAVIEZEL/JEANNETTE FISCHER, in: ALAIN GRIFFEL/HANS U.
+LINIGER/HERIBERT RAUSCH/DANIELA THURNHERR [Hrsg.], Fach
+handbuch Öffentliches Baurecht, Zürich/Basel/Genf 2016, S.106f.,
+Rz.3.39 und 3.42f.; MEINRAD HUSER, Planen in der
+Landwirtschaftszone, in: BlAR 2 3/2015, S.70f.). Sämtliche auf den
+Boden als Produktionsfaktor angewiesenen Nutzungsformen und die
+Errichtung aller dazu notwendigen Bauten und Anlagen sind folglich
+aufgrund des übergeordneten (Bundes )Rechts in der Landwirt
+schaftszone grundsätzlich gestattet. Dasselbe gilt für Bauten und
+Anlagen, die der inneren Aufstockung dienen (Art.16a Abs.2 RPG).
+Dementsprechend hat der Betriebsinhaber im Grundsatz die Wahl,
+welche landwirtschaftliche Nutzung er auf dem ihm zur Verfügung
+stehenden Land in der Landwirtschaftszone betreiben will. Die
+Zonenkonformität von Bauten und Anlagen in der Landwirtschafts
+zone setzt voraus, dass sie für die in Frage stehende Bewirtschaftung
+nötig sind, ihnen am vorgesehenen Standort keine überwiegenden In
+teressen entgegenstehen und der Betrieb voraussichtlich längerfristig
+bestehen kann (Art.34 Abs.4 RPV; CAVIEZEL/FISCHER, a.a.O.,
+S.107ff., Rz. 3.42 und 3.62).
+Es ist unbestritten, dass in der Gemeinde B. keine Intensivland
+wirtschaftszone vorgesehen ist; auf diese Zone ist daher im Folgen
+den nicht näher einzugehen. Die Erstellung von Bauten und Anlagen
+zur bodenabhängigen Tierhaltung und zur bodenunabhängigen Tier
+haltung im Rahmen der inneren Aufstockung ist – wie oben darge
+stellt – Teil der bundesrechtlich festgelegten zulässigen Grund
+nutzung der Landwirtschaftszone. Diese Grundnutzung kann von den
+
+dem Bundesgesetzgeber nachgeordneten kantonalen Gesetzgebern
+nur in Bezug auf Art.16a Abs.2 (innere Aufstockung), 24b (nicht
+landwirtschaftliche Nebenbetriebe ausserhalb der Bauzonen), 24c
+(bestehende zonenwidrige Bauten und Anlagen ausserhalb der
+Bauzonen) und 24d RPG (landwirtschaftsfremde Wohnnutzung und
+schützenswerte Bauten und Anlagen) eingeschränkt werden (Art.27a
+RPG). Möglich ist zudem eine Differenzierung innerhalb der
+Landwirtschaftszone nach Art und Mass der Nutzung und der Inan
+spruchnahme des Bodens durch Bauten und Anlagen. Es können die
+Landwirtschaftszone überlagernde Nutzungszonen des RPG
+(Schutzzonen) oder des kantonalen Rechts vorgesehen werden,
+wodurch die Errichtung von Bauten und Anlagen weiter beschränkt
+oder ausgeschlossen wird (Art.18 RPG in Verbindung mit §15
+Abs.1 BauG; RUCH/MUGGLI, a.a.O., Art.16 N11; vgl. auch
+CHRISTIAN HÄUPTLI, in: ANDREAS BAUMANN/RALPH VAN DEN
+BERGH/MARTIN GOSSWEILER/CHRISTIAN HÄUPTLI/ERICA HÄUPTLI
+SCHWALLER/VERENA SOMMERHALDER FORESTIER [Hrsg.], Kom
+mentar zum Baugesetz des Kantons Aargau, Bern 2013, N100 zu
+§15 BauG).
+Der Begriff der Bauten und Anlagen ist in Art.22 RPG im
+Sinne einer Minimaldefinition bundesrechtlich geregelt; er kann von
+den Kantonen und den Gemeinden nicht unterschritten, d.h. nicht
+enger gefasst werden (WALDMANN/HÄNNI, a.a.O., Art.22 N13; Eid
+genössisches Justiz und Polizeidepartement, Erläuterungen RPG,
+1981, Art.22 N6).
+3.3.
+Die umstrittene Bestimmung von §19 Abs.2 BNO unterstellt
+die "Intensivtierhaltung" in der gesamten Landwirtschaftszone der
+Gemeinde B. einer Gestaltungsplanpflicht. Zusätzlich werden Krite
+rien definiert, die erfüllt sein müssen, damit eine "Intensivtierhal
+tung" zulässig sein soll. Eine "Intensivtierhaltung" liegt gemäss §19
+Abs.2 BNO vor, "wenn Tiere bestimmter Arten in solcher Anzahl
+gehalten werden, dass die Auswirkungen auf die Umwelt und die
+räumliche Ordnung das bei Landwirtschaftsbetrieben übliche Mass
+sprengen."
+
+§19 Abs.2 BNO läuft darauf hinaus, dass grundsätzlich zuläs
+sige Tiermast und Tierhaltungsbetriebe, die entweder bodenab
+hängig oder im Sinne eines Zuerwerbs (innere Aufstockung) boden
+unabhängig produzieren, einschränkenden Bestimmungen unter
+worfen werden bzw. hierfür ein Verbot mit Erlaubnisvorbehalt ein
+geführt wird. Die Norm widerspricht insofern der bundesrechtlich
+zulässigen Grundnutzung innerhalb der Landwirtschaftszone (vgl.
+vorne Erw.3.1 und 3.2).
+3.4.
+3.4.1.
+Der Richtplan des Kantons Aargau (Richtplan 2011) äussert
+sich in Kap. L 3.1 zum Landwirtschaftsgebiet und zu den
+Fruchtfolgeflächen, in Kap. L 3.2 zu den Entwicklungsgebieten
+Landwirtschaft. Das Landwirtschaftsgebiet gemäss Richtplankarte
+wird festgesetzt (Kap. L 3.1, Beschluss 1.1). Die Gemeinden sichern
+mit ihrer Nutzungsplanung das Landwirtschaftsgebiet, indem sie die
+ses den Landwirtschaftszonen zuweisen (Kap. L 3.1, Beschluss 1.2).
+Zu bestehenden Landwirtschaftsbetrieben ist ohne Planungsverfah
+ren sowohl die bodenabhängige als auch die bodenunabhängige Pro
+duktion über die innere Aufstockung hinaus bis zu einer durch den
+Betrieb beanspruchten Gesamtfläche von 0,5ha möglich (Kapitel
+L3.2, Beschluss 1.1). Planungspflichtige Bauvorhaben in der Land
+wirtschaftszone erfordern eine planerische Ausscheidung im Kultur
+landplan. Die Umsetzung erfolgt über Speziallandwirtschaftszonen,
+Entwicklungsstandorte Landwirtschaft (ESL) oder in speziellen Fäl
+len einen Gestaltungsplan (Kap. L 3.2, Planungsgrundsatz A). Einer
+Planungspflicht unterstehen (Kap. L3.2, Beschluss 1.2):
+ Bauvorhaben an neuen Standorten, die eine Gesamtfläche
+von mehr als 0,5ha beanspruchen. Dies sind beispielsweise
+neue Grossanlagen mit Gewächshäusern. Herkömmliche
+Aussiedlungen werden in aller Regel nicht planungspflichtig,
+da die beanspruchte Fläche meist unter 0,5ha liegt (Kap. L
+3.2, S.1).
+ Bauvorhaben von bestehenden landwirtschaftlichen Betrie
+ben, welche zusammen mit dem bestehenden Betrieb eine
+Gesamtfläche von mehr als 0,5 ha beanspruchen und über
+
+die innere Aufstockung hinausgehen oder neue Nutzungen
+(Tierhaltung, Pflanzenproduktion in festen Gewächshäusern)
+umfassen.
+Für planungspflichtige Bauvorhaben der Landwirtschaft können
+die Gemeinden in der Nutzungsplanung Speziallandwirtschaftszonen
+bezeichnen. Bei planungspflichtigen Vorhaben zu bestehenden Land
+wirtschaftsbetrieben können die Gemeinden die planungsrechtlichen
+Voraussetzungen im Gestaltungsplanverfahren schaffen (Kap. L 3.2,
+S.1).
+Zusammenfassend lässt sich zum einen festhalten, dass der
+Richtplan die planungspflichtigen Bauvorhaben bezeichnet. Zum
+anderen ist wesentlich, dass nach Massgabe des Richtplans die Ge
+meinden im Rahmen ihrer Nutzungsplanung lediglich Konkreti
+sierungen für bestimmte Projekte oder für bestimmte Teilflächen
+vornehmen können; generelle Abweichungen von der bundesrecht
+lich statuierten Grundnutzung innerhalb der Landwirtschaftszone
+sind demgegenüber nicht vorgesehen. Vielmehr wird für die boden
+abhängige Produktion als auch die innere Aufstockung bis zu einer
+Gesamtfläche von 0,5 ha ausdrücklich statuiert, dass keine weiteren
+Planungsverfahren zu durchlaufen sind. §18 Abs.1 BNO verweist
+für die Zulässigkeit von anderen Produktionsmethoden als die
+bodenabhängige Produktion in den Bereichen Acker und Futterbau,
+Tierhaltung etc. explizit auf die bundesrechtlichen Bestimmungen
+(Art.16 und Art.16a Abs.1, 1bis und 2 RPG; vgl. Art.34 RPV;
+Erläuterungen zum Bau und Nutzungsrecht des Kantons Aargau
+[BNR], Version 3.1, Juni 2012/Januar 2014, S.24f.).
+3.4.2.
+Mit der neuen Zonenbestimmung wurde nicht das im Richtplan
+vorgesehene Verfahren gewählt, wonach im Hinblick auf planungs
+pflichtige Bauvorhaben für konkrete Gebiete planerische Ausschei
+dungen im Kulturlandplan vorgenommen werden können (durch die
+Festlegung von Spezialzonen oder Entwicklungsgebieten Landwirt
+schaft bzw. unter bestimmten Umständen durch das Statuieren einer
+Gestaltungsplanpflicht). Vielmehr werden durch die Bestimmung in
+§19 Abs.2 BNO Tiermast und Tierhaltungsbetriebe, die in der
+Landwirtschaftszone grundsätzlich zulässig sind (weil sie bodenab
+
+hängig oder im Sinne eines Zuerwerbs [innere Aufstockung]
+bodenunabhängig produzieren), generell einer Sondernutzungs
+planpflicht unterstellt. Grundlage der Gestaltungsplanpflicht bildet
+auch nicht eine Präzisierung der Raumnutzung durch überlagernde
+andere Nutzungszonen des RPG (Schutzzonen) oder des kantonalen
+Rechts. Entgegen der Auffassung der Gemeinde bildet auch §13
+Abs.2 BauG keine hinreichende Rechtsgrundlage, welche den
+Gemeinden die Einführung von Sondernutzungsplanungen, die von
+den Richtplanbeschlüssen gemäss Kap. L 3.2 abweichen, erlauben
+würde. Seit der Revision des Baugesetzes 2009 gibt diese Bestim
+mung inhaltlich lediglich die Bundesnorm in Art.2 Abs.1 RPG
+wieder (HÄUPTLI, a.a.O., N45 zu §13 BauG mit Hinweisen auf die
+Materialien).
+3.5.
+Insgesamt ergibt sich, dass die in §19 Abs.2 BNO statuierte
+Gestaltungsplanpflicht der bundesrechtlich vorgegebenen Grund
+nutzung in der Landwirtschaftszone widerspricht und keine genü
+gende Grundlage im kantonalen Recht hat. Entsprechend erweist sich
+die Bestimmung als rechtswidrig und ist aufzuheben.
+4.
+4.1.
+Die Vorinstanz sieht die gesetzliche Grundlage für die umstrit
+tene Gestaltungsplanpflicht vorab in §16 Abs.1 BauG. Da Satz 1
+dieser Bestimmung die zweckmässige Erschliessung behandelt und
+die Erschliessung nicht Gegenstand der angefochtenen Sonder
+nutzungsplanpflicht ist, kann sich der Verweis nur auf §16 Abs.3
+BauG beziehen, der die Gemeinden ermächtigt, in der allgemeinen
+Nutzungsplanung Gebiete zu bezeichnen, in denen eine Überbauung
+eine Sondernutzungsplanung voraussetzt.
+4.2.
+4.2.1.
+Gestaltungspläne werden in erster Linie für Teilbereiche des
+Baugebiets erstellt. Sie können erlassen werden, wenn ein wesent
+liches öffentliches Interesse an der Gestaltung der Überbauung be
+steht (§21 Abs.1 BauG). Gestaltungspläne können von den
+allgemeinen Nutzungsplänen und vorschriften abweichen, wenn
+
+dadurch ein siedlungs und landschaftsgestalterisch besseres Ergeb
+nis erzielt wird, die zonengemässe Nutzungsart nicht übermässig be
+einträchtigt wird, keine überwiegenden Interessen entgegenstehen
+und die allgemeine Nutzungsordnung Abweichungen nicht explizit
+ausschliesst oder besondere Voraussetzungen für ein Abweichen von
+den Nutzungsplänen und vorschriften umschreibt (§21 Abs.2
+BauG). §8 Abs.1 BauV verdeutlicht, dass ein Gestaltungsplan ins
+besondere Vorschriften über Art und Mass der Nutzung (lit.b) und
+Bestimmungen im Interesse des Umweltschutzes und der Siedlungs
+qualität (lit.c) enthalten kann (vgl. dazu AGVE 2007, S.143f. mit
+Hinweisen; HÄUPTLI, a.a.O., N11f. zu §21 BauG).
+Sondernutzungspläne sind auch im Nichtbaugebiet, d.h. aus
+serhalb des Siedlungsgebiets, nicht ausgeschlossen. Die Sonder
+nutzungsplanung ist aber an die Grundnutzung gebunden (vgl.
+AGVE 2007, S.143; HÄUPTLI, a.a.O., N12 zu §21 BauG). Das
+Bundesrecht verlangt bei zonenkonformen Bauten grundsätzlich kein
+Sondernutzungsplanungsverfahren (vgl. Urteil des Bundesgerichts
+vom 1.April 2015 [1C_892/2013], Erw.2.1, mit Hinweisen).
+Bei Abweichungen vom allgemeinen Nutzungsplan zeigt der
+Gemeinderat auf, wie jene zu einem siedlungs und landschafts
+gestalterisch besseren Ergebnis führen. Er beauftragt eine quali
+fizierte Fachperson mit der Ausarbeitung der Stellungnahme; diese
+ist mit dem Entwurf öffentlich aufzulegen (§8 Abs.3 BauV).
+4.2.2.
+Der Gestaltungsplan gemäss §21 BauG ist vornehmlich ein In
+strument zur differenzierten Nutzungsplanung innerhalb des Bauge
+bietes. Seine Aufgabe und sein Zweck bestehen in der Konkretisie
+rung der Nutzung im Hinblick auf besondere öffentliche Anliegen,
+welche in §21 Abs.1 lit.a bis c BauG aufgeführt sind. Der Gestal
+tungsplan soll ein qualitativ besseres Ergebnis ermöglichen als der
+allgemeine Nutzungsplan mit der parzellenweisen "Regelbauweise".
+Insbesondere die Verwirklichung städtebaulicher Ziele verlangt oft
+mals besondere, detaillierte planerische Regelungen, welche den
+Rahmen der allgemeinen Nutzungsordnung schon aus praktischen
+Gründen sprengen. Auch nicht endgültig abgeschlossene Planungen
+in einem Gebiet können Anlass für einen Gestaltungsplan bilden, um
+
+damit sicherzustellen, dass der Planungsprozess abgeschlossen und
+konkrete Planungsziele realisiert werden können (vgl. ERIC
+BRANDT/PIERRE MOOR, in: HEINZ AEMISEGGER/ALFRED
+KUTTLER/PIERRE MOOR/ALEXANDER RUCH [Hrsg.], Kommentar
+zum Bundesgesetz über die Raumplanung, Zürich 1999, Art.18
+N96; WALTER HALLER/PETER KARLEN, Raumplanungs , Bau und
+Umweltrecht, Band I, 3.Auflage, Zürich 1999, Rz. 357).
+4.2.3.
+Die BNO der Gemeinde B. enthält in §3 Abs.2 verschiedene
+Festlegungen zu einzelnen gestaltungsplanpflichtigen Arealen. Darin
+werden die mit der Sondernutzungsplanung zu lösenden Konflikte
+und der Zweck der Planung konkret umschrieben. Abweichungen
+oder Änderungen gegenüber der Grundordnung werden nicht ausge
+schlossen. Die Gestaltungsplanpflicht in der Landwirtschaftszone
+(§19 Abs.2 BNO) wird in §3 Abs.2 BNO nicht erwähnt und insbe
+sondere nicht präzisiert.
+Selbst in §19 Abs.2 BNO werden die zu lösenden Konflikte
+sowie der Zweck der Planung nicht konkret umschrieben. Die
+Bestimmung sieht für die gesamte Landwirtschaftszone der Ge
+meinde B. eine Abweichung von der Grundordnung vor, indem gene
+rell für die "Intensivtierhaltung" ein Verbot mit Erlaubnisvorbehalt
+eingeführt wird. Solche Anlagen sind nur zulässig, wenn die Immis
+sionsentwicklung zu keinen erheblichen Beeinträchtigungen des
+Siedlungsgebietes führt, die angestrebte Siedlungsentwicklung nicht
+eingeschränkt wird, keine landschaftlichen Aspekte gegen ihre
+Errichtung sprechen und die Funktionen der Landwirtschaftszone,
+des Erholungsraumes und des ökologischen Ausgleichs nicht beein
+trächtigt werden (§19 Abs.1 Satz 2 BNO). Nach Darstellung des
+Gemeinderates geht es bei diesem Verbot mit Erlaubnisvorbehalt für
+Betriebe der "Intensivtierhaltung" vor allem darum, den erheblichen
+Interessenkonflikt zwischen intensiver landwirtschaftlicher (Mas
+sen )Tierhaltung und der angestrebten Siedlungsentwicklung zu lö
+sen, sowie um den Schutz der Bevölkerung vor übermässigen Immis
+sionen. Das wichtigste Ziel und der Hauptzweck der
+Gestaltungsplanpflicht sei die Erhaltung "der hohen Standortattrakti
+
+vität und der angenehmen Wohnlagen", weshalb störende Betriebe in
+der Landwirtschaftszone nicht zugelassen werden sollen.
+4.3.
+Die Gestaltungsplanpflicht für die gesamte Landwirtschaftszone
+ist mit §21 BauG unvereinbar, da weder ein bestimmtes Gebiet
+innerhalb der (allgemeinen) Landwirtschaftszone mit der Sondernut
+zungsplanpflicht ausgeschieden wird, noch die Planungsziele und
+grundsätze positiv formuliert werden. Entgegen der Darstellung der
+Gemeinde lässt auch der Planungsbericht keine hinreichende Kon
+kretisierung der gewünschten Ordnung erkennen. Unter der ange
+strebten Siedlungsentwicklung wird eine langfristige Entwicklung
+verstanden, die über 2 bis 3 Planungshorizonte geht und einen Zeit
+raum von 30 bis 40 Jahren umfasst, der jedoch nach den eigenen An
+gaben "raumplanerisch noch nicht festlegbar ist". Lässt sich das Pla
+nungsziel nicht definieren, kann dafür dem Grundeigentümer oder
+dem Betriebsinhaber eines Tierhaltungsbetriebs auch keine Sonder
+nutzungsplanpflicht auferlegt werden.
+Insgesamt erscheint zumindest fraglich, ob nicht auch aus die
+sen Gründen (das Gebiet, das der Sondernutzungsplanung unterlie
+gen soll, wurde nicht ausgeschieden; keine positiv formulierten Pla
+nungsziele und grundsätze) die umstrittene Gestaltungsplanpflicht in
+§19 Abs.2 Satz 1 BNO ersatzlos zu streichen ist.
+
+32 Abbruch des Verfahrens
+Erhebliche Überschreitung des Kostenrahmens als wichtiger Grund für
+den Abbruch des Verfahrens
+Aus dem Entscheid des Verwaltungsgerichts, 3.Kammer, vom 11.Januar
+2017, i.S. A. AG gegen B. (WBE.2016.393)
+Aus den Erwägungen
+2.
+Zu prüfen ist, ob die Vergabestelle berechtigt war, das Submis
+sionsverfahren abzubrechen.
+2.1. (...)
+2.2.
+2.2.1.
+Die Vergabestelle rechtfertigt den vorgenommenen Verfahrens
+abbruch im Wesentlichen damit, dass die beiden eingereichten Ange
+botspreise weit über dem vorgesehenen Budget, das auf einer Richt
+offerte der C. beruht, liegen. In der Tat werden die budgetierten
+Kosten von 2 Millionen Franken um rund 25% bzw. sogar 40%
+überschritten. Derartige massive Überschreitungen des vorgegebenen
+Budgets bzw. der Kostenschätzung können nach der Rechtsprechung
+und Lehre einen rechtsgenüglichen sachlichen Grund darstellen, der
+die Vergabestelle grundsätzlich zum Verfahrensabbruch berechtigt
+(Urteil des Verwaltungsgerichts des Kantons Zürich vom 31.Januar
+2002 [VB.2000.00403], Erw.4; Urteile des Verwaltungsgerichts des
+Kantons Graubünden vom 16.August 2001 [U0170 bzw. U0171],
+Erw.5c bzw. Erw.4c; STEFAN SCHERLER, Abbruch und Wiederho
+lung von Vergabeverfahren, in: JEAN BAPTISTE ZUFFEREY/HUBERT
+STÖCKLI [Hrsg.], Aktuelles Vergaberecht 2008, Zürich 2008, S.289;
