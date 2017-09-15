@@ -1,0 +1,266 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2017.102"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "WBE.2017.102"
+decided: "2017-09-15"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2443"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2443"
+cites_law: ["switzerland/bund/acts/220/art-327a.md", "switzerland/bund/acts/220/art-327b.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — WBE.2017.102
+
+## Regeste
+
+Berufskosten und Arbeitsweg (§ 35 Abs. 1 lit. a und c StG) 
+Beweisanforderungen, wenn berufliche Notwendigkeit der Benützung des Privatfahrzeugs geltend gemacht wird
+
+## Text
+
+Eigenmietwerts in diesem Umfang überschreitet die Schwelle der
+Wesentlichkeit der Nutzungserweiterung klar, womit keine Kosten
+zum Abzug zuzulassen sind.
+17 Berufskosten und Arbeitsweg (§35 Abs.1 lit.a und c StG)
+Beweisanforderungen, wenn berufliche Notwendigkeit der Benützung des
+Privatfahrzeugs geltend gemacht wird
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom
+15.September 2017, i.S. B.I. und S.I. gegen KStA (WBE.2017.102)
+Aus den Erwägungen
+1.
+Gemäss §35 Abs.1 lit.a StG werden die notwendigen Kosten
+für Fahrten zwischen Wohn und Arbeitsstätte als Berufskosten abge
+zogen. Steht kein öffentliches Verkehrsmittel zur Verfügung oder ist
+dessen Benutzung objektiv nicht zumutbar, so können die Kosten des
+privaten Fahrzeugs abgezogen werden (§12ff. StGV i.V.m. Art.5
+Abs.3 der Verordnung des EFD über den Abzug der Berufskosten
+unselbständig Erwerbstätiger bei der direkten Bundessteuer vom
+10.Februar 1993 [Berufskostenverordnung] in der Fassung vom
+1.Januar 2007 [AS 2006 4887]).
+1.1.
+Nach ständiger Praxis der aargauischen Steuerbehörden und
+Gerichte wird objektive Unzumutbarkeit namentlich dann angenom
+men, wenn die Benützung öffentlicher Verkehrsmittel für den
+Arbeitsweg zwar möglich wäre, aber dadurch täglich im Vergleich
+mit der Benützung des privaten Fahrzeugs ein zusätzlicher zeitlicher
+Aufwand von mehr als 60 Minuten entsteht (vgl. Nachweise bei
+PHILIP FUNK, in: MARIANNE KLÖTI WEBER/DAVE SIEGRIST/DIETER
+WEBER [Hrsg.], Kommentar zum Aargauer Steuergesetz, 4. Aufl.,
+
+Muri/Bern 2015, §35 N9). Hier ist nicht umstritten, dass sich für
+den Beschwerdeführer bei Benützung der Park & Ride Variante im
+Vergleich zur Benützung des privaten Fahrzeugs kein zusätzlicher
+Zeitaufwand von mehr als 60 Minuten proTag für die Bewältigung
+des Arbeitswegs ergibt.
+1.2.
+Der Beschwerdeführer macht indessen geltend, die Benützung
+seines Fahrzeugs sei für die Berufsausübung am Arbeitsplatz not
+wendig. Deshalb – und nicht weil sich ein unzumutbarer zusätzlicher
+Zeitaufwand bei Benützung öffentlicher Verkehrsmittel für den Ar
+beitsweg ergebe – erweise sich die tägliche Fahrt von O. an seine Ar
+beitsstätte in D. als notwendig.
+2.
+2.1.
+Nach der relativ zwingenden Vorschrift von Art.327a Abs.1
+OR hat der Arbeitgeber dem Arbeitnehmer alle durch die Ausführung
+der Arbeit notwendig entstehenden Auslagen zu ersetzen, bei Arbeit
+an auswärtigen Arbeitsorten auch die für den Unterhalt erforderli
+chen Aufwendungen. Benützt der Arbeitnehmer im Einverständnis
+mit dem Arbeitgeber für seine Arbeit ein von diesem oder ein von
+ihm selbst gestelltes Motorfahrzeug, so sind ihm die üblichen
+Aufwendungen für dessen Betrieb und Unterhalt nach Massgabe des
+Gebrauchs für die Arbeit zu vergüten (Art.327b Abs.1 OR). Auch
+diese Vorschrift, die über Art.327a Abs.1 OR hinausgeht, indem sie
+die Vergütung für die Verwendung eines Fahrzeugs vom Einverständ
+nis des Arbeitgebers und nicht von der Notwendigkeit des Fahrzeug
+einsatzes für die Arbeitsausführung abhängig macht (vgl. ULLIN
+STREIFF/ADRIAN VON KAENEL/ROGER RUDOLPH, Arbeitsvertrag,
+Praxiskommentar zu Art.319 – 362 OR, 7. Aufl., Zürich 2012,
+Art.327b N8), ist relativ zwingend, d.h. es darf von ihr nicht zuun
+gunsten des Arbeitnehmers abgewichen werden. Stellt der Arbeitneh
+mer im Einverständnis mit dem Arbeitgeber selbst ein Motorfahr
+zeug, d.h. verwendet er sein eigenes Fahrzeug, sind nach der
+dispositiven Vorschrift von Art.327b Abs.2 OR ausserdem die
+öffentlichen Abgaben für das Fahrzeug, die Prämien für die Haft
+pflichtversicherung und eine angemessene Entschädigung für die Ab
+
+nützung des Fahrzeugs nach Massgabe des Gebrauchs für die Arbeit
+zu vergüten.
+2.2.
+Behauptet der Steuerpflichtige, er müsse sein Privatauto an den
+Arbeitsplatz mitnehmen und für Geschäftsfahrten zur Verfügung stel
+len, ist zu prüfen, ob diese Notwendigkeit tatsächlich besteht und es
+dem Steuerpflichtigen nicht zuzumuten ist, für Geschäftszwecke
+öffentliche Verkehrsmittel zu benützen. Die Beweisführung obliegt
+in diesem Punkt dem Steuerpflichtigen, der grundsätzlich den Nach
+weis steuermindernder Tatsachen erbringen muss (Urteile des
+Verwaltungsgerichts vom 23.Januar 2008 [WBE.2007.304] E. 2.2.,
+vom 15.Juli 2009 [WBE.2009.3] E. 3.3. und vom 30.Juni 2015
+[WBE.2015.161] E. 3.3.).
+Dabei ist die Gefahr von "Gefälligkeitsbescheinigungen" des
+Arbeitgebers mit Bezug auf die geschäftliche Notwendigkeit der Ver
+wendung von Privatfahrzeugen gross: Bescheinigt der Arbeitgeber
+dem Arbeitnehmer generell oder auch schon nur häufig die Notwen
+digkeit des Gebrauchs und der tatsächlichen Verwendung des Privat
+fahrzeugs fürs Geschäft, bezahlt daneben aber eine eher bescheidene
+pauschale Spesenentschädigung oder vergütet nur in geringem Um
+fang effektive Spesen für die Benützung des privaten Fahrzeugs
+durch den Arbeitnehmer, verschafft der Arbeitgeber auf diese Weise
+seinem Arbeitnehmer – ohne dass für ihn selbst Kosten entstehen –
+einen allenfalls erheblichen Steuervorteil, indem der Arbeitnehmer
+die höheren Kosten für die Benützung des Privatfahrzeugs steuerlich
+in Abzug bringen kann. Die Praxis ist daher bei der Gewährung von
+Fahrkostenabzügen im Zusammenhang mit der behaupteten geschäft
+lichen Verwendung von Privatfahrzeugen zu Recht zurückhaltend. In
+der Regel wird der Arbeitnehmer sowohl die Notwendigkeit
+geschäftsbedingter Fahrten (d.h. dass der Einsatz des Privatwagens
+vom Arbeitgeber angeordnet oder zumindest erwartet wird: Wer aus
+eigenem Antrieb das eigene Fahrzeug benutzt, führt keine berufsnot
+wendige Fahrt mit dem Privatwagen aus) als auch jede einzelne sol
+che bedingte Fahrt belegen müssen, will er für die entsprechenden
+Arbeitstage für den Arbeitsweg die Kosten für die Benützung des pri
+vaten Fahrzeugs zum Abzug bringen (vgl. die bereits angeführten Ur
+
+teile vom 23.Januar 2008 [WBE.2007.304], vom 15.Juli 2009
+[WBE.2009.3] und vom 30.Juni 2015 [WBE.2015.161]).
+2.3.
+Hier ist schon zweifelhaft, ob überhaupt notwendig berufsbe
+dingte Fahrten als nachgewiesen gelten können. Der Beschwerdefüh
+rer hat zwar behauptet, er müsse sein Fahrzeug bei seiner Arbeit ver
+wenden. Aus seinem Arbeitsvertrag ergibt sich jedoch keine Ver
+pflichtung zum Einsatz des Privatwagens für geschäftliche Belange.
+Auch aus der Funktionsbeschreibung der Stelle, welche der Be
+schwerdeführer bei seiner Arbeitgeberin bekleidet, ergibt sich zwar,
+dass er bisweilen nicht am Sitz des Unternehmens zum Einsatz
+kommt (vgl. etwa den Hinweis auf die Teilnahme des Be
+schwerdeführers an Informations und Fachanlässen, auf die Funk
+tion des Beschwerdeführers als Ansprechperson für Mietliegenschaf
+ten sowie Botengänge zur Poststelle in D.). Dass der Beschwerdefüh
+rer von seinem Arbeitgeber jeweils zum Einsatz des privaten Fahr
+zeugs angehalten wird, ergibt sich aber auch daraus nicht; dies fällt
+umso mehr ins Gewicht als angesichts der Grösse des Unternehmens
+der Arbeitgeberin ohne weiteres davon ausgegangen werden kann,
+dass diese über Geschäftswagen verfügt. Ein Beweis für notwendig
+berufsbedingte Fahrten mit dem eigenen Wagen wird auch durch die
+entsprechenden Bestätigungen der Arbeitgeberin nicht erbracht. In
+diesen wird zwar ausgeführt, der Beschwerdeführer sei dauerhaft auf
+sein privates Fahrzeug angewiesen, um geschäftlich bedingte Fahrten
+zu Geschäftspartnern, Bankinstituten, Firmenliegenschaften, Amts
+stellen etc. auszuführen. Die Bestätigung datiert aber vom 1.April
+2016 und wurde somit erst im laufenden Rechtsmittelverfahren er
+stellt. Ungewöhnlich ist dabei auch die Tatsache, dass mit den im
+Einspracheverfahren eingereichten Spesenabrechnungen dannzumal
+lediglich zehn beruflich notwendige Fahrten ausgewiesen worden
+sind und nun im Verfahren vor Verwaltungsgericht rund 100 zusätzli
+che berufsbedingte Kurzfahrten in der Steuerperiode 2014 stattgefun
+den haben sollen. Dass die Arbeitgeberin die Verwendung des priva
+ten Fahrzeugs vorher bereits angeordnet oder zumindest stillschwei
+gend vorausgesetzt hätte, ergibt sich daraus jedoch nicht. Fehlt es
+aber am Nachweis, dass der Beschwerdeführer und seine Arbeitgebe
+
+rin sich darauf geeinigt haben, dass für ihn der Einsatz seines priva
+ten Fahrzeugs als Teil der Erfüllung seiner arbeitsvertraglichen
+Pflichten anzusehen ist, so ist nicht erkennbar, inwiefern Fahrten im
+Zusammenhang mit der Erfüllung seiner arbeitsvertraglichen Pflich
+ten berufsnotwendig gewesen sein sollen und nicht vielmehr aus pri
+vaten Gründen der Bequemlichkeit, des Zeitgewinns o.ä. mit dem
+Privatwagen ausgeführt wurden.
+2.4.
+Selbst wenn für den Nachweis der beruflichen Notwendigkeit
+von Fahrten eines Arbeitnehmers mit seinem Privatwagen ein weni
+ger strenger Massstab angelegt und angenommen wird, es genüge für
+die Annahme der Berufsnotwendigkeit, wenn der Beschwerdeführer
+nachweise, dass er anlässlich der Erbringung seiner Arbeitsleistung
+seinen Privatwagen tatsächlich eingesetzt habe, so führt dies hier
+doch nicht dazu, dass mehr als die von der Vorinstanz anerkannten
+Fahrkosten anerkannt werden können.
+2.4.1.
+Der Beschwerdeführer hat anhand seiner Spesenabrechnungen
+vor Vorinstanz nachgewiesen, dass er an neunTagen zehn beruflich
+bedingte Fahrten ausgeführt hat, wofür er auch von seiner Arbeit
+geberin entschädigt wurde. Dass er an diesenTagen sinnvollerweise
+nicht mit Park & Ride den Weg zwischen seiner Wohn und Arbeits
+stätte, sondern mit dem Privatwagen zurücklegte, ist aus Sicht der
+steuerlichen Abzugsfähigkeit der betreffenden Kosten nicht zu bean
+standen.
+2.4.2.
+Im verwaltungsgerichtlichen Beschwerdeverfahren geht es aber
+nicht in erster Linie um diese Fahrten. Der Beschwerdeführer macht
+nämlich für alle seine Arbeitstage geltend, er habe jeweils mit dem
+Einverständnis der Arbeitgeberin sein Privatfahrzeug für beruflich
+bedingte Fahrten, vor allem Kurzfahrten, eingesetzt. Deshalb müsse
+ihm steuerlich für alle dieseTage auch die Benützung des Privatfahr
+zeugs zugestanden bzw. es müssten die entsprechenden Kosten als
+Berufskosten anerkannt werden.
+
+2.5.
+2.5.1.
+Im Beschwerdeverfahren hat der Beschwerdeführer nunmehr
+eine Spesenabrechnung für (zusätzliche) 100 Kurzfahrten in der
+Steuerperiode 2014 eingereicht. Damit will er den Nachweis dafür
+erbringen, dass er entsprechende berufsbedingte Fahrten unternahm
+und an denTagen, an denen er diese ausgeführt hat, auch seinen Ar
+beitsweg mit dem Privatfahrzeug zurücklegen musste.
+2.5.2.
+Abgesehen davon, dass die erwähnte Abrechnung nachträglich
+erstellt wurde, vermöchte sie von vornherein nur für 100 Arbeitstage
+und nicht etwa für den gesamten Zeitraum der Anstellung im Jahr
+2014 den Nachweis für berufsbedingte Fahrten zu erbringen.
+Hinzu kommt, dass die Spesenabrechnung sich in einer pau
+schalen Bestätigung von Kurzfahrten erschöpft, ohne dass erkennbar
+wäre, dass es sich tatsächlich um Fahrten im Zusammenhang mit der
+Erfüllung arbeitsvertraglicher Pflichten durch den Beschwerdeführer
+handelt (Wozu wurden die Fahrten tatsächlich ausgeführt) und
+ausserdem Angaben zu den konkreten Umstände der behaupteten
+Fahrten (Daten der Fahrten; von wo nach wo wurde gefahren) fehlen.
+Die eingereichten Spesenabrechnungen sind damit materiell betrach
+tet der Ausrichtung von Pauschalspesen ähnlicher als der Abrech
+nung effektiver Spesen, so dass sie auch deshalb als Nachweis dafür,
+dass tatsächlich entsprechende berufsbedingte Fahrten ausgeführt
+wurden, als untauglich erscheinen.
+Schliesslich rechtfertigt sich der Hinweis, dass, soweit mit der
+im Beschwerdeverfahren eingereichten Spesenabrechnung Kürzest
+fahrten nachgewiesen werden sollen, ohnehin als fraglich erscheint,
+ob die Ausführung solcher Fahrten dazu führen kann, dass das
+Vorhandensein des privaten Fahrzeugs an der Arbeitsstätte als erfor
+derlich angesehen wird und damit die Arbeitswegkosten als notwen
+dig betrachtet werden. Bereits die Vorinstanz hat zutreffend darauf
+hingewiesen, dass die bei Kürzestfahrten zurückgelegten Strecken
+mühelos auch zu Fuss bewältigt werden können. Dagegen bringt der
+Beschwerdeführer zwar vor, bei einem zeitlichen Verlust von ca. 20
+Minuten je Weg/Rückweg liege auf der Hand, dass das Zurücklegen
+
+der Strecken innerhalb der Gemeinde D. zu Fuss keinesfalls im Sinne
+der Arbeitgeberin sei. Damit ist aber die Notwendigkeit der Benut
+zung eines privaten Motorfahrzeugs noch nicht dargetan. Sollen Kür
+zeststrecken möglichst rasch und ökonomisch bewältigt werden, so
+kann, jedenfalls für die weit überwiegende Zahl der Fälle, auf erheb
+lich kostengünstigere Transportmittel zurückgegriffen werden (Fahr
+rad, E Bike, Motorroller), bei deren Einsatz gegenüber dem privaten
+Motorfahrzeug nicht mit einem Zeitverlust zu rechnen ist. Der Ent
+scheid über den Einsatz entsprechender Transportmittel steht im
+freien Ermessen der Arbeitgeberin und/oder des Beschwerdeführers
+selbst und es ist nicht Sache der Steuerbehörden, die Verwendung
+spezifischer Transportmittel vorzuschreiben. Mit Blick auf die vom
+Gesetzgeber für die Abzugsfähigkeit von Fahrkosten geforderte Not
+wendigkeit, den Arbeitsweg mit dem privaten Fahrzeug zurücklegen
+zu müssen, ist jedoch festzuhalten, dass der Arbeitnehmer, welcher
+für berufsbedingte Kürzeststrecken sein privates Motorfahrzeug ein
+setzt, in erster Linie aus privaten Motiven der Bequemlichkeit han
+delt und nicht etwa deshalb, weil er nur auf diese Weise seine arbeits
+vertraglichen Pflichten erfüllen könnte. Dementsprechend erweisen
+sich die Kosten für die Zurücklegung des Arbeitswegs, mit dem der
+Privatwagen am Arbeitsort erst verfügbar gemacht wird, nicht als be
+rufsnotwendig und fällt die Gewährung eines Abzugs für solche
+Kosten ausser Betracht.
+18 Mitwirkungspflicht; Erträge aus unbeweglichem Vermögen und übrige
+Einkünfte (§30 Abs.1 lit.a und §32 Abs.1 lit.f StG)
+Zulässigkeit von Noven im verwaltungsgerichtlichen Beschwerdever
+fahren
+Tragweite der Mitwirkungspflicht bei Ermittlung des Sachverhalts
+im verwaltungsgerichtlichen Beschwerdeverfahren
+Steuerliche Qualifikation des Anspruchs auf unentgeltliches Wohnen
+in Liegenschaft des Ex Partners
