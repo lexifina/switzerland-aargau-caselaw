@@ -1,0 +1,119 @@
+---
+decision_id: "ag_regierungsrat_RRB Nr. 2017-001456"
+court: "AG Regierungsrat"
+court_id: "ag_regierungsrat"
+docket: "RRB Nr. 2017-001456"
+decided: "2017-11-29"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2420"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2420"
+cites_decisions: ["1C_310/2011"]
+---
+
+# Regierungsrat — RRB Nr. 2017-001456
+
+## Regeste
+
+Zonenkonformität in einer Zone für öffentliche Bauten und Anlagen 
+Ein Fussballplatz ist in einer Zone für öffentliche Bauten und Anlagen zonenkonform, auch wenn er einem Fussballclub vermietet werden soll; Kriterium der Allgemeinzugänglichkeit.
+
+## Text
+
+68 Zonenkonformität in einer Zone für öffentliche Bauten und Anlagen
+Ein Fussballplatz ist in einer Zone für öffentliche Bauten und Anlagen zo
+nenkonform, auch wenn er einem Fussballclub vermietet werden soll;
+Kriterium der Allgemeinzugänglichkeit.
+Aus dem Entscheid des Regierungsrats vom 29. November 2017 in Sachen
+T.H. und Mitbeteiligte gegen den Entscheid des Departements Bau, Verkehr
+und Umwelt (Abteilung für Baubewilligungen)/Gemeinderats U. betreffend
+Baubewilligung für eine Sportanlage (RRB Nr. 2017 001456).
+Aus den Erwägungen
+4.
+4.1
+Das Bauvorhaben soll grundsätzlich – wie bereits erwähnt – in
+der "Zone für öffentliche Bauten und Anlagen Sport" (OeBA S) er
+stellt werden; ein Streifen von 2.24 m Breite und 95 m Länge auf der
+Südwestseite des Spielfelds 2 käme allerdings in die Grünzone zu
+liegen (vgl. dazu nachstehend Ziff.4.3). Die Zone OeBA ist gemäss
+§16 der geltenden BNO der Gemeinde U. vom 29. November 2001,
+vom Regierungsrat genehmigt am 10. April 2002 (teilrevidiert am 3.
+Juni 2004 und regierungsrätlich genehmigt am 8. Dezember 2004)
+für Bauten und Anlagen bestimmt, die dem öffentlichen Interesse
+dienen (Abs. 1); die OeBA S ist für Sportplatznutzungen vorgesehen
+(Abs. 3).
+Nach Ansicht der Beschwerdeführenden ist das Bauvorhaben
+mit diesem Zonenzweck nicht vereinbar und damit nicht zonenkon
+form. Sie begründen dies damit, dass die Sportanlage mit den vier
+Fussballfeldern dem FC T. für 50 Jahre vermietet werden solle und
+somit ausschliesslich diesem Verein und dessen Spielbetrieb zur Ver
+
+fügung stehen werde, aber nicht für die Allgemeinheit zugänglich
+sei; dasselbe gelte für die Parkierungsanlage. Die Sportanlage O. sei
+somit mit einem Fussballstadion vergleichbar, welches einzig bei
+Publikumsanlässen öffentlich zugänglich sei, im Übrigen aber nur
+den Vereinsmitgliedern zur Verfügung stehe. Daher sei die private
+Nutzung die einzige und ausschliessliche Hauptnutzung und nicht
+bloss eine in der Zone OeBA S allenfalls noch tolerierbare Nebennut
+zung.
+4.2
+Dieser Argumentation der Beschwerdeführenden ist nicht beizu
+pflichten. Zwar trifft zu, dass Bauten und Anlagen in der Zone OeBA
+grundsätzlich "der Allgemeinheit zugänglich" sein sollen. Das Krite
+rium der Allgemeinzugänglichkeit bedeutet allerdings nicht, dass
+eine Anlage schlechthin jedermann zur Verfügung zu stehen hat; es
+ist durchaus möglich, dass der öffentliche Zugang rechtlich oder fak
+tisch eingeschränkt werden kann (vgl. BGE 1C_310/2011, Erw. 2.4
+und die dort angegebenen Beispiele einer Tennisanlage beziehungs
+weise eines Fussballclubhauses). Im vorliegenden Fall ist entschei
+dend, dass die gesamte Fussballanlage offensichtlich in erster Linie
+dem Breitensport dienen soll; damit ist das öffentliche Interesse im
+Sinne von § 16 BNO zweifelsohne gegeben. Daran ändert nichts,
+dass die Anlage dem FC T. vermietet werden soll, zumal der FC T.
+ebenfalls der Förderung des Breitensports und damit dem genannten
+öffentlichen Interesse, aber nicht einem kommerziellen Erfolg ver
+pflichtet ist; mit seinem Engagement für den Breitensport leistet er
+denn auch wertvolle Beiträge an die Förderung der Volksgesundheit,
+an die physische, psychische und soziale Entwicklung von Kindern
+und Jugendlichen sowie in gesellschaftspolitischer Hinsicht an die
+Integration und an die soziale Kohäsion. Angesichts dessen sowie
+aufgrund des Umstands, dass der FC T. – wie der Gemeinderat U. in
+der Baubewilligung zu Recht bemerkt hat – gemäss seinen Statuten
+keine Beitrittsbeschränkungen kennt und somit jedermann ohne
+grössere Hürden Vereinsmitglied werden kann, ist der öffentliche Zu
+gang im Sinne der erwähnten bundesgerichtlichen Rechtsprechung
+ohne Weiteres zu bejahen, dies ganz abgesehen davon, dass der FC T.
+gemäss dem geschlossenen Mietvertrag die Sportanlage auch den
+
+Schulen und Vereinen der Gemeinden U., T. und G. zur Verfügung zu
+stellen hat (vgl. Mietvertrag …). Diese Auffassung der genügenden
+öffentlichen Zugänglichkeit teilte offensichtlich auch die Mehrheit
+der Stimmberechtigten der Gemeinde U.; anlässlich der Gemein
+deversammlung vom … stimmte sie jedenfalls der Umzonung des
+Areals der geplanten Sportanlage von der Landwirtschaftszone in die
+Zone OeBA S zu, obwohl der Gemeinderat in seinem entsprechenden
+Traktandenbericht ausdrücklich darauf hingewiesen hatte, dass mit
+der Umzonung die Schaffung von Trainings und Wettkampfflächen
+für den in der ganzen Region verankerten FC T. bezweckt werde, da
+mit dieser seinen Spielbetrieb auch in Zukunft aufrecht erhalten
+könne (vgl. Einladung zur Einwohnergemeindeversammlung vom
+…). In diesem Zusammenhang sei im Übrigen auch vermerkt, dass
+der Hintergrund der Vermietung an den FC T. offensichtlich nicht da
+rin besteht, die Benutzung der Anlage einem exklusiven Benützer
+kreis vorzubehalten und die Allgemeinheit auszuschliessen, sondern
+vielmehr darin, die an sich der Gemeinde obliegenden Aufgaben, für
+einen geordneten Betrieb und den Unterhalt der Sportanlage zu sor
+gen und bei Mängeln zu haften, auf einen Dritten zu übertragen; in
+diesem Sinne fungiert der FC T. quasi als verantwortliche "Hilfsper
+son" bei der Verwaltung der Anlage. Dies kommt nicht zuletzt den
+Anwohnerinnen und Anwohnern zugute; es hat sich jedenfalls
+andernorts schon wiederholt gezeigt, dass die jederzeitige freie Zu
+gänglichkeit von Fussballplätzen insbesondere zu unerfreulichen
+Lärmimmissionsstreitigkeiten führen kann.
+Zusammenfassend ist somit festzuhalten, dass sich die geplante
+Sportanlage in der Zone OeBA S entgegen der Auffassung der Be
+schwerdeführenden als zonenkonform erweist.
+(…)
+69 Baubewilligungsgebühr
+§ 5 Abs. 2 BauG und § 1 Abs. 1 lit. a des Dekrets über die durch den Staat
+zu beziehenden Gebühren; keine subsidiäre Anwendbarkeit des Äquiva
