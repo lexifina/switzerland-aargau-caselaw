@@ -1,0 +1,303 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2017.373"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2017.373"
+decided: "2018-01-24"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2387"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2387"
+cites_decisions: ["4A_586/2011", "4C.339/2004", "5A.6/2005", "5C.56/2005", "BGE 113 II 270", "BGE 119 II 119", "BGE 133 III 641"]
+cites_law: ["switzerland/bund/acts/210/art-216.md", "switzerland/bund/acts/210/art-520.md", "switzerland/bund/acts/210/art-598.md", "switzerland/bund/acts/210/art-656.md", "switzerland/bund/acts/210/art-956a.md", "switzerland/bund/acts/210/art-959.md", "switzerland/bund/acts/210/art-972.md", "switzerland/bund/acts/210/art-975.md", "switzerland/bund/acts/211.432.1/art-033.md", "switzerland/bund/acts/211.432.1/art-064.md", "switzerland/bund/acts/211.432.1/art-065.md", "switzerland/bund/acts/211.432.1/art-083.md", "switzerland/bund/acts/220/art-530.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2017.373
+
+## Regeste
+
+Grundbuch 
+- Eintragung der Ehefrau als Alleineigentümerin einer Liegenschaft gestützt auf den Todesschein des Ehemannes und die Ehegattengesellschaft mit Anwachsungsvereinbarung 
+- Bedeutung der Grundbuchanmeldung gestützt auf die Erbbescheinigung, wenn die Liegenschaft bereits veräussert worden ist
+
+## Text
+
+35 Grundbuch
+Eintragung der Ehefrau als Alleineigentümerin einer Liegenschaft
+gestützt auf den Todesschein des Ehemannes und die Ehegatten
+gesellschaft mit Anwachsungsvereinbarung
+Bedeutung der Grundbuchanmeldung gestützt auf die Erbbescheini
+gung, wenn die Liegenschaft bereits veräussert worden ist
+Aus dem Entscheid des Verwaltungsgerichts, 3. Kammer, vom 24.Januar
+2018, in Sachen A. gegen Departement Volkswirtschaft und Inneres
+(WBE.2017.373).
+Aus den Erwägungen
+1.
+Der Beschwerdeführer beanstandet, seine Anmeldung hätte
+nicht mit der Begründung abgewiesen werden dürfen, die Ehefrau
+des Erblassers habe aufgrund einer "ausserbuchlichen Anwachsung"
+(d.h. zufolge der Ehegattengesellschaftsklausel) als Alleineigentüme
+rin der Liegenschaft im Grundbuch eingetragen werden müssen. Das
+Bezirksgericht Lenzburg habe in der Verfügung den vier Kindern aus
+erster Ehe und der vierten Ehefrau eine Erbbescheinigung ausge
+stellt. Sowohl entsprechend der GBV als auch den Weisungen des
+Grundbuchinspektors seien die Erben im Rahmen der Universal
+sukzession in das Grundbuch einzutragen. In der Eingabe an die
+Vorinstanz habe der Grundbuchverwalter die Begründung der Ab
+weisung damit ergänzt, dass die Liegenschaft mittlerweile an die
+Töchter der Ehefrau weiterveräussert und zu deren Gunsten eine
+Nutzniessung bestellt worden sei. Die Vorinstanzen hätten einerseits
+Verwaltungsanordnungen missachtet und andererseits zivilrechtliche
+Bestimmungen falsch interpretiert. Der Grundbuchverwalter habe zu
+
+Unrecht ausgeführt, eine Berichtigung könne nur aufgrund eines Ge
+richtsentscheids erfolgen. Mit der Nichtberücksichtigung der Univer
+salsukzession werde in unzulässiger Weise in die Liquidation einer
+Gesellschaft und die Ausgestaltung der Erbmasse eingegriffen.
+Insbesondere dürfe aus der bundesgerichtlichen Rechtsprechung zur
+Liquidation der einfachen Gesellschaft nicht abgeleitet werden, die
+Erben würden nicht kraft Universalsukzession in die Liquidations
+gemeinschaft eintreten und zu Gesamteigentümern. Eine bilateral
+vereinbarte Anwachsungsklausel könne nicht zum Alleineigentum
+des überlebenden Ehegatten führen.
+2.
+Die Vorinstanz hat die Abweisungsverfügung des Grundbuch
+amts bestätigt. Dieses habe die Ehefrau des Erblassers gestützt auf
+den Todesschein sowie den Gesellschaftsvertrag mit Anwachsungs
+vereinbarung als Alleineigentümerin der Liegenschaft eingetragen.
+Literatur und Praxis befürworteten, dass bei der Ehegattengesell
+schaft die Vereinbarung getroffen werden könne, dass beim Tod eines
+Gesellschafters dessen Anteil dem überlebenden anwachse. Eine
+solche Vereinbarung entspreche einer zulässigen Liquidationsvor
+schrift. Diese bewirke, dass der Gesellschafter Alleineigentümer des
+Gesellschaftsvermögens werde, einschliesslich allfälliger Grund
+stücke. Aufgrund der Fortsetzungs bzw. Anwachsungsklausel sei die
+Ehegattin ausserbuchlich Eigentümerin geworden.
+3.
+Der Nachtrag zum Grundstückkauf ("Ehegattengesellschafts
+klausel") lautet wie folgt:
+1.
+In Ergänzung zum Kaufvertrag halten die Käufer – als Gesamteigen
+tümer infolge einfacher Gesellschaft – gemäss Art.530ff. OR fest:
+Die Parteien vereinbaren im weiteren, dass beim Tod eines Gesell
+schafters dessen Mitgliedschaft erlischt und sein Eigentum am
+Gesellschaftsvermögen dem überlebenden Gesellschafter ausser
+grundbuchlich anwächst. Die Gesellschaft wird ohne Liquidation
+aufgelöst. In die güterrechtliche Auseinandersetzung bzw. den
+Nachlass des Verstorbenen fällt somit lediglich ein schuldrechtlicher
+Abfindungsanspruch, d.h. die Erben des verstorbenen Gesellschaf
+
+ters erwerben keine dinglichen Ansprüche am Gesellschaftsvermö
+gen, d.h. an der Liegenschaft. Der verbleibende Gesellschafter kann
+mit den Erben des verstorbenen Gesellschafters indessen auch die
+Fortführung der einfachen Gesellschaft vereinbaren.
+2.
+Sämtliche Bestimmungen des Kaufvertrages bleiben im Übrigen un
+verändert.
+4.
+4.1.
+Art.956a Abs.1 ZGB hält fest, dass die vom Grundbuchamt er
+lassenen Verwaltungsverfügungen, namentlich die Abweisung von
+Anmeldungen zur Einschreibung, Änderung oder Löschung von
+dinglichen Rechten, Vormerkungen oder Anmerkungen, mit der
+Grundbuchbeschwerde angefochten werden können. Diese richtet
+sich gegen die Weigerung des Grundbuchamts, eine Grundbuchan
+meldung zu vollziehen; das unrechtmässige Verweigern oder
+Verzögern einer Amtshandlung wird einer Verfügung gleichgestellt
+(vgl. Botschaft zur Änderung des Schweizerischen Zivilgesetzbuches
+[Register Schuldbrief und weitere Änderungen im Sachenrecht] vom
+27.Juni 2007, 07.061, in: BBl 2007 5330).
+Ist der Eintrag eines dinglichen Rechts ungerechtfertigt oder ein
+richtiger Eintrag in ungerechtfertigter Weise gelöscht oder verändert
+worden, so kann gemäss Art.975 Abs.1 ZGB jedermann, der
+dadurch in seinen dinglichen Rechten verletzt ist, auf Löschung oder
+Änderung der Eintrags klagen. Die Grundbuchberichtigungsklage
+dient dazu, dem materiell Berechtigten, dessen Recht sich nicht oder
+nicht mehr aus dem Grundbuch ergibt, dazu zu verhelfen, dass der
+seinem Recht entgegenstehende ungerechtfertigte Eintrag gelöscht,
+geändert oder dass die ungerechtfertigt gelöschte Eintragung wieder
+hergestellt wird (JÜRG SCHMID, in: Basler Kommentar, Zivilgesetz
+buch II [BSK ZGB II], Art.457 977 ZGB, 5. Auflage, 2015, Art.975
+N1; vgl. auch BGE 133 III 641, Erw.3.1 = Pra 97/2008, Nr.54,
+S.367f.).
+4.2.
+Vorliegend ist lediglich die Abweisung der vom Beschwer
+deführer begehrten Eintragung zu beurteilen; im Hinblick auf die
+
+bereits zuvor erfolgte Eintragung der Ehefrau als Alleineigentümerin
+der Liegenschaft rechtfertigen sich jedoch ergänzend folgende
+Hinweise:
+ Das Grundbuchamt prüft, gestützt auf die mit der Anmeldung
+eingereichten weiteren Belege, ob die gesetzlichen Voraussetzun
+gen für die Eintragung in das Hauptbuch erfüllt sind (Art.83
+Abs.1 GBV). Insbesondere zu prüfen hat es die Verfügungs
+berechtigung der anmeldenden Person (Art.83 Abs.2 lit.c GBV)
+sowie die Rechtsgrundausweise, insbesondere deren Form (lit.g).
+ Nach der Rechtsprechung hat der Grundbuchverwalter die materi
+elle Gültigkeit eines Grundgeschäfts im Grundsatz nicht zu prüfen,
+indessen hat er die Anmeldung insbesondere abzuweisen, wenn
+das zugrunde liegende Rechtsgeschäft offensichtlich nichtig ist
+(vgl. VGE vom 30.Mai 2017 [WBE.2017.8], Erw.II/1.4 mit
+Hinweisen).
+ Für die Begründung von Gesamteigentum im Rahmen der Ehegat
+tengesellschaft bestehen grundsätzlich keine Formvorschriften
+(vgl. BEAT BRÄM, Gemeinschaftliches Eigentum unter Ehegatten
+an Grundstücken: Bildet Gesamteigentum als einfache Gesell
+schaft eine gute Alternative zum Miteigentum und zum Gesamt
+eigentum im Güterstand der Gütergemeinschaft?, Bern 1997,
+S.32ff.; zur Eintragung vgl. Art.51 Abs.3 und 96 Abs.3 GBV
+sowie Art.33 Abs.3 aGBV).
+ Anordnungen von Todes wegen sind Rechtsgeschäfte besonderer
+Art, deren Wirksamkeit auf den Tod des Erblassers gestellt ist (vgl.
+PETER BREITSCHMID, in: BSKZGB II, Vor Art.467 536 N20;
+BGE 113 II 270, Erw.2). Fraglich könnte daher sein, ob gewisse
+Vorschriften zur Liquidation der Gesellschaft im Anhang zum
+Grundstückkauf als Verfügungen von Todes wegen den Formvor
+schriften des Erbvertrags unterstehen (vgl. Art.499 und 512 ZGB;
+BRÄM, a.a.O., S.225 betreffend Vorschriften zur Abfindung der
+Erben im Gesellschaftsvertrag; HEINZ HAUSHEER/ROLAND PFÄFFLI,
+Zur Bedeutung des Anwachsungsprinzips bei der einfachen Gesell
+schaft im Todesfall; zur Tragweite von BGE 119 II 119ff. für die
+Grundbuchführung, in: ZBJV 130/1994, S.43 betreffend Abfin
+dungsklausel im Todesfall). Da im Erbrecht jedoch gemäss
+
+Art.520 Abs.1 ZGB Verfügungen auf erhobene Klage hin für un
+gültig erklärt werden (vgl. BGE 113 II 270, Erw.3a; Urteil des
+Bundesgerichts vom 15.Juli 2005 [5C.56/2005], Erw.4.1), wäre
+eine Abweisung der Anmeldung mangels Einhaltung von Formvor
+schriften nicht naheliegend.
+ Pflichtteilsgeschützte Erben bzw. Kinder aus erster Ehe haben
+allfällige obligatorische erbrechtliche Ansprüche über die Herab
+setzung (vgl. Art.216 Abs.2 ZGB und Art.522 bzw. 527 ZGB)
+geltend zu machen (zum Ganzen vgl. HEINZ HAUSHEER/REGINA
+E.AEBIMÜLLER, in: Basler Kommentar, Zivilgesetzbuch I,
+Art.1 456 ZGB, 5. Auflage, 2014, Art.216 N26aff.; ROLANDO
+FORNI/GIORGIO PIATTI, in: BSKZGB II, Vor Art.522 533 N1ff.).
+Diese betrifft nicht die dingliche Berechtigung.
+ Die Eintragung eines Ehegatten als Alleineigentümer einer Liegen
+schaft gestützt auf einen Todesschein und einen Ehegattengesell
+schaftsvertrag mit Anwachsungsklausel wird praktiziert (vgl.
+LGVE 2000 I Nr.18). Gesellschaftsrechtlich wird mithin von einer
+"qualifizierten Nachfolgeklausel" ausgegangen, da die Gesellschaft
+nur mit (einem) bestimmten Erben fortgesetzt werden soll (vgl.
+DANIEL STAEHELIN, in: Basler Kommentar, Obligationenrecht II,
+Art.530964 inkl. Schlussbestimmungen, 5.Auflage, 2016,
+Art.545/546 N10). Die höchstrichterliche Rechtsprechung hat
+sich unter der Geltung der Art.64ff. GBV bisher nicht zum Ver
+hältnis von Ehegattengesellschaftsvertrag mit Anwachsungsklausel
+und erbrechtlicher Universalsukzession geäussert (vgl. BGE 119 II
+119; Urteile des Bundesgerichts vom 8.März 2012
+[4A_586/2011], Erw.2; vom 12.Januar 2005 [4C.339/2004],
+Erw.2.2). Gewichtige Lehrmeinungen halten dafür, dass die
+vermögensrechtliche Beteiligung dem überlebenden Gesellschafter
+"uno actu" und "ipso iure" anwächst, einschliesslich im Gesamt
+eigentum stehender Liegenschaften. Danach gehen diese ausser
+buchlich durch Akkreszenz über. Teilweise wird vertreten, den
+Erben verbleibe bloss ein schuldrechtlicher Abfindungsanspruch
+(vgl. LORENZ STREBEL/HERMANN LAIM, in: BSK ZGB II, Art.656
+N39; STEPHAN WOLF, Subjektswechsel bei einfachen Gesellschaf
+ten, in: ZBGR 81/2000, S.17, welcher von einer "Fortsetzungs
+
+klausel" ausgeht; HAUSHEER/PFÄFFLI, a.a.O., S.42, wo von
+"Gesellschaftsliquidation durch Anwachsung" die Rede ist;
+ROLAND PFÄFFLI, Der Ausweis für die Eigentumseintragung im
+Grundbuch beim Erbgang, in: AJP 2000, S.427, wonach dieser
+Fall oft bei Ehegattengesellschaften vorkommt; BRÄM, a.a.O.,
+S.225). Insofern liegt jedenfalls die Annahme eines Umgehungs
+geschäfts nicht nahe. Und ohne Vorliegen eines gegenteiligen
+höchstrichterlichen Präjudizes darf das Grundbuchamt nicht davon
+ausgehen, dass es sich beim Ehegattengesellschaftsvertrag mit An
+wachsungsklausel um ein Rechtsgeschäft handelt, gestützt auf wel
+ches die Eintragung als Alleineigentümer einer Liegenschaft zu
+verweigern wäre.
+4.3.
+Über Nachlassgrundstücke kann erst verfügt werden, wenn der
+Alleinerbe oder die Erben im Grundbuch eingetragen sind (vgl.
+Art.656 Abs.2 ZGB). Anmeldende Person ist jeder anerkannte Erbe
+einzeln; Rechtsgrundausweis ist die Bescheinigung mit Angabe
+sämtlicher Personen, die als gesetzliche oder eingesetzte Erben aner
+kannt sind (vgl. Art.65 Abs.1 lit.a GBV).
+Vorliegend ersucht der Beschwerdeführer um Eintragung der
+Erben als Gesamteigentümer eines Grundstücks, welches sich
+entsprechend dem Grundbuchauszug zunächst im Alleineigentum der
+Ehefrau des Erblassers befand. Mittlerweile und mithin vor der An
+meldung durch den Beschwerdeführer wurde die Liegenschaft an
+Nachkommen der Ehefrau weiterveräussert und zu Gunsten dieser
+eine Nutzniessung bestellt.
+Die Grundbuchverordnung unterscheidet zwischen dem Erwerb
+durch Eintragung (Art.64 GBV; Art.656 Abs.1 ZGB) und dem Er
+werb vor Eintragung (Art.65 GBV; Art.656 Abs.2 ZGB). Die
+Erbbescheinigung datiert von einem Zeitpunkt, zu welchem das frag
+liche Grundstück bereits an Nachkommen der Ehefrau weiterveräus
+sert und mit einer Nutzniessung belastet war. Die Frage, ob es sich
+bei der Eintragung der Ehefrau als Alleineigentümerin "qua Gesell
+schaftsvertrag" um einen ausserbuchlichen Erwerb gehandelt hatte
+(vgl. vorne Erw.4.2), und dessen Verhältnis zur Universalsukzession
+waren im Eintragungsverfahren des Beschwerdeführers nicht mehr
+
+relevant. Das Eigentum am Grundstück wurde vor der Anmeldung
+durch den Beschwerdeführer gestützt auf ein Grundgeschäft übertra
+gen, wobei die Ehefrau verfügungsbefugt war (vgl. Art.656 Abs.1
+ZGB; STREBEL/LAIM, a.a.O., Art.656 N4ff.). Nachträglichen dieser
+Eintragung entgegenstehenden Anmeldungen, einschliesslich solchen
+aufgrund der erbrechtlichen Universalsukzession, steht im Eintra
+gungsverfahren das Prinzip der Alterspriorität entgegen (vgl. Art.972
+ZGB; SCHMID, a.a.O., Art.972 N6; DIETER ZOBL, Grundbuchrecht,
+2.Auflage, Zürich/Basel/Genf 2004, Rz.110). Entgegen seinem Vor
+bringen kann sich der Beschwerdeführer damit nicht mehr auf die
+Universalsukzession sowie damit zusammenhängende Verwaltungs
+verordnungen berufen. Dieses Ergebnis rechtfertigt sich insbeson
+dere vor dem Hintergrund der Funktion des Eintragungsverfahrens.
+Wie vom Grundbuchverwalter vor der Vorinstanz zu Recht vorge
+bracht, setzt eine allfällige Eintragung der Erben einen Entscheid
+eines Zivilgerichts unter Wahrung der Parteirechte der Betroffenen
+voraus. Die Grundbuchbeschwerde ist gemäss Art.956a Abs.3 ZGB
+(für einen Anmeldenden) ausgeschlossen gegen eine im Hauptbuch
+vollzogene Eintragung von dinglichen Rechten. Darüber hinaus wird
+sie in genereller Hinsicht als Rechtsmittel abgelehnt, wenn eine ge
+richtliche Anfechtung vorgesehen ist (vgl. SCHMID, a.a.O., Art.956a
+N33f.; Urteil des Bundesgerichts vom 17.März 2005 [5A.6/2005] =
+ZBGR 89/2008, S.295). Vom Beschwerdeführer vorgetragene mate
+riell rechtliche Argumente des Erb und Gesellschaftsrechts können
+im Hinblick auf eine Vindikation im Rahmen der Grundbuchberichti
+gung (Art.975 ZGB) oder Erbschaftsklage (Art.598 ZGB) relevant
+sein (zu letzterer vgl. FORNI/PIATTI, a.a.O., Art.598 N1ff.;
+CHRISTIAN BRÜCKNER/THOMAS WEIBEL, Die erbrechtlichen Kla
+gen, 2.Auflage, Zürich/Basel/Genf 2006, S.53ff.).
+4.4.
+Somit hat das Grundbuchamt die Anmeldung des
+Beschwerdeführers zu Recht abgewiesen.
+
+36 Grundbuch; Baurecht; Vormerkung persönlicher Rechte
+Enthält der verlängerte Baurechtsvertrag obligatorische Bestimmungen,
+welche nicht vorgemerkt werden dürfen, hindert dies die Verlängerung
+des selbständigen und dauernden Baurechts grundsätzlich nicht.
+Aus dem Entscheid des Verwaltungsgerichts, 3. Kammer, vom 11.Juni
+2018, in SachenA., B. und C. gegen Departement Volkswirtschaft und Inneres
+und Grundbuchamt D. (WBE.2018.7).
+Aus den Erwägungen
+3.1.
+Strittig ist die Eintragung von Bestimmungen zum Baurechts
+vertrag. Diese sehen eine Verpflichtung der Baurechtsnehmerin (Be
+schwerdeführerin 2) vor, das selbständige und dauernde Baurecht der
+Beschwerdeführerin 3 zu übertragen, falls jene von der Verlänge
+rungsoption keinen Gebrauch macht, sowie eine entsprechende Über
+nahmeverpflichtung. Das betreffende Baurechtsgrundstück wird zum
+Betrieb einer Tankstelle genutzt. Die Beschwerdeführerin 3 betreibt
+das Autowaschcenter neben der Tankstelle.
+3.2.–3.3. (…)
+3.4.
+Gemäss Art.959 Abs.1 ZGB können persönliche Rechte im
+Grundbuch vorgemerkt werden, wenn deren Vormerkung durch das
+Gesetz ausdrücklich vorgesehen ist, wie bei Vor und Rückkauf,
+Kaufsrecht, Pacht und Miete. Sie erhalten durch die Vormerkung
+Wirkung gegenüber jedem später erworbenen Recht (Abs.2). Durch
+die Vormerkung wird das persönliche Recht zur Realobligation.
+Realobligationen sind Schuldverhältnisse, welche eine positive Leis
+tung zum Gegenstand haben und bei denen der Schuldner oder der
+Gläubiger durch die dingliche Berechtigung oder den Besitz an
+Grundstücken bestimmt wird. Die realobligatorische Berechtigung
+oder Verpflichtung steht somit nicht einer mit Namen individualisier
+ten Person zu, sondern ist verknüpft mit der dinglichen Berechtigung
+oder dem Besitz an einer Sache. Die Realobligation kann gegenüber
