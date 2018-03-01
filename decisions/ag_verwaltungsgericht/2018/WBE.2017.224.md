@@ -1,0 +1,626 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2017.224"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2017.224"
+decided: "2018-03-01"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2368"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2368"
+cites_decisions: ["1C_317/2007"]
+cites_law: ["switzerland/bund/acts/101/art-076.md", "switzerland/bund/acts/700/art-024b.md", "switzerland/bund/acts/700/art-027.md", "switzerland/bund/acts/814.20/art-036a.md", "switzerland/bund/acts/814.201/art-041a.md", "switzerland/bund/acts/814.201/art-041c.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2017.224
+
+## Regeste
+
+Art. 36a GSchG; Art. 41a und b sowie ÜbgBest GSchV 
+Der Gewässerraum nach Art. 36a GSchG und Art. 41a und b GSchV ist in einem raumplanerischen Verfahren festzulegen, das eine Würdigung der konkreten Verhältnisse und eine umfassende Interessenabwägung unter Einbezug aller interessierten Kreise, insbesondere auch der betroffenen Grundeigentümer, erlaubt. Denselben Anforderungen unterliegt der Verzicht auf die Festlegung von Gewässerraum (für künstlich angelegte Gewässer). Eine generell-abstrakte Bezeichnung von Gewässerraum oder ein generell-abstrakter Verzicht auf solchen wird diesen Anforderungen nicht gerecht; ebenso wenig eine kantonale Fachplanung, der keine Abklärung der konkreten Verhältnisse und eine umfassende Interessenabwägung vorangegangen ist. 
+Eine auf Stufe der Nutzungsplanung erlassene kommunale Abstandsvorschrift gegenüber einer Gewässerparzelle, mit welcher die in Art. 41a GSchV für den Gewässerraum von Fliessgewässern vorgesehenen Mindestmasse unterschritten werden, ohne dass die einem Verzicht auf die Ausscheidung von Gewässerraum entgegenstehenden (ökologischen) Interessen genügend geprüft und gewürdigt wurden, ist bundesrechtswidrig und muss aufgehoben werden.
+
+## Text
+
+5.
+Zusammenfassend ist die Beurteilung der Vorinstanzen, wonach
+die beabsichtigte Umnutzung des D. Stübli zulässig sei, nicht zu
+beanstanden. Die Voraussetzungen von Art.24b Abs.1bis RPG sind
+erfüllt, namentlich auch was die Vermietung des D. Stübli an Dritte
+anbelangt, zumal an diesen Anlässen soweit möglich hofeigene Pro
+dukte angeboten bzw. vermarktet werden und/oder die Anlässe ohne
+hin z.B. im Zusammenhang mit Betriebsführungen stehen. Es ist im
+Übrigen auch nicht erforderlich, die Baubewilligung mit weiteren
+Nebenbestimmungen (Bedingungen, Auflagen) zu versehen.
+(...)
+16 Art.36a GSchG; Art.41a und b sowie ÜbgBest GSchV
+Der Gewässerraum nach Art.36a GSchG und Art.41a und b GSchV ist
+in einem raumplanerischen Verfahren festzulegen, das eine Würdigung
+der konkreten Verhältnisse und eine umfassende Interessenabwägung un
+ter Einbezug aller interessierten Kreise, insbesondere auch der betroffe
+nen Grundeigentümer, erlaubt. Denselben Anforderungen unterliegt der
+Verzicht auf die Festlegung von Gewässerraum (für künstlich angelegte
+Gewässer). Eine generell abstrakte Bezeichnung von Gewässerraum oder
+ein generell abstrakter Verzicht auf solchen wird diesen Anforderungen
+nicht gerecht; ebenso wenig eine kantonale Fachplanung, der keine Ab
+klärung der konkreten Verhältnisse und eine umfassende Interessenab
+wägung vorangegangen ist.
+Eine auf Stufe der Nutzungsplanung erlassene kommunale Abstandsvor
+schrift gegenüber einer Gewässerparzelle, mit welcher die in Art.41a
+GSchV für den Gewässerraum von Fliessgewässern vorgesehenen Min
+destmasse unterschritten werden, ohne dass die einem Verzicht auf die
+Ausscheidung von Gewässerraum entgegenstehenden (ökologischen) Inte
+ressen genügend geprüft und gewürdigt wurden, ist bundesrechtswidrig
+und muss aufgehoben werden.
+
+Aus dem Entscheid des Verwaltungsgerichts, 3. Kammer, vom 1.März
+2018, in Sachen A. und B. gegen Einwohnergemeinde C. und Regierungsrat
+(WBE.2017.224).
+Sachverhalt (Zusammenfassung)
+A.
+Vom 19.Januar 2015 bis 17.Februar 2015 legte der Gemeinde
+rat C. die Teiländerung 2013 der Bau und Nutzungsordnung (BNO)
+und des Zonenplans auf. Die Teiländerung der BNO bezweckt in ers
+ter Linie die Anpassung der Begriffe und Messweisen an die Inter
+kantonale Vereinbarung über die Harmonisierung der Baubegriffe
+(IVHB). Daneben wird u.a. für den S. Bach eine kommunale Ab
+standsregelung vorgesehen, die den folgenden Wortlaut aufweist:
+§29b (neu)
+Gegenüber der S. Bachparzelle sind mindestens die zonengemässen
+Grenzabstände – und nicht die Gewässerabstände – einzuhalten. Der Ge
+meinderat legt die Abstände anhand des Naturwertes der Ufer und der si
+tuationsgerechten Einpassung der Bauten in die Quartierstruktur fest.
+B.
+Namentlich gegen diese Bestimmung erhoben A. und B. zu
+nächst eine Einwendung, die vom Gemeinderat C. am 13.April 2015
+abgewiesen wurde, und alsdann – nach Annahme durch die Gemein
+deversammlung C. am 18.Juni 2015, Ablauf der Referendumsfrist
+und Publikation der Teilrevision der BNO im kantonalen Amtsblatt
+vom 14.August 2015 – Beschwerde beim Regierungsrat. Dieser
+wies die Bechwerde am 22.März 2017 ab und genehmigte die ange
+fochtene Bestimmung. Gegen den Genehmigungsentscheid erhoben
+A. und B. Beschwerde beim Verwaltungsgericht und verlangten des
+sen Aufhebung.
+
+Aus den Erwägungen
+1.
+Streitgegenstand des vorliegenden Verfahrens bildet die Verein
+barkeit des von der Einwohnergemeindeversammlung C. am 18.Juni
+2015 beschlossenen und von der Vorinstanz am 22.April 2017 ge
+nehmigten §29b nBNO mit höherrangigem Recht.
+(…)
+2.
+2.1.
+Gemäss Art.36a GSchG legen die Kantone nach Anhörung der
+betroffenen Kreise den Raumbedarf der oberirdischen Gewässer (Ge
+wässerraum) fest, der für die Gewährleistung folgender Funktionen
+erforderlich ist: (a) die natürlichen Funktionen der Gewässer; (b) den
+Schutz vor Hochwasser; (c) die Gewässernutzung (Abs.1). Der Bun
+desrat regelt (in der GSchV) die Einzelheiten (Abs.2). Die Kantone
+sorgen dafür, dass der Gewässerraum bei der Richt und Nutzungs
+planung berücksichtigt sowie extensiv gestaltet und bewirtschaftet
+wird (Abs.3 Satz 1).
+In Gebieten ausserhalb von Biotopen von nationaler Bedeutung,
+kantonalen Naturschutzgebieten, Moorlandschaften von besonderer
+Schönheit und nationaler Bedeutung, Wasser und Zugvogelreserva
+ten von internationaler und nationaler Bedeutung sowie Landschaf
+ten von nationaler Bedeutung und kantonalen Landschaftsschutzge
+bieten im Sinne von Art.41a Abs.1 GSchV muss die Breite des Ge
+wässerraums mindestens betragen: (a) für Fliessgewässer mit einer
+Gerinnesohle von weniger als 2m natürlicher Breite 11m; (b) für
+Fliessgewässer mit einer Gerinnesohle von 2–15m natürlicher Breite
+die 2,5 fache Breite der Gerinnesohle plus 7m (Art.41a Abs.2
+GSchV). Die nach den Absätzen 1 und 2 berechnete Breite des Ge
+wässerraums muss erhöht werden, soweit dies erforderlich ist zur
+Gewährleistung: (a) des Schutzes vor Hochwasser; (b) des für eine
+Revitalisierung erforderlichen Raums; (c) der Schutzziele von Ob
+jekten nach Absatz 1 sowie anderer überwiegender Interessen des
+Natur und Landschaftsschutzes; (d) einer Gewässernutzung
+
+(Art.41a Abs.3 GSchV). Soweit der Hochwasserschutz gewährleis
+tet ist, kann die Breite des Gewässerraums den baulichen Gegeben
+heiten in dicht überbauten Gebieten angepasst werden (Art.41a
+Abs.4 lit.a GSchV). Auf die Festlegung des Gewässerraums kann
+verzichtet werden, wenn das Gewässer künstlich angelegt ist, soweit
+keine überwiegenden Interessen entgegenstehen (Art.41a Abs.5
+lit.c GSchV). Im Gewässerraum dürfen nach Art.41c Abs.1 GSchV
+vorbehältlich der dort genannten Ausnahmen nur standortgebundene,
+im öffentlichen Interesse liegende Anlagen wie Fuss und Wanderwe
+ge, Flusskraftwerke oder Brücken erstellt werden.
+Die Kantone legen den Gewässerraum gemäss den Art.41a und
+41b GSchV bis zum 31.Dezember 2018 fest. Solange sie den Ge
+wässerraum nicht festgelegt haben, gelten die Vorschriften für Anla
+gen nach Art.41c Absätze 1 und 2 GSchV entlang von Gewässern
+auf einem beidseitigem Streifen mit einer Breite von je: (a) 8 m plus
+die Breite der bestehenden Gerinnesohle bei Fliessgewässern mit
+einer Gerinnesohle bis 12m Breite; (b) 20m bei Fliessgewässern mit
+einer bestehenden Gerinnesohle von mehr als 12m Breite; (c) 20m
+bei stehenden Gewässern mit einer Wasserfläche von mehr als 0,5 ha
+(Übergangsbestimmungen zur Änderung [der GSchV] vom 4.Mai
+2011 [ÜbgBest GSchV], Abs.1 und 2). Die beidseitigen, gleich brei
+ten Uferstreifen unterscheiden sich insofern vom Gewässerraum ge
+mäss Art.41a GSchV, als letzterer ein Korridor ist, in dem das Ge
+wässer nicht in der Mitte fliessen muss (Erläuternder Bericht des
+Bundesamts für Umwelt [BAFU] vom 20.April 2011 zu A. Parla
+mentarische Initiative Schutz und Nutzung der Gewässer [07.492] –
+Änderung der Gewässerschutz , Wasserbau , Energie und Fischerei
+verordnung, B.Versickerung von Abwasser – Änderung der Gewäs
+serschutzverordnung, C. Anpassung der Fischnahmen – Änderung
+der Fischereiverordnung [nachfolgend: Erläuternder Bericht BAFU],
+S.10 und 30; CHRISTOPH FRITSCHE, in: PETER HETTICH/LUC JAN
+SEN/ROLAND NORER [HRSG.], Kommentar zum Gewässerschutzge
+setz und zum Wasserbaugesetz, Zürich/Basel/Genf 2016, Art.36a
+GSchG N70).
+
+2.2.
+Die Vorinstanz ist der Auffassung, der Kanton Aargau habe den
+Gewässerraum gemäss den Art.41a und 41b GSchV festgelegt. Da
+mit bleibe kein Raum für eine Anwendung der ÜbgBest GSchV.
+(…)
+2.3.
+2.3.1.
+Vorab ist der Vorinstanz darin beizupflichten, dass die Kantone
+bezüglich des Instrumentariums für die Festlegung des Gewässer
+raums einen Spielraum erhalten haben (vgl. HANS W. STUTZ,
+Uferstreifen und Gewässerraum – Umsetzung durch die Kantone, in:
+URP 2012, S.90ff., S.116). Ob dieser Spielraum darin begründet
+liegt, dass der Bund in diesem Bereich allenfalls nur über eine
+Grundsatzgesetzgebungskompetenz gemäss Art.76 Abs.2 BV ver
+fügt (a.M. FRITSCHE, a.a.O., vor Art.36a–44 GSchG N16, wonach
+Art.36a GSchG seine Verfassungsgrundlage in Art.76 Abs.3 BV
+habe), kann dahingestellt bleiben.
+Ähnlich wie in anderen Umweltbereichen kann die Festlegung
+des Gewässerraums mittels einer kantonalen Fachplanung erfolgen.
+Damit ist eine kantonsweit einheitliche Festlegung des Gewässer
+raums gewährleistet. Insbesondere ergeben sich an den Gemeinde
+grenzen keine Abstimmungsschwierigkeiten. Aufgrund von Art.36a
+Abs.3 GSchG ist der so festgelegte Gewässerraum für die Richt und
+Nutzungsplanung, im Baubewilligungsverfahren und bei den übrigen
+raumwirksamen Tätigkeiten der kantonalen und kommunalen Behör
+den verbindlich. Auch eine direkte Bestimmung des Gewässerraums
+in der kommunalen Nutzungsplanung ist möglich. Der Gewässer
+raum kann ferner mit einem kantonalen Nutzungsplan festgelegt wer
+den. Denkbar ist sodann ein Zusammenwirken von Kanton und Ge
+meinden, indem etwa der Kanton Richtlinien für die Festlegung des
+Gewässerraums erlässt, die von den Gemeinden in der Nutzungspla
+nung umgesetzt werden müssen (STUTZ, a.a.O., S.116f.;
+BGE139II470, Erw.4.3). Es ist nicht anzunehmen, dass das BAFU
+den dargelegten Spielraum mit seinen Ausführungen im Erläuternden
+Bericht vom 20.April 2011, wonach die Kantone den Gewässerraum
+in einer Gewässerraumkarte festlegen (die bei der Richt und Nut
+
+zungsplanung berücksichtigt wird) (a.a.O., S.13), auf ein bestimmtes
+Planungsinstrument eingrenzen wollte. Im von der Bau , Planungs
+und Umweltdirektoren Konferenz (BPUK), der Konferenz der Land
+wirtschaftsämter der Schweiz (KOLAS), dem BAFU, dem Bundes
+amt für Landwirtschaft (BLW) und dem Bundesamt für Raument
+wicklung (ARE) erarbeiteten, von der BPUK Hauptversammlung am
+20.September 2012 genehmigten Synthesebericht (nachfolgend:
+Synthesebericht) heisst es jedenfalls, die definitive Festlegung der
+Gewässerräume könne über behördenverbindliche Planungen wie
+Gewässerrauminventare oder karten geschehen, sofern die Grenzen
+des Gewässerraums darin klar ersichtlich sind und als Nutzungsein
+schränkungen angewendet werden können (a.a.O., S.3).
+So oder so ist die Sicherung des Gewässerraums nach den In
+tentionen des Bundesgesetzgebers in einem raumplanerischen Ver
+fahren zu vollziehen, das einerseits die konkreten Verhältnisse wür
+digt und andererseits – im Dienste einer umfassenden Interessenab
+wägung (vgl. Erw.2.3.3 hinten) – die Anhörung und Mitwirkung der
+betroffenen Kreise, insbesondere auch der Grundeigentümer und
+Grundstücksbenutzer, gewährleistet (vgl. dazu schon den VGE vom
+21.Juni 2017 [WBE.2016.451/ 452], Erw.II/3.2.2; VGE vom
+27.September 2012 [WNO.2012.2], Erw.II/4.4.1, S.12f. mit Hin
+weisen). In der gegenwärtigen Ausgestaltung trifft dies aus Sicht des
+Verwaltungsgerichts am ehesten auf die kommunale Nutzungspla
+nung zu. Ein entsprechender Ausbau der kantonalen Fachplanung
+könnte zu gewissen Doppelspurigkeiten führen.
+Eine rein generell abstrakte Festlegung des Gewässerraums ist
+demgegenüber unzulässig. Die Art.41a und 41b GSchV erheischen
+zwingend die Berücksichtigung von Kriterien, die eine Betrachtung
+der konkreten Situation erfordern. Eine flächendeckend einheitliche
+Regelung, wie sie die vom kantonalen Recht abzulösende ÜbgBest
+GSchV vorsehen, würde dem Sinn und Zweck des Bundesrechts
+nicht entsprechen. Mit einer generell abstrakten Regelung liesse sich
+auch kein befriedigendes Gesamtergebnis erzielen, das die konkreten
+Bedürfnisse (pro Gewässerabschnitt) und alle berechtigten Interessen
+angemessen berücksichtigt (FRITSCHE, a.a.O., Art.36a GSchG N34;
+STUTZ, a.a.O., S.117f.). Wie viel Raum für den Hochwasserschutz,
+
+die Ökologie oder die Gewässernutzung benötigt wird, ist von Fall
+zu Fall verschieden. Dasselbe gilt für die baulichen Gegebenheiten
+und die planerisch gewünschte Siedlungsentwicklung, die sich von
+Ort zu Ort unterschiedlich gestaltet (JEANETTE KEHRLI, Gewässer
+raum festlegen – Worauf die Kantone in Recht und Praxis achten
+müssen, in: Raum & Umwelt, VLP ASPAN, November 4/17, S.24).
+Dem ist bereits bei der Festlegung der Gewässerräume Rechnung zu
+tragen. Vor diesem Hintergrund bildet die in §127 Abs.1 BauG ver
+ankerte, von der Vorinstanz beschriebene Definition des Gewässer
+raums einzig anhand der Gewässerbreite bzw. Gewässerfläche keine
+den Anforderungen von Art.41a und 41b GSchV gerecht werdende
+Gewässerraumfestlegung.
+2.3.2.
+Unter Verweis auf die Entstehungsgeschichte von Art.36a
+GSchG und dessen Wortlaut, der sich praktisch vollständig mit der
+bis zum 1.Juni 2011 in Kraft stehenden Fassung von Art.21 Abs.2
+und 3 der Verordnung über den Wasserbau vom 2.November 1994
+(Wasserbauverordnung, WBV; SR721.100.1) decke, hält die
+Vorinstanz fest, das zweistufige Prozedere mit der in Art.36a Abs.1
+GSchG normierten Festlegung der Gewässerräume (erster Schritt)
+und deren späteren Ausscheidung in der (kommunalen)
+Nutzungsplanung gemäss Art.36a Abs.3 GSchG (zweiter Schritt)
+sei im Gesetz selber angelegt. In der Rechtsprechung und Lehre
+würden die beiden Stufen zum Teil nicht sauber auseinandergehalten
+und die Begrifflichkeiten miteinander vermengt. Die Kantone seien
+nicht verpflichtet, bei der Gewässerraumfestlegung für alle Gewässer
+Einzelfalllösungen zu treffen. Auf Stufe der Nutzungsplanung könne
+der in §127 BauG und der Fachkarte festgelegte Gewässerraum den
+konkreten Verhältnissen in einem gewissen Ausmass noch angepasst
+werden. Dort könnten sich auch alle Betroffenen einbringen, mit
+Rechtsmitteln dagegen zur Wehr setzen und es habe eine umfassende
+Interessenabwägung in Kenntnis aller Argumente der Betroffenen
+stattzufinden. Dies im Gegensatz zur Festlegung des Gewässerraums
+gemäss Art.36a Abs.1 GSchG, die auch ohne Rechtsmittelverfahren
+erfolgen könne. Es seien lediglich die betroffenen Kreise anzuhören,
+was formlos geschehen könne. Vor Erlass von §127 BauG seien alle
+
+interessierten Kreise (Bauernverband, Umweltverbände, Gewerbe
+verband, Hauseigentümerverband, Ortsbürgergemeindeverband usw.)
+angehört worden, wobei die Basis und die Berechnungsweise für die
+Gewässerraumkarte bekannt gewesen seien. Die Gewässerraumkarte
+sei zwar nicht direkt grundeigentümerverbindlich, müsse aber von
+den Baupolizeibehörden bei allen raumwirksamen Tätigkeiten,
+insbesondere bei der Erteilung von Baubewilligungen, berücksichtigt
+werden. Dadurch sei der Rechtsschutz gewährleistet.
+(…) Die sich aus Art.36a Abs.3 GSchG ergebende Pflicht, den
+notwendigen Gewässerraum in der Richt und Nutzungsplanung zu
+berücksichtigen, sei ohnehin eine permanente Aufgabe, die mit dem
+erstmaligen Ausscheiden der Gewässerräume in der Nutzungspla
+nung nicht an Aktualität einbüsse. Mit Bezug auf Einzelprojekte
+könne sich später durchaus Anpassungsbedarf ergeben. Deswegen
+rechtfertige es sich jedoch nicht, auf Vorrat Gewässerraum auszu
+scheiden, mit allen damit verbundenen Einschränkungen für die Be
+wirtschaftung. Die ÜbgBest GSchV stellten namentlich ohne eine
+zeitliche Limitierung, wie sie etwa für Planungszonen gemäss Art.27
+RPG gelte, einen schweren Eingriff in die Eigentumsfreiheit dar, vor
+allem in der nicht dicht überbauten Bauzone, wo ein Gewässer einge
+dolt, künstlich angelegt oder sehr klein sei und daher im Normalfall
+keinen Gewässerraum benötige. Ein derartiger Eingriff müsste seine
+Grundlage in einem formellen Gesetz haben. Spätestens seit dem
+1.Juni 2016 (fünf Jahre nach Inkrafttreten) seien die ÜbgBest
+GSchV nicht mehr verfassungskonform, was das Verwaltungsgericht
+im Rahmen einer inzidenten Normenkontrolle festzustellen habe,
+falls es zum Schluss gelange, dass die ÜbgBest GSchV im Kanton
+Aargau nach wie vor anwendbar seien.
+2.3.3.
+Diese rechtsstaatlichen Bedenken der Vorinstanz können nicht
+geteilt werden. Art.36a GSchG und die ausführenden Bestimmungen
+in der GSchV dienen wichtigen öffentlichen Anliegen (Gewährleis
+tung der natürlichen Funktion der Gewässer, Schutz vor Hochwasser
+und Gewässernutzung). Mit den ÜbgBest GSchV soll sichergestellt
+werden, dass im Gewässerraum keine unerwünschten neuen Anlagen
+mehr errichtet werden, welche diese Anliegen durchkreuzen
+
+(BGE139II470, Erw.4.2; FRITSCHE, a.a.O., Art.36a GSchG N73).
+Dabei muss man sich auch vor Augen halten, dass die Kantone auf
+grund der von der Vorinstanz selber ins Spiel gebrachten WBV
+(Art.21 Abs.2 und 3) schon seit 1999 verpflichtet sind, einen ausrei
+chenden Gewässerraum für Gewässer festzulegen. Die fachlichen
+Anliegen hinter diesem Bundesauftrag sind seit langem bekannt
+(KEHRLI, a.a.O., S.5). Würde die ÜbgBest GSchV aufgrund der
+Säumnis eines Kantons im Bereich der Gewässerraumfestlegung we
+sentlich länger als bis zum 31.Dezember 2018 gelten, wäre allenfalls
+eine Entschädigungspflicht aus materieller Enteignung näher zu prü
+fen (FRITSCHE, a.a.O., Art.36a GSchG N166). Solange jedoch Pla
+nungszonen, Bausperren und dergleichen vorübergehender Natur
+sind und nicht mehr als maximal zehn Jahre dauern, begründen sie
+nach der bundesgerichtlichen Rechtsprechung grundsätzlich keinen
+Anspruch aus materieller Enteignung (BGE123II481, Erw.9;
+BGE109Ib20, Erw.4a; Urteil des Bundesgerichts vom 14.März
+2008 [1C_317/2007], Erw.2). Ein schwerer Eingriff in die Eigen
+tumsgarantie, für den eine (kompetenzgemäss erlassene) Verordnung
+als Rechtsgrundlage nicht genügt, wird vom Bundesgericht in der
+Regel erst angenommen, wenn Grundeigentum zwangsweise entzo
+gen oder der bisherige oder künftig mögliche bestimmungsgemässe
+Gebrauch des Grundstücks (auf Dauer) verunmöglicht oder stark er
+schwert wird (ULRICH HÄFELIN/GEORG MÜLLER/FELIX UHLMANN,
+Allgemeines Verwaltungsrecht, 7.Auflage, Zürich/St.Gallen 2016,
+Rz.2344 mit Hinweisen).
+Zutreffend ist aber, dass die Kantone ein evidentes Interesse da
+ran haben, den Gewässerraum zwecks Ablösung der ÜbgBest GSchV
+möglichst rasch festzulegen (FRITSCHE, a.a.O., Art.36a GSchG
+N69; KEHRLI, a.a.O.,S.9; Synthesebericht, S.7). In diesem Sinne
+wurde den Kantonen von den involvierten Bundesämtern zugestan
+den, dass der Gewässerraum als hinreichend festgelegt gilt und die
+ÜbgBest GSchV nicht mehr gelten, sobald der Gewässerraum samt
+genauem Grenzverlauf in behördenverbindlichen Planungen wie Ge
+wässerrauminventaren oder karten ausgewiesen wird (Synthesebe
+richt, S.3 und 7). Nichtsdestotrotz kennt das Bundesrecht prozessua
+le Vorgaben, die vom kantonalen Recht respektiert werden müssen.
+
+Dazu gehört das in Art.36a Abs.1 GSchG statuierte Anhörungsrecht
+der "betroffenen Kreise". Dieses Anhörungsrecht ist als eine Art Ver
+nehmlassungsverfahren zu verstehen, das zwar relativ formlos ausge
+staltet werden kann und den Betroffenen keine Rechtsmittelmöglich
+keit bietet. Das bedeutet allerdings nicht, dass nur Verbände anzuhö
+ren wären. Der Einbezug der betroffenen Kreise ermöglicht die not
+wendige Breite der Interessenabwägung und bildet damit eine wichti
+ge Grundlage für den sachgerechten Planungsentscheid. Daher ist der
+Kreis der einzubeziehenden Personen nicht zu eng zu ziehen, son
+dern sind in der Regel nicht nur die Grundeigentümer, sondern auch
+Mieter, Pächter (Bewirtschafter) und die betroffenen Gemeinden an
+zuhören (FRITSCHE, a.a.O., Art.36a GSchG N28f.). Auf diese
+Weise besteht eher Gewähr dafür, dass der Kanton nicht an den Inte
+ressen der Betroffenen vorbeiplant und seine Planung in den Nut
+zungsplanungen im grossen Stil überarbeitet werden muss.
+Daraus ergibt sich, dass die "umfassende" Interessenabwägung
+nicht – wie von der Vorinstanz propagiert – auf die der Gewässer
+raumplanung des Kantons nachfolgende Stufe der kommunalen Nut
+zungsplanung mit der definitiven, direkt grundeigentümerverbind
+lichen Ausscheidung der Gewässerräume verlagert werden kann, die
+Ablösung der ÜbgBest GSchV jedoch bereits zu einem früheren
+Zeitpunkt erfolgt. Dies gilt namentlich dort, wo das Bundesrecht für
+die Festlegung von Gewässerraum oder den Verzicht darauf explizit
+an eine Interessenabwägung anknüpft. Das ist beispielsweise bei
+Art.41a Abs.5 lit.c GSchV der Fall, wonach bei künstlich angeleg
+ten Gewässern auf die Festlegung des Gewässerraums verzichtet
+werden kann, soweit keine überwiegenden Interessen entgegenste
+hen. Das lässt sich letztlich nur anhand einer umfassenden Interes
+senabwägung beurteilen. Wird diese nicht schon vom Kanton beim
+Verzicht auf die Festlegung von Gewässerraum durch entsprechende
+Kennzeichnung des künstlich angelegten Gewässers in der Gewäs
+serraumkarte vorgenommen, kann das Verfahren zur Gewässerraum
+festlegung in diesem Zeitpunkt nicht als vollendet betrachtet werden;
+die ÜbgBest GSchV zur Sicherung des Gewässerraums bleiben daher
+anwendbar. Die gegenteilige Annahme würde dazu führen, dass für
+alle künstlich angelegten Gewässer mit (vorläufigem) Verzicht des
+
+Kantons auf die Festlegung eines Gewässerraums (in der Gewässer
+raumkarte) kein Gewässerraum mehr gesichert ist, bevor überhaupt
+genügend ergründet wurde, ob es im Einzelfall und unter Würdigung
+der konkreten Verhältnisse nicht doch überwiegende Interessen gibt,
+welche die Festlegung von Gewässerraum (wenigstens abschnitts
+weise) erfordern. Die Nutzungsplanung der Gemeinden, in deren
+Rahmen allenfalls Bedarf nach einem Gewässerraum für ein künst
+lich angelegtes Gewässer erkannt würde, käme dann unter Umstän
+den zu spät. Durch die Bewilligung von Bauten im Gewässerraum,
+die sich in dieser Konstellation nicht unter Hinweis auf die kantonale
+Planung bzw. die Gewässerraumkarte verhindern liessen, könnten
+bereits Fakten geschaffen worden sein, die mit den Schutzzielen der
+Gewässerraumvorschriften nicht zu vereinbaren sind.
+Demgemäss braucht es für einen gültigen, die ÜbgBest GSchV
+ablösenden Verzicht auf die Festlegung von Gewässerraum in An
+wendung von Art.41a Abs.5 lit.c GSchV eine umfassende Interes
+senabwägung (vgl. auch KEHRLI, a.a.O., S.18), sei dies auf Stufe der
+Fachplanung des Kantons – (vorerst) ohne Rechtsmittelmöglichkeit –
+oder der anschliessenden Nutzungsplanung der Gemeinden, in deren
+Rahmen die (vorstrukturierte) Interessenabwägung (des Kantons) ab
+geschlossen und im Rechtsmittelverfahren überprüft werden kann.
+Das bedeutet, dass die verschiedenen öffentlichen und privaten Inte
+ressen, die für oder gegen die Festlegung oder Ausscheidung von Ge
+wässerraum für ein künstlich angelegtes Gewässer sprechen, sorgfäl
+tig gegeneinander abgewogen werden müssen. Überwiegende Inte
+ressen, die eine Festlegung des Gewässerraums bei künstlich ange
+legten Gewässern notwendig machen, sind auch hier insbesondere
+Interessen des Hochwasserschutzes sowie die allenfalls vorhandene
+ökologische Bedeutung des Gewässers. Bei künstlich angelegten Ge
+wässern, die eine ökologische Bedeutung haben (z.B. Binnenkanäle
+entlang kanalisierter Flüsse wie dem Alpenrhein, Gewässer, die eine
+Bedeutung als Lebensraum oder für die Vernetzung von Lebensräu
+men haben), ist ein Gewässerraum auszuscheiden (Erläuternder Be
+richt BAFU, S.13).
+
+2.3.4.
+2.3.4.1.
+In Erw.6.8f. des Beschwerdeentscheids führt die Vorinstanz
+aus, die Kennzeichnung der künstlich angelegten Gewässer in der
+Gewässerraumkarte als solche ohne besondere ökologische Bedeu
+tung beruhe auf einer Einzelfallbeurteilung für jedes betroffene Ge
+wässer. Die ersten Weichen seien schon im Gesetzgebungsverfahren
+(zu §127 BauG) gestellt worden. Dort seien die vorhandenen Inte
+ressen ermittelt und mithilfe ausgewiesener Massstäbe beurteilt wor
+den. Am 16.März 2016 habe der Regierungsrat die Gewässerraum
+karte beschlossen. Die vom Regierungsrat vorgenommene Interes
+senabwägung habe dazu geführt, den S. Bach in der Gewässerraum
+karte als Fliessgewässer im Sinne von §127 Abs.1bis lit.a BauG
+(künstlich angelegt und ohne besondere ökologische Bedeutung) zu
+klassieren. Er habe sich insbesondere von den Überlegungen des
+BVU (Abteilung für Baubewilligungen) leiten lassen, das am 17.Juli
+2015 für ein Bauvorhaben am S. Bach die Zustimmung erteilt habe.
+Die erwähnten Überlegungen des BVU werden auf S.16f. des
+Beschwerdeentscheids wiedergegeben. Zu den öffentlichen Interes
+sen, die einem Verzicht auf die Festlegung von Gewässerraum für
+den S. Bach entgegenstehen könnten, heisst es dort:
+Beim S. Bach D. ist die Hochwassergefährdung kein Thema, da die
+Wassermenge beim Bachabschlag reguliert wird. Es ist definiert, wie
+viel Wasser im Maximum dem S. Bach zugeführt werden kann, so dass
+keine Hochwassergefährdung entstehen kann.
+Dem S. Bach D. wird aus Sicht des Kantons nur eine geringe ökologi
+sche Bedeutung zugewiesen, da der Bach auf weiten Strecken hart ver
+baut ist und es nie eine durchgehende Vernetzung bis zur Mündung ge
+ben wird. Es ist klar, dass der S. Bach im Siedlungsgebiet eine Vernet
+zungsachse darstellt und abschnittsweise einem im dicht besiedelten
+Raum wichtigen Lebensraum darstellt, der punktuell auch ökologisch
+aufgewertet wurde. Aufgrund seiner Entstehung und im Vergleich zu na
+türlichen Gewässern hat der S. Bach jedoch eine zu kleine ökologische
+Bedeutung, als dass wegen dieser eine Festlegung eines Gewässerraums
+verlangt würde.
+
+In der Botschaft Nr.15.18 des Regierungsrats an den Grossen
+Rat zur Änderung des BauG, Teilrevision Umsetzung des "Gewäs
+serraums" gemäss Bundesrecht vom 14.Januar 2015, fehlen Anga
+ben zum S. Bach von C. und D. Es wird bloss allgemein festgehal
+ten, dass diejenigen künstlich angelegten Gewässer, die keine beson
+dere ökologische Bedeutung haben, in der Gewässerraumkarte spe
+ziell gekennzeichnet würden, wozu auf Abb.7 (auf S.14) verwiesen
+wird. Gegenüber diesen Kanälen und künstlich angelegten Gewässer
+läufen (z.B. Wasserkraftwerks oder Industriekanäle, Be und Ent
+wässerungsgräben, Stadtbäche) seien keine vorgegebenen Abstände
+einzuhalten (a.a.O., S.13). An der Vernehmlassung, die vom
+26.März 2014 bis Ende Juni 2014 dauerte, beteiligten sich zehn Par
+teien, zwölf regionale Planungsverbände, 14 andere Verbände, 80
+Gemeinden und vier Einzelpersonen. Ob und inwieweit dabei §127
+Abs.1bis lit.a BauG oder sogar einzelne künstlich angelegte Gewäs
+ser thematisiert wurden, geht aus der Botschaft (S.7f.) nicht hervor.
+Unbekannt ist ferner, ob und inwieweit der Regierungsrat entspre
+chende Äusserungen beim Entscheid über die ökologische Bedeu
+tung der einzelnen künstlich angelegten Gewässer einbezogen und
+gewürdigt hat. Für die betroffenen Grundeigentümer war im Rahmen
+des Gesetzgebungsverfahrens sodann kaum absehbar, welche Konse
+quenzen bzw. Auswirkungen auf die Nutzung ihres Eigentums diese
+Gesetzesbestimmungen konkret haben würden.
+2.3.4.2.
+Die Beschwerdeführer weisen zu Recht darauf hin, dass die
+oben (Erw.2.3.4.1 vorne) zitierte Stellungnahme des BVU zum ge
+ringen ökologischen Wert des S. Bachs wenig fundiert erscheint. Es
+lässt sich nicht nachvollziehen, welche Datenlage dieser Einschät
+zung zugrunde liegt. So werden beispielsweise keine (detaillierten)
+Angaben zum zahlenmässigen Verhältnis des verbauten zum nicht
+verbauten Teil des S. Bachs oder dazu gemacht, auf welchen Ab
+schnitten und für welche Arten (von Pflanzen oder Tieren) der S.
+Bach einen wichtigen Lebensraum bildet. Die Beschwerdeführer ver
+langen von den Behörden in diesem Zusammenhang Bestandesauf
+nahmen, Begehungsprotokolle und dergleichen, die auch im vorlie
+genden Verfahren nicht beigebracht wurden. Das vermittelt den Ein
+
+druck, dass der Sachverhalt im Vorfeld der Verabschiedung der Ge
+wässerraumkarte gar nicht oder zu wenig vertieft abgeklärt wurde,
+um eine auf den konkreten Fall des S. Bachs zugeschnittene, umfas
+sende Interessenabwägung zu ermöglichen. An mehr Datenmaterial
+hätte man unter Umständen gelangen können, wenn man die Natur
+schutzorganisationen zum beabsichtigten Verzicht auf die Festlegung
+eines Gewässerraums für den S. Bach angehört hätte. Stattdessen
+wurden die Umweltverbände offenbar auf das Nutzungsplanungsver
+fahren verwiesen.
+Von vornherein unzulässig wäre es, den (geringen) ökologi
+schen Wert des S. Bachs aus seiner Entstehungsgeschichte abzulei
+ten. Die Art und Weise der Entstehung ("künstlich angelegt") ist nur
+das eine Tatbestandsmerkmal, das für den Verzicht auf die Festle
+gung von Gewässerraum in Anwendung von Art.41a Abs.5 lit.c
+GSchV und §127 Abs.1bis lit.a BauG erfüllt sein muss; das Fehlen
+überwiegender Interessen, die einem solchen Verzicht entgegenste
+hen, das andere Kriterium, das gesondert geprüft werden muss. Es ist
+zumindest nicht aktenkundig, dass der Verabschiedung der Gewäs
+serraumkarte durch den Regierungsrat im Fall des S. Bachs eine ein
+gehende und einzelfallbezogene Prüfung derartiger Interessen voran
+gegangen ist. Folglich ist darauf abzustellen, dass die Gewässerraum
+karte mit Bezug auf den S. Bach, der darin als künstlich angelegtes
+Gewässer ohne besondere ökologische Bedeutung gekennzeichnet
+wird, die ÜbgBest GSchV mit den gemäss Abs.2 grundsätzlich
+freizuhaltenden Uferstreifen nicht abzulösen vermochte.
+Das heisst aber entgegen der Meinung der Beschwerdeführer
+nicht notwendigerweise, dass die ÜbgBest GSchV für den S. Bach
+weiterhin gelten. Sie könnten durch eine planerische Festlegung auf
+Stufe der kommunalen Nutzungsplanung, die nach umfassender Inte
+ressenabwägung zustande gekommen ist und den materiellen Krite
+rien von Art.36a GSchG und Art.41a und 41b GSchV, namentlich
+Art.41a Abs.5 lit.c GSchV entspricht, verdrängt worden sein
+(FRITSCHE, a.a.O., Art.36a GSchG N74).
+2.3.4.3.
+Die Vorinstanz und die Beschwerdeführer gehen übereinstim
+mend davon aus, dass die Gemeinde C. bis anhin nicht auf Stufe der
+
+Nutzungsplanung auf die Ausscheidung von Gewässerraum für den
+S. Bach verzichtet hat.
+Tatsächlich hat die Einwohnergemeinde C. Stand heute weder
+sich mit der Ausscheidung von Gewässerraum im Allgemeinen be
+fasst noch Bestimmungen erlassen, mit denen auf die Ausscheidung
+eines Gewässerraums für den S. Bach verzichtet wird. Mit dem Be
+schluss des umstrittenen §29b nBNO hat sie jedoch gegenüber der
+S. Bachparzelle (mindestens) einzuhaltende (zonengemässe) Grenz
+abstände definiert, mit denen ein von Überbauungen grundsätzlich
+freizuhaltender Gewässerraum mit den Mindestmassen nach Bundes
+recht und im Übrigen auch mit den vom Kanton in §127 Abs.1
+BauG festgelegten Ausmassen nicht gewährleistet ist. (…) Insofern
+hat die Einwohnergemeindeversammlung C. implizit auf die Aus
+scheidung von Gewässerraum für den S. Bach verzichtet. Dies gilt
+umso mehr, als den Gemeindebehörden die Thematik durch die Ein
+wendung der Beschwerdeführer bekannt war. An der Einwen
+dungsverhandlung vom 19.März 2015 wurde darüber debattiert, ob
+für den S. Bach ein Gewässerraum ausgeschieden werden muss.
+Dem Protokoll zum Einwendungsentscheid vom 13.April 2015 ist
+zu entnehmen, dass sich die Gemeinde gegen eine Festlegung von
+Gewässerraum wehre, keine Hochwassergefährdung bestehe und die
+ökologische Bedeutung des S. Bachs nicht überbewertet werden dür
+fe. Auf der Gegenseite beharrten die Beschwerdeführer darauf, dass
+der S. Bach ein ökologisch wertvolles Gewässer sei, für das ein Ge
+wässerraum ausgeschieden werden müsse.
+Setzen sich Gemeindebehörden – wie der Gemeinderat C. – im
+Rahmen einer Teilrevision der Nutzungsplanung mit der Frage ausei
+nander, ob für ein künstlich angelegtes Gewässer Gewässerraum aus
+geschieden werden muss, und entscheiden sie sich (in Anwendung
+von Art.41a Abs.5 lit.c GSchV) gegen die Ausscheidung von Ge
+wässerraum, reicht ein solches Vorgehen, um die ÜbgBest GSchV
+abzulösen, sofern die Voraussetzungen für einen Verzicht auf die
+Festlegung von Gewässerraum erfüllt sind. Insofern ist §29b nBNO
+nicht auf seine Übereinstimmung mit den ÜbgBest GSchV, die bei
+einem gültigen Verzicht auf die Ausscheidung von Gewässerraum
+ohnehin wegfielen, sondern vielmehr auf diejenige mit Art.41a
+
+Abs.5 lit.c GSchV zu überprüfen. Dass Art.41a Abs.5 lit.c GSchV
+einen expliziten Verzicht in Form einer BNO Bestimmung (wonach
+für ein bestimmtes Gewässer kein Gewässerraum ausgeschieden
+werde) oder einer (ohnehin bloss orientierenden) Kennzeichnung im
+Zonenplan (analog derjenigen in der Gewässerraumkarte des Kan
+tons) verlangen würde, ist nicht ersichtlich. Auch braucht ein Ver
+zicht gemäss Art.41a Abs.5 lit.c GSchV nicht zwingend mit der
+Festlegung oder Ausscheidung von Gewässerraum für andere Ge
+wässer zeitlich koordiniert zu werden.
+3.
+3.1–3.2. (Prüfung der Frage, ob auf Stufe der Nutzungsplanung
+die nach Art.41a Abs.5 lit.c GSchV für den Verzicht auf die Aus
+scheidung von Gewässerraum für den S. Bach erforderliche Interes
+senabwägung stattgefunden hat)
+4.
+Zusammenfassend ist der Verzicht auf die Festlegung von Ge
+wässerraum für den S. Bach auf Ebene der Fachplanung des Kantons
+durch dessen Kennzeichnung in der Gewässerraumkarte als künstlich
+angelegtes Gewässer ohne besondere ökologische Bedeutung nicht
+nach einer umfassenden Interessenabwägung zustande gekommen,
+weshalb dieser planerische Entscheid die ÜbgBest GSchV mit den in
+Abs.2 vorgesehenen grundsätzlich freizuhaltenden Uferstreifen nicht
+abzulösen vermochte. Auf Stufe der kommunalen Nutzungsplanung
+gibt es zwar durch den Beschluss von §29b nBNO einen weiteren
+planerischen Entscheid, mit welchem implizit auf die Ausscheidung
+von Gewässerraum für den S. Bach verzichtet wurde. Doch liegt die
+sem Entscheid eine ungenügende Interessenabwägung zugrunde, die
+den Anforderungen von Art.41a Abs.5 lit.c GSchV nicht entspricht.
+Ungenügend ist die Interessenabwägung insofern, als der Sachverhalt
+zur Beurteilung des ökologischen Werts des S. Bachs unzureichend
+abgeklärt und unvollständig gewürdigt wurde. Das beruht insbeson
+dere auf den Fehlannahmen, dass einem künstlich angelegten Gewäs
+ser ohne Vernetzungsfunktion zwischen natürlichen Fliessgewässern
+a priori keine ökologische Bedeutung beigemessen werden kann, die
+einem Verzicht auf die Festlegung von Gewässerraum entgegenste
+hen könnte, und dass die Gewässerraumvorschriften zu wenig flexi
+
+bel handhabbar sind, um mit einer abschnittsweisen Lagebeurteilung
+sowohl dem Interesse am Schutz der natürlichen Funktionen als auch
+demjenigen am Erhalt des Ortsbilds und der städtebaulichen Ent
+wicklung des S. Bachs Rechnung tragen zu können. Solange kein
+rechtsgenügender Verzicht auf die Festlegung von Gewässerraum für
+den S. Bach vorliegt, erweist sich §29b nBNO mit einer Bachab
+standsvorschrift, die einen potenziellen Verstoss gegen die Gewässer
+raumgesetzgebung respektive die darin vorgeschriebenen Mindest
+masse für Gewässerräume beinhaltet, als bundesrechtswidrig.
+In teilweiser Gutheissung der vorliegenden Beschwerde ist so
+mit der im Rahmen der Teilrevision BNO C. eingeführte, von der
+Gemeindeversammlung am 18.Juni 2015 beschlossene §29b nBNO
+von der Genehmigung durch den Regierungsrat (…) auszunehmen
+und aufzuheben. (…)
+17 Anlieferungsverbot für ein Ladengeschäft wegen nächtlicher Lärm
+immissionen
+Der durch den nächtlichen Güterumschlag eines Verkaufsgeschäfts mit
+Frischprodukten erzeugte Lärm ist nach Anhang 6 LSV zu beurteilen,
+auch wenn der Anlieferungsvorgang nur relativ kurz andauert. Eine Ein
+zelfallbeurteilung direkt gestützt auf das USG (unter Zuhilfenahme der
+BAFUVollzugshilfe für die Beurteilung von Alltagslärm), mit der Be
+gründung, Anhang 6 LSV und die dort vorgesehene Ermittlung des mass
+gebenden Beurteilungspegels (energieäquivalenter Dauerschallpegel) bil
+deten den Lärm eines nur wenige Minuten andauernden Güterumschlags
+nicht angemessen ab, drängt sich nicht auf. Der Störungswirkung von
+Spitzenwerten und der Impulshaltigkeit scheppernder Geräusche kann
+mit Pegelkorrekturen Rechnung getragen werden.
+Aus dem Entscheid des Verwaltungsgerichts, 3.Kammer, vom 1.März
+2018, in SachenA. AG und B. AG gegen C., Gemeinderat E. und
+Departement Bau, Verkehr und Umwelt (WBE.2016.390).
