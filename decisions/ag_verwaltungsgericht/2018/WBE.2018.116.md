@@ -1,0 +1,378 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2018.116"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "WBE.2018.116"
+decided: "2018-07-18"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2361"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2361"
+cites_decisions: ["2C_429/2010", "2C_429/2017", "2C_456/2017", "2C_873/2014"]
+cites_law: ["switzerland/bund/acts/210/art-014.md", "switzerland/bund/acts/642.11/art-026.md", "switzerland/bund/acts/642.11/art-033.md", "switzerland/bund/acts/642.14/art-009.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — WBE.2018.116
+
+## Regeste
+
+Weiterbildungskosten; Unterhaltszahlungen 
+- Vorliegen von Weiterbildungskosten (Berufsaufstiegskosten), wenn die Grundausbildung absolviert und gearbeitet wurde. Keine Rolle spielt, dass die Weiterbildung nicht zu einer Arbeit im betreffenden Beruf führte (Erw. 1). 
+- Steuerliche Berücksichtigung von Unterhaltsnachzahlungen (Erw. 2)
+
+## Text
+
+9 Weiterbildungskosten; Unterhaltszahlungen
+Vorliegen von Weiterbildungskosten (Berufsaufstiegskosten), wenn
+die Grundausbildung absolviert und gearbeitet wurde. Keine Rolle
+spielt, dass die Weiterbildung nicht zu einer Arbeit im betreffenden
+Beruf führte (Erw.1).
+Steuerliche Berücksichtigung von Unterhaltsnachzahlungen (Erw.2)
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom 18.Juli
+2018, in Sachen C. gegen KStA und Gemeinderat X. (WBE.2018.116).
+Aus den Erwägungen
+1.
+1.1.
+Umstritten ist zunächst, ob die Vorinstanz den geltend gemach
+ten Abzug für Weiterbildungskosten zu Recht abgelehnt hat mit dem
+Hinweis, es lägen nichtabzugsfähige, im Hinblick auf die beabsich
+tigte Aufnahme einer selbstständigen Erwerbstätigkeit angefallene
+Ausbildungskosten vor. Der Beschwerdeführer macht geltend, die
+Weiterbildung sei nicht ausschliesslich im Hinblick auf die Auf
+nahme der selbstständigen Erwerbstätigkeit erfolgt, sondern es sei
+auch eine Anstellung in Frage gekommen, wenn eine solche denn ge
+funden worden wäre.
+1.2.
+Gemäss dem in der Steuerperiode 2013 gültigen §35 Abs.1
+lit.e StG (übereinstimmend mit Art.26 Abs.1 lit.d DBG [Fassung
+in Kraft bis 31.Dezember 2015] und Art.9 Abs.1 StHG) können die
+mit dem Beruf zusammenhängenden Weiterbildungs und Umschu
+lungskosten als Berufskosten abgezogen werden. Nach der Recht
+sprechung zu den erwähnten Bestimmungen, sind als Weiterbil
+dungskosten alle Kosten abziehbar, die objektiv mit dem ge
+genwärtigen Beruf des Steuerpflichtigen im Zusammenhang stehen
+
+und die der Steuerpflichtige zur Erhaltung seiner beruflichen
+Chancen für angezeigt hält. Demnach sind Auslagen für die
+Weiterbildung auch dann abziehbar, wenn nicht feststeht, dass die
+Weiterbildung absolut unerlässlich war, um die Erhaltung der Ein
+kommensquelle zu gewährleisten. Auch die Berufsaufstiegskosten
+sind abziehbare Weiterbildungsaufwendungen, sofern sie im Hin
+blick auf den Aufstieg im angestammten Beruf erfolgen (MARKUS
+REICH/JULIA VON AH/STEPHANIE A. BRAWAND, in: MARTIN ZWEI
+FEL/MICHAEL BEUSCH [Hrsg.], Bundesgesetz über die Harmonisie
+rung der direkten Steuern der Kantone und Gemeinden, 3. Auflage,
+Basel 2017, Art.9 N56h und 56i; PHILIP FUNK, in: MARIANNE
+KLÖTI WEBER/DAVE SIEGRIST/DIETER WEBER [Hrsg.], Kommentar
+zum Aargauer Steuergesetz, 4. Auflage, Muri Bern 2015 [AG
+Steuerkommentar], §35 N33; anderes Verständnis zum Begriff Be
+rufsaufstiegskosten und Verwendung des Begriffs Fortsetzungsaus
+bildungskosten vgl. SIVLIA HUNZIKER/JSABELLE MAYER KNOBEL,
+in: MARTIN ZWEIFEL/MICHAEL BEUSCH [Hrsg.], Bundesgesetz über
+die direkte Bundessteuer, 3. Auflage, Basel 2017, Art.33 N36a so
+wie FELIX RICHNER/WALTER FREI/STEFAN KAUFMANN/HANS
+ULRICH MEUTER, Handkommentar zum DBG, 3. Auflage, Zürich
+2016, Art.26 N87ff. und 98ff.). Unerheblich ist, ob die berufs
+orientierte Aus und Weiterbildung zu einer selbstständigen oder un
+selbstständigen Erwerbstätigkeit führt (MARKUS REICH/JULIA VON
+AH/STEPHANIE A. BRAWAND, a.a.O., Art.9 N56j).
+1.3.
+In einem Schreiben des Beschwerdeführers an das Steueramt X.
+im August 2016 führte dieser aus, die Beigeladene habe nach ihrem
+Studium in Shanghai als Assistentin für westliche Dozenten an einem
+Designcollege gearbeitet und danach westliche Investoren in einer
+Industriezone betreut. Nach dem Umzug in die Schweiz habe sie im
+Designbereich wieder Fuss fassen wollen und daher die Ausbildung
+zur Fashion Assistant STF absolviert. Im Anschluss daran sei sie
+knapp ein Jahr in einem Designstudio angestellt gewesen und habe
+danach die Weiterbildung zur Fashion Designerin (HFP) im
+berufsbegleitenden Lehrgang (zwecks gleichzeitiger Betreuung der
+gemeinsamen Tochter) absolviert. Bis April 2016 habe sie sich mit
+
+der Vorbereitung der Selbstständigkeit als Fashion Designerin be
+fasst. Sie habe bereits Musterkollektionen entworfen, den
+Maschinenpark angeschafft, Lieferanten für Stoff und Zubehör
+evaluiert und grössere Mengen Stoff beschafft.
+Aus den Schilderungen des Beschwerdeführers geht hervor,
+dass eine selbstständige Erwerbstätigkeit zwar geplant gewesen ist.
+Indessen hat der Beschwerdeführer, respektive die Beigeladene in
+der Steuerperiode 2013 keine Jahresrechnung respektive Auf
+zeichnungen im Zusammenhang mit einer selbstständigen Erwerbs
+tätigkeit eingereicht und folglich wurde auch keinerlei Aufwand
+geltend gemacht. Abgesehen davon ist es, wie bereits erwähnt,
+unerheblich, ob nach der Weiterbildung eine selbstständige Erwerbs
+tätigkeit ausgeübt wird oder nicht. Der beantragte Abzug für die
+ausgelegten Kosten der besuchten Weiterbildung kann jedenfalls
+nicht mit Verweis auf eine mutmassliche Aufnahme einer selbst
+ständigen Tätigkeit verwehrt werden.
+1.4.
+Im Merkblatt des KStA "Weiterbildungs und Umschulungs
+kosten", gültig von 2005–2015, Ziff.4.4, gelten Auslagen für
+Höhere Fachprüfungen mit dem Titel dipl. HFP als Berufsaufstiegs
+kosten und sind abziehbar, wenn zwischen dem gegenwärtigen Beruf
+und der Fortbildung ein Zusammenhang besteht, d.h. wenn weiterhin
+die gleiche Berufsart und kein völlig andersartiger Beruf angestrebt
+wird. Das Merkblatt stellt eine generell abstrakte Dienstanweisung
+und mithin eine Verwaltungsverordnung dar, welche eine Ansichts
+äusserung der Verwaltungsbehörden über die Auslegung und Anwen
+dung der einschlägigen gesetzlichen Bestimmungen darstellt und für
+die Gerichtsbehörden nicht verbindlich ist. Von einer solchen ist
+jedoch nicht ohne triftigen Grund abzuweichen, sofern die generell
+abstrakte Ansichtsäusserung eine dem individuell konkreten Fall
+angepasste und gerecht werdende Auslegung der gesetzlichen
+Bestimmungen zulässt und überdies eine überzeugende Konkretisie
+rung der gesetzlichen Vorgabe enthält (Urteil des Bundesgerichts
+vom 8.November 2015 [2C_873/2014] E. 3.4.1.f.).
+1.5.
+
+Die Beigeladene hat nach dem Erwerb des Diploms Fashion
+Assistant STF der Schweizerischen Textilfachschule während knapp
+einem Jahr in diesem Beruf gearbeitet. Diese im Berufsfeld Textilien
+angesiedelte Tätigkeit ist auf die Bekleidungsbranche ausgerichtet.
+Der Lehrgang entspricht der Ausbildung zum/zur Fashion Spezia
+list/in mit Berufsprüfung und bietet "einen Einstieg in die Welt der
+Mode. Hier werden grundlegende Schnitt und Verarbeitungstech
+niken vermittelt und so ein solides Wissensfundament geschaffen,
+das in den verschiedensten Bereichen der Textil und Bekleidungs
+branche vertieft werden kann" (http://www.stf.ch/kurse/fashion
+spezialistin bp/). Die entsprechenden Aufwendungen wurden von der
+Steuerkommission X. in der Steuerperiode 2012 zum Abzug zugelas
+sen. Danach absolvierte die Beigeladene die Weiterbildung zur
+Fashiondesignerin (HFP), welche in den Branchen Bekleidung und
+Design angesiedelt und dem Berufsfeld Textilien zugeschrieben
+wird. Als Vorbildung ist der Abschluss einer Grundausbildung (EFZ)
+oder eine gleichwertige Ausbildung verlangt sowie insgesamt
+mindestens vier Jahre Berufspraxis im Modebereich, woran eine
+modisch gestalterische Grundbildung (Sekundarstufe II) oder eine
+andere entsprechende Ausbildung angerechnet wird. Nach erfolg
+reichem Bestehen der Höheren Fachprüfung wird der eidgenössisch
+anerkannte Titel Dipl. Fashiondesigner/in verliehen. Die Weiterbil
+dung "bereitet den Weg zur erfolgreichen Designerpersönlichkeit vor.
+Sie befähigt Absolventen, sowohl in der Bekleidungsindustrie, im
+Handel als auch in einer Moderedaktion oder im Trendbüro zu arbei
+ten. Die Höhere Fachprüfung Fashiondesigner/in gibt zudem Metho
+den und Fachwissen an die Hand, die auf den Aufbau eines eigenen
+Labels vorbereiten" (http://www.stf.ch/kurse/fashiondesignerin hfp/).
+1.6.
+Die Beigeladene war also während eines Jahres als Fashion
+Assistant STF (offenbar in der Funktion als Änderungsschneiderin)
+respektive als Fashion Spezialistin beruflich in einem Fashion
+Designstudio tätig und die dafür notwendige Weiterbildung, respek
+tive die aufgewendeten Kosten, liess die Steuerkommission X. in der
+Steuerperiode 2012 zum Abzug zu. Der Zusammenhang zwischen
+diesem Beruf und der Weiterbildung zur Fashiondesignerin (HFP) ist
+
+offensichtlich gegeben, gehören doch beide zum selben Berufsfeld
+und überschneiden sich auch branchenmässig. Jedenfalls handelt es
+sich hier nicht um Kosten, die im Hinblick auf den Aufstieg in eine
+eindeutig vom bisherigen Beruf zu unterscheidende höhere
+Berufsstellung oder gar in einen anderen Beruf aufgewendet werden
+und damit nicht abzugsfähig wären (SILVIA HUNZIKER/JSABELLE
+MAYER KNOBEL, a.a.O., Art.33 N36a). Auch wenn davon auszu
+gehen wäre, dass die Weiterbildung zur Fashion Designerin HFP zu
+einem Aufstieg in eine eindeutig vom bisherigen Beruf zu
+unterscheidende höhere Berufsstellung führte, qualifiziert das zitierte
+Merkblatt des KStA solche Auslagen als Berufsaufstiegskosten und
+damit als abziehbar. Unbesehen davon, dürfte hier jedenfalls kein
+grundlegender Wechsel in der Berufs oder Erwerbsart vorliegen,
+sodass auch nicht von einem aliud gesprochen werden kann (FELIX
+RICHNER/WALTER FREI/STEFAN KAUFMANN/HANS ULRICH
+MEUTER, a.a.O., Art.26 N100). Da die Beigeladene vor Aufnahme
+der Weiterbildung berufstätig gewesen ist, handelt es sich bei den be
+treffenden Kosten auch nicht um Wiedereinstiegskosten, welche
+nicht abzugsfähig wären. Die zum Abzug beantragten Weiterbil
+dungskosten sind also im vorliegenden Fall grundsätzlich abziehbar.
+1.7.
+Dass die Beigeladene in der Steuerperiode, für welche sie einen
+Abzug für Weiterbildungskosten beantragt, nicht im Berufsfeld, in
+dem sie eine Weiterbildung absolviert hat, tätig war, spielt entgegen
+der Vorinstanz keine Rolle. Die Aus und Weiterbildung muss nicht
+im direkten Zusammenhang mit der Erzielung des gegenwärtigen Er
+werbseinkommens stehen (MARKUS REICH/JULIA VON
+AH/STEPAHNIE A. BRAWAND, a.a.O., Art.9 N56j; so auch indirekt
+das zitierte Merkblatt des KStA, Ziff.7.1, erster Absatz). Fest steht,
+dass die Beigeladene ein Einkommen in der Steuerperiode 2013 er
+zielte. Sie war vom 1.Januar 2013 bis 30.Juni 2013 als kaufmänni
+sche Angestellte in einem Pensum von 20 % bei der von ihrem Ehe
+mann beherrschten B. AG angestellt und erzielte ein Einkommen von
+Fr.10'726.00. Es schadet auch nicht, dass die geltend gemachten
+Weiterbildungskosten das Einkommen der Beigeladenen übersteigen.
+In einem solchen Fall kann der Kostenüberschuss mit dem übrigen
+
+Einkommen (bei Ehepaaren auch mit dem Einkommen des anderen
+Eheteils) verrechnet werden, da es sich um ausserordentliche,
+aperiodische Aufwendungen handelt (vgl. zitiertes Merkblatt des
+KStA, Ziff.7.1, dritter Absatz). Die geltend gemachten Kosten in der
+Höhe von Fr.13'870.00 sind zum Abzug zuzulassen und die Be
+schwerde erweist sich in diesem Punkt als begründet.
+2.
+2.1.
+Weiter beanstandet der Beschwerdeführer, der Abzug für ge
+leistete Unterhaltsbeiträge sei ihm zu Unrecht verwehrt worden. Es
+handle sich bei der Unterhaltszahlung von Fr.50'000.00 nicht um
+eine scheidungsrechtliche Kapitalabfindung, sondern um eine Nach
+zahlung einer in Verzug geratenen Unterhaltsrente, welche vom
+steuerbaren Einkommen in Abzug gebracht werden könne. Dasselbe
+müsse für die Vergütung der Generalabonnementskosten der Tochter
+in der Höhe von Fr.2'400.00 gelten.
+Das KStA macht im Wesentlichen geltend, die Frage der
+Abzugsfähigkeit von Unterhaltsleistungen in Kapitalform richte sich
+entgegen den Ausführungen im vorinstanzlichen Urteil nach Bundes
+recht und nicht nach kantonalem Recht. Der Abzug sei zu verwehren.
+2.2.
+Gemäss §40 lit.c StG werden Unterhaltsbeiträge an den
+geschiedenen, gerichtlich oder tatsächlich getrennt lebenden Eheteil
+sowie die Unterhaltsbeiträge an einen Elternteil für die unter dessen
+elterlicher Sorge stehenden Kinder, nicht jedoch Leistungen in Erfül
+lung anderer familienrechtlicher Unterhalts oder Unterstützungs
+pflichten, von den Einkünften abgezogen (vgl. auch Art.33 Abs.1
+lit.c DBG und Art.9 Abs.2 lit.c StHG). In Lehre, Rechtsprechung
+und Praxis ist teilweise umstritten, wie Renten und Kapitalleistungen
+steuerlich zu behandeln sind (SILVIA HUNZIKER/JSABELLE MAYER
+KNOBEL, a.a.O., Art.33 N21). Die Vorinstanz verweist zu Recht auf
+einen gewissen Gestaltungsspielraum der Kantone bei der Definition
+der Unterhaltsbeiträge (MARKUS REICH/JULIA VON AH/STEPHANIE
+A. BRAWAND, a.a.O., Art.9 N39). §11 StGV sieht vor, dass als
+steuerwirksame Unterhaltsbeiträge nur periodisch in Rentenform
+fliessende Zahlungen gelten. Einmalig oder in Raten ausbezahlte
+
+Kapitalabfindungen sowie güterrechtliche Abfindungen sind nicht
+steuerwirksam. Das Bundesgericht hat mit BGE 125 II 183ff. für die
+direkte Bundessteuer – im DBG fehlt eine entsprechende Regelung –
+entschieden, dass nur die periodisch in Rentenform fliessenden Zah
+lungen, nicht aber Kapitalabfindungen, steuerwirksam sind. Bei die
+sem Entscheid wurde die entsprechende Praxis vieler Kantone im
+Sinne der vertikalen Steuerharmonisierung übernommen. Eine
+Einmalzahlung an die ehemalige Ehefrau berechtigt ebenso wenig –
+unabhängig davon, ob es sich um Unterhalt oder eine güterrechtliche
+Abfindung handelt – zum Abzug wie ratenweise (und somit eben
+nicht in Rentenform) erfolgende Zahlungen (DANIEL AESCHBACH,
+AG Steuerkommentar, §40 N80).
+Bei gleichzeitiger Ausrichtung mehrerer Unterhaltsbeiträge zu
+folge Zahlungsverzugs ist die überwiegende Lehrmeinung der An
+sicht, dass das für wiederkehrende Leistungen massgebende Regime
+zu gelten hat, d.h. sie sind auf Seiten der leistenden Person im Zeit
+punkt der effektiven Zahlung absetzbar (PETER LOCHER, Kommentar
+zum DBG, I. Teil, 1. Auflage, Therwil/Basel 2001, Art.33 N42;
+MARKUS REICH/JULIA VON AH/STEPHANIE A. BRAWAND, a.a.O.
+Art.9 N39; SILVIA HUNZIKER/JSABELLE MAYER KNOBEL, a.a.O.,
+Art.33 N21; FELIX RICHNER/WALTER FREI/STEFAN
+KAUFMANN/HANS ULRICH MEUTER, a.a.O., Art.33 N59; anderer
+Meinung ERICH BOSSHARD/HANS RUDOLF BOSSHARD/WERNER
+LÜDIN, Sozialabzüge und Steuertarife im schweizerischen Steuer
+recht, Zürich 2000, S.149 FN320).
+2.3.
+Der Beschwerdeführer hat seine Unterhaltszahlungen in der
+Zeit vom 1.Oktober 2011 bis 31.Juli 2013 an seine von ihm
+geschiedene Frau D. eigenmächtig reduziert und eine Klage auf
+Änderung des Scheidungsurteils eingeleitet. Mit gerichtlichem Ver
+gleich vom 26.Juni 2013 bestätigte der Beschwerdeführer schliess
+lich für diesen Zeitraum persönliche Unterhaltsbeiträge in der Höhe
+von pauschal Fr.50'000.00 zu schulden. Ebenso verpflichtete er sich
+zur Zahlung von Fr.2'400.00 an D. zwecks Bezahlung des General
+abonnements für die Tochter E. Die Zahlung über Fr.50'000.00 er
+folgte am 15.Juli 2013 – dies im Unterschied zum Sachverhalt im
+
+von der Vorinstanz zitierten Urteil des Verwaltungsgerichts vom
+24.Februar 2010 (WBE.2009.274). Vorliegend handelt es sich zwar
+formell um eine Kapitalzahlung, sie dient jedoch dazu, in der Ver
+gangenheit nicht im vollen Umfang geleistete Unterhaltsbeiträge
+nachzuzahlen und so den Zahlungsverzug auszugleichen. Diese
+Nachzahlung ist damit als gleichzeitige Ausrichtung mehrerer Unter
+haltsbeiträge zufolge Zahlungsverzugs zu qualifizieren und zum Ab
+zug zuzulassen.
+Anders stellt sich die Sachlage beim beantragten Abzug von
+Fr.2'400.00 für die Kosten des Generalabonnements der am
+21.April 1991 geborenen Tochter E. dar. Die Abzugsfähigkeit von
+Unterhaltsbeiträgen für ein Kind setzt gemäss §40 lit.c StG die
+elterliche Sorge des die Leistungen empfangenden Elternteils voraus.
+Unter elterlicher Sorge stehen Kinder, bis sie das 18. Lebensjahr zu
+rückgelegt haben (vgl. Art.296 Abs.1 i.V.m. Art.14 ZGB). Ab dem
+Zeitpunkt der Volljährigkeit kann der Leistungsschuldner die ausge
+richteten Unterhaltsbeiträge daher steuerlich nicht mehr abziehen. Im
+Gegenzug sind sie weder vom Elternteil, bei dem das volljährige
+Kind gegebenenfalls lebt, noch vom Kind selbst als Einkommen zu
+versteuern (Urteil des Bundesgerichts vom 21.Februar 2018
+[2C_429/2017] E.3.3.2. betreffend Art.33 Abs.1 lit.c DBG). Bei
+weiteren Zahlungen handelt es sich um nicht abzugsfähige, familien
+rechtliche Unterhaltspflichten (DANIEL AESCHBACH, AG Kommen
+tar, §40 N83). E. vollendete das 18. Lebensjahr am yy.yy.2009,
+womit die elterliche Sorge ab diesem Zeitpunkt nicht mehr bestand.
+Die Zahlung von Fr.2'400.00 im Jahr 2013 kann der Beschwerde
+führer somit nicht mehr gestützt auf §40 lit.c StG von seinen Ein
+künften in Abzug bringen.
+2.4.
+Die Vorinstanz konnte – weil sie den beantragten Abzug nicht
+zuliess – die Frage offen lassen, ob die nachgezahlten Unterhaltsbei
+träge als periodenfremd zu qualifizieren sind.
+2.4.1.
+Dem Periodizitätsprinzip als Prinzip der Abschnittsbesteuerung
+kommt die Funktion zu, die Unabwägbarkeiten und Unzulänglich
+keiten der Periodisierung bei allen Steuerpflichtigen rechtsgleich
+
+zum Tragen kommen zu lassen (vgl. MARKUS REICH, Steuerrecht,
+2.Aufl., Zürich 2012, S.226). Die zeitliche Zuordnung des Einkom
+mens und Gewinns darf nicht einfach dem Belieben der Steuerpflich
+tigen überlassen bleiben (vgl. Urteil des Bundesgerichts vom
+9.August 2011 [2C_429/2010] Erw.2.2.1). Das Periodizitätsprinzip
+hat denn auch nicht nur eine materiellrechtliche Ausprägung, wonach
+das Einkommen eines Steuerpflichtigen einer bestimmten Steuer
+periode zuzuordnen ist, sondern auch eine verfahrensrechtliche Kom
+ponente, indem sämtliche Einkünfte und steuerrelevanten Ausgaben
+des Steuerpflichtigen für eine Steuerperiode zu deklarieren und mit
+der zugehörigen Steuerveranlagung definitiv zu erledigen sind
+(vorbehältlich eines Nachsteuer oder Revisionsverfahrens). Sowohl
+dem materiellrechtlichen Gehalt als auch der verfahrensrechtlichen
+Komponente des Periodizitätsprinzips widerspräche es, wenn Steuer
+pflichtige nach Belieben Aufwendungen, welche einer Steuerperiode
+zuzurechnen sind, in einer späteren Steuerperiode zum Abzug
+bringen könnten (Urteil des Verwaltungsgerichts vom 3.April 2017
+[WBE.2017.19] E. 3.2, bestätigt mit Urteil des Bundesgerichts vom
+31.Oktober 2017 [2C_456/2017]).
+2.4.2.
+Nachdem die Zahlung von Fr.50'000.00 im Jahre 2013 erfolgte,
+ist der Abzug gemäss Vorgaben des Periodizitätsprinzip auch in die
+ser Steuerperiode in voller Höhe zuzulassen. Die Verweigerung des
+Abzugs mit dem Argument, er sei periodenfremd, führte zu einer
+ungerechtfertigten Bestrafung des Steuerpflichtigen, der ja bei regel
+mässiger Ausrichtung der unveränderten Unterhaltsbeiträge zum vol
+len Abzug in den jeweiligen Steuerperioden berechtigt gewesen wäre
+und diese nur deshalb nicht vollständig bezahlte, weil er (zu Unrecht)
+glaubte, nicht zur Entrichtung der vollständigen Beträge verpflichtet
+zu sein. Da mit der Zahlung von Fr.50'000.00 die eigenmächtig
+reduzierten Unterhaltsbeiträge über die Jahre 2011 bis 2013 ausgegli
+chen werden sollen, ist das satzbestimmende Einkommen entspre
+chend zu korrigieren. Dafür bietet sich die Regelung für Kapital
+abfindungen für wiederkehrende Leistungen gemäss §44 StG an:
+Beim Empfänger von Kapitalabfindungen für wiederkehrende
+Leistungen wird die Einkommenssteuer unter Berücksichtigung der
+
+übrigen Einkünfte zu dem Steuersatz berechnet, der sich ergäbe,
+wenn an Stelle der einmaligen Leistung eine entsprechende jährliche
+Leistung ausgerichtet würde. Rentennachzahlungen sind beim
+Empfänger als Kapitalabfindungen für wiederkehrende Leistungen
+zu betrachten, obwohl diese periodischen Leistungen der Vergangen
+heit zuzuordnen sind (HANS JÖRG MÜLLHAUPT, AG Steuerkom
+mentar, §44 N2 mit Verweis auf ein Urteil des Verwaltungsgerichts
+des Kantons Aargau vom 25.April 1995 [BE.94.00242]). Dasselbe
+muss analog für den Leistenden gelten, wenn dieser einen ent
+sprechenden Abzug von seinen Einkünften geltend macht; d.h. es ist
+das Jahresbetreffnis zu ermitteln. Mit der Zahlung von Fr.50'000.00
+im Jahr 2013 hat der Beschwerdeführer die von ihm vom 1.Oktober
+2011 bis 31.Juli 2013 (entsprechend 22 Monate) unrechtmässig
+reduzierten Unterhaltszahlungen ausgeglichen. Umgerechnet auf eine
+jährliche Leistung ergibt dies einen Betrag von Fr.27'272.00
+(50'000:22x12), welcher für die Satzbestimmung (anstelle von
+Fr.50'000.00) zu berücksichtigen ist.
+10 BVGEinkaufsbeiträge
+Steuerliche Nichtberücksichtigung von BVG Einkaufsbeiträgen, soweit
+sie als Geschäftsaufwand verbucht wurden
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom 17.Oktober
+2018, in Sachen B. gegen KStA und Gemeinderat Y. (WBE.2018.88).
+Aus den Erwägungen
+1.
+1.1.
+Selbstständigerwerbende können sich der beruflichen Vorsorge
+freiwillig anschliessen (Art.4 und 44 BVG). Diesfalls gelten von den
+geleisteten Beiträgen die Hälfte als "Arbeitgeberbeiträge" und kön
