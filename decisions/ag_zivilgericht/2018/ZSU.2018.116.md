@@ -1,0 +1,241 @@
+---
+decision_id: "ag_zivilgericht_ZSU.2018.116"
+court: "AG Zivilgericht"
+court_id: "ag_zivilgericht"
+chamber: "4. Zivilkammer"
+docket: "ZSU.2018.116"
+decided: "2018-08-15"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2399"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2399"
+cites_decisions: ["5A_403/2014", "5D_181/2011", "5P.169/2003", "BGE 138 III 225", "RV.2018.13"]
+cites_law: ["switzerland/bund/acts/272/art-052.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-252.md", "switzerland/bund/acts/272/art-256.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/272/art-327.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-168.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# Obergericht / Zivilgericht / 4. Zivilkammer — ZSU.2018.116
+
+## Regeste
+
+Art. 190 Abs. 2 SchKG 
+Konkurseröffnung ohne vorgängige Betreibung 
+Im Fall einer Konkurseröffnung ohne vorgängige Betreibung ist zwingend eine mündliche Konkursverhandlung durchzuführen.
+
+## Text
+
+47 Art. 190 Abs. 2 SchKG
+Konkurseröffnung ohne vorgängige Betreibung
+Im Fall einer Konkurseröffnung ohne vorgängige Betreibung ist
+zwingend eine mündliche Konkursverhandlung durchzuführen.
+Aus dem Entscheid des Obergerichts, 4. Zivilkammer, vom 15. August
+2018, in Sachen Kanton Aargau gegen S.R. AG (ZSU.2018.116).
+Aus den Erwägungen
+2.4.
+2.4.1.
+Die ZPO sieht in Art. 251 lit. a ZPO für Entscheide, die vom
+Konkursgericht getroffen werden, das summarische Verfahren
+(Art.252 ff. ZPO) vor. Art. 256 Abs. 1 ZPO hält fest, dass das
+Gericht auf die Durchführung einer Verhandlung verzichten und
+aufgrund der Akten entscheiden kann, sofern das Gesetz nichts
+anderes bestimmt.
+2.4.2.
+Der Schuldner wird, wenn er in der Schweiz wohnt oder in der
+Schweiz einen Vertreter hat, mit Ansetzung einer kurzen Frist vor
+Gericht geladen und einvernommen (Art. 190 Abs. 2 SchKG).
+2.4.3.
+Soweit ersichtlich hat sich das Bundesgericht zur Frage, ob das
+Verfahren gemäss Art. 190 Abs.2 SchKG schriftlich oder zwingend
+mündlich durchzuführen ist, bisher nicht geäussert bzw. diese Frage
+offen gelassen (vgl. Urteil des Bundesgerichts 5P.169/2003 vom
+6.Juni 2003 E. 2.3.4). Vor Inkrafttreten der Schweizerischen Zivil
+prozessordnung war diese Frage in der kantonalen Rechtsprechung
+unterschiedlich beantwortet worden (vgl. Brunner/Boller, in:
+
+Zivilgericht
+Staehelin/Bauer/Staehelin, Basler Kommentar, Bundesgesetz über
+Schuldbetreibung und Konkurs II, 2. Aufl. 2010, Art. 190 N. 27 mit
+Hinweisen auf Urteil des Einzelrichters am Kantonsgericht
+St.Gallen vom 26. Juni 2003, SGGVP 2003, Nr. 92 S. 257 ff., und
+Urteil des Obergerichts Thurgau vom 13. August 2001, RBOG 2001
+Nr. 22 S. 149).
+2.4.4.
+Die Lehre äussert sich auch uneinheitlich und ist geteilter An
+sicht. Ein Teil der Lehre erachtet unter Verweis auf die Formulierung
+von Abs. 2 "vor Gericht geladen" ein schriftliches Verfahren für
+unzulässig (Talbot, in: Kren Kostkiewicz/Vock, Kommentar zum
+Bundesgesetz über Schuldbetreibung und Konkurs SchKG, 4. Aufl.
+2017, Art.190 N. 20). Ein anderer Teil der Lehre hält teilweise un
+ter Rückgriff auf die Schweizerische Zivilprozessordnung dafür,
+Art. 190 Abs. 2 SchKG sei nicht verletzt, wenn das Konkursgericht
+dem Schuldner Frist zur schriftlichen Stellungnahme ansetze, anstatt
+zu einer mündlichen Verhandlung vorzuladen (Huber, in: Hunkeler,
+Schuldbetreibungs und Konkursgesetz, Kurzkommentar, 2. Aufl.
+2014, Art. 190 N. 20; Brunner/Boller, a.a.O., Art.190 N. 27). An
+anderer Stelle wird in der Literatur ausgeführt, die Auffassung, dass
+Art. 190 Abs. 2 SchKG nicht verletzt sei, wenn das Konkursgericht
+dem Schuldner Frist zur schriftlichen Stellungnahme ansetze, anstatt
+eine mündliche Verhandlung anzuberaumen (vgl. Urteil des Oberge
+richts Thurgau vom 13. August 2001, RBOG 2001 Nr. 22 S. 149), sei
+fraglich (Levante, Aktuelles aus der Rechtsprechung zum Schuldbe
+treibungs und Konkursrecht, in: AJP 2015 S. 579 ff., S. 585 f.).
+2.4.5.
+Der Wortlaut von Art. 190 Abs. 2 SchKG ("vor Gericht geladen
+und einvernommen") spricht für die Durchführung einer Konkursver
+handlung und damit für ein mündliches Verfahren.
+2.4.6.
+Wenn auch Art. 194 Abs. 1 SchKG nicht auf Art. 168 SchKG
+verweist und die Bestimmung von Art. 168 SchKG daher auf die
+Konkurseröffnung ohne vorgängige Betreibung keine Anwendung
+findet, wird auch bei der Konkurseröffnung ohne vorgängige Betrei
+bung wie dargelegt der Schuldner mit Ansetzung einer kurzen
+
+Frist vor Gericht geladen und einvernommen (Art. 190 Abs. 2
+SchKG). Es darf daher unter gesetzessystematischen und teleolo
+gischen Gesichtspunkten die Regelung von Art.168 SchKG ver
+gleichsweise Berücksichtigung finden. Im Rahmen der ordentlichen
+Konkursbetreibung steht soweit ersichtlich und wohl abgesehen
+von offensichtlich unzulässigen oder unbegründeten Begehren (vgl.
+Talbot, a.a.O., Art.168 N. 2 mit Hinweisen und Art. 190 N.20; a.M.
+Nordmann in: Staehelin/Bauer/Staehelin, Basler Kommentar, Bun
+desgesetz über Schuldbetreibung und Konkurs II, 2. Aufl. 2010,
+Art.168 N.5) im Zusammenhang mit Art. 168 SchKG ausser
+Frage, dass es sich bei der Vorladung um ein Formalerfordernis der
+Konkurseröffnung handelt, womit der Richter verpflichtet ist, zu
+einer Verhandlung zu laden (Staehelin, in: Bauer/Staehelin, Basler
+Kommentar, Bundesgesetz über Schuldbetreibung und Konkurs, Er
+gänzungsband zur 2. Auflage, 2017, Art.171 ad N. 3 mit Hinweis auf
+das Urteil des Bundesgerichts 5A_403/2014 vom 19. August 2014
+E.4.1). Deshalb kann eine Partei, die wie hier nicht (bzw. nicht
+rechtzeitig) vorgeladen worden ist, die Aufhebung des Konkurs
+dekrets auf dem Rechtsmittelweg bei der oberen Instanz verlangen,
+ausgenommen den Fall vorbehaltloser Einlassung (vgl.Nordmann,
+a.a.O., Art.168 N. 15 mit Hinweisen).
+Kein Zweifel besteht ferner über das von der EMRK garantierte
+Recht des Schuldners, sich an der Konkursverhandlung mündlich zu
+äussern, gerade bei unübersichtlichen Verhältnissen (EGMR Urteil
+48962/99 vom 5. Juli 2005, Exel gegen Tschechische Republik, Rz.
+57; vgl. auch Urteil des Bundesgerichts 5D_181/2011 vom 11. April
+2012 E. 3.1.2), wie sie sich häufig bei Konkursbegehren ohne vor
+gängige Betreibung (Art. 190 Abs.1 SchKG) präsentieren (Levante,
+a.a.O., S. 585 f.). Somit spricht auch dieser Aspekt für ein münd
+liches Verfahren.
+Alsdann erscheint es aus gesetzessystematischen Überlegungen
+als problematisch, die Frage, ob das Verfahren gemäss Art. 190
+Abs.2 SchKG schriftlich oder mündlich durchzuführen ist, unter
+Rückgriff auf die Regelung von Art. 256 Abs. 1 ZPO lösen zu wollen
+und davon auszugehen, es könne in Anwendung von Art. 256 Abs. 1
+ZPO auf die Durchführung einer mündlichen Konkursverhandlung
+
+Zivilgericht
+verzichtet und aufgrund der Akten in einem schriftlichen Verfahren
+entschieden werden. Wie in der Lehre zu Recht betont wird (vgl. u.a.
+Vock/Meister Müller, SchKG Klagen nach der Schweizerischen
+ZPO, 2. Aufl. 2018, S. 243; Giroud, in: Staehelin/Bauer/Staehelin,
+Basler Kommentar, Bundesgesetz über Schuldbetreibung und Kon
+kurs II, 2. Aufl. 2010, Art.171 N.3), handelt es sich bei Art. 168
+SchKG um eine lex specialis, die den allgemeinen Be stimmungen
+der ZPO vorgeht (Staehelin, a.a.O., Art.171 ad N. 3 mit Hinweis auf
+das Urteil des Bundesgerichts 5A_403/2014 vom 19. August 2014 E.
+4.1). Ein sachlicher Grund, weshalb die Eigenschaft als lex specialis
+bei Art.190 Abs. 2 SchKG abweichend von der Regelung von
+Art.168 SchKG behandelt werden soll, ist nicht ersichtlich. Wie
+Walther zutreffend bemerkt, muss auch unter der neuen ZPO das
+summarische Verfahren weiterhin Raum für SchKG spezifische
+Singularitäten lassen, zumal anlässlich des Gesetzgebungsprozesses
+dem Verhältnis von ZPO und SchKG keinerlei Aufmerksamkeit ge
+widmet worden ist (vgl. SZZP 2014, 543 ff. mit Note Walther und
+vgl. ZBJV 152/2016 S. 450).
+Mit der hier für Art. 190 Abs. 2 SchKG befürworteten
+Durchführung einer mündlichen Konkursverhandlung wird schliess
+lich auch am ehesten der Tatsache Rechnung getragen, dass es sich
+beim Verfahren der Konkurseröffnung ohne vorgängige Betreibung
+um einen schwer wiegenden Eingriff in die Rechte des Schuldners
+handelt. Kommt hinzu, dass der Schuldner im Unterschied zur Kon
+kurseröffnung in der ordentlichen Konkursbetreibung mit der Zu
+stellung des Zahlungsbefehls und der Konkursandrohung vom
+Gläubiger vorgängig betreibungsrechtlich nicht belangt wurde. Da
+her erscheint es als umso wichtiger, dass der Schuldner dem Richter
+vor einem für ihn folgenschweren Entscheid seine Argumente in
+einer mündlichen Verhandlung vortragen kann (vgl. SGGVP 2003,
+Nr. 92 S. 258 f.).
+2.4.7.
+Indem die Vorinstanz ihren Entscheid lediglich aufgrund der
+schriftlichen Eingaben der Parteien und ohne Konkursverhandlung
+gefällt hat, hat sie analog zur Konstellation des ordentlichen Verfah
+rens auf Konkursbetreibung (vgl. Art. 166 ff. SchKG) den An
+
+spruch der Beklagten auf rechtliches Gehör verletzt (vgl. Nordmann,
+a.a.O., Art.168 N. 15 mit Hinweisen; Talbot, a.a.O., Art. 168 N. 9;
+vgl. auch BGE 138 III 225 E. 3.3 S. 230; Staehelin, a.a.O., Art. 168
+ad N. 15), denn diese wurde wie gezeigt von der Vorinstanz nicht
+zu einer Konkursverhandlung vorgeladen und konnte sich ent
+sprechend vor Erlass des Entscheids auch nicht im Rahmen einer
+Konkursverhandlung mündlich zur Sache äussern.
+2.5.
+Die Berufung der Beklagten vor der Beschwerdeinstanz auf die
+fehlende Durchführung einer Konkursverhandlung bzw. auf eine Ver
+letzung ihres Anspruchs auf rechtliches Gehör erweist sich nicht als
+rechtsmissbräuchlich oder treuwidrig (Art. 52 ZPO). Aufgrund der
+Erläuterungen der Vor instanz in der "Bestätigung des Klageeingangs
+und Informationen zum Verfahren" und des Wortlauts ihrer Verfü
+gung vom 24. November 2017, mit welcher sie der Beklagten das
+Gesuch um Konkurseröffnung zur Erstattung einer Stellungnahme
+innert zehn Tagen zustellte mit dem Hinweis, dass der Endentscheid
+getroffen werde, wenn die Stellungnahme innert der angesetzten
+Frist ausbleibe, musste die Beklagte, die am 4.Januar 2018 zum Ge
+such um Konkurseröffnung schriftlich Stellung nahm, nämlich nicht
+damit rechnen, dass nach Erstattung ihrer schriftlichen Stellung
+nahme sogleich der Endentscheid getroffen werde. Vielmehr durfte
+sie aufgrund der Belehrung in der "Bestätigung des Klageeingangs
+und Informationen zum Verfahren" darauf vertrauen, dass sie zu
+einer Konkursverhandlung vorgeladen werden würde. Dies gilt umso
+mehr, als die Belehrung vorbehaltlos formuliert ist und keine
+Ausnahmen nennt, sondern weiter festhält, dass den Parteien das Er
+scheinen freigestellt sei und auch in ihrer Abwesenheit entschieden
+werde (vgl. Art. 194 Abs.1 i.V.m. Art. 168 und Art. 171 SchKG).
+Unter diesen Vorzeichen kann aufgrund der konkreten Umstände für
+das vorinstanzliche Verfahren auch kein impliziter oder stillschwei
+gender Verzicht der Beklagten auf die Durchführung einer Konkurs
+verhandlung angenommen werden.
+2.6.
+Die von der Vorinstanz mit der unterlassenen Konkursverhand
+lung begangene Gehörsverletzung kann aufgrund der eingeschränk
+
+Zivilgericht
+ten Kognition der Beschwerdeinstanz (Art.320 ZPO) und des
+teilweisen Novenverbots (Art.326 ZPO i.V.m. Art. 194 Abs. 1 und
+Art.174 Abs.1 und Abs.2 SchKG) im Beschwerdeverfahren nicht
+geheilt werden (vgl.Nordmann, a.a.O., Art.168 N. 15 mit Hinwei
+sen; Talbot, a.a.O., Art.168 N.9; vgl.auch BGE 138 III 225 E. 3.3
+S. 230; Staehelin, a.a.O., Art.168 ad N.15). Die Beschwerde ist
+demnach gutzuheissen, der Entscheid der Vorinstanz aufzuheben und
+die Streitsache gestützt auf Art.327 Abs.3 lit.a ZPO zum neuen Ent
+scheid im Sinne der Erwägungen an die Vorinstanz zurückzuweisen.
+
+48 Buchwertfortführung; Aufwertung; Bilanzberichtigung (§ 27 Abs. 2 StG)
+Eine über dem Kaufpreis liegende Einbilanzierung von Aktiven ist
+handelsrechtswidrig und es ist grundsätzlich eine Bilanzberichtigung
+vorzunehmen. Es ist nicht eine steuerwirksame Aufwertung
+abzurechnen.
+Bei einer Hofübergabe zum Ertragswert ist eine Buchwertfortfüh
+rung zulässig. Der Übernehmer ist aber nicht an die ursprünglich
+eingereichte Buchhaltung mit den Fortführungswerten gebunden,
+wenn die Übergeber einen Verlust abrechnen. Beim Übernehmer ist
+keine Aufwertung zwischen Kaufpreis und Buchwert des Übergebers
+abzurechnen.
+Aus dem Entscheid des Spezialverwaltungsgerichts, Abteilung Steuern,
+vom 20. September 2018 in Sachen L. + B.V. (3 RV.2018.13).
+Aus dem Entscheid
+2.
+2.1.
+Der Vater des Rekurrenten führte einen Landwirtschaftsbetrieb
+in L. Der Buchwert der Liegenschaften per 31. Dezember 2012 be
+trug (…) unbestritten CHF 700'505.55.
+2.2.
+Der Rekurrent übernahm den Landwirtschaftsbetrieb seines
+Vaters per 1.Januar 2013. Unter anderem erwarb er die Grundstücke
+des Landwirtschaftsbetriebs für CHF 390'500.00 (…). Der Vater des
+Rekurrenten verstarb kurz nach der Hofübergabe.
+2.3.
+Mit der Steuererklärung reichte der Rekurrent den Jahresab
+schluss 2013 des Landwirtschaftsbetriebes (Fassung 2014) ein. In der
