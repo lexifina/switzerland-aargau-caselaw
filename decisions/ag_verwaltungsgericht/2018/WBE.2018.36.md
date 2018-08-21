@@ -1,0 +1,875 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2018.36"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2018.36"
+decided: "2018-08-21"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2385"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2385"
+cites_decisions: ["2C_131/2017", "2C_196/2009", "2C_269/2009", "2C_694/2011", "2C_763/2013", "2P.110/2002", "2P.264/2002"]
+cites_law: ["switzerland/bund/acts/0.142.112.681/art-002.md", "switzerland/bund/acts/0.142.112.681/art-010.md", "switzerland/bund/acts/0.142.112.681/art-016.md", "switzerland/bund/acts/0.142.112.681/art-022.md", "switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/101/art-008.md", "switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/101/art-027.md", "switzerland/bund/acts/311.0/art-292.md", "switzerland/bund/acts/935.01/art-002.md", "switzerland/bund/acts/943.02/art-002.md", "switzerland/bund/acts/943.02/art-003.md", "switzerland/bund/acts/943.02/art-004.md", "switzerland/bund/acts/943.02/art-008.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2018.36
+
+## Regeste
+
+Anerkennung eines ausserkantonalen Fähigkeitsausweises als Notarin oder Notar 
+Die Notariatstätigkeit steht wegen ihrer Nähe zu staatlichen Aufgaben nicht unter dem Schutz der Wirtschaftsfreiheit (Art. 27 BV). Das FZA gilt nicht für den Beruf des Notars, weshalb aus dem im BGMB statuierten Grundsatz, wonach Inländerdiskriminierungen zu vermeiden sind, nicht abgeleitet werden kann, das BGBM schreibe den Kantonen vor, ob und unter welchen Voraussetzungen sie ausserkantonale Fähigkeitsausweise als Notarin oder Notar anerkennen müssen. Auch mit Rücksicht auf das Diskriminierungsverbot dürfen die Kantone bei der Anerkennung ausserkantonaler Fähigkeitsausweise als Notarin oder Notar die Gleichwertigkeit der ausserkantonalen Notariatsprüfung beurteilen. Dabei ist allerdings das Gleichbehandlungsgebot (Art. 8 Abs. 1 BV) zu beachten. 
+Gibt es sachliche Gründe für die Verneinung der Gleichwertigkeit der ausserkantonalen Notariatsprüfung, darf die Anerkennung des ausserkantonalen Fähikgkeitsausweises verweigert werden. Es verletzt jedoch den Gleichbehandlungsgrundsatz, wenn einer Inhaberin eines ausserkantonalen Fähigkeitsausweises mit langjähriger beruflicher Praxis als Notarin keine Erleichterungen bei der Ablegung einer ergänzenden Notariatsprüfung im Kanton Aargau gewährt werden und ein zusätzliches berufsspezifsches Praktikum im Kanton Aargau verlangt wird, obwohl die Anerkennungsvoraussetzungen hinsichtlich der praktischen Ausbildung im Herkunftskanton erfüllt sind.
+
+## Text
+
+33 Anerkennung eines ausserkantonalen Fähigkeitsausweises als Notarin
+oder Notar
+Die Notariatstätigkeit steht wegen ihrer Nähe zu staatlichen Aufgaben
+nicht unter dem Schutz der Wirtschaftsfreiheit (Art.27 BV). Das FZA gilt
+nicht für den Beruf des Notars, weshalb aus dem im BGMB statuierten
+Grundsatz, wonach Inländerdiskriminierungen zu vermeiden sind, nicht
+abgeleitet werden kann, das BGBM schreibe den Kantonen vor, ob und
+unter welchen Voraussetzungen sie ausserkantonale Fähigkeitsausweise
+als Notarin oder Notar anerkennen müssen. Auch mit Rücksicht auf das
+Diskriminierungsverbot dürfen die Kantone bei der Anerkennung ausser
+kantonaler Fähigkeitsausweise als Notarin oder Notar die Gleichwertig
+keit der ausserkantonalen Notariatsprüfung beurteilen. Dabei ist aller
+dings das Gleichbehandlungsgebot (Art.8 Abs.1 BV) zu beachten.
+Gibt es sachliche Gründe für die Verneinung der Gleichwertigkeit der
+ausserkantonalen Notariatsprüfung, darf die Anerkennung des ausser
+kantonalen Fähikgkeitsausweises verweigert werden. Es verletzt jedoch
+den Gleichbehandlungsgrundsatz, wenn einer Inhaberin eines ausser
+kantonalen Fähigkeitsausweises mit langjähriger beruflicher Praxis als
+Notarin keine Erleichterungen bei der Ablegung einer ergänzenden Nota
+riatsprüfung im Kanton Aargau gewährt werden und ein zusätzliches be
+rufsspezifsches Praktikum im Kanton Aargau verlangt wird, obwohl die
+Anerkennungsvoraussetzungen hinsichtlich der praktischen Ausbildung
+im Herkunftskanton erfüllt sind.
+Aus den Entscheid des Verwaltungsgerichts, 3. Kammer, vom 21.August
+2018, in SachenA. gegen Notariatskommission (WBE.2018.36).
+Aus den Erwägungen
+1.
+Die Vorinstanz verweigerte der Beschwerdeführerin die Aner
+kennung des zugerischen Fähigkeitsausweises als Notarin unter Zu
+grundelegung von §8 Abs.2 BeurG und §8 Abs.1 BeurV mit der
+Begründung, die Notariatsprüfung im Kanton Zug könne nicht als
+gleichwertig mit derjenigen im Kanton Aargau bezeichnet werden.
+
+2.
+Für die Beschwerdeführerin verletzt die Nichtanerkennung ihres
+zugerischen Fähigkeitsausweises als Notarin die Wirtschaftsfreiheit
+gemäss Art.27 BV, das BGBM respektive den damit gewährleisteten
+freien Zugang zum Markt, das Gleichbehandlungsgebot nach Art.8
+Abs.1 BV sowie das in Art.9 BV statuierte Willkürverbot.
+3.
+3.1.
+Nach bisheriger bundesgerichtlicher Rechtsprechung und herr
+schender Lehre weist die den Notarinnen und Notaren verliehene Be
+urkundungsbefugnis den Charakter einer (übertragenen) hoheitlichen
+Funktion auf und fällt als solche weder unter den Schutzbereich der
+Wirtschaftsfreiheit (Art.27 BV) noch in den Anwendungsbereich des
+BGBM. Bezüglich der Zulassung der Notare zur Berufsausübung
+sind die Kantone weitgehend frei, ohne Einschränkung durch das
+Bundesrecht (BGE133I259, Erw.2.2; 131II639, Erw.6.1 und 7.3;
+Urteile des Bundesgerichts vom 1.Juni 2017 [2C_131/2017],
+Erw.5.1, vom 28.März 2014 [2C_763/2013], Erw.4.3.1, und vom
+19.Dezember 2011 [2C_694/2011], Erw.4.1). Mit Blick darauf sind
+die Kantone auch nicht verpflichtet, Fähigkeitsausweise eines ande
+ren Kantons zu anerkennen (Urteil des Bundesgerichts vom
+6.August 2003 [2P.110/2002, 2P.264/2002], Erw.4.2.4).
+Die Beschwerdeführerin wirft die Frage auf, ob diese Praxis mit
+Rücksicht auf die Rechtsprechung des Gerichtshofes der Europäi
+schen Union (EuGH), für den die notarielle Tätigkeit der öffentlichen
+Beurkundung keine Ausübung öffentlicher Gewalt und hoheitlicher
+Befugnisse beinhaltet (Urteile des EuGH vom 24. Mai 2011 [C
+54/08, C 50/08, C 47/08, C 51/08, C 53/08, C 61/08]; bestätigt mit
+Urteil vom 9.März 2017 [C 342/15], Rn.54), noch aufrechterhalten
+werden kann, oder eine Praxisänderung angezeigt ist.
+3.2.
+Die zitierte Rechtsprechung des EuGH veranlasste die nach
+Art.8 BGBM für die Überwachung dieses Gesetzes zuständige Wett
+bewerbskommission (WEKO) zu den folgenden Überlegungen und
+Empfehlungen vom 23.September 2013 zuhanden der Kantone und
+des Bundesrats:
+
+Das Abkommen zwischen der Schweizerischen Eidgenossen
+schaft einerseits und der Europäischen Gemeinschaft und ihren Mit
+gliedstaaten andererseits über die Freizügigkeit vom 21.Juni 1999
+(FZA) müsse europakompatibel, d.h. unter Berücksichtigung auch
+der neueren (nach Unterzeichnung des FZA ergangenen) Rechtspre
+chung des EuGH ausgelegt werden. Danach falle die notarielle Beur
+kundungstätigkeit nicht unter die sog. "Bereichsausnahmen" gemäss
+Anhang I Art.10 FZA (Beschäftigung in der öffentlichen Verwal
+tung), Anhang I Art.16 FZA (Ausübung hoheitlicher Befugnisse)
+und Anhang I Art.22 Abs.1 FZA (Tätigkeiten mit gelegentlicher
+Ausübung hoheitlicher Befugnisse). Folglich könnten sich auch No
+tare auf die Marktzugangsrechte gemäss FZA berufen.
+In Nachachtung von Anhang III FZA habe das Parlament mit
+dem Bundesgesetz über die Meldepflicht und die Nachprüfung der
+Berufsqualifikationen von Dienstleistungserbringerinnen und er
+bringern in reglementierten Berufen vom 14.Dezember 2012
+(BGMD; SR935.01) Titel II der Richtlinie 2005/36/EG (Berufs
+qualifikationsrichtlinie) umgesetzt und ein Melde und Nach
+prüfungsverfahren im Bereich der reglementierten Berufe eingeführt.
+Die Meldepflicht gemäss Art.2 BGMD gelte für die in Anhang I der
+Verordnung über die Meldepflicht und die Nachprüfung der Berufs
+qualifikationen von Dienstleistungserbringerinnen und erbringern in
+reglementierten Berufen vom 26.Juni 2013 (VMD; SR935.011)
+angeführten Berufe mit Auswirkung auf die öffentliche Sicherheit
+und Gesundheit. Mit der Nennung der Notare unter Titel 11 (Bereich
+der juristischen Berufe) in Anhang I VMD gehe auch der Veror
+dnungsgeber explizit davon aus, dass diese Berufsgruppe vom
+sachlichen Geltungsbereich des FZA erfasst werde. Konkret bedeute
+dies, dass ein Notar aus einem Mitgliedstaat der EU beim Staats
+sekretariat für Bildung, Forschung und Innovation (SBFI) ein Ge
+such um Anerkennung seiner Berufsqualifikation für einen be
+stimmten Kanton stellen könne, das an die dafür zuständige kanto
+nale Stelle weitergeleitet werde. Bestehe der Notar aus der EU das
+kantonale Zulassungsverfahren, das innerhalb von zwei Monaten
+abgeschlossen sein müsse, dürfe er im entsprechenden Kanton seine
+Dienstleistungen während maximal 90Tagen pro Jahr erbringen. Ne
+
+ben dem freien Dienstleistungsverkehr gewährleistet das FZA auch
+die Niederlassungsfreiheit für Selbständige. Das Anerkennungs
+verfahren zum Zwecke der Niederlassung richte sich nach den
+strengeren Vorschriften in Titel III der Berufsqualifikationsrichtlinie,
+der – je nach Dauer und Niveau der Ausbildung – zwischen fünf
+Qualifikationsniveaus a (niedrigste Stufe) bis e (höchste Stufe)
+unterscheide. Die Qualifikation eines Anbieters aus der EU sei
+anzuerkennen, wenn sie dem erforderlichen Niveau des Zielkantons
+entspreche oder unmittelbar darunter liege. Sei diese Voraussetzung
+erfüllt, könnten gegebenenfalls Ausgleichsmassnahmen ergriffen und
+ein Eignungstest oder Anpassungslehrgang verlangt werden. Dieses
+"allgemeine System" der Anerkennung von Berufsqualifikationen
+gelte auch für den (freiberuflichen) Notariatsberuf.
+Zur Verhinderung einer Inländerdiskriminierung habe der Ge
+setzgeber den Geltungsbereich des BGBM bei der Teilrevision vom
+16.Dezember 2005 mit Art.4 Abs.3bis an denjenigen des FZA ange
+passt. Weil Notare und deren Berufsqualifikation dem FZA unter
+stünden, verfüge ein Notar mit Sitz in der Schweiz im interkantona
+len Verhältnis mindestens über die gleichen Marktzugangsrechte wie
+ein Notar im Verhältnis zwischen der EU und der Schweiz. Er könne
+sich in einem anderen Kanton niederlassen, zu diesem Zweck die
+Anerkennungsrechte im Sinne von Titel III der Berufsqualifikations
+richtlinie geltend machen und dort eine freiberufliche Notariatspraxis
+eröffnen, sofern es sich nicht um einen Kanton mit Amtsnotariat (ZH
+und SH) handle. Sollte die derzeit in der EU laufende Revision der
+Berufsqualifikationsrichtlinie zum Ausschluss der Notare vom Gel
+tungsbereich dieser Richtlinie führen, könnten Notare innerhalb der
+EU immer noch von den primärrechtlichen Grundfreiheiten gemäss
+Vertrag über die Arbeitsweise der Europäischen Union (AEUV) und
+den darin verankerten Anerkennungsregeln profitieren, die gestützt
+auf das FZA auch im Verhältnis zwischen der Schweiz und der EU
+zum Tragen kämen und aufgrund von Art.4 Abs.3bis BGBM zudem
+im Innenverhältnis zwischen den Kantonen beachtlich seien.
+Entsprechend sei Art.4 Abs.1 BGBM, wonach kantonale Fä
+higkeitsausweise auf dem Gebiet der gesamten Schweiz gelten, ins
+besondere auf Berufsausübungsbewilligungen für Notare anwendbar;
+
+diese seien grundsätzlich schweizweit anzuerkennen. Einschränkun
+gen des Marktzugangs seien analog dem europarechtlichen Anerken
+nungsverfahren nur in Form von Auflagen und Bedingungen und un
+ter der Voraussetzung zulässig, dass die Gleichwertigkeitsvermutung
+gemäss Art.2 Abs.5 BGBM widerlegt werden könne und der Tatbe
+stand von Art.3 Abs.1 und 2 BGBM erfüllt sei. Eine Widerlegung
+der Gleichwertigkeitsvermutung sei dann zu bejahen, wenn die Aus
+bildungsvoraussetzungen im Herkunftskanton bedeutend geringer
+seien als im eigenen Kanton, was etwa dann der Fall sei, wenn ein
+Hochschulstudium nur im Bestimmungs , nicht aber im Herkunfts
+kanton vorausgesetzt werde. Werde die Gleichwertigkeitsvermutung
+in einem konkreten Fall widerlegt, sei der ortsfremden Person ge
+mäss Art.4 Abs.3 BGBM der Nachweis zu ermöglichen, dass sie die
+erforderlichen Kenntnisse im Rahmen ihrer praktischen Tätigkeit er
+worben habe. Gelinge auch dieser Nachweis nicht, könne die zustän
+dige Stelle nach Art.3 Abs.1 und 2 BGBM Auflagen zur Beschrän
+kung des Marktzugangs verfügen, sofern diese (a) gleichermassen
+für ortsansässige Personen gelten, (b) zur Wahrung überwiegender
+öffentlicher Interessen unerlässlich und (c) verhältnismässig seien.
+Grundsätzlich unzulässig seien verdeckte Marktzutrittsschranken zu
+Gunsten einheimischer Wirtschaftsinteressen und Markzugangsver
+weigerungen. Eine Auflage könnte etwa darin bestehen, dass der aus
+serkantonale Notar eine angepasste Eignungsprüfung über das kanto
+nale Recht absolvieren müsse.
+Auch aus Sicht des Verhältnismässigkeitsgebots gemäss Art.5
+Abs.2 BV lasse sich ganz unabhängig von den Entwicklungen im
+Unionsrecht und im bilateralen Freizügigkeitsrecht kaum begründen,
+weshalb beispielsweise ein Notar, der über ein Hochschulstudium
+verfüge, ein mehrjähriges Praktikum und eine Prüfung absolviert ha
+be und mehrere Jahre als selbständiger Notar tätig gewesen sei, nicht
+in einem anderen Kanton zugelassen werden könne, ohne wiederum
+ein mehrjähriges Praktikum und die komplette Prüfung absolvieren
+zu müssen.
+Aufgrund dessen würden die Kantone ersucht, ausserkantonale
+Notare unter Anerkennung von deren Fähigkeitsausweisen für dieje
+nigen Tätigkeiten zuzulassen, die im eigenen Kanton ebenfalls durch
+
+freierwerbende Notaren ausgeübt werden dürften, wobei sich die
+Anerkennung ausserkantonaler Fähigkeitsausweise nach folgenden
+Hauptgrundsätzen richte:
+ Die Anerkennung eines ausserkantonalen Fähigkeitsaus
+weises kann – muss aber nicht – verweigert werden, wenn
+die Ausbildungserfordernisse im Herkunftskanton bedeu
+tend tiefer sind als im eigenen Kanton. Dies ist insbesonde
+re dann der Fall, wenn ein Hochschulstudium mit Master
+abschluss nur im Bestimmungs und nicht im Herkunfts
+kanton vorausgesetzt wird.
+ Bei gleichwertigen Ausbildungserfordernissen kann – muss
+aber nicht – ein Eignungstest über kantonales Recht und lo
+kale Gegebenheiten durchgeführt werden, sofern sich diese
+von Recht und Gegebenheiten des Herkunftskantons be
+deutend unterscheiden.
+3.3.
+Die Lehre hat diese Empfehlungen der WEKO zum Teil kritisch
+gewürdigt. Argumentiert wird zunächst, es bestehe keine vertragliche
+Verpflichtung der Schweiz, die sechs nach Unterzeichnung des FZA
+ergangenen EuGH Urteile vom 24.Mai 2011 zu berücksichtigen.
+Das Bundesgericht könne insbesondere dann von einer Anpassung
+seiner Rechtsprechung zur Qualifikation der notariellen Tätigkeit als
+hoheitliche Tätigkeit absehen, wenn triftige Gründe für eine Beibe
+haltung derselben sprächen. Damit habe sich die WEKO nicht ausei
+nandergesetzt. Es gelte zu klären, ob die Interessen an der Beibehal
+tung der bisherigen schweizerischen Rechtspraxis ausreichend ge
+wichtig seien, um das Interesse an einer möglichst parallelen Rechts
+und Begriffsentwicklung mit der EU ausser Acht zu lassen.
+Das Bundesgericht räume dem Parallelismus zwischen dem Re
+gime unter dem FZA und dem europäischen Binnenmarkt eine hohe
+Priorität ein. In der Schweiz sei jedoch die Rechtsprechung zur "Ho
+heitlichkeit" notariellen Handelns klar und unbestritten. Das Bundes
+gericht habe zuletzt im Jahr 2002 festgehalten, dass es sich bei Ur
+kundstätigkeiten zweifellos um Tätigkeiten handle, welche für sich
+genommen eine unmittelbare und spezifische Teilnahme an der Aus
+übung öffentlicher Gewalt mit sich einschliessen würden. Gemäss
+
+schweizerischer Rechtsauffassung komme im hoheitlichen Charakter
+der notariellen Tätigkeit nichts anderes als der Kern des demokrati
+schen schweizerischen Staatsverständnisses zum Ausdruck, wonach
+die Staatsgewalt durch die Staatsunterworfenen selbst ausgeübt wer
+de. Für Lehre und Rechtsprechung sei denn die notarielle Tätigkeit
+auch vergleichbar mit richterlichen Funktionen oder hohen politi
+schen Ämtern. In den Händen des Notars liege die nicht streitige Ge
+richtsbarkeit. Entsprechend könne auch nicht ernsthaft bestritten wer
+den, dass allein das Gemeinwesen berechtigt sei, diese Tätigkeit den
+eigenen Angehörigen vorzubehalten und autonom zu definieren, wel
+che Handlungen es als hoheitlich und welche als privat qualifiziere.
+Die Idee, dass ein Staat sein diesbezügliches Verständnis aufgrund
+eines fremden Gerichts revidiere, sei nicht leichthin anzunehmen.
+Die Qualifikation von Urkundstätigkeiten als verliehene Hoheits
+rechte entspreche zudem dem Bedürfnis nach Verkehrssicherheit und
+dem Schutz der Parteien vor ungenauen, unklaren und ihrem Willen
+zuwiderlaufenden Verträgen. Würde man den Notar bei der Schaf
+fung qualifizierter privatrechtlicher Verhältnisse seiner staatlichen
+(hoheitlichen) Funktion berauben, würde dies zu einer Verkehrsunsi
+cherheit führen und dem Übereilungsschutz entgegenwirken. Eine
+neue Qualifikation notariellen Handelns hätte sodann ungeahnte
+Konsequenzen für die Aufsicht, die Disziplinargewalt und die Ge
+bühren /Honorarfestlegung. Sie käme einem revolutionären Paradig
+menwechsel gleich. Beim schweizerischen Verständnis der notariel
+len Tätigkeit handle es sich um eine während mehr als sieben Jahr
+hunderten gewachsene und tradierte Rechtsüberzeugung, deren Än
+derung die bestehende Rechtssicherheit qualifiziert tangieren würde.
+Schliesslich hätte die Neudefinierung notariellen Handelns erhebli
+che finanzielle Konsequenzen für die Kantone. Die Bewilligung zur
+(hoheitlichen) Ausübung notarieller Tätigkeiten stelle ein wohlerwor
+benes Recht dar, dessen Entzug beim Kanton eine Entschädigungs
+pflicht auslösen würde. In Anbetracht all dessen lägen triftige Gründe
+für die Beibehaltung der bisherigen Rechtsprechung vor; die neuere
+Rechtsprechung des EuGH sei nicht zu übernehmen. Weiterhin sei
+davon auszugehen, dass nach schweizerischem Verständnis notarielle
+Tätigkeiten hoheitlich und damit unmittelbar sowie spezifisch mit
+
+der Ausübung öffentlicher Gewalt verbunden seien. Das FZA bleibe
+folglich – zumindest für die hauptberufliche Tätigkeit des Notars –
+nach wie vor nicht anwendbar (ROLAND PFÄFFLI/FABRIZIO ANDREA
+LIECHTI, Bemerkungen zu den rechtlichen Einschätzungen der eid
+genössischen Wettbewerbskommission [WEKO] zur Freizügigkeit
+der Notare, in: Jusletter 16.Dezember 2013, S.5f.).
+Das BGMD wiederum sei nur auf jene EU Staatsangehörigen
+anwendbar, die einen Beruf ausübten, der vom FZA abgedeckt sei.
+Mit der Aufnahme der Notare in die VMD habe der Verordnungsge
+ber seine Kompetenzen überschritten. Er habe die notarielle Tätigkeit
+dem Meldeverfahren nach dem BGMD unterstellt, obschon dieses
+sachlich nicht auf diese Tätigkeiten anwendbar sei. Darin liege ein
+Verstoss gegen das Gesetzmässigkeitsprinzip; die Gesetzeskonformi
+tät der VMD sei hinsichtlich der Aufnahme der Notare in Anhang 1
+Ziffer 11 zu verneinen; der Norm sei insoweit die Anwendung zu
+versagen. Unabhängig davon erstaune es, dass der Bundesrat nota
+rielle Tätigkeiten unter die Berufsqualifikationsrichtlinie subsumie
+ren wolle, obschon momentan im innereuropäischen Verhältnis keine
+Freizügigkeit des Notariats bestehe. Die Schweiz gewähre also im bi
+lateralen Verhältnis weitergehende Rechte als die EU Mitgliedstaaten
+untereinander. Dazu bestehe kein Anlass (PFÄFFLI/LIECHTI, a.a.O.,
+S.7f.).
+Sei die notarielle Tätigkeit vom Geltungsbereich des FZA aus
+genommen, entfalle das von der WEKO als Begründung für die in
+terkantonale Freizügigkeit der Notare herangezogene Fundament der
+Vermeidung von Inländerdiskriminierungen. Das BGBM gelte nur
+für Berufe, die vom FZA mitumfasst seien, also nicht für Notare
+(PFÄFFLI/LIECHTI, a.a.O., S.9).
+3.4.
+Gemäss Art.16 Abs.2 FZA ist für dessen Anwendung die ein
+schlägige Rechtsprechung des EuGH vor dem Zeitpunkt der Unter
+zeichnung (21.Juni 1999) massgebend. Trotzdem können, ohne ent
+sprechende Verpflichtung dazu, zum Zwecke der Auslegung des FZA
+auch seither ergangene Urteile des EuGH herangezogen werden. Ziel
+ist, dass in den Beziehungen zwischen der Schweiz und der EU
+gleichwertige Rechte und Pflichten wie in den Rechtsakten der EU,
+
+auf die Bezug genommen wird, Anwendung finden. Das bedeutet,
+dass für die vom Abkommen erfassten Bereiche insoweit eine paral
+lele Rechtslage verwirklicht werden soll. Da der EuGH nicht berufen
+ist, für die Schweiz über die Auslegung des Abkommens verbindlich
+zu bestimmen, ist es dem Bundesgericht nicht verwehrt, aus triftigen
+Gründen zu einer anderen Rechtsauffassung als dieser zu gelangen.
+Es wird das aber mit Blick auf die angestrebte parallele Rechtslage
+nicht leichthin tun (BGE140II112, Erw.3.2; 139II393, Erw.4.1.1;
+136II65, Erw.3.1; Urteile des Bundesgerichts vom 5.Januar 2010
+[2C_269/2009], Erw.3.1, und vom 29.September 2009
+[2C_196/2009], Erw.3.4).
+Die in Anhang I Art.10 FZA (Beschäftigung in der öffentlichen
+Verwaltung), Anhang I Art.16 FZA (Ausübung hoheitlicher Befug
+nisse) und Anhang I Art.22 Abs.1 FZA (Tätigkeiten mit gelegentli
+cher Ausübung hoheitlicher Befugnisse) erwähnten Bereichsausnah
+men sind denjenigen zur Arbeitnehmerfreizügigkeit sowie zur Nie
+derlassungs und Dienstleistungsfreiheit gemäss AEUV nachgebildet.
+Insofern drängt es sich grundsätzlich auf, die Rechtsprechung des
+EuGH, wonach die Beurkundungstätigkeit von Notaren nicht mit der
+Ausübung öffentlicher Gewalt verbunden sei und daher nicht unter
+die erwähnten Bereichsausnahmen falle, zu übernehmen, zumal diese
+Rechtsprechung in den Urteilen vom 24.Mai 2011 sorgfältig und
+stichhaltig begründet wurde. Es ist auch nicht ersichtlich, dass sich
+die Rechtslage in den betroffenen Ländern (allen voran Deutschland)
+mit Bezug auf die Ausgestaltung der notariellen Tätigkeit wesentlich
+von derjenigen in der Schweiz unterscheiden würde. Jedenfalls trifft
+auch auf die hiesige öffentliche Urkunde zu, dass sich die Parteien
+ihr freiwillig unterwerfen und innerhalb der gesetzlich vorgegebenen
+Grenzen selbst über den Umfang ihrer Rechte und Pflichten bestim
+men können (Urteil des EuGH vom 24.Mai 2011 [C 54/08], Rn.91).
+Ferner gilt auch in Deutschland (Urteil des EuGH vom 24. Mai 2011
+[C 54/08], Rn.94ff.), dass die öffentliche Beurkundung zwingende
+Voraussetzung für die Wirksamkeit bestimmter Rechtsgeschäfte ist,
+die Notare vor Ausstellung der öffentlichen Urkunde prüfen müssen,
+ob alle gesetzlichen Voraussetzungen für das Zustandekommen eines
+Vertrags erfüllt sind, die Notare im öffentlichen Interesse (Allge
+
+meininteresse) liegende Ziele verfolgen, indem sie die Rechtmässig
+keit und Rechtssicherheit von Akten zwischen Privatpersonen ge
+währleisten, eine öffentliche Urkunde erhöhte Beweiskraft geniesst,
+für Notare zwar Honorarvorschriften bestehen, sie ihren Beruf inner
+halb der Grenzen ihrer jeweiligen örtlichen Zuständigkeit aber den
+noch unter Wettbewerbsbedingungen ausführen, was für die Ausü
+bung öffentlicher Gewalt untypisch ist, und allein die Notare (unter
+Ausschluss der Staatshaftung) für die Handlungen im Rahmen ihrer
+beruflichen Tätigkeit haften. Der EuGH gelangte unter diesen Um
+ständen zum Schluss, dass die notariellen Tätigkeiten nach ihrer ge
+genwärtigen Definition in der deutschen Rechtsordnung nicht mit der
+Ausübung öffentlicher Gewalt verbunden seien (Urteil des EuGH
+vom 24.Mai 2011 [C 54/08], Rn.117).
+Die von der Lehre gegen eine Übernahme der Rechtsprechung
+des EuGH angeführten "triftigen" Gründe überzeugen nur be
+schränkt. Der Beschwerdeführerin ist darin beizupflichten, dass sich
+mit dem Argument, die Qualifikation der notariellen Tätigkeit als
+Ausübung einer hoheitlichen Funktion entspreche einer altherge
+brachten Rechtsauffassung, jegliche Rechtsfortbildung verhindern
+liesse. Man muss sich vielmehr – wie es der EuGH getan hat – den
+Charakter einer Tätigkeit anschauen, um zu entscheiden, ob sie ho
+heitliche Elemente beinhaltet, und zwar frei von jeder Voreingenom
+menheit gegenüber den "Ideen fremder Richter". Dass die notarielle
+Tätigkeit im Kanton Aargau relativ stark reglementiert ist (vgl.
+§§21ff. BeurG), macht sie noch nicht zu einer hoheitlichen Aufga
+be. Auch nicht hoheitliche Tätigkeiten können mehr oder weniger
+stark reglementiert sein. Anders als ein Richter und andere staatliche
+Behörden sind freiberufliche Notare nicht mit Zwangsbefugnissen
+(gegenüber den Rechtsunterworfenen) ausgestattet. Sie treffen keine
+einseitigen Entscheidungen ohne Mitwirkung der Parteien. Sie er
+bringen in erster Linie Dienstleistungen für ihre Kunden, auch wenn
+sie sich im Allgemeininteresse betätigen und der Umstand, dass diese
+Dienstleistungen Anbietern mit einer entsprechenden Ausbildung und
+Berufsausübungsbewilligung vorbehalten sind, zweifelsohne zur Ver
+kehrssicherheit und dem Schutz der Parteien vor ungenauen, unkla
+ren und ihrem Willen zuwiderlaufenden Verträgen beiträgt. Diesen
+
+Bedürfnissen kann allerdings schon mit entsprechenden Ausbil
+dungsanforderungen und – wie die Beschwerdeführerin zu Recht
+festhält – mit einer wirkungsvollen Aufsicht mit Disziplinarbefugnis
+sowie mit der Pflicht zum Abschluss einer Berufshaftpflichtversiche
+rung Rechnung getragen werden. Daraus ergibt sich keine Notwen
+digkeit, die notarielle Tätigkeit als hoheitlich zu qualifizieren. Der
+"revolutionäre Paradigmenwechsel" würde sich deshalb – von der an
+und für sich erwünschten Erleichterung beim Marktzugang für orts
+fremde Notare abgesehen – wohl vor allem auf die Gebühren und
+Honorarfestlegung auswirken. Ob das als "triftiger" Grund genügt,
+um die Notare von den Grundfreiheiten des (europäischen) Binnen
+marktes auszuschliessen, ist zumindest fraglich.
+Eine Anerkennung ausländischer Fähigkeitsausweise gestützt
+auf Art.9 und Anhang III FZA, worin die sekundärrechtlichen Aner
+kennungsregeln der EU gemäss Richtlinie 2005/36/EG (Berufsquali
+fikationsrichtlinie) im Verhältnis Schweiz EU als direkt anwendbar
+erklärt werden, kommt aber für notarielle Tätigkeiten vorläufig nicht
+mehr in Betracht. Mit der Richtlinie 2013/55/EU vom 20. November
+2013 wurde nämlich Art.2 der Richtlinie 2005/36/EG um einen vier
+ten Absatz ergänzt, wonach diese Richtlinie nicht für durch einen
+Hoheitsakt bestellte Notare gilt. Grund für diese Novelle war, dass
+die durch staatlichen Hoheitsakt bestellten Notare im Hinblick auf
+die besonderen und unterschiedlichen Regelungen, denen sie in den
+einzelnen Mitgliedstaaten in Bezug auf den Zugang zum Notarberuf
+und seine Ausübung unterliegen, vom Anwendungsbereich der Richt
+linie 2005/36/EG ausgenommen werden sollten (Richtlinie
+2013/55/EU, Ingress, Erw.3). Ist eine Berufsqualifikation nicht vom
+Geltungsbereich der Berufsqualifikationsrichtlinie erfasst, stellt sich
+die Frage, ob eine Anerkennung von Fähigkeitsausweisen auf der
+Grundlage des allgemeinen Diskriminierungsverbots gemäss Art.2
+FZA und dessen spezielle Ausprägung in Anhang I FZA möglich ist.
+Die WEKO plädiert hier dafür, die Praxis des EuGH zur primärrecht
+lichen Anerkennung heranzuziehen. Danach haben die EU Mitglied
+staaten zwecks Verwirklichung der Personenfreizügigkeit sämtliche
+Diplome, Prüfungszeugnisse oder sonstige Befähigungsnachweise
+sowie die einschlägige Erfahrung des Betroffenen in der Weise zu
+
+berücksichtigen, dass sie die durch diese Nachweise und diese Er
+fahrung belegten Fachkenntnisse mit den nach nationalem Recht vor
+geschriebenen Kenntnissen und Fähigkeiten vergleichen (Urteile des
+EuGH vom 10.Dezember 2009 [C 345/08], Rn.37, vom 14.Sep
+tember 2000 [C 238 98], Rn.23 und 40, und vom 7.Mai 1991
+[C 340/89], Rn.16ff.). Für diesen Vergleich wird allerdings kein
+standardisiertes Anerkennungsverfahren wie in den Titeln II und III
+der Berufsqualifikationsrichtlinie vorgeschrieben. Es genügt eine
+Einzelfallprüfung der Gleichwertigkeit im Lichte der Grundfreihei
+ten.
+In Anbetracht dessen geht Anhang 1 Ziff.11 VMD, der den Be
+ruf des Notars der Meldepflicht und Nachprüfung gemäss BGMD
+unterstellt, weiter als das standardisierte Anerkennungsregime zwi
+schen den EU Mitgliedsstaaten, welches nicht für Notare gilt, und
+damit auch weiter, als es die in Art.9 und Anhang III FZA stipulierte
+Umsetzung der Berufsqualifikationsrichtlinie mit dem BGMD erfor
+dert. Weil der Geltungsbereich des BGMD gemäss dessen Art. 1
+Abs.2 lit.c auf Personen beschränkt ist, die sich nach Anhang III
+FZA oder nach Anhang I des Übereinkommens vom 4.Januar 1960
+zur Errichtung der Europäischen Freihandelsassoziation (EFTA) auf
+die Richtlinie 2005/36/EG berufen können, was bei Notaren nicht
+(mehr) der Fall ist, wird die Gesetzeskonformität von Anhang 1
+Ziff.11, was diesen Beruf anbelangt, in der Lehre zu Recht ange
+zweifelt (PFÄFFLI/LIECHTI, a.a.O., S.7f.). Es wird obendrein disku
+tiert, ob mit der betreffenden Verordnungsbestimmung in unzulässi
+ger Art und Weise in die verfassungsmässige Kompetenzausschei
+dung zwischen Bund und Kantonen eingegriffen wurde (ROLAND
+PFÄFFLI/FABRIZIO ANDREA LIECHTI, Der Notar und das Freizügig
+keitsabkommen: Entwicklungen, in: Jusletter 20.April 2015). Auch
+wenn die Forderung, die Berufsgattung der Notare aus der VMD zu
+streichen, vom Verordnungsgeber nicht aufgenommen werden sollte,
+ist insofern zweifelhaft, ob sich ein ausländischer Notar im Einzelfall
+erfolgreich auf diese Bestimmung berufen und mit Blick auf die
+Anerkennung seines Fähigkeitsausweises ein Meldeverfahren ge
+mäss BGMD einleiten und eine allfällige Nachprüfung verlangen
+kann. Einer Verordnung, die den Rahmen der dem Bundesrat dele
+
+gierten Kompetenzen sprengt oder sich aus anderen Gründen als ge
+setz oder verfassungswidrig erweist, ist in einem konkreten Fall die
+Anwendung zu versagen (ULRICH HÄFELIN/WALTER HALLER/HE
+LEN KELLER/DANIELA THURNHERR, Schweizerisches Bundesstaats
+recht, 9.Auflage, Zürich/Basel/Genf 2016, Rz.2099). Damit ist auch
+offen, ob bei der Anerkennung von Fähigkeitsausweisen für die Tä
+tigkeit als Notar das Szenario einer Inländerdiskriminierung droht,
+die es dadurch zu vermeiden gilt, dass man den Anwendungsbereich
+des BGBM gestützt auf dessen Art.4 Abs.3bis entgegen herkömmli
+cher schweizerischer Rechtsauffassung auf ausserkantonale Berufs
+ausübungsbewilligungen als Notar ausdehnt und diese mit etwaigen
+nach Art.3 BGBM zulässigen Auflagen zur Beschränkung des
+Marktzugangs schweizweit anerkennt. Eine Gleichwertigkeitsprü
+fung, in deren Rahmen ausserkantonale Befähigungsnachweise und
+einschlägige Berufserfahrungen zu berücksichtigen sind, darf auch
+mit Rücksicht auf die Bestrebungen zur Angleichung an den europäi
+schen Binnenmarkt nach wie vor stattfinden. Solange das kantonale
+Beurkundungsrecht im Verfahren auf Anerkennung ausserkantonaler
+Fähigkeitsausweise als Notarin oder Notar eine Gleichwertigkeits
+prüfung im erwähnten Sinne gewährleistet, fällt demnach ein Ver
+stoss gegen das BGBM, soweit dieses überhaupt anwendbar ist, von
+vornherein ausser Betracht.
+3.5.
+Vom Schutz der nach rein schweizerischem Rechtsverständnis
+auszulegenden Wirtschaftsfreiheit (Art.27 BV), die privatwirtschaft
+lichen Tätigkeiten vorbehalten ist, kann die Notariatstätigkeit wegen
+ihrer Nähe zu den staatlichen Aufgaben, die in einigen Kantonen
+dem freien Wettbewerb sogar ganz entzogen ist, nicht profitieren
+(BGE133I259, Erw.2.2; FELIX UHLMANN, in: BERNHARD WALD
+MANN/EVA MARIA BELSER/ASTRID EPINEY, Basler Kommentar zur
+Bundesverfassung, Basel 2015, Art.27 N19 und 22; vgl. auch
+BGE140II112, Erw.3.3).
+4.
+4.1.
+Eine Verletzung des Gleichbehandlungsgebots (Art.8 Abs.1
+BV) und des Willkürverbots (Art.9 BV) erblickt die Beschwerdefüh
+
+rerin darin, dass sie durch die Nichtanerkennung ihres zugerischen
+Fähigkeitsausweises als Notarin de facto einer Studienabgängerin
+ohne Anwaltspatent und ohne jegliche berufliche Erfahrung gleich
+gestellt werde. Mit dem Bestehen der zugerischen Anwalts und
+Notariatsprüfung – der höchsten in der Schweiz für Juristen vorgese
+henen Fachprüfung – habe sie den Nachweis erbracht, mit den für
+das Beurkundungs und Notariatswesen wesentlichen gesetzlichen
+Grundlagen vertraut zu sein. Sie verfüge über mehrjährige praktische
+und berufliche Erfahrung als Notarin. Sie arbeite seit bald sechs Jah
+ren auf einem kommunalen Notariat und in sämtlichen Rechtsgebie
+ten. Davor habe sie unter anderem im Kanton Aargau Praktika absol
+viert. Zudem sei sie im Kanton Aargau aufgewachsen und daher mit
+den lokalen Besonderheiten bestens vertraut.
+4.2.
+Der Anspruch auf Gleichbehandlung verlangt, dass Rechte und
+Pflichten der Betroffenen nach dem gleichen Massstab festzusetzen
+sind. Gleiches ist nach Massgabe seiner Gleichheit gleich, Unglei
+ches nach Massgabe seiner Ungleichheit ungleich zu behandeln. Das
+Gleichheitsprinzip verbietet einerseits unterschiedliche Regelungen,
+denen keine rechtlich erheblichen Unterscheidungen zugrunde lie
+gen. Andererseits untersagt es aber auch die rechtliche Gleichbe
+handlung von Fällen, die sich in tatsächlicher Hinsicht wesentlich
+unterscheiden. Die Gleichbehandlung durch den Gesetzgeber oder
+die rechtsanwendende Behörde ist allerdings nicht nur dann geboten,
+wenn zwei Tatbestände in allen ihren Elementen absolut identisch
+sind, sondern auch dann, wenn die im Hinblick auf die zu erlassende
+oder anzuwendende Norm relevanten Tatsachen gleich sind (ULRICH
+HÄFELIN/GEORG MÜLLER/FELIX UHLMANN, Allgemeines Verwal
+tungsrecht, 7.Auflage, Zürich/St.Gallen 2016, Rz.572 mit Hinwei
+sen auf die bundesgerichtliche Rechtsprechung).
+Soweit sich das Gebot der Rechtsgleichheit an den Gesetzgeber
+wendet, kommt diesem eine erhebliche Gestaltungsfreiheit zu. Es ist
+ihm jedoch verboten, Differenzierungen zu treffen, für die sachliche
+und vernünftige Gründe fehlen, oder sich über erhebliche tatsächli
+che Unterschiede hinwegzusetzen. Ein Erlass verletzt das Rechts
+gleichheitsgebot, wenn hinsichtlich einer entscheidwesentlichen Tat
+
+sache rechtliche Unterscheidungen getroffen werden, für die ein
+sachlicher und vernünftiger Grund in den zu regelnden Verhältnissen
+nicht ersichtlich ist, oder wenn Unterscheidungen unterlassen wer
+den, die aufgrund der Verhältnisse hätten getroffen werden müssen
+(statt vieler: BGE143I361, Erw.5.1; 141I153, Erw.5.1; 140I77,
+Erw.5.1; 134I23, Erw.9.1).
+Die Bindung der rechtsanwendenden Behörde an Art.8 Abs.1
+BV ist vor allem dort wichtig, wo die anzuwendende Norm unbe
+stimmte Begriffe verwendet oder den Behörden Ermessen einräumt
+(HÄFELIN/HALLER/KELLER/THURNHERR, a.a.O., Rz.765). Davon
+hat die rechtsanwendende Behörde in allen gleich gelagerten Fällen
+gleichen Gebrauch zu machen (HÄFELIN/MÜLLER/UHLMANN, a.a.O.,
+Rz.587).
+Die Beschwerdeführerin verlangt nicht eine Gleichstellung mit
+Inhabern von Fähigkeitsausweisen anderer Kantone als Zug, sondern
+eine (sachgerechte) Privilegierung gegenüber Studienabgängern, die
+im Unterschied zu ihr keine berufliche/praktische Erfahrung als No
+tarin oder Notar aufweisen und keine Notariatsprüfung abgelegt ha
+ben. Eine gewisse Privilegierung erfährt die Beschwerdeführerin im
+Vergleich mit Studienabgängern, indem ihr die Vorinstanz in Anwen
+dung von §11 Abs.3 BeurG und §9 Abs.4 lit.a BeurV das in §11
+Abs.1 und 2 BeurG sowie §9 Abs.2 BeurV vorgeschriebene Prakti
+kum bei einer Urkundsperson von mindestens sechsmonatiger Dauer
+erlässt. Diese Privilegierung geht der Beschwerdeführerin indessen
+zu wenig weit. In ihren Augen ist der Rechtsgleichheit nur mit einer
+Anerkennung ihres zugerischen Fähigkeitsausweises als Notarin oder
+eventualiter mit dem Verzicht auf ein weiteres Praktikum bei einem
+Grundbuchamt und Erleichterungen bei der Notariatsprüfung Genüge
+getan.
+5.
+5.1.
+Gemäss §8 Abs.2 BeurG wird der ausserkantonale Fähigkeits
+ausweis als Notarin oder Notar anerkannt, wenn (a) ihm gleichwerti
+ge Voraussetzungen für die Erteilung zugrunde liegen, (b) die Ge
+suchstellerin oder der Gesuchsteller die deutsche Sprache beherrscht,
+(c) der andere Kanton Gegenrecht hält. Der Ausweis über die Befähi
+
+gung von Urkundspersonen eines anderen Kantons gilt als gleichwer
+tig, wenn die Gesuchstellerin oder der Gesuchsteller über einen
+Hochschulabschluss gemäss §10 Abs.1 lit.b BeurG (juristisches
+Masterdiplom oder juristisches Lizentiat einer schweizerischen Uni
+versität oder Masterdiplom einer Fachhochschule mit Fachrichtung
+Notariat) verfügt, mindestens zwölf Monate spezifische Praxiserfah
+rung nachweist und eine gleichwertige Notariatsprüfung abgelegt hat
+(§8 Abs.1 BeurV).
+Mit dem Erlass dieser Bestimmungen sollte der interkantonalen
+Freizügigkeit von Urkundspersonen zum Durchbruch verholfen wer
+den. Vorher liess der Kanton Aargau – wie viele andere Kantone –
+nur Notarinnen und Notare zur Berufsausübung zu, welche die Prü
+fung im eigenen Kanton abgelegt hatten (Botschaft Nr.10.92 des Re
+gierungsrats des Kantons Aargau an den Grossen Rat vom 17.März
+2010 zum Beurkundungs und Beglaubigungsgesetz [BeurG],
+Totalrevision [nachfolgend: Botschaft BeurG], S.30). Die Verwirk
+lichung der angestrebten interkantonalen Freizügigkeit bedingt, dass
+keine übertriebenen Anforderungen an den Nachweis der Gleichwer
+tigkeit des ausserkantonalen Fähigkeitsausweises gestellt werden.
+Das betrifft auch die Notariatsprüfung als Teil der in § 8 Abs.1
+BeurV umschriebenen Anerkennungsvoraussetzungen.
+Die (inhaltlichen) Probleme, denen eine Urkundsperson ge
+wachsen sein muss, werden weitgehend durch Bundesrecht vorgege
+ben. Die kantonalen Eigenheiten beziehen sich insbesondere auf Ver
+fahrensfragen sowie das Abgaberecht. Es ist daher vertretbar, ausser
+kantonale Fähigkeitsausweise als Notarin oder Notar anzuerkennen,
+sofern der Ausbildungsstandard dem aargauischen entspricht (Bot
+schaft BeurG, S.30).
+5.2.
+Das Rechtsgleichheitsgebot steht einer gesetzlichen Regelung,
+wonach für die Anerkennung eines ausserkantonalen Fähigkeitsaus
+weises als Notarin oder Notar eine gleichwertige Notariatsprüfung
+im Herkunftskanton vorausgesetzt wird, nicht grundsätzlich entge
+gen. Für diese Regelung gibt es durchaus sachliche und vernünftige
+Gründe. Sind die Anforderungen der Notariatsprüfung im Herkunfts
+kanton wesentlich geringer, hätte die voraussetzungslose Anerken
+
+nung des ausserkantonalen Fähigkeitsausweises nicht nur negative
+Auswirkungen auf die Qualitätssicherung im Bestimmungskanton.
+Sie könnte auch den "Prüfungstourismus" in dem Sinne fördern, dass
+Fähigkeitsausweise gezielt vorwiegend dort erworben werden, wo
+die Anforderungen am geringsten sind. Auf diese Weise könnte wie
+derum der Qualitätsstandard im Bestimmungskanton kaum mehr auf
+rechterhalten werden.
+Problematisch wäre es hingegen aus Rechtsgleichheitsgründen
+wie auch unter dem Aspekt der interkantonalen Freizügigkeit von
+Urkundspersonen, im Falle einer Verneinung der Gleichwertigkeit
+der ausserkantonalen Notariatsprüfung diese und die bisherige Be
+rufspraxis eines Gesuchstellers gänzlich ausser Acht zu lassen. Das
+Gesetz lässt die Berücksichtigung von Vorkenntnissen und Praxiser
+fahrung ohne weiteres zu, indem die Notariatskommission gemäss
+§10 Abs.5 BeurG für Inhaberinnen oder Inhaber eines kantonalen
+Fähigkeitsausweises als Notarin oder Notar Erleichterungen gewäh
+ren kann. Diese Bestimmung ist entgegen der Auffassung der Vorin
+stanz nicht nur dann anwendbar, wenn die Gleichwertigkeit der No
+tariatsprüfung am Herkunftsort bejaht wird, der Fähigkeitsausweis
+aber aus anderen Gründen nicht anerkannt werden kann, weil bei
+spielsweise der andere Kanton kein Gegenrecht hält. Für eine derart
+restriktive Auslegung besteht kein Anlass. Vielmehr wird schon in
+der Botschaft BeurG (a.a.O., S.30) ausgeführt, dass die Kandidatin
+oder der Kandidat verpflichtet werden kann, eine ergänzende Prü
+fung abzulegen, wenn ein ausserkantonaler Fähigkeitsausweis in Be
+zug auf verfahrens und organisationsrechtliche Fragen (Beurkun
+dungsverfahren im engeren Sinne, Aufsicht, Gebührenwesen), Beur
+kundungstechnik oder kantonales Abgaberecht (Grundstückgewinn
+steuern, Handänderungssteuern, kantonale gesetzliche Pfandrechte)
+nicht als gleichwertig erachtet wird. Im Weiteren wird in der Bot
+schaft (S.33 oben) explizit erläutert, eine Beschränkung des Prü
+fungsstoffs komme in Frage für Kandidierende, die bereits über ein
+ausserkantonales, aber nicht gleichwertiges Notariatspatent verfügen.
+5.3.
+5.3.1.
+
+Im Kanton Aargau umfasst die Notariatsprüfung einen schriftli
+chen und einen mündlichen Prüfungsteil. Der schriftliche Prüfungs
+teil besteht gemäss §14 BeurV aus zwei Klausurarbeiten von je vier
+Stunden und vier Klausurarbeiten von je zwei Stunden namentlich
+aus folgenden Rechtsgebieten: (a) Sachen und Grundbuchrecht mit
+Neben und Ausführungserlassen, namentlich BewG, BGBB, EG
+ZGB, (b) Personen , Familien und Erbrecht, (c) Obligationenrecht
+mit Neben und Ausführungserlassen, namentlich FusG, HRegV, (d)
+Beurkundungs und Beglaubigungsrecht. In den Klausurarbeiten sind
+insbesondere öffentliche Urkunden abzufassen. Der mündliche Prü
+fungsteil dauert nach §15 Abs.3 BeurV in der Regel zwei Stunden
+und umfasst neben den schon in §14 BeurV (für den schriftlichen
+Prüfungsteil) erwähnten namentlich folgende Rechtsgebiete: (d)
+Schuldbetreibungs und Konkursrecht, Zivilprozessrecht, die für das
+Notariat relevanten Bereiche des Internationalen Privatrechts, (e)
+Grundzüge des öffentlichen Rechts, (f) Abgabenrecht.
+5.3.2.
+Im Kanton Zug gibt es keine eigenständige Notariatsprüfung;
+die Beurkundungsprüfung ist Teil der Anwaltsprüfung. §3 der zuge
+rischen Verordnung über die Anwaltsprüfung und die Beurkundungs
+prüfung für Rechtsanwältinnen und Rechtsanwälte vom 3.Dezember
+2002 (Anwaltsprüfungsverordnung; BGS 163.2) regelt den schriftli
+chen Prüfungsteil, der aus der Bearbeitung von zwei Fällen und aus
+der Erstellung einer öffentlichen Urkunde besteht (Abs. 1). Die Fälle
+erstrecken sich auf folgende Rechtsgebiete: (a) Zivilrecht und Zivil
+prozessrecht inkl. Gerichtsorganisation, (b) Strafrecht und Strafpro
+zessrecht inkl. Gerichtsorganisation oder Staats und Verwaltungs
+recht inkl. Verwaltungsrechtspflege. Die Prüfung gemäss lit. a kann
+auch Fragen zum Schuldbetreibungs und Konkursrecht enthalten.
+Das zu prüfende Rechtsgebiet gemäss lit.b wird jeweils drei Wochen
+vor dem Prüfungstermin bekannt gegeben (Abs. 2). Für die Bearbei
+tung der Fälle und die Erstellung der öffentlichen Urkunde stehen der
+Kandidatin bzw. dem Kandidaten je fünf Stunden zur Verfügung
+(Abs.3). Die schriftliche Prüfung ist in Klausur und in der Regel im
+Zeitraum einer Woche abzulegen (Abs.4). Die mündliche Prüfung,
+die in der Regel innert sechs Monaten nach bestandener schriftlicher
+
+Prüfung abzulegen ist und mindestens zwei Stunden dauert, umfasst
+die folgenden Gebiete des Bundesrechts und des zugerischen Rechts:
+(a) Zivilrecht und Zivilprozessrecht, (b) Strafrecht und Strafprozess
+recht, (c) Schuldbetreibungs und Konkursrecht, (d) Staats und Ver
+waltungsrecht, (e) Beurkundungsrecht und (f) Anwaltsrecht (§ 5 An
+waltsprüfungsverordnung).
+5.3.3.
+Die Notariatskommission begründete ihren Entscheid, die
+Gleichwertigkeit der zugerischen Beurkundungsprüfung mit der aar
+gauischen Notariatsprüfung zu verneinen, vorab damit, dass der Kan
+ton Zug im Unterschied zum Kanton Aargau keine eigenständige
+Notariatsprüfung kenne. Ferner umfasse der schriftliche Prüfungsteil
+im Kanton Aargau zwei Klausurarbeiten von je vier Stunden und vier
+Klausurarbeiten von je zwei Stunden. Sie daure somit insgesamt 16
+Stunden, gegenüber lediglich fünf Stunden im Kanton Zug. Auch
+wenn die Prüfungsdauer nichts über die Qualität der Prüfung besage,
+könne in sechs Klausurarbeiten während insgesamt 16 Stunden eine
+bedeutend breitere und tiefere Prüfung stattfinden als während eines
+lediglich fünfstündigen Prüfungsteils. Zudem sei gemäss den
+Ausführungen der Gesuchstellerin (Beschwerdeführerin) im Kanton
+Zug nur eine öffentliche Urkunde abzufassen, während im Kanton
+Aargau in sechs Klausurarbeiten mehrere öffentliche Urkunden zu
+errichten seien. Dasselbe gelte für den mündlichen Prüfungsteil. Im
+Kanton Aargau daure die mündliche Prüfung zwei Stunden. Im Kan
+ton Zug werde während zwei Stunden auch der Stoff des anwalt
+lichen Bereichs geprüft.
+5.3.4.
+Diesen Überlegungen kann insofern gefolgt werden, als eine
+Prüfung grundsätzlich umso anforderungsreicher ist, je länger sie
+dauert. Auch leuchtet ein, dass eine Notariats oder Beurkundungs
+prüfung anspruchsvoller ist, wenn der Kandidat mehrere öffentliche
+Urkunden anstelle von lediglich einer abfassen muss. Daher lässt es
+sich nicht beanstanden, dass die Vorinstanz die aargauischen und die
+zugerischen Prüfungen nicht als gleichwertig taxierte.
+Im Hinblick auf mögliche Erleichterungen im Sinne von § 10
+Abs.5 BeurG blendet die Vorinstanz jedoch aus, dass die Beschwer
+
+deführerin eine langjährige Berufspraxis als Notarin mitbringt. Zu
+ihren Aufgabegebieten als Urkundsperson/Notarin bei der Einwoh
+nergemeinde B., wo sie seit dem 21.Februar 2012 teilzeitlich tätig
+ist, gehört gemäss Zwischenzeugnis vom 29.Juni 2017 die öffentli
+che Beurkundung von Rechtsgeschäften über dingliche und vormerk
+bare persönliche Rechte (Grundstücksgeschäfte), insbesondere Kauf
+verträge, Schenkungen, Erbvorbezüge, Mutationen, Grunddienstbar
+keitsverträge und Begründung von Stockwerkeigentum. Ausserdem
+nimmt sie Beurkundungen im Ehe und Erbrecht vor, insbesondere
+das Verschreiben von Testamenten für die handschriftliche Abschrei
+bung durch die Kunden, das Abfassen von Ehe und/oder Erbverträ
+gen und öffentlichen letztwilligen Verfügungen. Des Weiteren ist sie
+mit öffentlichen Beurkundungen im Gesellschaftsrecht (Gründungen,
+Sitzverlegungen und Liquidationen) sowie von Vorsorgeaufträgen
+und Bürgschaften befasst. Diese Palette deckt den hauptsächlichen
+Bereich notarieller Tätigkeiten beinahe vollständig ab. Die eigentli
+che Beurkundungstätigkeit wird gemäss Zwischenzeugnis durch die
+Beratung der Parteien und die Anmeldung der Geschäfte beim
+Grundbuch und beim Handelsregisteramt abgerundet. Der Be
+schwerdeführerin wird im Zwischenzeugnis ein sehr fundiertes und
+breites Fachwissen in allen Tätigkeitsgebieten attestiert. Es darf so
+mit darauf abgestellt werden, dass sie ohne weiteres in der Lage ist,
+die auf sämtlichen Rechtsgebieten vorgeschriebenen öffentlichen Ur
+kunden eigenverantwortlich und qualitativ einwandfrei zu errichten.
+Deshalb ist nicht einzusehen, weshalb sie ihre diesbezüglichen
+Fähigkeiten mit der gesamten Notariatsprüfung im Kanton Aargau
+(neuerlich) unter Beweis stellen muss.
+Dies umso weniger, als sie mit dem Bestehen der zugerischen
+Anwalts und Beurkundungsprüfung grundsätzlich bewiesen hat,
+dass ihre theoretischen und praktischen Kenntnisse auf dem Gebiet
+des Bundesrechts (Bundeszivilrecht [ZGB, OR und Nebenerlasse],
+Zivilprozessrecht, Schuldbetreibungs und Konkursrecht, Internatio
+nales Privatrecht) für die Tätigkeit als Anwältin und Urkundsperson
+ausreichend sind. Weshalb hier die inhaltlichen Anforderungen res
+pektive der Schwierigkeitsgrad der Anwalts und Beurkundungsprü
+fung im Kanton Zug wesentlich geringer sein sollten als diejenigen
+
+der Notariatsprüfung im Kanton Aargau, ist nicht ersichtlich, zumal
+sich der Anwalts und Notariatsbereich nicht immer strikte trennen
+lassen. Die Notariatsprüfung im Kanton Aargau wird zwar auf dem
+Gebiet des Bundes(zivil)rechts wegen der deutlich längeren Prü
+fungsdauer spezifischer auf Fragestellungen eingehen können, die
+sich primär aus der notariellen und weniger aus der anwaltlichen Tä
+tigkeit ergeben. Solchen Fragestellungen begegnet die Beschwerde
+führerin im Rahmen ihrer Tätigkeit als Amtsnotarin im Kanton Zug
+regelmässig. Insofern bewirkt ihre Praxiserfahrung eine gewisse
+Kompensation dafür, dass die Prüfungen nicht als gleichwertig ange
+sehen werden. Es spricht nichts dagegen, bei der Gewährung von Er
+leichterungen nach §10 Abs.5 BeurG die Praxiserfahrung ähnlich
+hoch zu gewichten wie den Befähigungsnachweis anhand eines Exa
+mens. Das liegt durchaus noch im (vom Verwaltungsgericht über
+prüfbaren) Ermessensspielraum, der sich durch den sehr offen for
+mulierten Wortlaut dieser Bestimmung eröffnet.
+Nachhol oder Ergänzungsbedarf mag jedoch für die Beschwer
+deführerin im gesamten Bereich des kantonalen (aargauischen)
+Rechts bestehen, also mit Blick auf das EG ZGB, das Beurkundungs
+und Beglaubigungsrecht, die Grundzüge des Verwaltungsrechts und
+der Verwaltungsrechtspflege sowie das Abgabenrecht. Sie hat zwar
+im Kanton Aargau Praktika absolviert. Diese liegen jedoch schon
+einige Jahre zurück.
+Insgesamt ist der Entscheid der Notariatskommission, der zuge
+rischen Beurkundungsprüfung (als Teil der dortigen Anwaltsprüfung)
+die Gleichwertigkeit mit der aargauischen Notariatsprüfung abzu
+sprechen, zwar nicht zu beanstanden. Einen Anspruch auf Anerken
+nung ihres ausserkantonalen Fähigkeitsausweises als Notarin besitzt
+die Beschwerdeführerin demnach nicht. Es sind ihr aber aufgrund
+ihrer langjährigen Praxiserfahrung bei der öffentlichen Beurkundung
+verschiedenster Rechtsgeschäfte und des Bestehens der zugerischen
+Anwalts und Beurkundungsprüfung gestützt auf §10 Abs.5 BeurG
+Erleichterungen bei der Notariatsprüfung zu gewähren. Gegenstand
+einer ergänzenden Notariatsprüfung im Kanton Aargau kann das ge
+samte für das Beurkundungs und Beglaubigungswesen relevante
+
+kantonale Recht bilden. Der genaue Prüfungsstoff wird von der Vor
+instanz noch im Detail festzulegen sein.
+6.
+Zu der von der Beschwerdeführerin zusätzlich verlangten Er
+leichterung beim Praktikum bzw. dem Erlass eines weiteren Prakti
+kums bei einem Grundbuchamt ist Folgendes festzuhalten:
+§11 Abs.3 BeurG, wonach aus wichtigen Gründen Erleichte
+rungen beim Praktikum gewährt werden können, ist wiederum so an
+zuwenden, dass dem verfassungsmässigen Gleichbehandlungsgebot
+Rechnung getragen wird. Die Vorinstanz erwog, dass die Beschwer
+deführerin mit dem einjährigen Praktikum, welches sie (vor Able
+gung der zugerischen Anwalts und Beurkundungsprüfung) bei
+einem zugerischen Notar absolviert habe, über die gemäss §8 Abs.1
+BeurV für eine Anerkennung ihres ausserkantonalen Fähigkeitsaus
+weises notwendige spezifische Praxiserfahrung verfüge. Es birgt nun
+einen gewissen Widerspruch, wenn sie von der im Anerkennungsver
+fahren als genügend praktisch ausgebildet eingestuften Beschwerde
+führerin im Hinblick auf die Zulassung zur (ergänzenden) Notariats
+prüfung gleichwohl noch ein Praktikum bei einem Grundbuchamt
+von mindestens dreimonatiger Dauer verlangt. Dieses Ansinnen lässt
+sich nicht mit dem Gleichbehandlungsgrundsatz in Einklang bringen.
+Es ist kein sachlicher und vernünftiger Grund ersichtlich, bei identi
+scher praktischer Ausbildung in einem anderen Kanton danach zu
+unterscheiden, ob ein ausserkantonaler Fähigkeitsausweis als Notarin
+oder Notar anerkannt wird oder ob der Inhaber eines ausserkantona
+len Fähigkeitsausweises mangels Gleichwertigkeit der ausserkanto
+nalen Notariatsprüfung noch eine ergänzende Notariatsprüfung im
+Kanton Aargau absolvieren muss, und nur im einen, nicht aber im
+anderen Fall ein zusätzliches Praktikum im Kanton Aargau zu ver
+langen. Das Defizit der nicht gleichwertigen Notariatsprüfung wird
+schon mit der Nachprüfung ausgeglichen. Ein Zusatzpraktikum ist
+beim Inhaber eines ausserkantonalen Fähigkeitsausweises, der die
+Anerkennungsvoraussetzungen hinsichtlich der praktischen Ausbil
+dung in einem anderen Kanton erfüllt, sachlich nicht zu rechtferti
+gen. Es ist nicht einzusehen, weshalb der Kanton Aargau diesbezüg
+lich seine eigenen Vorstellungen zur Länge und Ausgestaltung eines
+
+Praktikums zum Erwerb des aargauischen Notariatspatents durchset
+zen muss, die im Anerkennungsverfahren keine Rolle spielen.
+Abgesehen davon würde eine derart rechtsungleiche Praxis
+wohl eine fast unüberwindbare Hürde für die interkantonale Freizü
+gigkeit von Urkundspersonen darstellen, weit mehr als dies eine er
+gänzende Notariatsprüfung je zu tun vermöchte. Gestandene, mitten
+im Erwerbsleben stehende Notarinnen und Notare mit einem ausser
+kantonalen Fähigkeitsausweis werden sich in den seltensten Fällen
+darauf einlassen, sich noch einmal als Praktikant zu verpflichten.
+Der vorinstanzliche Entscheid ist auch in diesem Punkt fehler
+haft. Die Beschwerdeführerin ist ohne ein weiteres Praktikum, insbe
+sondere ohne das von der Vorinstanz geforderte mindestens dreimo
+natige Praktikum bei einem Grundbuchamt, zur ergänzenden Nota
+riatsprüfung im Kanton Aargau zuzulassen.
+
+34 Vollstreckung; Parteiwechsel
+Wird die streitbetroffene Liegenschaft während des Beschwer
+deverfahrens gegen einen Vollstreckungsentscheid veräussert,
+richten sich angeordnete Vollstreckungsmassnahmen wie die Nach
+fristansetzung und das Androhen der Ersatzvornahme sowie der
+Bestrafung wegen Ungehorsams gegen amtliche Verfügungen nun
+mehr gegen den Erwerber.
+Das Beschwerdeverfahren wird auch gegen den Willen des Erwer
+bers mit diesem fortgeführt (zwangsweiser Parteiwechsel).
+Aus dem Entscheid des Verwaltungsgerichts, 3. Kammer, vom 7.November
+2018, in SachenA. und B. gegen Gemeinderat C. (WBE.2018.98).
+Aus den Erwägungen
+2.
+Wenn das Streitobjekt während des Beschwerdeverfahrens ver
+äussert wird und auf eine andere Partei übergeht, kann sich die Frage
+eines Parteiwechsels stellen (vgl. ISABELLE HÄNER, Die Beteiligten
+im Verwaltungsverfahren und Verwaltungsprozess, Zürich 2000, Rz.
+369ff.). Nach der Lehre und Rechtsprechung entfalten vor dem Ver
+kauf einer Liegenschaft auferlegte übertragbare Pflichten, welche
+den Besitz oder das Eigentum daran voraussetzen, Wirkung gegen
+über dem Erwerber (vgl. VGE vom 7.März 2018 [WBE.2017.455],
+Erw.I/5.1; REGINA KIENER/BERNHARD RÜTSCHE/MATTHIAS KUHN,
+Öffentliches Verfahrensrecht, 2.Auflage, Zürich/St. Gallen 2015, Rz.
+594). Dies gilt entsprechend der verwaltungsgerichtlichen Rechtspre
+chung auch für Vollstreckungsanordnungen wie die Nachfristan
+setzung und das Androhen der Ersatzvornahme sowie der Bestrafung
+nach Art.292 StGB (vgl. VGE vom 7.März 2018 [WBE.2017.455],
