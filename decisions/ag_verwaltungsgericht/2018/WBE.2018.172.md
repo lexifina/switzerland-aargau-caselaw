@@ -1,0 +1,627 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2018.172"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "WBE.2018.172"
+decided: "2018-10-24"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2365"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2365"
+cites_decisions: ["2C_105/2017", "2C_218/2016", "2C_544/2010", "2C_595/2017", "2C_65/2014", "BGE 142 II 265"]
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/142.20/art-004.md", "switzerland/bund/acts/142.20/art-030.md", "switzerland/bund/acts/142.20/art-043.md", "switzerland/bund/acts/142.20/art-049.md", "switzerland/bund/acts/142.20/art-050.md", "switzerland/bund/acts/142.20/art-051.md", "switzerland/bund/acts/142.20/art-062.md", "switzerland/bund/acts/142.20/art-083.md", "switzerland/bund/acts/142.20/art-096.md", "switzerland/bund/acts/142.201/art-031.md", "switzerland/bund/acts/142.201/art-062.md", "switzerland/bund/acts/142.201/art-076.md", "switzerland/bund/acts/142.201/art-077.md", "switzerland/bund/acts/142.205/art-004.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — WBE.2018.172
+
+## Regeste
+
+Nichtverlängerung der Aufenthaltsbewilligung nach Auflösung der Familiengemeinschaft 
+- Hat eine ausländische Person im Familiennachzugsverfahren wesentliche Tatsachen verschwiegen, ist dies zu ihren Lasten zu berücksichtigen, wenn nach Auflösung der Familiengemeinschaft die erfolgreiche Integration im Sinne von Art. 50 Abs. 1 lit. a AuG beurteilt wird (Erw. 3.3.3.3). 
+- Dabei kann offen bleiben, ob ihr Verhalten den Widerrufsgrund von Art. 62 Abs. 1 lit. a AuG erfüllt (Erw. 3.3.3.3).
+
+## Text
+
+3.2.
+Die Höhe der Parteikosten bestimmt sich nach dem Anwaltsta
+rif. In Anwendung von §8a Abs.3 und §8c AnwT erscheint eine
+Entschädigung von CHF3'000.00 (inkl. Auslagen und MWSt) ange
+messen.
+13 Nichtverlängerung der Aufenthaltsbewilligung nach Auflösung der
+Familiengemeinschaft
+Hat eine ausländische Person im Familiennachzugsverfahren wesent
+liche Tatsachen verschwiegen, ist dies zu ihren Lasten zu berück
+sichtigen, wenn nach Auflösung der Familiengemeinschaft die erfolg
+reiche Integration im Sinne von Art.50 Abs.1 lit.a AuG beurteilt
+wird (Erw.3.3.3.3).
+Dabei kann offen bleiben, ob ihr Verhalten den Widerrufsgrund von
+Art.62 Abs.1 lit.a AuG erfüllt (Erw.3.3.3.3).
+Entscheid des Verwaltungsgerichts, 2.Kammer, vom 24.Oktober 2018, in
+Sachen A. gegen Amt für Migration und Integration (WBE.2018.172).
+Sachverhalt
+A.
+Der Beschwerdeführer heiratete am 14.Februar 2011 in der
+Türkei eine in der Schweiz niedergelassene Landsfrau, die am
+28.März 2011 seinen Familiennachzug beantragte (Akten des Amts
+für Migration und Integration [MI act.]2, 31ff.). Das MIKA klärte
+aufgrund des Altersunterschieds von 19Jahren die persönlichen und
+familiären Verhältnisse ab und bewilligte am 1.September 2011 den
+Familiennachzug (MI act.43ff.). Der Beschwerdeführer zog am
+26.Oktober 2011 bei seiner Ehefrau in X. ein und meldete sich am
+Folgetag bei der Gemeinde X. an (MI act.65f.). Am 22.November
+2011 wurde ihm eine Aufenthaltsbewilligung erteilt (MI act.74),
+
+welche am 27.Oktober 2016 letztmals bis 31.Oktober 2017 ver
+längert wurde (MI act.141). Trotz entsprechender Aufforderungen
+seitens des MIKA hatte der Beschwerdeführer bis dahin den Nach
+weis der Voraussetzungen für die in zeitlicher Hinsicht mögliche
+Umwandlung der Aufenthaltsbewilligung in eine Niederlassungsbe
+willigung nicht erbracht (MI act.140).
+Der Beschwerdeführer wurde wie folgt strafrechtlich verurteilt:
+Strafbefehl der Staatsanwaltschaft Y. vom 20.November
+2014: Busse von CHF80.00 wegen Widerhandlung gegen
+das Bundesgesetz über die Personenbeförderung vom
+20.März 2009 (Personenbeförderungsgesetz, PBG;
+SR745.1; MI act.87f.);
+Strafbefehl der Staatsanwaltschaft Y. vom 26.März 2015:
+Geldstrafe von 60Tagessätzen zu je CHF30.00, bedingt
+aufgeschoben bei einer Probezeit von zwei Jahren, und
+Busse von CHF500.00 wegen mehrfacher Drohung, Sach
+beschädigung und Beschimpfung (MI act.130ff.);
+Strafbefehl der Staatsanwaltschaft Y. vom 30.März 2017:
+Busse von CHF80.00 wegen Widerhandlung gegen das
+Personenbeförderungsgesetz (MI act.153f.).
+Mit Schreiben vom 8.Februar 2017 informierte die Einwohner
+kontrolle X. das MIKA darüber, dass der Beschwerdeführer seit dem
+16.Januar 2017 von seiner Ehefrau getrennt lebte (MI act.143).
+Darauf wurde der Beschwerdeführer am 21.Februar 2017 vom
+MIKA aufgefordert, die Gesuchsunterlagen betreffend Erteilung
+einer Aufenthaltsbewilligung nach Auflösung der Ehe oder der Fa
+miliengemeinschaft einzureichen (MI act.145f.). Dieser Auf
+forderung kam er am 17.März 2017 nach und erwähnte dabei seine
+drei in der Türkei lebenden Kinder, die er in die Schweiz holen wolle
+(MI act.175ff.). Auf entsprechende Aufforderung hin reichte er
+ergänzende Unterlagen ein (MI act.158ff., 170, 171f., 173f.).
+Aus finanziellen Gründen war der Beschwerdeführer am
+24.Februar 2017 wieder zu seiner Ehefrau gezogen (MI act.147ff.).
+Am 8.Juni 2017 unterzeichneten der Beschwerdeführer und seine
+Ehefrau eine Scheidungskonvention und mit Urteil des Bezirksge
+
+richts Z. vom 29.August 2017 wurde die Ehe geschieden (MI
+act.199ff.).
+Zwischenzeitlich hatte das MIKA dem Beschwerdeführer am
+29.Juni 2017 das rechtliche Gehör betreffend Nichtverlängerung der
+Aufenthaltsbewilligung und Wegweisung gewährt (MI act.189ff.)
+und der Beschwerdeführer mit Eingabe vom 12.Juli 2017 Stellung
+genommen (MI act.184).
+Mit Verfügung vom 23.Oktober 2017 wurde die Aufenthaltsbe
+willigung des Beschwerdeführers nicht mehr verlängert und er wurde
+aus der Schweiz weggewiesen (MI act.213ff.). Gegen diese Ver
+fügung erhob der Beschwerdeführer am 22.November 2017 durch
+seinen Rechtsvertreter beim Rechtsdienst des MIKA (Vorinstanz)
+Einsprache (MI act.241ff.).
+B.
+Am 27.März 2018 erliess die Vorinstanz folgenden Einsprache
+entscheid (act.1ff.):
+1.
+Die Einsprache wird abgewiesen.
+2.
+Es werden keine Gebühren erhoben.
+3.
+Es werden keine Parteientschädigungen zugesprochen.
+Auf die Begründung wird, soweit erforderlich, in den folgenden
+Erwägungen eingegangen.
+C.
+Mit Eingabe vom 26.April 2018 liess der Beschwerdeführer
+durch seinen Rechtsvertreter beim Verwaltungsgericht des Kantons
+Aargau (Verwaltungsgericht) Beschwerde einreichen und folgende
+Anträge stellen (act.12ff.):
+Es sei der Entscheid der Vorinstanz (Einspracheentscheid vom 27.März 2018)
+vollumfänglich aufzuheben; unter Kosten und Entschädigungsfolge.
+Die Begründung ergibt sich, soweit erforderlich, aus den nach
+stehenden Erwägungen.
+D.
+Nach fristgerechtem Eingang des Kostenvorschusses (act.18f.)
+wurde die Beschwerde mit Instruktionsverfügung vom 15.Mai 2018
+
+der Vorinstanz zur Beschwerdeantwort und Einreichung aller migra
+tionsamtlichen Akten zugestellt (act.20f.). Die Vorinstanz reichte
+mit Schreiben vom 18.Mai 2018 ihre Akten ein, hielt an ihren Er
+wägungen im angefochtenen Entscheid fest und beantragte die Ab
+weisung der Beschwerde (act.22). Die Beschwerdeantwort der Vor
+instanz wurde dem Beschwerdeführer mit Verfügung vom 22.Mai
+2018 zur Kenntnisnahme zugestellt. Ein weiterer Schriftenwechsel
+wurde nicht angeordnet (act.23f.).
+Mit elektronischer Eingabe vom 19.September 2018 zeigte
+Rechtsanwalt B., mit Sitz in V., dem Verwaltungsgericht an, dass er
+den Beschwerdeführer betreffend "Migrationsrecht, Eheschliessung"
+vertrete, und ersuchte um Akteneinsicht im vorliegenden Beschwer
+deverfahren (act.25ff.). In der Folge wies der Instruktionsrichter
+Rechtsanwalt B. mit Schreiben vom 20.September 2018 darauf hin,
+dass der Beschwerdeführer im hängigen Beschwerdeverfahren be
+reits von Rechtsanwalt C., mit Sitz in W., vertreten werde, und for
+derte Rechtsanwalt B. auf, mit dem Beschwerdeführer und Rechtsan
+walt C. zu klären, wer den Beschwerdeführer im hängigen
+Beschwerdeverfahren vor Verwaltungsgericht vertritt, und dies dem
+Verwaltungsgericht bis spätestens 1.Oktober 2018 mitzuteilen. Das
+instruktionsrichterliche Schreiben vom 20.September 2018 wurde
+Rechtsanwalt C. in Kopie zugestellt (act.33). Nachdem Rechtsan
+walt B. dem Verwaltungsgericht mit Schreiben seiner Kanzlei vom
+26.September 2018 (Posteingang) angezeigt hatte, dass er den Be
+schwerdeführer in anderer Sache als dem vorliegenden Beschwer
+deverfahren vertritt, wurde das Akteneinsichtsgesuch vom 19.Sep
+tember 2018 mit Instruktionsverfügung vom 26.September 2018 –
+unter Zustellung an den Beschwerdeführer – abgelehnt (act.47,
+48f.). Zwischenzeitlich waren dem Beschwerdeführer mit instruk
+tionsrichterlicher Verfügung vom 24.September 2018 zwei
+Schreiben des Rechtsanwalts B. an die Vorinstanz vom 18.und
+19.September 2018 zur Kenntnisnahme zugestellt worden
+(act.41f.). Mit Verfügung vom 2.Oktober 2018 wurde das Schrei
+ben von Rechtsanwalt B. vom 26.September 2018 (Posteingang;
+act.47) dem Beschwerdeführer und der Vorinstanz zur Kenntnis
+nahme zugestellt (act.50f.).
+
+E.
+Das Verwaltungsgericht hat den Fall am 24.Oktober 2018 bera
+ten und entschieden.
+Erwägungen
+I.
+1.
+Einspracheentscheide des MIKA können innert 30Tagen seit
+Zustellung mit Beschwerde an das Verwaltungsgericht weiterge
+zogen werden (§9 Abs.1 EGAR). Beschwerden sind schriftlich
+einzureichen und müssen einen Antrag sowie eine Begründung ent
+halten; der angefochtene Entscheid ist anzugeben, allfällige Beweis
+mittel sind zu bezeichnen und soweit möglich beizufügen (§2 Abs.1
+EGAR i.V.m. §43 VRPG).
+Nachdem sich die vorliegende Beschwerde gegen den Ein
+spracheentscheid der Vorinstanz vom 27.März 2018 richtet, ist die
+Zuständigkeit des Verwaltungsgerichts gegeben. Auf die frist und
+formgerecht eingereichte Beschwerde ist daher einzutreten.
+2.
+Unter Vorbehalt abweichender bundesrechtlicher Vorschriften
+oder Bestimmungen des EGAR können mit der Beschwerde an das
+Verwaltungsgericht einzig Rechtsverletzungen, einschliesslich Über
+schreitung oder Missbrauch des Ermessens, und unrichtige oder un
+vollständige Feststellung des rechtserheblichen Sachverhaltes gerügt
+werden. Die Ermessensüberprüfung steht dem Gericht jedoch grund
+sätzlich nicht zu (§9 Abs.2 EGAR; vgl. auch §55 Abs.1 VRPG).
+II.
+1.
+1.1.
+Die Vorinstanz hält in ihrem Einspracheentscheid fest, die Ehe
+des Beschwerdeführers sei mit Urteil vom 29.August 2017 geschie
+den worden. Ein Anspruch auf Erteilung und Verlängerung der Auf
+enthaltsbewilligung gestützt auf Art.43 AuG sei damit nicht mehr
+gegeben. Die Ehe in der Schweiz sei jedoch mehr als drei Jahre ge
+
+lebt worden, weshalb sich der Beschwerdeführer auf Art.50 Abs.1
+lit.a AuG berufen könne, wobei eine erfolgreiche Integration voraus
+gesetzt werde. Eine ausreichende wirtschaftliche Integration sei zu
+verneinen. So sei der Beschwerdeführer nach seiner Einreise und
+erneut nach Kündigung seiner Teilzeitstelle mit einer wöchentlichen
+Arbeitszeit von 17.5Stunden über längere Zeit arbeitslos gewesen.
+Auch wenn er inzwischen seit dem 1.Oktober 2017 eine Festan
+stellung habe, könne nicht auf eine erfolgreiche Integration in der
+Schweizer Arbeitswelt geschlossen werden. Auch eine erfolgreiche
+sprachliche Integration liege nicht vor, da er fünf Jahre nach der Ein
+reise in die Schweiz erst das Niveau A1 erreicht habe. Den vorge
+sehenen Deutschkurs vom 27.März 2017 bis zum 2.Juni 2017 habe
+er offensichtlich nicht besucht, da er am 11.Mai 2017 erneut zu
+einem Kursbesuch eingeladen worden sei. Da er sich bereits sechs
+einhalb Jahre in der Schweiz aufhalte, hätte er genügend Zeit gehabt,
+sich die erforderlichen Sprachkenntnisse (Referenzniveau A2) anzu
+eignen. Sodann habe der Beschwerdeführer zu Klagen Anlass ge
+geben. Die Frage, ob er aufgrund der zwei geringfügigen Bussen und
+der Geldstrafe von 60Tagessätzen schwerwiegend gegen die gel
+tende Rechtsordnung verstossen habe, könne offen gelassen werden,
+da weder ein blanker Strafregisterauszug noch Schuldenfreiheit und
+Nichtbezug von Sozialhilfe die fehlende sprachliche und wirtschaft
+liche Integration aufzuwiegen vermöchten. Insgesamt müsse eine
+erfolgreiche Integration verneint werden, womit die Verlängerung
+der Aufenthaltsbewilligung gestützt auf Art.50 Abs.1 lit.a AuG
+ausser Betracht falle. Auch die Voraussetzungen von Art.50 Abs.1
+lit.b AuG seien nicht erfüllt: Der Beschwerdeführer sei weder Opfer
+ehelicher Gewalt geworden noch gebe es Anhaltspunkte dafür, dass
+die Ehe nicht aus freiem Willen geschlossen worden wäre. Auch
+könne eine starke Gefährdung der sozialen Wiedereingliederung im
+Herkunftsland ausgeschlossen werden. Immerhin lebten in seinem
+Heimatland nach eigenen Angaben seine Mutter und seine drei
+Kinder. Schliesslich seien wichtige persönliche Gründe für einen
+weiteren Verbleib in der Schweiz im Sinne von Art.50 Abs.1 lit.b
+AuG i.V.m. Art.31 Abs.1 VZAE und damit auch ein schwerwiegen
+der persönlicher Härtefall gemäss Art.30 Abs.1 lit.b AuG zu vernei
+
+nen. Die Vorinstanz führt weiter aus, dass die Nichtverlängerung der
+Aufenthaltsbewilligung vor Art.8 EMRK sowie Art.13 BV stand
+halte und keine Vollzugshindernisse erkennbar seien.
+1.2.
+Der Beschwerdeführer wendet dagegen ein, er arbeite seit dem
+1.Oktober 2017 ununterbrochen zu 100% mit einem Bruttosalär von
+CHF4'450.00 pro Monat. Es stimme somit keineswegs, dass er
+Mühe habe, in der Schweiz beruflich Tritt zu fassen; dabei sei insbe
+sondere auf die aktuelle Situation abzustellen. Er habe keine Prob
+leme, sich im Alltag sprachlich zurecht zu finden. Zum Strafbefehl
+der Staatsanwaltschaft Y. vom 26.März 2016 (richtig: 2015) sei fest
+zuhalten, dass es sich um einen häuslichen Konflikt gehandelt habe
+und die Busse von CHF500.00 auf ein eher marginales Verschulden
+schliessen lasse. Daher habe er einen Anspruch auf Verlängerung der
+Aufenthaltsbewilligung gestützt auf Art.50 Abs.1 AuG.
+2.
+2.1.
+Gemäss Art.43 Abs.1 AuG haben ausländische Ehegatten und
+ledige Kinder unter 18Jahren von Personen mit Niederlassungs
+bewilligung Anspruch auf Erteilung und Verlängerung einer Auf
+enthaltsbewilligung, sofern sie mit diesen zusammenwohnen. Der
+Anspruch auf Aufenthalt setzt eine tatsächlich gelebte eheliche Be
+ziehung und nicht nur den formellen Bestand einer Ehe voraus (vgl.
+Botschaft des Bundesrates zum Bundesgesetz über die Ausländerin
+nen und Ausländer vom 8.März 2002 [Botschaft AuG], BBl 2002
+3709ff., 3753f.). Das Erfordernis des Zusammenwohnens besteht
+nur dann nicht, wenn für die getrennten Wohnorte wichtige Gründe
+vorliegen und die Familiengemeinschaft weiter besteht (Art.49
+AuG). Wichtige Gründe für eine Ausnahme vom Erfordernis des Zu
+sammenwohnens sind insbesondere berufliche Verpflichtungen oder
+eine vorübergehende Trennung aufgrund erheblicher familiärer Prob
+leme (Art.76 VZAE).
+2.2.
+Die Vorinstanz führt zutreffend aus, dass der Anspruch auf Ver
+längerung der Aufenthaltsbewilligung gestützt auf Art.43 AuG nicht
+
+mehr besteht, da die Ehe des Beschwerdeführers mit Urteil des Be
+zirksgerichts Z. vom 29.August 2017 geschieden wurde.
+3.
+3.1.
+Gemäss Art.50 Abs.1 AuG besteht der Anspruch des Ehegatten
+und der Kinder auf Erteilung und Verlängerung der Aufenthalts
+bewilligung nach Art.43 AuG trotz Auflösung der Ehe oder der Fa
+miliengemeinschaft weiter, wenn die Ehegemeinschaft mindestens
+drei Jahre bestanden hat und eine erfolgreiche Integration vorliegt
+(lit.a) oder wichtige persönliche Gründe einen weiteren Aufenthalt
+in der Schweiz erforderlich machen (lit.b).
+Die in Art.50 Abs.1 lit.a AuG geforderte Ehegemeinschaft be
+steht grundsätzlich solange als die Eheleute in der Schweiz zu
+sammenleben (vgl. MARC SPESCHA, in: MARC SPESCHA/HANSPETER
+THÜR/ANDREAS ZÜND/PETER BOLZLI [Hrsg.], Kommentar Mig
+rationsrecht, 4.Aufl., Zürich 2015, Art.50 AuG N4; BGE
+136II113, Erw.3.3), wobei auch in diesem Zusammenhang Art.49
+AuG zu beachten ist (vgl. Urteil des Bundesgerichts vom 23. Dezem
+ber 2010 [2C_544/2010], Erw.2.3.1). Bei Auflösung der Ehegemein
+schaft genügt der Nachweis des Getrenntlebens und es ist weder eine
+eheschutzrechtliche oder gerichtliche Trennung noch eine Scheidung
+der Eheleute erforderlich (MARC SPESCHA, a.a.O., Art.50 AuG N1).
+3.2.
+Der Beschwerdeführer heiratete am 14.Februar 2011 eine in
+der Schweiz niederlassungsberechtigte Landsfrau und lebte ab dem
+26.Oktober 2011 mit seiner Ehefrau in der Schweiz zusammen. Die
+Ehe wurde am 29.August 2017 geschieden und der Beschwerde
+führer wurde verpflichtet, die eheliche Wohnung bis spätestens
+31.Oktober 2017 zu verlassen (MI act.199ff.). Die eheliche Ge
+meinschaft dauerte damit mehr als drei Jahre, womit die Voraus
+setzungen von Art.50 Abs.1 lit.a AuG in zeitlicher Hinsicht erfüllt
+sind.
+3.3.
+3.3.1.
+Wie bereits festgehalten, kann der Beschwerdeführer selbst bei
+Vorliegen einer dreijährigen Ehegemeinschaft aus Art.50 Abs.1 lit.a
+
+AuG nur dann einen Anspruch auf Verlängerung seiner Aufent
+haltsbewilligung ableiten, wenn er als in der Schweiz erfolgreich
+integriert bezeichnet werden kann. Beide Kriterien müssen kumulativ
+vorliegen, damit ein Anspruch auf Verlängerung der Aufenthaltsbe
+willigung besteht (BGE136II113, Erw.3.3.3).
+Der Gesetzgeber hat auf eine Legaldefinition des Begriffs „In
+tegration“ bewusst verzichtet, da dieser dem aktuellen gesellschaft
+lichen Verständnis und dem Wandel der Zeit unterworfen bleiben soll
+(Botschaft AuG, BBl 2002, S.3796). Art.4 AuG umschreibt ledig
+lich das Ziel der Integration, welches darin besteht, dass die ein
+heimische und ausländische Wohnbevölkerung auf der Grundlage der
+Werte der Bundesverfassung und unter gegenseitiger Achtung und
+Toleranz zusammenleben. Dies beinhaltet die Teilhabe am wirt
+schaftlichen, sozialen und kulturellen Leben, setzt einen entsprechen
+den Willen der gesamten Bevölkerung voraus und verlangt auf Seiten
+der Ausländerinnen und Ausländer eine Auseinandersetzung mit den
+gesellschaftlichen Verhältnissen und Lebensbedingungen in der
+Schweiz sowie das Erlernen einer Landessprache. Eine erfolgreiche
+Integration im Sinne von Art.50 Abs.1 lit.a AuG liegt nach Art.77
+Abs.4 VZAE namentlich dann vor, wenn die ausländische Person
+die rechtsstaatliche Ordnung und die Werte der Bundesverfassung
+respektiert (lit.a), und den Willen zur Teilnahme am Wirtschafts
+leben und zum Erwerb der am Wohnort gesprochenen Landessprache
+bekundet (lit.b).
+In Konkretisierung von Art.4 AuG hält Art.4 VIntA fest, dass
+sich der Beitrag der Ausländerinnen und Ausländer zur Integration
+namentlich an der Respektierung der rechtsstaatlichen Ordnung und
+der Werte der Bundesverfassung (lit.a), im Erlernen der am Wohnort
+gesprochenen Landessprache (lit.b), in der Auseinandersetzung mit
+den Lebensbedingungen in der Schweiz (lit.c) und im Willen zur
+Teilnahme am Wirtschaftsleben und zum Erwerb von Bildung (lit.d)
+zeigt. Sowohl bei den Voraussetzungen nach Art.77 Abs.4 VZAE
+als auch bei der Auflistung in Art.4 VIntA handelt es sich lediglich
+um eine beispielhafte Aufzählung von Aspekten, die für eine erfolg
+reiche Integration sprechen können, und nicht um eine Liste not
+wendiger Voraussetzungen. Eine erfolgreiche Integration ist immer
+
+unter Berücksichtigung sämtlicher Aspekte des Einzelfalls zu beur
+teilen (vgl. Weisungen und Erläuterungen des SEM zum Ausländer
+bereich [Weisungen AuG], Überarbeitete und vereinheitlichte Fas
+sung, Bern, Oktober 2013 [Stand 1.Juli 2018], Ziff.6.15.2, S.153f.
+mit Verweis auf diverse Urteile des Bundesgerichts bis Mai 2016,
+sowie Weisungen und Kreisschreiben des SEM, IV.Integration [In
+tegrations Weisung], Version vom 1.Januar 2009 [Stand 1.Januar
+2015], Ziff.2.3.1, S.6f.).
+Das Bundesverwaltungsgericht hat bezüglich erfolgreicher In
+tegration nach Art.50 Abs.1 lit.a AuG Folgendes festgehalten
+(Urteil des Bundesverwaltungsgerichts vom 11.April 2012 [C
+7404/2009], Erw.8.2):
+Allzu hohe Anforderungen an den Integrationsgrad dürfen im Anwendungsbe
+reich von Art.50 Abs.1 Bst.a AuG nicht gestellt werden. Die erfolgreiche In
+tegration ist hier weder ein Aspekt des privaten Interesses, das sich im Rahmen
+der Interessenabwägung bei einem Ermessensentscheid (vgl. Art.54 Abs.2
+und Art.96 Abs.1 AuG) gegen das zum vornherein erhebliche Gewicht des
+öffentlichen Interesses an der Wahrung einer restriktiven Migrationspolitik
+durchsetzen müsste, noch stellt sie sich als ein Wertungskriterium bei der Kon
+kretisierung der restriktiv auszulegenden unbestimmten Rechtsbegriffe des
+„schwerwiegenden persönlichen Härtefalles“ nach Art.30 Abs.1 Bst.b AuG
+bzw. des „wichtigen Grundes“ nach Art.50 Abs.1 Bst.b AuG dar (vgl. Art.31
+Abs.1 Bst.a VZAE). Sie ist vielmehr eine eigenständige Anspruchsvorausset
+zung, die denjenigen ausländischen Personen zu einem Aufenthaltsrecht
+verhelfen will, die unter Berücksichtigung ihrer konkreten Situation einen aus
+reichenden Beitrag zum Integrationsprozess geleistet haben, wie er in Art.77
+Abs.4 VZAE und Art.4 VIntA umschrieben ist.
+Vorbehaltlich besonderer Umstände ist die erfolgreiche Integra
+tion im Sinne von Art.50 Abs.1 lit.a AuG gemäss bundesgericht
+licher Rechtsprechung (bereits) zu bejahen, wenn eine ausländische
+Person eine feste Anstellung hat, finanziell unabhängig ist, sich kor
+rekt verhält und die örtliche Sprache beherrscht (Urteil des Bun
+desgerichts vom 9.August 2016 [2C_218/2016], Erw.3.2.2 mit Hin
+weisen).
+Das Bundesgericht hat seine Rechtsprechung zu Art.50 Abs.1
+lit.a AuG konstant bestätigt und bezüglich Anforderungen an die
+
+sprachliche Integration unter Verweis auf sein Urteil 2C_65/2014
+vom 27.Januar 2015 festgehalten, eine erfolgreiche Integration liege
+bereits dann vor, wenn die betroffene Person das Sprachniveau A1
+erreiche (Urteil des Bundesgerichts vom 13.April 2018
+[2C_595/2017], Erw.5.7.2). Entgegen der Auffassung der Vor
+instanz, welche unter Verweis auf Ziff.2.2 der Integrations Weisung
+(5.Kriterium: Erlernen der am Wohnort gesprochenen Landes
+sprache; Verständigung [Art.4 lit.b VIntA]) sowie unter Verweis auf
+Anhang1 der Integrations Weisung ein Sprachniveau A2 verlangt,
+genügt für eine erfolgreiche sprachliche Integration im Sinne von
+Art.50 Abs.1 lit.a AuG also das Erreichen des Sprachniveaus A1.
+Die Vorinstanz hat offenbar übersehen, dass sich der zitierte An
+hang1 der Integrations Weisung auf Kriterien zum Grad der Integra
+tion für die vorzeitige Erteilung der Niederlassungsbewilligung nach
+Art.62 VZAE bezieht.
+3.3.2.
+Die Vorinstanz verneint sowohl die wirtschaftliche wie auch die
+sprachliche Integration des Beschwerdeführers und lässt offen, ob
+diese auch mit Blick auf sein übriges Verhalten zu verneinen sei.
+3.3.3.
+3.3.3.1.
+Nachdem der Beschwerdeführer gemäss Zertifikat vom
+20.Februar 2017 (MI act.169) sowohl schriftlich als auch mündlich
+das SprachniveauA1 erreicht hat, ist die Voraussetzung der erfolg
+reichen sprachlichen Integration gemäss bundesgerichtlicher Recht
+sprechung formell erfüllt. Die Vorinstanz verneint die sprachliche
+Integration u.a. gestützt auf die Tatsache, dass der Beschwerdeführer
+erst fünf Jahre nach der Einreise in die Schweiz das Niveau A1 er
+reicht habe. Der Umstand, dass der Beschwerdeführer erst im Jahr
+2017 ein Zertifikat über das Sprachniveau A1 erwarb, lässt tatsäch
+lich auf mangelhafte Bemühungen hinsichtlich der sprachlichen In
+tegration schliessen. Während seiner langen Aufenthaltsdauer in der
+Schweiz war ein ernsthafter Wille zum Erwerb der Landessprache
+über Jahre hinweg kaum zu erkennen. Dennoch ist die Frage der
+sprachlichen Integration aus heutiger Sicht knapp zu bejahen.
+
+3.3.3.2.
+Mit Blick auf den Willen zur Teilnahme am Wirtschaftsleben in
+der Schweiz ist festzuhalten, dass der Beschwerdeführer nach seinem
+Zuzug im Jahr 2011 zunächst nur marginale Anstrengungen unter
+nommen hat, beruflich Fuss zu fassen. So lebte er während rund
+sechs Jahren grösstenteils auf Kosten seiner Ehefrau und der Arbeits
+losenversicherung. In den Jahren 2014 bis 2016 arbeitete er als Un
+terhaltsreiniger lediglich 17.5Stunden pro Woche (MI act.84, 114).
+Diese Stelle kündigte er auf Oktober 2016 grundlos (MI act.148f.)
+und bezog danach Arbeitslosentaggelder (MI act.160ff.). Nach der
+Trennung vom 16.Januar 2017 wurde er – trotz bereits gestelltem
+Antrag auf Sozialhilfe – nur deshalb nicht von der Sozialhilfe ab
+hängig, weil er aus finanziellen Gründen am 24.Februar 2017 wieder
+bei seiner Ehefrau einzog und weiterhin auf ihre Kosten lebte (MI
+act.143 und 147ff., insb. 149). Bis zur Trennung von seiner Ehefrau
+lag damit kein Wille zur Teilnahme am Wirtschaftsleben vor. Erst
+aufgrund der unterzeichneten Scheidungskonvention vom 8.Juni
+2017 sowie der drohenden Ehescheidung und damit unter dem Druck
+des in der Folge eingeleiteten migrationsrechtlichen Verfahrens be
+mühte er sich ernsthaft um eine Festanstellung, was sich insbe
+sondere auch aus seiner Stellungnahme vom 12.Juli 2017 ergibt
+(MI act.184), wobei es ihm erst per 1.Oktober 2017 gelang, eine
+Anstellung zu finden (MI act.228). Ob unter diesen Umständen von
+einer erfolgreichen beruflichen Integration gesprochen werden kann,
+ist mehr als fraglich, kann aber, wie nachfolgend zu zeigen sein wird,
+offen gelassen werden.
+3.3.3.3.
+Wie bereits ausgeführt, umfasst die Prüfung der erfolgreichen
+Integration auch die Frage, ob sich die betroffene Person an die in
+der Schweiz geltende rechtsstaatliche Ordnung hält. Ist dies der Fall,
+bedarf es keiner weiteren Ausführungen. Liegt jedoch kein so
+genannt tadelloses Verhalten vor, ist zu klären, ob der betroffenen
+Person aufgrund ihres Fehlverhaltens eine erfolgreiche Integration
+abzusprechen ist. Dabei ist einerseits auf die Kriterien für den Wider
+ruf des Aufenthaltsrechts abzustellen und andererseits auf das weitere
+Verhalten, welches zu Klagen Anlass gegeben hat. Eine erfolgreiche
+
+Integration im Sinne von Art.50 Abs.1 lit.a AuG liegt dann nicht
+vor, wenn sich eine betroffene Person in erheblicher Weise nicht an
+die in der Schweiz geltende rechtsstaatliche Ordnung hält oder sich
+gar die Frage des Widerrufs des Aufenthaltsrechts stellen könnte.
+Vorab ist festzuhalten, dass die beiden Verstösse gegen das Per
+sonenbeförderungsgesetz aus den Jahren 2014 und 2017 (MI
+act.87f., 153f.), welche je mit einer Busse von CHF80.00 geahndet
+wurden, für sich allein effektiv nicht auf eine mangelhafte Integra
+tion schliessen lassen. Dies auch wenn der Beschwerdeführer im
+vorinstanzlichen Verfahren noch tatsachenwidrig behaupten liess, in
+beiden Fällen habe er lediglich vergessen den Nachtzuschlag zu
+lösen, was zumindest für die Busse aus dem Jahr 2017 nicht zu
+treffen kann, da der Deliktszeitpunkt auf 19.03Uhr terminiert wurde.
+Gravierender ist hingegen die Verurteilung zu einer Geldstrafe
+von 60Tagessätzen zu je CHF30.00, bedingt aufgeschoben bei einer
+Probezeit von zwei Jahren, und einer Busse von CHF500.00 wegen
+mehrfacher Drohung, Sachbeschädigung und Beschimpfung gemäss
+Strafbefehl der Staatsanwaltschaft Y. vom 26.März 2015 zu qualifi
+zieren. Zwar lässt der Beschwerdeführer vorbringen, er wolle die
+Straftat nicht bagatellisieren (act.14), tut jedoch genau dies, indem
+er darauf hinweist, dass es sich um einen häuslichen Konflikt ge
+handelt habe, welcher anderswo nicht zur Anzeige gebracht worden
+wäre. Entgegen seiner Auffassung liegt auch nicht nur ein marginales
+Verschulden vor (act.14). Immerhin wurde der Beschwerdeführer
+unter anderem rechtskräftig wegen Drohung verurteilt, wobei er
+seiner Ehefrau gemäss Strafbefehl mehrfach mit dem Tod gedroht
+hatte (MI act.130ff.).
+Hinzu kommt, dass der Beschwerdeführer von Beginn des Ver
+fahrens auf Familiennachzug an nicht die Wahrheit gesagt hat. So hat
+er gegenüber seiner Ehefrau (MI act.43) wie offenbar auch gegen
+über dem MIKA (MI act.67) verschwiegen, dass er in der Türkei
+drei unmündige Kinder hat (geb. 2006, 2008 und 2010), wobei das
+jüngste Kind (D., geb. 2010) noch nicht einmal zehn Monate alt war,
+als er die in der Schweiz niedergelassene Landsfrau geheiratet hat.
+Den Akten ist weiter zu entnehmen, dass alle drei Kinder die gleiche
+Mutter haben (MI act.176f.), was auf eine langjährige Beziehung
+
+des Beschwerdeführers zur Mutter seiner Kinder schliessen lässt. Bei
+dieser Konstellation muss sich der Beschwerdeführer vorwerfen las
+sen, seine Kinder einzig deshalb verschwiegen zu haben, um wei
+teren Fragen seiner Ehefrau und insbesondere des MIKA nach dem
+Fortbestand der Beziehung zu seinen Kindern und vor allem zur
+Mutter seiner Kinder zu entgehen und zu verhindern, dass das MIKA
+weitere Abklärungen mit Blick auf das Vorliegen einer rein auslän
+derrechtlich motivierten Ehe vornehmen würde. Dem Beschwerde
+führer ist damit vorzuwerfen, er habe wissentlich wesentliche Tat
+sachen verschwiegen bzw. durch Nichtoffenlegung seiner Familien
+situation im Heimatland dafür gesorgt, dass seine Ehefrau im Be
+willigungsverfahren betreffend seinen Familiennachzug falsche An
+gaben gemacht hat. Mit anderen Worten liegen gewichtige Hinweise
+vor, wonach der Beschwerdeführer durch sein Verhalten einen
+Widerrufsgrund gesetzt hat (vgl. auch BGE 142 II 265). Ob der
+Widerrufsgrund gemäss Art.62 Abs.1 lit.a AuG erfüllt ist, womit
+ein allfälliger Anspruch nach Art.50 AuG erlöschen würde (Art.51
+Abs.2 lit.b AuG), kann offen bleiben. Fest steht, dass der Beschwer
+deführer mit diesem Verhalten und unter Berücksichtigung seiner
+Straffälligkeit eindrücklich gezeigt hat, dass er nicht gewillt ist, sich
+an die schweizerische Rechtsordnung zu halten, wobei wiederum
+offen gelassen werden kann, ob die Heirat nicht doch rechtsmiss
+bräuchlich erfolgt ist. In Bezug auf die öffentliche Ordnung kann
+nicht von einer erfolgreichen Integration gesprochen werden.
+3.3.3.4.
+Nach dem Gesagten liegt unter Berücksichtigung sämtlicher re
+levanter Umstände, insbesondere mit Blick auf die Respektierung der
+Rechtsordnung, keine erfolgreiche Integration im Sinne von Art.50
+Abs.1 lit.a AuG vor.
+3.4.
+Im Sinne eines Zwischenfazits ist festzuhalten, dass die Ehege
+meinschaft zwar länger als drei Jahre gedauert hat, der Beschwerde
+führer aber nicht im Sinne von Art.50 Abs.1 lit.a AuG erfolgreich
+integriert ist. Damit besteht gestützt auf diese Bestimmung kein An
+spruch auf Verlängerung der Aufenthaltsbewilligung.
+
+4.
+4.1.
+Zu den weiteren gesetzlichen Voraussetzungen, welche grund
+sätzlich einen Anspruch auf eine Verlängerung der Aufenthaltsbe
+willigung begründen könnten, hat sich der Beschwerdeführer nicht
+geäussert. Auch hat er sich in der Verwaltungsgerichtsbeschwerde zu
+keinem dieser Punkte mit dem Einspracheentscheid auseinanderge
+setzt. Da sich die Vorinstanz rechtsgenüglich mit diesen Anspruchs
+voraussetzungen inkl. der massgeblichen Bundesgerichtspraxis aus
+einandergesetzt hat und diese nachvollziehbar auf den vorliegenden
+Fall angewandt hat, erübrigt es sich, erneut detailliert auf diese Fra
+gen einzugehen.
+4.2.
+Die Vorinstanz hat unter Verweis auf die massgebliche bundes
+gerichtliche Rechtsprechung insbesondere zutreffend ausgeführt,
+dass zwar grundsätzlich wichtige persönliche Gründe im Sinne von
+Art.50 Abs.1 lit.b AuG vorliegen können, wenn die Ehegattin oder
+der Ehegatte Opfer ehelicher Gewalt wurde und die soziale Wieder
+eingliederung im Herkunftsland stark gefährdet erscheint, dies auf
+den Beschwerdeführer aber nicht zutreffe. Weder sei er Opfer ehe
+licher Gewalt geworden, noch erscheine seine soziale Wiederein
+gliederung im Herkunftsland aufgrund der gescheiterten Ehe als stark
+gefährdet. Immerhin verfüge er dort über eine Familie. So lebten
+gemäss eigenen Angaben seine Mutter und seine drei unmündigen
+Kinder in der Türkei (Einspracheentscheid, Erw.5.1ff.).
+4.3.
+Es ist unter diesen Umständen auch nicht zu beanstanden, wenn
+für die Vorinstanz die Erteilung einer Härtefallbewilligung im Sinne
+von Art.30 Abs.1 lit.b AuG nicht zur Diskussion stand (Ein
+spracheentscheid, Erw.5.4). Liegen keine wichtigen persönlichen
+Gründe im Sinne von Art.50 Abs.1 lit.b AuG vor und wurden bei
+der Prüfung dieser Frage die Kriterien gemäss Art.31 VZAE berück
+sichtigt, liegt regelmässig auch kein schwerwiegender persönlicher
+Härtefall im Sinne von Art.30 Abs.1 lit.b AuG vor.
+Die Prüfung eines schwerwiegenden persönlichen Härtefalles
+im Sinne von Art.30 Abs.1 lit.b AuG drängt sich nur dann auf,
+
+wenn weitere, nicht aus der gescheiterten Ehe resultierende Härte
+fallaspekte vorliegen, wobei sämtlichen Umständen, die auf einen
+schwerwiegenden persönlichen Härtefall hindeuten, Rechnung zu
+tragen ist.
+Es sind vorliegend keine Umstände ersichtlich, die unabhängig
+von der vormals bestehenden Ehe auf das Vorliegen einer solchen
+Härtefallsituation hindeuten würden. Daran ändert auch nichts, dass
+der Beschwerdeführer ohne jegliche Begründung geltend macht, die
+politische Lage hindere ihn als Kurde in die Türkei zurückzukehren
+(MI act.176). Damit belegt er nicht rechtsgenüglich, dass seine
+Wiedereingliederung in der Türkei stark gefährdet wäre. Immerhin
+lebte er bis zu seinem 33.Altersjahr in der Türkei und führt nicht
+aus, inwiefern sich an seiner persönlichen Situation in der Türkei
+seither etwas geändert hätte (MI act.115 und 176f.).
+4.4.
+Die Vorinstanz hat überdies zutreffend darauf hingewiesen, dass
+nicht ersichtlich ist, inwiefern die Nichtverlängerung der Aufent
+haltsbewilligung zu einer Verletzung von Art.8 EMRK führen
+könnte (Einspracheentscheid, Erw.7). Weitere Ausführungen dazu
+erübrigen sich. Anzumerken ist einzig, dass daran auch das neue
+Urteil des Bundesgerichts zu Art.8 EMRK vom 8.Mai 2018
+(2C_105/2017, Erw.3) nichts ändert, zumal der Beschwerdeführer
+sich noch keine zehn Jahre in der Schweiz aufhält und keine erfolg
+reiche Integration vorliegt (siehe vorne Erw.3.3 und3.4).
+4.5.
+Wie die Vorinstanz weiter zutreffend ausführt, sind keine Voll
+zugshindernisse im Sinne von Art.83 AuG ersichtlich und wurden
+auch nicht geltend gemacht (Einspracheentscheid, Erw.9).
+5.
+Zusammenfassend ist festzuhalten, dass die Nichtverlängerung
+der Aufenthaltsbewilligung des Beschwerdeführers gemäss na
+tionalem Recht nicht zu beanstanden ist und auch vor Art.8 EMRK
+standhält. Der Entscheid der Vorinstanz betreffend Nichtver
+längerung der Aufenthaltsbewilligung und Wegweisung aus der
+Schweiz ist demnach nicht zu beanstanden. Nachdem auch dem Voll
+
+zug der Wegweisung keine Hindernisse entgegenstehen, ist die Be
+schwerde abzuweisen.
+III.
+Im Beschwerdeverfahren werden die Verfahrenskosten nach
+Massgabe des Unterliegens und Obsiegens auf die Parteien verlegt
+(§31 Abs.2 VRPG). Nachdem der Beschwerdeführer unterliegt,
+gehen die Kosten des verwaltungsgerichtlichen Verfahrens zu seinen
+Lasten. Eine Parteientschädigung fällt ausser Betracht (§32 Abs.2
+VRPG).
+14 Widerruf der Niederlassungsbewilligung; Verhältnismässigkeitsprüfung
+Bemessung des öffentlichen Interesses bei Straffälligkeit mit kultu
+rellem Hintergrund (Erw.3.2.2)
+Bemessung des privaten Interesses insbesondere mit Blick auf die
+Aufenthaltsdauer (Erw.3.3)
+Entscheid des Verwaltungsgerichts, 2.Kammer, vom 7.November 2018, in
+Sachen A.A. gegen Amt für Migration und Integration (WBE.2017.391).
+Sachverhalt
+A.
+Der Beschwerdeführer reiste am 20.April 1991 im Alter von
+15Jahren in die Schweiz ein und erhielt im Rahmen des Fami
+liennachzugs eine Niederlassungsbewilligung zum Verbleib bei
+seinen Eltern (Akten des Amts für Migration und Integration
+[MI act.]3ff.).
+Am 11.Mai 1993 wurde der Beschwerdeführer mit Strafbefehl
+der Jugendanwaltschaft des Kantons X. wegen Widerhandlung gegen
+das ANAG zu einer Busse von CHF60.00 verurteilt (MI act.17).
