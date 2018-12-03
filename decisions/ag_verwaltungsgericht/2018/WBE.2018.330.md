@@ -1,0 +1,290 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2018.330"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2018.330"
+decided: "2018-12-03"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2373"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2373"
+cites_decisions: ["1C_204/2015"]
+cites_law: ["switzerland/bund/acts/700/art-022.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2018.330
+
+## Regeste
+
+Grenzabstand für Luft-Wasser-Wärmepumpen mit Aussenstandort 
+Grenzabstandsvorschriften gelten im Kanton Aargau nicht nur für Gebäude im Sinne der Begriffsdefinition der IVHB, sondern für alle Arten von Bauten und Anlagen. Vom Grenzabstandsprivilegium nach § 18 Abs. 2 ABauV und § 19 Abs. 2 BauV profitieren nicht nur Kleinbauten, sondern auch Anlagen mit entsprechenden Dimensionen. Sollen bestimmte Bauten oder Anlagen von der Einhaltung eines Grenzabstandes dispensiert werden, z.B. Bauten und Anlagen mit Bagatellcharakter, muss der Gesetzgeber (in der BNO) eine entsprechende Festlegung treffen.
+
+## Text
+
+andernorts auf die Parzelle Nr.VVV ausgedehnt wird. Hätte die Be
+schwerdeführerin diese Neuzonierung nicht angefochten und die Er
+teilung der aufschiebenden Wirkung beantragt (was die Gemeinde B.
+von sich aus umsetzte), wären theoretisch Vorbereitungsmassnahmen
+zur Überbauung der Parzelle Nr.VVV möglich gewesen und damit
+Fakten gegen die Zuweisung der eigenen Grundstücksteile zur
+Bauzone geschaffen worden. Folglich ist in der vorliegenden Kon
+stellation die Beschwerdeführerin durch den Beschluss, die Parzelle
+Nr.VVV neu einer Bauzone zuzuweisen, materiell beschwert; ihr
+schutzwürdiges Interesse an der Nichteinzonung dieses Grundstücks
+ist ausgewiesen.
+21 Grenzabstand für Luft Wasser Wärmepumpen mit Aussenstandort
+Grenzabstandsvorschriften gelten im Kanton Aargau nicht nur für Ge
+bäude im Sinne der Begriffsdefinition der IVHB, sondern für alle Arten
+von Bauten und Anlagen. Vom Grenzabstandsprivilegium nach §18
+Abs.2 ABauV und §19 Abs.2 BauV profitieren nicht nur Kleinbauten,
+sondern auch Anlagen mit entsprechenden Dimensionen. Sollen bestimm
+te Bauten oder Anlagen von der Einhaltung eines Grenzabstandes dispen
+siert werden, z.B. Bauten und Anlagen mit Bagatellcharakter, muss der
+Gesetzgeber (in der BNO) eine entsprechende Festlegung treffen.
+Aus dem Entscheid des Verwaltungsgerichts, 3.Kammer, vom 3.Dezember
+2018, in SachenA. und B. gegen C., D., Gemeinderat E. und Departement
+Bau, Verkehr und Umwelt (WBE.2018.330).
+Aus den Erwägungen
+1.
+(…)
+Der streitgegenständliche, ausserhalb des Wohnhauses der Be
+schwerdegegner geplante Horizontal Splitverdampfer, Typ VHS M
+
+5, Bestandteil einer im Hausinnern aufgestellten Luft Wasser Wär
+mepumpe des Modells Ochsner Air 7 C, ist 1,08 m hoch, 1,29 m
+breit und 0,96 m tief. Der Abstand vom bewilligten Standort des Ver
+dampfers zur gemeinsamen Grundstücksgrenze mit den Beschwerde
+führern beträgt 0,8 m. (…)
+2.
+2.1.
+Im angefochtenen Entscheid (Erw.5) erwog die Vorinstanz,
+dass der Splitverdampfer den gemäss verwaltungsgerichtlicher
+Rechtsprechung (AGVE 2012, S.146ff.) auch auf Kleinstbauten im
+Sinne von §49 Abs.2 lit.d BauV anwendbaren Grenzabstand nach
+§18 Abs.2 ABauV von 2 m um 1,2 m unterschreite. Dem Umstand,
+dass Klein und Anbauten nach der Definition in Anhang 1 Ziff. 2.2
+BauV Gebäude seien, Stelen und Wärmepumpen aber keine Gebäu
+dequalität besässen, habe das aargauische Verwaltungsgericht – im
+Gegensatz zum luzernischen Kantonsgericht, das baupolizeiliche
+Grenzabstände nur auf Bauten, nicht dagegen auf Anlagen wie Luft
+Wasser Wärmepumpen anwende (LGVE 2016 IV Nr.4 vom 4.Mai
+2016, Erw.4.4.1) – keine Bedeutung beigemessen. Die festgestellte
+Verletzung des Grenzabstandes spreche gegen die Erteilung einer
+Baubewilligung für den Splitverdampfer.
+In der Beschwerdeantwort regte die Vorinstanz jedoch an, das
+Verwaltungsgericht möge seine Praxis auch mit Blick auf eine
+schweizweit einheitliche Verwendung von Baubegriffen überdenken
+und dahingehend präzisieren, dass für Bagatellanlagen wie den Split
+verdampfer keine Grenzabstandsvorschriften gelten.
+(…)
+2.2.
+Die Beschwerdeführer sind weiterhin der Überzeugung, dass
+der aussen aufgestellte Splitverdampfer, der einen funktionellen Be
+standteil der sich im Innern des Wohnhauses befindlichen Heizanlage
+bilde, nicht als eigenständige Kleinbaute betrachtet werden dürfe und
+somit eigentlich den ordentliche Grenzabstand nach §7 Abs.4 BNO
+von 4 m einhalten müsste. Auf jeden Fall werde auch der privilegier
+te Grenzabstand für Kleinbauten nach §18 Abs.2 ABauV verletzt,
+
+weshalb für den Splitverdampfer so oder so keine Baubewilligung
+erteilt werden könne.
+2.3.
+Derweil hält der Gemeinderat E. daran fest, dass der Splitver
+dampfer kein Gebäude sei, damit nicht unter den Begriff der Klein
+baute im Sinne von §18 ABauV falle und folglich keinen Grenzab
+stand einhalten müsse. Alles andere wäre eine unzulässige Eigen
+tumsbeschränkung, für die weder eine gesetzliche Grundlage noch
+ein öffentliches Interesse bestehe, und die völlig unverhältnismässig
+wäre.
+3.
+3.1.
+Gemäss §47 Abs.1 BauG schreiben die Gemeinden Grenz und
+Gebäudeabstände vor. Diese Bestimmung ist gleichzeitig Auftrag wie
+Verpflichtung an die Gemeinden, in ihren Nutzungsvorschriften die
+einzuhaltenden (Grenz )Abstände zu regeln (CHRISTIAN HÄUPTLI,
+in: Kommentar zum Baugesetz des Kantons Aargau, Bern 2013, §47
+N4). Die Verpflichtung zur Abstandsregelung knüpft an das bundes
+rechtlich definierte Begriffspaar "Bauten und Anlagen" nach Art.22
+RPG an, das sich auf alle Bauten und Anlagen bezieht, die (aufgrund
+ihrer räumlichen Auswirkungen) einer Baubewilligung bedürfen. Die
+Kantone können die nach Bundesrecht baubewilligungspflichtigen
+Bauten und Anlagen weiter, aber nicht enger fassen (HÄUPTLI,
+a.a.O., §6 N2 und 5). §6 BauG enthält (zur Verdeutlichung) eine
+Liste mit Vorrichtungen, die als Bauten und Anlagen im Sinne dieses
+Gesetzes zu verstehen sind. Dazu gehören nach lit.a nicht nur alle
+Gebäude und gebäudeähnlichen Objekte, sondern auch alle weiteren
+künstlich hergestellten und mit dem Boden fest verbundenen Objek
+te. Zu denken ist hier an Antennen, Funkanlagen, Klimageräte an
+Aussenfassaden, Skulpturen von einiger Bedeutung, Denkmäler,
+Dämme, Schleusen, Wehre, Kanäle, Brunnstuben, Brunnen, Leitun
+gen, Rampen, Cheminées, Hafenanlagen, Landestege, Wasserungs
+einrichtungen, Güllenlöcher, Gruben, Hauskläranlagen, Unterstände,
+Windkraftanlagen, Sonnenkollektoren, Plastiktunnels für die Pflan
+zenproduktion, je nach Bedeutung und Lage Plastikfolienabdeckun
+gen, Stütz und Futtermauern (HÄUPTLI, a.a.O., §6 N6). Es wäre
+
+demnach falsch zu sagen, die von den Gemeinden festzulegenden
+Grenzabstände würden von vornherein nur für Bauten oder Gebäude,
+nicht hingegen für "Anlagen" gelten. Diese Differenzierung macht
+§47 Abs.1 BauG nicht, auch nicht nach der am 10.März 2009 be
+schlossenen Teilrevision des BauG, mit welcher der ehemalige Aus
+druck "Baute" generell durch den RPG geläufigen Ausdruck "Bauten
+und Anlagen" ersetzt wurde. Zwischen "Bauten" und "Anlagen" be
+steht denn auch keine scharfe Trennlinie. Im Allgemeinen gelten als
+"Bauten" Gebäude oder gebäudeähnliche Objekte sowie Fahrnisbau
+ten. Als "Anlagen" werden eher Einrichtungen bezeichnet, die das
+Gelände oder den umliegenden Raum verändern (Botschaft des Re
+gierungsrats des Kantons Aargau an den Grossen Rat vom
+5.Dezember 2007 zur Teilrevision des Gesetzes über Raumplanung,
+Umweltschutz und Bauwesen vom 19.Januar 1993 [Baugesetz,
+BauG], 07.314, [nachfolgend: Botschaft BauG], S.31). Dass sich die
+Verpflichtung der Gemeinden zur Festlegung von Grenzabständen
+sowohl auf Bauten als auch auf Anlagen bezieht, ergibt sich sodann
+aus §51 Abs.1 BauG, wonach der Regierungsrat für untergeordnete
+Bauten, Anlagen und Bauteile (also nicht nur für solche Bauten), ge
+ringere Abstände festlegen kann, als es die Baulinien und (ordentli
+chen) Abstandsvorschriften verlangen. Schliesslich wäre es auch mit
+Sinn und Zweck von Abstandsvorschriften nicht zu vereinbaren,
+wenn "Anlagen" generell aus deren Anwendungsbereich ausgeklam
+mert wären. Die damit zu schützenden Interessen der Nachbarn (vgl.
+dazu HÄUPTLI, a.a.O., §47 N10ff.) können – je nach Dimensionen
+und Auswirkungen – durch eine Anlage gleichermassen oder ähnlich
+stark wie durch ein Gebäude beeinträchtigt werden.
+Die Verpflichtung der Gemeinden zur Festlegung von Grenzab
+ständen bedeutet nicht, dass die Nutzungsplanung für jede Grenze in
+jeder Zone einen zwingend einzuhaltenden Grenzabstand vorschrei
+ben muss. Es gibt auch Zonen mit Nullgrenzabstand (geschlossene
+Bauweise). Die Zonenvorschriften können die Grenzabstände auch
+offenlassen, was zum Beispiel in Industriezonen oder Zonen für
+öffentliche Bauten nicht unüblich ist (HÄUPTLI, a.a.O., §47 N5).
+Die Gemeinden sind allerdings gehalten, eine entsprechende Festle
+gung zu treffen, wenn für bestimmte Bauten oder Anlagen kein oder
+
+ein geringerer als der ordentliche Grenzabstand gelten soll. Solange
+sie das nicht tun, gelten mit Ausnahme der im kantonalen Recht ver
+ankerten Abstandsprivilegien, insbesondere für Klein und Anbauten
+nach §18 ABauV bzw. §19 BauV, die ordentlichen Grenzabstände.
+Würde man der Argumentation des Gemeinderats E. folgen, wonach
+Splitverdampfer oder andere technische Anlagen mit vergleichbarem
+Zweck und von ähnlicher Beschaffenheit, die sich nicht als "Gebäu
+de" im Sinne der IVHB (ortsfeste Bauten zum Schutz von Menschen,
+Tieren oder Sachen, die eine feste Überdachung und in der Regel
+weitere Abschlüsse aufweisen; vgl. Anhang 1 Ziff. 2.1 IVHB) quali
+fizieren, nicht unter den Begriff der Kleinbaute im Sinne von § 18
+ABauV oder §19 BauV subsumiert und insofern nicht vom dortigen
+Grenzabstandsprivilegium profitieren können, wäre stattdessen nicht
+etwa eine Nullgrenze anzunehmen. Vielmehr kämen mangels einer
+anderweitigen gesetzlichen Regelung die ordentlichen Abstandsvor
+schriften zum Tragen (AGVE 2012, S.149). Weil eine solche Ausle
+gung auf eine absurde und mit nichts zu rechtfertigende Benachteili
+gung kleiner Anlagen gegenüber Klein und Kleinstbauten (als Teil
+menge der Kleinbauten) hinausliefe, ist der Anwendungsbereich von
+§18 ABauV und §19 BauV auf Anlagen auszudehnen, welche die
+darin vorgesehenen Masse einhalten. An dieser Rechtsprechung ist
+festzuhalten. Es besteht kein Präzisierungsbedarf, zumal mit der
+Feststellung, dass Anlagen im Gegensatz zu Bauten keinen Grenzab
+stand einhalten müssen, nichts gewonnen wäre. Alsdann würde sich
+die Diskussion dahin verlagern, was noch als Baute und was als An
+lage zu verstehen ist. Dass nur Gebäude im Sinne von Anhang 1
+Ziff.2.1 IVHB einen Grenzabstand einhalten müssen, stünde im of
+fenen Widerspruch zu den §§47 und 51 BauG, deren Geltungsbe
+reich klar nicht auf Gebäude beschränkt ist.
+Die Gesetzeslage im Kanton Luzern lässt sich insofern nicht 1:1
+mit derjenigen im Kanton Aargau vergleichen, als der Wortlaut der
+§§122 (Ordentlicher Grenzabstand) und 124 (Grenzabstand bei
+Kleinbauten und Anbauten) des Planungs und Baugesetzes vom
+7.März 1989 (PBG; SRL Nr.735) den Anwendungsbereich der
+Grenzabstandsvorschriften im Unterschied zu den §§47 und 51
+BauG tatsächlich auf Bauten einschränkt und Anlagen (mit Ausnah
+
+me von Mauern, Einfriedungen und Böschungen; siehe dazu §126
+PBG) unerwähnt lässt. Abgesehen davon vermag der von den Vorin
+stanzen zitierte Entscheid des Kantonsgerichts Luzern vom 4.Mai
+2016 (LGVE 2016 IV Nr.4) nicht zu der von ihnen gewünschten
+Klärung und Vereinheitlichung der Rechtslage beizutragen. Dort
+wird zwar festgehalten, dass das Baupolizeirecht keine Mindest
+grenzabstände für Anlagen kenne (Erw.4.4). Weiter hinten wird dann
+aber sogleich relativierend angefügt, dass die im konkreten Fall um
+strittene Luft Wasser Wärmepumpe in ihren Dimensionen ver
+gleichsweise klein sei. Bei einer Pumpe, die wesentlich grösser und
+breiter wäre, wäre zu prüfen, ob eine solche Maschine noch als Anla
+ge im Sinne des Rechts qualifiziert werden könne oder nicht viel
+mehr als Kleinbaute mit den gesetzlich vorgeschriebenen Abstands
+vorschriften (Erw.4.4.1). Es ist also weiterhin nicht von vornherein
+klar, dass alle Objekte, die sich nicht als Gebäude im Sinne der
+IVHB qualifizieren, was insbesondere auf Wärmepumpen bzw. deren
+externe Anlageteile zutrifft, keinen Grenzabstand einhalten müssen.
+Wie bereits dargelegt, wird damit die Diskussion bloss auf die Frage
+nach dem Anlagecharakter verlagert. Den Ausschlag für oder wider
+einen Grenzabstand geben aber letztlich auch hier die wesentlich
+sachgerechteren und griffigeren Kriterien der Dimensionierung und
+der Auswirkungen eines Objekts auf den Raum und die Umgebung.
+Es ist am Gesetzgeber zu definieren, in welchen Fällen die Dimen
+sionen und Auswirkungen von Bauten und Anlagen dermassen ge
+ringfügig sind (Stichwort: Bagatellbauten), dass sie keinen oder
+höchstens einen minimalen Grenzabstand erfordern. Eine Grenzzie
+hung zwischen Bauten einerseits und Anlagen andererseits ist nicht
+zielführend.
+3.2.
+Weil es weder im Recht des Kantons Aargau noch in demjeni
+gen der Gemeinde E. eine Vorschrift gibt, welche Bagatellbauten
+oder anlagen von der Einhaltung eines Grenzabstandes dispensiert,
+kommen – wie erwähnt – die §§18 Abs.2 ABauV und 19 Abs.2
+BauV mit dem darin vorgesehenen verkleinerten Grenzabstand von
+2m zum Tragen. Dieses Grenzabstandsprivilegium gilt nach dem
+oben Gesagten sowohl für Kleinbauten (darunter Kleinstbauten) als
+
+auch – aus Rechtsgleichheitsgründen – für Anlagen mit ent
+sprechenden Dimensionen. Die Auffassung der Beschwerdeführer,
+die den ordentlichen Grenzabstand (von 4 m) für massgeblich halten,
+kann demgegenüber nicht geteilt werden. Die Leitungen, welche den
+Splitverdampfer mit der Wärmepumpe im Wohnhaus verbinden,
+berechtigen aus den vom Bundesgericht im Urteil vom 18.Januar
+2016 (1C_204/2015), Erw.2.2, dargelegten Gründen auch in der
+vorliegenden Konstellation nicht zur Annahme, das Gerät sei
+Bestandteil des Hauptgebäudes, für welches der ordentliche Grenz
+abstand gilt. Weshalb der Umstand, dass der Verdampfer nicht in eine
+Kleinbaute (Schopf) untergebracht ist, an dieser Einschätzung etwas
+ändern sollte, ist nicht ersichtlich. Der Verdampfer ist nicht
+Bestandteil des Wohnhauses, sondern der sich darin befindlichen
+Pumpe. Würde sich diese ausserhalb des Wohnhauses befinden, gälte
+für sie aufgrund ihrer Abmessungen gleichermassen das
+Grenzabstandsprivilegium der §§18 Abs.2 ABauV und 19 Abs.2
+BauV.
+Der nur 0,8 m von der gemeinsamen Grundstücksgrenze der
+Beschwerdeführer und der Beschwerdegegner entfernte Splitver
+dampfer wahrt den Grenzabstand vom 2 m unbestrittenermassen
+nicht. Nachdem es an einer (schriftlichen) Zustimmung der Be
+schwerdeführer zur Unterschreitung des Grenzabstandes fehlt, könn
+te für den Verdampfer am vorgesehenen Standort grundsätzlich keine
+ordentliche Baubewilligung, sondern höchstens eine Ausnahmebe
+willigung nach §67 BauG erteilt werden. (…)
+
+22 Ausschluss eines Anbieters vom Verfahren; Arbeitsbedingungen
+Ausschluss eines Anbieters vom Verfahren wegen Nichteinhaltens der Ar
+beitsbedingungen (orts und branchenübliche Mindestlöhne).
+Aus dem Entscheid des Verwaltungsgerichts, 3.Kammer, vom
+17.September 2018, in SachenA. GmbH gegen Kanton Aargau
+(WBE.2018.188).
+Aus den Erwägungen
+2.
+2.1.
+§3 Abs.1 lit.a SubmD bestimmt, dass die Vergabestelle, sofern
+übergeordnetes Recht nichts anderes vorschreibt, den Auftrag nur an
+Anbietende vergibt, die "die am Ort der Leistung massgeblichen
+Bestimmungen über Arbeitsschutz und Arbeitsbedingungen einhal
+ten". Die Vergabestelle ist berechtigt, die Einhaltung dieser Bestim
+mung zu kontrollieren oder kontrollieren zu lassen. Auf Verlangen
+haben die Anbietenden deren Einhaltung zu bestätigen oder nach
+zuweisen (§3 Abs.2 SubmD). Laut Art.11 lit.e IVöB sind die Ar
+beitsschutzbestimmungen und die Arbeitsbedingungen für Arbeitneh
+mer zu beachten. §7 Abs.1 der Vergaberichtlinien (VRöB) zur IVöB
+bestimmt u.a., dass die Auftraggeberin vertraglich sicherstellt, dass
+die Anbieterin die geltenden Arbeitsbedingungen einhält und Dritte,
+denen sie Aufträge weiterleitet, ebenfalls vertraglich verpflichtet, die
+Arbeitsbedingungen einzuhalten. Als Arbeitsbedingungen gelten die
+Vorschriften der Gesamt und der Normalarbeitsverträge; wo diese
+fehlen, gelten die orts und berufsüblichen Vorschriften. Alle in der
+Schweiz geltenden Vorschriften werden dabei als gleichwertig be
+trachtet (§7 Abs.2 VRöB). Gemäss §28 Abs.1 SubmD schliesst die
