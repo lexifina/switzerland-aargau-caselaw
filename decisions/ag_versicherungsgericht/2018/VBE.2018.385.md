@@ -1,0 +1,380 @@
+---
+decision_id: "ag_versicherungsgericht_VBE.2018.385"
+court: "AG Versicherungsgericht"
+court_id: "ag_versicherungsgericht"
+chamber: "2. Kammer"
+docket: "VBE.2018.385"
+decided: "2018-12-12"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2355"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2355"
+cites_decisions: ["9C_734/2016", "BGE 126 V 461", "BGE 143 I 50", "BGE 143 I 60", "BGE 143 V 77", "BGE 144 I 103", "BGE 144 I 21", "BGE 144 I 28"]
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/0.101/art-014.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/831.20/art-007.md", "switzerland/bund/acts/831.20/art-017.md", "switzerland/bund/acts/831.20/art-028a.md", "switzerland/bund/acts/831.201/art-027bis.md"]
+---
+
+# Obergericht / Versicherungsgericht / 2. Kammer — VBE.2018.385
+
+## Regeste
+
+Art. 17 Abs. 1 IVG; Art. 28a Abs. 3 IVG; Art. 27bis IVV 
+Rentenrevision infolge Statuswechsel: Mit der ab 1. Januar 2018 geltenden Fassung von Art. 27bis IVV und der dadurch geänderten Berechnungsart wurde dem Urteil des Europäischen Gerichtshofes für Menschenrechte in Sachen Di Trizio gegen die Schweiz Rechnung getragen. Namentlich fällt die bisherige doppelte Berücksichtigung der Teilerwerbstätigkeit weg. Seither besteht kein Anlass mehr, dem Urteil Di Trizio gleich oder ähnlich gelagerte Fälle generell von einer Revision auszuschliessen, selbst wenn der Statuswechsel die einzige wesentliche Veränderung der tatsächlichen Verhältnisse im Sinne von Art. 17 Abs. 1 ATSG darstellt. Anwendung der gemischten Methode.
+
+## Text
+
+3 Art.17 Abs.1 IVG; Art.28a Abs.3 IVG; Art.27bis IVV
+Rentenrevision infolge Statuswechsel: Mit der ab 1.Januar 2018 gelten
+den Fassung von Art.27bis IVV und der dadurch geänderten
+Berechnungsart wurde dem Urteil des Europäischen Gerichtshofes für
+Menschenrechte in Sachen DiTrizio gegen die Schweiz Rechnung getra
+gen. Namentlich fällt die bisherige doppelte Berücksichtigung der Teiler
+werbstätigkeit weg. Seither besteht kein Anlass mehr, dem Urteil
+DiTrizio gleich oder ähnlich gelagerte Fälle generell von einer Revision
+auszuschliessen, selbst wenn der Statuswechsel die einzige wesentliche
+Veränderung der tatsächlichen Verhältnisse im Sinne von Art.17 Abs. 1
+ATSG darstellt. Anwendung der gemischten Methode.
+Aus dem Entscheid des Versicherungsgerichts, 2. Kammer, vom
+12.Dezember 2018, i.S. N.L. gegen SVA Aargau, IV Stelle (VBE.2018.385).
+Aus den Erwägungen
+1.
+Die Beschwerdegegnerin erachtete mit angefochtener Verfü
+gung vom 20.April 2018 einen Revisionsgrund mit der Begründung
+der familiär bedingten Reduktion der Arbeitszeit von 100 % auf ein
+40%iges Pensum als gegeben. Sie nahm dabei implizit auf das IV
+Rundschreiben Nr. 372 vom 9. Januar 2018 Bezug. Demnach führt
+das seit 1. Januar 2018 anwendbare Modell zur Berechnung des IV
+Grades für Teilerwerbstätige mit Aufgabenbereich grundsätzlich
+nicht mehr zu einer Schlechterstellung gegenüber Vollerwerbstätigen.
+Folglich könne zukünftig trotz des Urteils des Europäischen
+Gerichtshofs für Menschenrechte (EGMR) vom 2. Februar 2016 in
+Sachen Di Trizio gegen Schweiz (7186/09, nachfolgend: Urteil
+DiTrizio) der Statuswechsel wieder als möglicher Revisionsgrund
+herangezogen werden.
+Demgegenüber hält die Beschwerdeführerin fest, die Anwen
+dung der revidierten gemischten Methode führe vorliegend zu einem
+erheblichen Nachteil in Form des vollständigen Verlusts des
+Rentenanspruchs. Die geltende Fassung des Art. 27bis Abs. 3 IVV
+
+halte den Anforderungen des EGMR nicht stand. Auch unter der
+neuen Berechnungsmethode komme es zu einer unzulässigen Ein
+schränkung des Grundrechts auf Achtung der Familie, weshalb
+vorliegend eine Revision einzig aufgrund des Statuswechsels bei der
+Beschwerdeführerin – nach wie vor – nicht zulässig sei. Unbestritten
+ist hingegen die Reduktion der Arbeitszeit im Gesundheitsfalle von
+100 % auf ein 40%iges Pensum.
+2.
+2.1.
+Dem Urteil Di Trizio lag der Fall einer Versicherten zugrunde,
+welcher unter dem Status einer Vollerwerbstätigen ein Anspruch auf
+eine Invalidenrente zukam. Sie verlor diesen allein aufgrund des Um
+standes, dass wegen der Geburt ihrer Kinder und der damit einherge
+henden Reduktion des Erwerbspensums ein Revisionsgrund vorlag
+und die Versicherte neu als Teilerwerbstätige mit einem Aufgabenbe
+reich qualifiziert wurde. Bei der folgenden, durch den Revisions
+grund des familiär bedingten Statuswechsels ermöglichten Prüfung
+des Rentenanspruchs in rechtlicher und tatsächlicher Hinsicht ohne
+Bindung an frühere Beurteilungen, kam neu für die Berechnung des
+Invaliditätsgrades nicht mehr die Berechnungsmethode des Einkom
+mensvergleichs (Art. 28a Abs. 1 IVG in Verbindung mit Art. 16
+ATSG), sondern diejenige der gemischten Methode (Art. 28a Abs.3
+IVG) zur Anwendung. Der EGMR betrachtete es als Verletzung von
+Art. 8 EMRK (Recht auf Achtung des Familienlebens) i.V.m. Art. 14
+EMRK (Diskriminierungsverbot), dass die sich aus dem Statuswech
+sel ergebende Änderung in den Grundlagen der Invaliditätsbemes
+sung zur Aufhebung der Invalidenrente führte und sich damit zu Un
+gunsten der Versicherten auswirkte (vgl. BGE 143 V 77 E. 3.2.1
+S.80).
+2.2.
+In BGE 143 I 50 E. 4.1 und 4.2 S. 58 f. (ergangen zur Umset
+zung des EGMR Urteils vom 2. Februar 2016) sowie BGE 143 I 60
+E. 3.3.4 S. 64 entschied das Bundesgericht, dass zwecks Herstellung
+eines konventionskonformen Zustandes in derartigen Konstellatio
+nen, in welchen allein familiäre Gründe (die Geburt von Kindern und
+die damit einhergehende Reduktion des Erwerbspensums) für einen
+
+Statuswechsel von "vollerwerbstätig" zu "teilerwerbstätig mit Aufga
+benbereich" sprechen, fortan auf die (alleine darauf beruhende)
+revisionsweise Aufhebung oder Herabsetzung der Invalidenrente im
+Sinne von Art. 17 Abs. 1 ATSG zu verzichten sei (vgl. auch IV
+Rundschreiben Nr. 355 des BSV vom 31. Oktober 2016, aufgehoben
+per 1. Januar 2018).
+2.3.
+Weiter entschied das Bundesgericht, dass im Rahmen einer An
+spruchsüberprüfung nach den Schlussbestimmungen der 6. IV Revi
+sion, erstes Massnahmenpaket, ein rein familiär bedingter
+Statuswechsel (hier von "vollerwerbstätig" zu "teilerwerbstätig" (mit
+Aufgabenbereich)), auch wenn er nicht den Anlass für die Einleitung
+des Verfahrens zur Rentenüberprüfung bildete, unberücksichtigt zu
+bleiben habe, so dass der von der versicherten Person bisher innege
+habte Status für die Invaliditätsbemessung beizubehalten sei
+(BGE143 V 77 E. 3.2.3 S. 80).
+2.4.
+Das Bundesgericht führte sodann seine Rechtsprechung mit
+BGE 144 I 21 fort und erachtete auch diejenigen Fälle von den
+vorgenannten EMRK Garantien als erfasst, bei denen rein familiär
+bedingt (Reduktion des Betreuungsaufwandes) ein Wechsel von
+"nicht erwerbstätig" zu "teilerwerbstätig" vorgenommen werde
+(BGE144 I 21 E. 4.5 S. 27).
+2.5.
+In BGE 144 I 28 E. 4.5 S. 35 f. legte das Bundesgericht hinge
+gen dar, dass das Urteil Di Trizio wie auch die Folgerechtsprechung
+des Bundesgerichts allein die wegen eines Statuswechsels zur Teiler
+werbstätigkeit (mit Aufgabenbereich) anwendbare gemischte Me
+thode der Invaliditätsbemessung betreffen würden. Der im konkreten
+Fall vorgenommene Wechsel von "teilerwerbstätig" zu "nicht er
+werbstätig" wurde vom Bundesgericht daher nicht als vom Schutzbe
+reich von Art. 8 EMRK i.V.m. Art.14 EMRK erfasst beurteilt. Es be
+gründete dies damit, dass im Anwendungsbereich der spezifischen
+Methode von vornherein keine Erschwernisse bezüglich Vereinbar
+keit von Familienleben und Wahrnehmung beruflicher Interessen be
+stünden. Ebenso wenig wirkten hier gemäss Bundesgericht die für
+
+die gemischte Methode typischen nachteiligen Folgen, die nunmehr
+im Rahmen eines vom Bundesrat beschlossenen neuen Berechnungs
+modells per 1.Januar 2018 beseitigt werden sollten (Art. 27bis IVV in
+der seit 1. Januar 2018 gültigen Fassung). Der Umstand, dass die für
+den Statuswechsel wesentliche Geburt des Kindes in den Schutzbe
+reich dieser Bestimmung fällt, reicht dafür nicht aus (BGE 144 I 28
+E. 4.6 S. 36).
+2.6.
+In BGE 144 I 103 E. 4.2 S. 107 f. hielt das Bundesgericht
+wiederum fest, dass zwecks Herstellung eines konventionskonfor
+men Zustandes in Konstellationen, in welchen allein familiäre
+Gründe (die Geburt von Kindern und die damit einhergehende
+Reduktion des Erwerbspensums) für einen Statuswechsel von
+"vollerwerbstätig" zu "teilerwerbstätig" (mit Aufgabenbereich) spre
+chen, fortan auf die (allein darauf beruhende) revisionsweise Aufhe
+bung oder Herabsetzung der Invalidenrente im Sinne von Art. 17
+Abs. 1 ATSG zu verzichten sei. Die versicherte Person habe diesfalls
+Anspruch auf die Weiterausrichtung der bisherigen Rente.
+2.7.
+Entsprechend der dargelegten Rechtsprechung ergibt sich, dass
+nicht der Statuswechsel per se, sondern lediglich der Wechsel von
+der einen Methode (Betätigungsvergleich oder Einkommensver
+gleich) zur gemischten Methode als nicht EMRK konform beurteilt
+wurde, sofern dies zu einer Reduktion/Aufhebung des bisherigen
+Rentenanspruchs führte. Eine Rentenreduktion/ aufhebung sollte
+demnach auch dann möglich sein, wenn die versicherte Person aus
+familiären Gründen (Geburt eines Kindes) ihren Status von "voll
+/teilerwerbstätig" zu "nicht erwerbstätig" ändert. Daraus ist zu
+schliessen, dass sowohl die IV Grad Berechnung nach Einkommens
+vergleich wie auch jene nach Betätigungsvergleich für sich genom
+men im Einklang mit den EMRK Garantien stehen.
+Zu keinem anderen Schluss kam auch der EGMR in seinem Ur
+teil Di Trizio: So erachtete er explizit die gemischte Methode als dis
+kriminierend ("De fait, pour la grande majorité des femmes souhai
+tant travailler à temps partiel à la suite de la naissance des enfants, la
+méthode mixte s’avère discriminatoire", Urteil Di Trizio §97 in
+
+fine), nicht hingegen den Einkommensvergleich oder den Betäti
+gungsvergleich. Des Weiteren hielt der Gerichtshof fest, "que
+d’autres méthodes de calcul respectant mieux le choix des femmes de
+travailler à temps partiel à la suite de la naissance d’un enfant sont
+concevables, et qu’il serait ainsi possible de poursuivre le but du rap
+prochement entre les sexes sans pour autant mettre en danger
+l’objectif de l’assurance invalidité" (Urteil Di Trizio §101) und dies
+"entraîne pour la requérante des conséquences concrètes importantes,
+même à supposer qu’elle puisse travailler à temps partiel" (Urteil
+DiTrizio §102). Der EGMR wies dabei insbesondere auf das
+angerechnete, gegenüber einer Vollzeitstelle tiefere, Valideneinkom
+men in Teilzeitarbeit hin ("Son revenu fictif, calculé sur la base d’un
+travail à mi temps, a été estimé par l’office à seulement […] au mo
+ment du calcul du taux d’invalidité; Urteil Di Trizio a.a.O.).
+2.8.
+Aufgrund dieser Sachlage führte der Bundesrat per 1. Januar
+2018 für die Festlegung des Invaliditätsgrades von Teilerwerbstäti
+gen ein neues Berechnungsmodell ein. Nach dem revidierten
+Art.27bis Abs.2 4 IVV wird für die Bestimmung des Invaliditäts
+grads von Teilerwerbstätigen, die sich zusätzlich im Aufgabenbereich
+nach Art. 7 Abs. 2 IVG betätigen, zwar wie bisher der entsprechend
+dem Status (Anteil Erwerbsbereich/Anteil Aufgabenbereich) gewich
+tete Invaliditätsgrad in Bezug auf die Erwerbstätigkeit und in Bezug
+auf die Betätigung im Aufgabenbereich addiert. Geändert wurde je
+doch die Berechnung des Invaliditätsgrads in Bezug auf die Er
+werbstätigkeit vor Gewichtung. Während bisher das Valideneinkom
+men lediglich in dem Umfang berechnet wurde, in welchem die
+versicherte Person tatsächlich noch tätig wäre (also dem Anteil Er
+werbsbereich), wird gemäss neuem Art. 27bis Abs. 3 IVV das
+Erwerbseinkommen, das die versicherte Person durch die Teiler
+werbstätigkeit erzielen könnte, wenn sie nicht invalid geworden
+wäre, auf eine Vollerwerbstätigkeit hochgerechnet. Gemäss Medien
+mitteilung des Bundesrates zur Änderung der IVV Art.27bis Abs. 2
+4 vom 1.Dezember 2017 würden durch diese Änderung die Anforde
+rungen des EGMR (Urteil Di Trizio) erfüllt (vgl. auch den Bericht
+betr. die Vernehmlassung über die Änderung der IVV vom
+
+7.November 2017 (nachfolgend "Bericht IVV", …), wonach das
+Ziel der Verordnungsänderung darin liege, die Anforderungen des
+EGMR an eine nichtdiskriminierende Ausgestaltung der gemischten
+Methode zu erfüllen; zudem könne die Vereinbarkeit von Familie
+und Beruf verbessert, eine rasche Klärung der Rechtslage sowie eine
+einheitliche Anwendung der gemischten Methode sichergestellt wer
+den).
+2.9.
+Das BSV hielt darauf abstützend nunmehr mit IV Rundschrei
+ben Nr. 372 vom 9. Januar 2018 fest, zukünftig gelte der Wechsel des
+Status einer versicherten Person wieder als möglicher Revisions
+grund, weil mit dem neuen Berechnungsmodell Teilerwerbstätige mit
+Aufgabenbereich nun grundsätzlich nicht mehr schlechter gestellt
+würden.
+3.
+3.1.
+Mit dem neuen Berechnungsmodell gemäss Art. 27bis IVV wird
+der Invaliditätsgrad im Erwerbsbereich für Teil wie auch Voller
+werbstätige gleich berechnet. Im Aufgabenbereich erfolgte bereits
+bisher keine Unterscheidung bei der Berechnung zwischen
+Teilerwerbstätigen und Nichterwerbstätigen. Wie in E. 2.7 hiervor
+dargelegt, führt keine der beiden Berechnungsmethoden für sich al
+leine zu einer Diskriminierung. Auch die Kombination beider Metho
+den im Sinne der ab dem 1. Januar 2018 anwendbaren Invaliditäts
+gradberechnung bei Teilerwerbstätigen führt folglich ebenso zu
+keiner Diskriminierung, findet doch lediglich eine mathematische
+Addition der prozentual ermittelten und gemäss Status gewichteten
+Teilwerte statt, wobei namentlich die bisherige doppelte Gewichtung
+der teilzeitlichen Erwerbstätigkeit wegfällt.
+Es bleibt somit zu prüfen, ob der Umstand des Wechsels von ei
+ner vollen Erwerbstätigkeit in eine Teilerwerbstätigkeit mit Aufga
+benbereich und die damit verbundene, weiterhin bestehende
+Möglichkeit einer (wenn auch gegenüber der altrechtlichen Bemes
+sungsmethode abgeschwächten) Reduktion des IV Grades und damit
+des Rentenanspruchs diskriminierend ist oder ob die mögliche Un
+gleichbehandlung über eine sachliche Rechtfertigung verfügt. In die
+
+ser Verhältnismässigkeitsprüfung sind insbesondere Sinn und Zweck
+der Invalidenversicherung, die auch vom EGMR festgehaltenen "res
+sources limitées" und das damit verbundene Leitprinzip der Kosten
+kontrolle ("principes directeurs celui de la maîtrise des dépenses" Ur
+teil Di Trizio § 96) als auch die Folgen eines Festhaltens an der
+DiTrizio Rechtsprechung zu berücksichtigen. In diesem Zusammen
+hang ist darauf hinzuweisen, dass aufgrund der neuen Berechnungs
+methode gemäss dem revidierten Art.27bis IVV mit jährlichen Mehr
+kosten von 6.8 Promillen auf die (bisherigen) Rentenkosten, d.h.
+etwa Fr.35 Millionen, zu rechnen ist (vgl. Bericht IVV S.6).
+3.2.
+Der EGMR äusserte sich im Urteil Di Trizio nicht explizit zur
+Frage, ob jede Anpassung der Berechnungsmethode aufgrund eines
+familiär bedingten Statuswechsels von "voll zu teilerwerbstätig" so
+wie von "nicht erwerbstätig" zu "teilerwerbstätig", die zu einer
+Reduktion des Rentenanspruchs führen kann, eine Diskriminierung
+darstellt. Er hielt einzig fest, dass die bisherige Berechnungsmethode
+im Rahmen von familiär bedingten Rentenrevisionen diskriminierend
+sei (hiervor E.2.7.). Der EGMR verwies dabei auch mehrfach auf
+die bundesgerichtliche und kantonale Rechtsprechung wie auch die
+Ausführungen des Bundesrats vom 1. Juli 2015, wo jeweils Kritik an
+der damaligen gemischten Methode geäussert worden sei (Urteil
+DiTrizio §99 ff.). In diesem Zusammenhang wies der EGMR
+sodann darauf hin, dass alternative Berechnungsmethoden ("d’une
+méthode plus favorable", Urteil Di Trizio § 101) denkbar seien, die
+die Wahl der Teilzeitarbeit von Frauen nach der Geburt eines Kindes
+besser berücksichtigten, und dass es somit möglich wäre, das Ziel der
+Geschlechtergleichstellung zu verfolgen, ohne das Ziel der
+Invaliditätsversicherung zu gefährden (Urteil Di Trizio § 101,
+vgl.auch E. 2.7. hiervor).
+3.3.
+Daraus ist zu schliessen, dass der EGMR nicht jede durch ein
+familiäres Ereignis entstehende Änderung des Invaliditätsgrades als
+diskriminierend erachtete, somit die Bejahung eines Revisionsgrun
+des im Fall eines Statuswechsels aufgrund der Geburt eines Kindes
+nicht generell eine Verletzung von Art.8 EMRK i.V.m. Art.14
+
+EMRK darstellt (…). Mit Art.27bis IVV liegt nun eine Berechnungs
+methode vor, die weder in ihren Einzelberechnungen (Anteil Er
+werbstätigkeit – Anteil Aufgabenbereich) noch in der Gesamtberech
+nung des Invaliditätsgrades der versicherten Person eine Ungleichbe
+handlung zu "Vollerwerbstätigen" bzw. "Nichterwerbstätigen" bein
+haltet und damit das vom EGMR festgehaltene Ziel der Ge
+schlechtergleichstellung in ausreichendem Masse und somit ohne
+Verletzung der EMRK Garantien verfolgt, ohne das Ziel der Inva
+lidenversicherung angesichts der eingeschränkten Ressourcen zu
+gefährden. Insbesondere wird mit der neuen Berechnungsmethode im
+Erwerbsbereich auf die vom EGMR gerügte doppelte Berücksich
+tigung der erwerblichen Teilzeitlichkeit verzichtet (vgl. Urteil
+DiTrizio § 98).
+Eine andere Schlussfolgerung würde dazu führen, dass in Fäl
+len, bei denen die versicherte Person aufgrund der Geburt eines Kin
+des einen Statuswechsel zu "teilerwerbstätig" vornimmt, eine auf ei
+nem Statuswechsel begründete Revision generell unzulässig wäre,
+was sowohl der Systematik der Invalidenversicherung als final
+konzipierter Erwerbsausfallversicherung (BGE 126 V 461 E. 2
+S.462) als auch der gesetzlich vorgesehenen Unterscheidung
+zwischen Aufgaben und Erwerbsbereich zuwiderliefe. Darüber
+hinaus führte dies zu einer nicht zu rechtfertigenden Ungleichbe
+handlung: Bei zunächst gesunden Personen, die ihren Status aus
+familiären Gründen von voll zu teilerwerbstätig wechselten, würde
+bei einem späteren Eintritt der Invalidität der Invaliditätsgrad nach
+der gemischten Methode berechnet, wohingegen bei (hypothetisch)
+Vollerwerbstätigen mit einem Statuswechsel bei bereits bestehender
+Invalidität die bisherige Berechnungsmethode (Einkommensver
+gleich) beibehalten würde.
+In den meisten Anwendungsfällen der gemischten Methode ver
+hält es sich zudem – gerichtsnotorisch – so, dass im Wesentlichen
+aufgrund fehlender konkreter Einschränkungen im Aufgabenbereich
+bzw. in diesem Bereich verglichen mit dem Erwerbsbereich tiefer lie
+gender Einschränkungen ein bestehender Rentenanspruch wegfällt
+oder reduziert wird (zur generellen Berücksichtigung des Erwerbsbe
+reichs sowie des Aufgabenbereichs vgl. Urteil Di Trizio §96). Auch
+
+im vorliegenden Fall erweisen sich insbesondere die Einschränkun
+gen der Beschwerdeführerin im Erwerbsbereich als deutlich,
+währenddessen im Aufgabenbereich keine Einschränkungen festge
+stellt wurden (…).
+Nachdem die Rente der Invalidenversicherung grundsätzlich
+eine Erwerbsausfall Versicherungsleistung darstellt (Urteil des Bun
+desgerichts 9C_734/2016 vom 27.Januar 2017 E.3.2.4 mit Hinweis
+auf BGE135 V 58 E. 3.4.1 S.60f.) und aufgrund der Tatsache, dass
+sich die Anforderungen im Aufgabenbereich von jenen im Erwerbs
+bereich häufig erheblich unterscheiden, rechtfertigt sich auch eine
+aus insofern unterschiedlich starken Einschränkungen möglicher
+weise resultierende unterschiedliche Höhe des Invaliditätsgrades.
+4.
+Zusammenfassend wurde mit der ab dem 1.Januar 2018 gelten
+den Fassung von Art. 27bis IVV und der geänderten Berechnungsart
+dem EGMR Urteil Di Trizio Rechnung getragen. Durch den Wegfall
+der doppelten Berücksichtigung von teilzeitlicher Erwerbstätigkeit
+nähert sich die gemischte Methode dem Ziel der besseren Vereinbar
+keit von Familie und Beruf bzw. dem Ziel der Geschlechtergleichbe
+handlung deutlich an. Eine Methode, die unter Beibehaltung der vom
+Gesetzgeber gewollten Berücksichtigung sowohl der Erwerbstätig
+keit als auch des Aufgabenbereichs zu einer nochmaligen Verbesse
+rung der im Urteil Di Trizio festgehaltenen Problematik führt, ohne
+gleichzeitig eine Ungleichbehandlung der nicht unter diesen
+Sachverhalt fallenden Versicherten entstehen zu lassen, ist kaum
+denkbar (vgl. hierzu auch Bericht des Bundesrates vom 1. Juli 2015,
+Die Invaliditätsbemessung in der Invalidenversicherung bei Teiler
+werbstätigkeit, S.24 ff., wo verschiedene Berechnungsmethoden u.a.
+unter dem Aspekt der Gleichbehandlung der Versicherten diskutiert
+werden).
+Es besteht somit nach der Anpassung der Berechnungsmethode
+in Art.27bis IVV kein Anlass mehr, dem Urteil Di Trizio gleich oder
+ähnlich gelagerte Fälle generell von einer Revision auszuschliessen,
+selbst wenn der Statuswechsel die einzige wesentliche Veränderung
+der tatsächlichen Verhältnisse im Sinne von Art.17 Abs. 1 ATSG
+darstellt.
+
+4 Gewährung des rechtlichen Gehörs vor einer Annullierung des Führer
+ausweises auf Probe
+Es stellt eine schwerwiegende Verletzung des Rechts auf Gewährung des
+rechtlichen Gehörs dar, wenn der Führerausweis auf Probe annulliert
+wird und erst mit dieser Verfügung das rechtliche Gehör gewährt wird.
+Eine Heilung ist vorliegend ausgeschlossen, der angefochtene Entscheid
+ist aufzuheben und die Sache zur Gewährung des rechtlichen Gehörs an
+das Strassenverkehrsamt zurückzuweisen.
+Aus dem Entscheid des Verwaltungsgerichts, 1. Kammer, vom 31.Januar
+2018, in Sachen E. gegen das Strassenverkehrsamt des Kantons Aargau und
+das Departement Volkswirtschaft und Inneres (WBE.2017.457).
+Aus den Erwägungen
+II.
+1.
+1.1.
+In formeller Hinsicht bringt die Beschwerdeführerin vor, das
+Strassenverkehrsamt habe ihren Anspruch auf rechtliches Gehör
+dadurch verletzt, dass es sie vor Erlass der Verfügung vom 21. April
+2015 nicht angehört habe. Indem das Strassenverkehrsamt das recht
+liche Gehör auf einen Zeitpunkt nach Erlass der Verfügung ver
+schiebe, werde einerseits faktisch die Rechtsmittelfrist verkürzt und
+anderseits führe dies zu einem Instanzverlust. Eine Heilung dieses
+Mangels komme im Rechtsmittelverfahren nicht in Frage, da die Ver
+letzung besonders schwer wiege.
+1.2.
+Die Vorinstanz verneinte eine Verletzung des Gehörsanspruchs,
+wozu es auf die langjährige Praxis verwies, wonach bei Ausweisent
