@@ -1,0 +1,233 @@
+---
+decision_id: "ag_verwaltungsgericht_WKL.2018.5"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "1. Kammer"
+docket: "WKL.2018.5"
+decided: "2019-01-30"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2317"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2317"
+cites_decisions: ["2P.251/2001"]
+cites_law: ["switzerland/bund/acts/822.11/art-002.md", "switzerland/bund/acts/822.11/art-003a.md", "switzerland/bund/acts/822.11/art-006.md", "switzerland/bund/acts/822.11/art-036a.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 1. Kammer — WKL.2018.5
+
+## Regeste
+
+§ 25 Abs. 4 PersG; § 5 und 7 Inkonvenienzverordnung 
+Anwendbarkeit des ArG auf öffentlichrechtliche Arbeitsverhältnisse. Auf die dem PersG unterstehenden Arbeitsverhältnisse sind Art. 9–28 ArG nicht anwendbar. § 25 Abs. 4 PersG bezieht sich nur auf diejenigen Bestimmungen des Arbeitsgesetzes, die gemäss Arbeitsgesetz ohnehin für die öffentliche Verwaltung gelten (vgl. Art. 3a ArG) und hat keine Ausweitung des kantonalrechtlichen Arbeitnehmerschutzes zur Folge (E. 1). 
+Entschädigung eines Arbeitnehmers ohne festen Arbeitsort, welcher sich während einer vom Arbeitgeber angeordneten täglichen Pausenzeit von einer Stunde einsatz-bzw. rufbereit halten muss. Abgrenzung Pikettdienst/ Bereitschaftsdienst (E. 2.4–2.5).
+
+## Text
+
+29 §25 Abs.4 PersG; §5 und 7 Inkonvenienzverordnung
+Anwendbarkeit des ArG auf öffentlichrechtliche Arbeitsverhältnisse. Auf
+die dem PersG unterstehenden Arbeitsverhältnisse sind Art.9–28 ArG
+nicht anwendbar. §25 Abs.4 PersG bezieht sich nur auf diejenigen Be
+stimmungen des Arbeitsgesetzes, die gemäss Arbeitsgesetz ohnehin für die
+öffentliche Verwaltung gelten (vgl. Art.3a ArG) und hat keine Auswei
+tung des kantonalrechtlichen Arbeitnehmerschutzes zur Folge (E.1).
+Entschädigung eines Arbeitnehmers ohne festen Arbeitsort, welcher sich
+während einer vom Arbeitgeber angeordneten täglichen Pausenzeit von
+einer Stunde einsatz bzw. rufbereit halten muss. Abgrenzung Pikett
+dienst/ Bereitschaftsdienst (E.2.4–2.5).
+Aus dem Entscheid des Verwaltungsgerichts, 1. Kammer, vom 30.Januar
+2019, in Sachen A. gegen Kanton Aargau (WKL.2018.5).
+Aus den Erwägungen
+1.
+Da sich der Kläger in verschiedener Hinsicht auf die Anwen
+dung des ArG und die darauf gestützte ArGV 1 beruft, ist vorab zu
+prüfen, ob diese im vorliegenden Rechtsstreit Anwendung finden.
+Gemäss Art.2 Abs.1 lit.a ArG ist das Arbeitsgesetz – unter
+Vorbehalt von Art.3a – auf Verwaltungen des Bundes, der Kantone
+und Gemeinden nicht anwendbar. Zur Anwendung gelangen einzig
+die arbeitsgesetzlichen Bestimmungen über den Gesundheitsschutz
+(Art.3a lit.a ArG). Die in Art.3a ArG enthaltenen Aufzählung der
+arbeitsgesetzlichen Bestimmungen, denen das Personal des Beklag
+ten unterliegt, ist abschliessender Natur. Sie erfasst abgesehen von
+den ausdrücklich erwähnten Art.6, Art.35 und Art.36a ArG keine
+weiteren Schutzbestimmungen, auch nicht solche, deren Regelungs
+
+gegenstand ebenfalls einen Einfluss auf die Gesundheit der Arbeit
+nehmer haben kann. Insbesondere die Vorschriften über die Arbeits
+und Ruhezeiten (Art.9–28 ArG) sind von der Gegenausnahme zu
+Gunsten des Gesundheitsschutzes nicht betroffen (vgl. Urteil des
+Bundesgerichts 2P.251/2001 vom 14.Juni 2002, Erw.4.3.1 mit wei
+teren Hinweisen; AGVE 2011, Nr.94, Erw.4.2.ff.). Das ArG und die
+dazugehörige ArGV 1 finden somit auf den vorliegenden Rechtsstreit
+keine direkte Anwendung.
+An dieser Rechtslage vermag im Ergebnis auch §25 Abs.4
+PersG nichts zu ändern, der in Bezug auf die Arbeits , Freizeit und
+Betriebszeit "die bundesrechtlichen Minimalbestimmungen zum
+Schutz der Arbeitnehmerinnen und Arbeitnehmer" vorbehält. Zwar
+lässt der Wortlaut dieser Bestimmung offen, ob der Verweis lediglich
+die in Art.3a ArG erwähnten Vorschriften des Gesundheitsschutzes
+erfasst, die nach Arbeitsgesetz auch für Angestellte der öffentlichen
+Verwaltung gelten, oder ob damit – über den Anwendungsbereich des
+Arbeitsgesetzes hinaus – auch die Art.9–28 ArG gemeint sind. Unter
+Einbezug der übrigen Auslegungselemente ist jedoch davon auszu
+gehen, dass mit den bundesrechtlichen Minimalbestimmungen nur
+diejenigen gemeint sind, die gemäss Bundesrecht auch auf Angestell
+te der öffentlichen Verwaltung anwendbar sind (vgl. Art.3a ArG).
+Dazu gehört namentlich Art.6 ArG, der unter anderem auch vor
+missbräuchlichen Arbeits oder Ruhezeitvorschriften schützt (vgl.
+AGVE 2011, S.413). Der Verweis in §25 Abs.4 PersG bringt bei
+korrekter Gesetzesauslegung lediglich zum Ausdruck, was von Bun
+desrechts wegen ohnehin gilt. Er dient der Rechtsklarheit und hat
+keine Ausweitung des kantonalrechtlichen Arbeitnehmerschutzes zur
+Folge. Hierfür spricht zunächst das historische Auslegungselement
+bzw. der Wortlaut der Botschaft des Regierungsrates des Kantons
+Aargau an den Grossen Rat vom 19.Mai 1999 zum Gesetz über die
+Grundzüge des Personalrechts (Personalgesetz; 99.102), wonach
+"selbstverständlich" die im Arbeitsgesetz des Bundes vorgesehenen
+Minimalbestimmungen vorbehalten blieben (S.27). Die Verwendung
+des Worts "selbstverständlich" deutet darauf hin, dass der kantonale
+Gesetzgeber in §25 Abs.4 PersG nur diejenigen Bestimmungen des
+Arbeitsgesetzes vorbehalten wollte, die gemäss Arbeitsgesetz ohne
+
+hin für die öffentliche Verwaltung gelten. Dass der Gesetzgeber an
+sich nicht anwendbare Gesetzesbestimmungen zur Anwendung
+bringen will, würde dagegen keine "Selbstverständlichkeit" darstel
+len. Auch der Umstand, dass §25 Abs.4 PersG in den umfang
+reichen Beratungen von Parlament und Kommissionen – soweit er
+sichtlich – zu keinen Diskussionen geführt hat, deutet auf eine be
+schränkte Tragweite dieses Verweises hin. Es wäre aber auch unter
+dem Aspekt der Gesetzessystematik nicht einleuchtend, wenn der
+Gesetzgeber dem Regierungsrat in den §25 Abs.1–3 PersG zunächst
+weitreichende Kompetenzen bei der Regelung der Arbeits , Freizeit
+und Betriebszeit eingeräumt hätte, dieses Ermessen aber in einem ab
+schliessenden Absatz 4 mit einem grosszügigen Verweis auf das Ar
+beitsgesetz wieder hätte markant einschränken wollen. Hätte der Ge
+setzgeber tatsächlich die (an sich nicht anwendbaren) bundesrecht
+lichen Vorschriften zur Arbeits und Ruhezeit übernehmen wollen,
+wäre damit zu rechnen gewesen, dass er gesetzessystematisch primär
+auf die Art.9–28 ArG verwiesen und dem Regierungsrat lediglich
+eine Kompetenz zur ergänzenden Rechtssetzung zugewiesen hätte.
+Da der Verweis in §25 Abs.4 PersG namentlich Art.6 ArG erfasst,
+der in unspezifischer Weise auch vor missbräuchlichen Arbeits ,
+Betriebs und Ruhezeiten schützt, kann entgegen dem Kläger auch
+nichts aus dem Umstand abgeleitet werden, dass dieser Verweis unter
+dem Titel "Arbeits und Freizeit; Betriebszeit" und nicht unter dem
+Titel "Gesundheitsschutz" steht. Es bleibt somit dabei, dass die
+Art.9–28 ArG auf den konkreten Fall nicht anwendbar sind.
+2.
+2.1. 2.3. (…)
+2.4.
+Der Kläger musste sich unbestrittenermassen auch während der
+Pausen für allfällige Arbeitseinsätze oder Telefonanrufe zur Verfü
+gung halten. Da seine Pause nicht zur Arbeitszeit zählte, erhielt er für
+diese Einsatz bzw. Rufbereitschaft während der Pausen keine Ent
+schädigung. Eine solche bekam er nur, wenn er die Pause einsatzbe
+dingt abbrechen musste. In diesem Fall wurde die Einsatzzeit (nicht
+aber die Bereitschaftszeit) als Arbeitszeit berücksichtigt. Die Parteien
+sind sich im Grundsatz darüber einig, dass es sich bei der Einsatz
+
+bzw. Rufbereitschaft während der Pausen um eine entschädigungs
+pflichtige Inkonvenienz handelt (vgl. §2 Abs.1 lit.c Lohndekret).
+Streitig ist hingegen, ob diese Dienstleistung während der Pausen
+zum niedrigeren Tarif des Pikettdienstes oder zum höheren des Be
+reitschaftsdienstes gemäss Inkonvenienzverordnung zu entschädigen
+ist.
+2.5.
+Pikettdienst leisten Mitarbeitende, die sich auf dienstliche An
+ordnung hin ausserhalb der ordentlichen Arbeitszeit bereithalten, um
+nötigenfalls kurzfristig einen Arbeitseinsatz zu leisten. Der Pikett
+dienst wird nicht am Arbeitsort geleistet (§5 Inkonvenienz
+verordnung). Demgegenüber bedeutet Bereitschaftsdienst, jederzeit
+während der Nacht im Betrieb einsatzbereit zu sein. Der Bereit
+schaftsdienst wird am Arbeitsort geleistet (§7 Inkonvenienzverord
+nung).
+Der Wortlaut dieser Bestimmungen führt zu keinem eindeutigen
+Auslegungsergebnis. Weder die Umschreibung des Pikett noch des
+Bereitschaftsdienstes ist auf den konkreten Fall zugeschnitten, in
+dem sich ein Arbeitnehmer ohne festen Arbeitsort während Pausen
+einsatz bzw. rufbereit halten muss. Da der Wortlaut bei der Ausle
+gung nicht weiterhilft, ist nach dem Gesetzeszweck zu forschen.
+Die Inkonvenienzverordnung bezweckt, Inkonvenienzen bzw.
+aussergewöhnliche Belastungen (vgl. §1 Abs.1 Inkonvenienzver
+ordnung) auszugleichen, die dem Arbeitnehmer durch die Dienst
+leistung entstehen und durch den normalen Lohn nicht abgegolten
+werden. Es soll verhindert werden, dass der Arbeitnehmer Belastung
+en ausgesetzt ist, für die er nicht entschädigt wird. Für die Frage, ob
+dem Kläger eine Entschädigung nach dem höheren Tarif für den Be
+reitschaftsdienst oder nach dem niedrigeren Tarif für den Pikettdienst
+zusteht, muss es daher auf das Ausmass der ungewöhnlichen Belas
+tung ankommen. Da die Entschädigung beim Bereitschaftsdienst
+höher ausfällt, ist anzunehmen, dass die Belastung bei diesem
+grösser sein muss als beim Pikettdienst.
+Eine Pause dient der Erholung. Die ungewöhnliche Belastung,
+welche durch eine Inkonvenienzentschädigung abgegolten werden
+soll, lag darin, dass sich der Kläger trotz Pause für Einsätze und Tele
+
+fonanrufe bereithalten musste. Dadurch reduzierte sich der Erho
+lungswert seiner Pause. Gewöhnlich wird eine Pause aufgrund ihrer
+beschränkten Dauer am Betriebsort und zusammen mit Arbeitskolle
+gen verbracht. Die Tatsachen, dass der Kläger die Pause nicht zu
+Hause verbringen konnte und er sie mit dem Arbeitskollegen zu
+sammen verbringen musste, stellen somit für sich genommen keine
+ungewöhnlichen Belastungen im Sinn der Inkonvenienzverordnung
+dar, die auszugleichen wären. Entsprechend kommt weder dem Ort,
+wo sich der Kläger im konkreten Fall während der Pause für Einsätze
+oder Telefonanrufe bereithalten musste, noch der Tatsache, dass er
+die Pause (faktisch) zusammen mit dem Arbeitskollegen verbringen
+musste, für die Abgrenzung des Pikettdienstes vom Bereitschafts
+dienst Bedeutung zu.
+Die Einsatzbereitschaft betraf (wie gesagt) die Pause und beein
+trächtigte in einem gewissen Ausmass deren Erholungsfunktion. Wer
+auch in der Pause mit Einsätzen oder Telefonanrufen rechnen muss,
+dürfte sich schwerer damit tun, sich zu erholen. Der Unterbruch einer
+Pause dürfte sich auch dann negativ auf die Erholung auswirken,
+wenn die verlorene Pausenzeit nachgeholt werden kann. Darüber
+hinaus führte die Einsatzbereitschaft während der Pausen aber zu
+keinen nennenswerten Einschränkungen der persönlichen Freiheit
+des Klägers. Vielmehr ergeben sich derartige Einschränkungen be
+reits aus den normalen Rahmenbedingungen einer Pause. So führen
+schon deren beschränkte Länge, die Tatsache, dass die Pause ge
+wöhnlich nicht zu Hause verbracht werden kann, und der Umstand,
+dass bei der Pausengestaltung normalerweise auf Arbeitskollegen
+Rücksicht zu nehmen ist, regelmässig zu gewissen Einschränkungen
+der persönlichen Freiheit. Diese sind jedoch auf die Pause an sich
+und nicht auf die Pflicht zurückzuführen, sich während der Pause für
+Einsätze oder Telefonanrufe bereit zu halten. Auch wenn eine Pause
+dazu dient, abzuschalten, befindet sich ein Arbeitnehmer darin eher
+im "Arbeitsmodus" als wenn er sich ausserhalb der ordentlichen Ar
+beitszeit in seinem privaten Umfeld für Einsätze oder Telefonanrufe
+bereithalten muss. Aufgrund dieser Umstände ist die ungewöhnliche
+Belastung, welche durch eine Inkonvenienzentschädigung abzugelten
+ist, im konkreten Fall als vergleichsweise gering einzustufen. Insbe
+
+sondere führte die Einsatz bzw. Rufbereitschaft während der Pause
+zu keiner ernstzunehmenden Beeinträchtigung des Soziallebens.
+Bei einem Pikettdienst sind die Belastungen für den Arbeitneh
+mer regelmässig geringer als beim Bereitschaftsdienst, kann sich
+doch der Arbeitnehmer während des Pikettdienstes immerhin zu
+Hause in seinem gewohnten Umfeld aufhalten, wo er normalerweise
+grössere Möglichkeiten hat, seine Zeit zu gestalten als am Arbeitsort
+und wo er (mit gewissen Einschränkungen) auch am Familienleben
+und anderweitigem Sozialleben teilnehmen kann. Die Belastungen,
+die mit der Einsatz und Rufbereitschaft während der Pausen einher
+gehen, sind somit im Ergebnis nicht vergleichbar mit denjenigen
+einer jederzeitigen, uneingeschränkten Einsatzbereitschaft im Be
+trieb, wie sie beispielsweise Ärzte oder Mitglieder der Feuerwehr zu
+leisten haben. In diesen Konstellationen sind die Erholungsfunktion
+der Freizeit, die Gestaltungsfreiheit des Arbeitnehmers sowie sein
+Sozialleben wesentlich stärker belastet. Dieser teleologische Aspekt
+spricht somit für einen blossen Pikettdienst und gegen einen Bereit
+schaftsdienst.
+Nach dem Gesagten hat der Kläger während seiner Pausen
+Pikettdienst im Sinne von §5 Inkonvenienzverordnung geleistet. Da
+für ist er mit Fr.3.00 pro geleisteter Stunde zu entschädigen (§6
+Abs.1 Inkonvenienzverordnung). (…) Beim Pikettdienst sieht die
+Inkonvenienzverordnung keine Zeitgutschrift vor.
+30 Versäumnis einer Nachfrist; Fristwiederherstellung
+Das Verwaltungsgericht überprüft letztinstanzliche Entscheide lan
+deskirchlicher Behörden nur mit eingeschränkter Kognition (auf
+Übereinstimmung mit Verfassungsrecht und dem Organisa
+tionsstatut der Landeskirche) (Erw.I/1 und I/3).
+Wegen eines mehr als leichten Verschuldens am Versäumnis einer
+Nachfrist (für die Einreichung des angefochtenen Entscheids) war
+deren Wiederherstellung zwar rechtsfehlerhaft, aber nicht qualifi
+ziert falsch; vor dem Willkürverbot und anderen Verfas
