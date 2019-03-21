@@ -1,0 +1,227 @@
+---
+decision_id: "ag_spezialverwaltungsgericht_3-RV.2018.36"
+court: "AG Spezialverwaltungsgericht"
+court_id: "ag_spezialverwaltungsgericht"
+chamber: "Abteilung Steuern"
+docket: "3-RV.2018.36"
+decided: "2019-03-21"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2334"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2334"
+cites_decisions: ["2C_510/2010", "RV.2018.36"]
+---
+
+# Spezialverwaltungsgericht / Abteilung Steuern — 3-RV.2018.36
+
+## Regeste
+
+§ 114 Abs. 1 StG; § 136 StG; § 1 Abs. 3 QStV 
+Quellensteuer / Tarife / Kirchensteuer Rückforderung: Der Rekurrent hat den ihm obliegenden Nachweis der steueraufhebenden Tatsache, keiner Landeskirche anzugehören, erbracht.
+
+## Text
+
+Vorliegend liegt ein Grenzfall vor. Aufgrund der nicht nachge
+wiesenen Fremdfinanzierung ist beim Verkauf der Aktien der Gesell
+schaft C. im Jahr 2013 von einem steuerfreien Kapitalgewinn auszu
+gehen.
+9.
+Nicht entschieden ist damit, ob dann mit der weiteren Investi
+tion in Start Ups eine geschäftliche Tätigkeit aufgenommen wurde,
+zumal in dieser Hinsicht eine mittelbare Fremdfinanzierung bestan
+den haben dürfte. Damit wird sich die Steuerkommission X. aber erst
+in den Folgejahren zu befassen haben. Bei der allfälligen Aufnahme
+einer geschäftlichen Tätigkeit wären dann auch die Eingangswerte
+und allfällige Aufwendungen – welche aber auf jeden Fall von den
+Rekurrenten nachzuweisen sind – zu bestimmen bzw. zu überprüfen.
+46 § 114 Abs. 1 StG; § 136 StG; § 1 Abs. 3 QStV
+Quellensteuer / Tarife / Kirchensteuer Rückforderung: Der Rekurrent
+hat den ihm obliegenden Nachweis der steueraufhebenden Tatsache, kei
+ner Landeskirche anzugehören, erbracht.
+Aus dem Entscheid des Spezialverwaltungsgerichts, Abteilung Steuern,
+vom 21. März 2019, in Sachen A. (3 RV.2018.36)
+Aus den Erwägungen
+2.
+Vorliegend ist unbestritten, dass der Rekurrent nach
+§112ff.StG an der Quelle zu besteuern ist. Gemäss § 114
+Abs.1StG legt der Regierungsrat die Quellensteuertarife entspre
+chend den für die Einkommenssteuer natürlicher Personen geltenden
+Steuersätzen fest. Dies hat er mit § 1 Abs. 1 QStV getan. Gemäss § 1
+Abs. 3 QStV werden die Tarife A, B, C und H je separat für Perso
+nen, die der Kirchensteuerpflicht unterstehen, und für solche ohne
+
+Zugehörigkeit zu einer Landeskirche festgelegt. Seit 2014 werden
+die Quellensteuertarife mit Kirchensteuerpflicht für Angehörige der
+evangelisch reformierten, römisch katholischen sowie der christka
+tholischen Landeskirche mit "Y" bezeichnet (Kommentar zum Aar
+gauer Steuergesetz, 4. Auflage, Muri Bern 2015, § 114 StG N 8).
+Sollte es vorkommen, dass eine Quellenbesteuerung zu Unrecht
+nach dem Quellensteuermonatstarif mit Kirchensteuer erfolgt ist,
+kann die quellensteuerpflichtige Person den zu Unrecht bezahlten
+Anteil Kirchensteuern über den Rückerstattungsgrund der falschen
+Tarifanwendung zurückfordern (Kommentar zum Aargauer Steuerge
+setz, a.a.O., § 136 StG N 5).
+3.
+3.1.
+Der Rekurrent macht geltend, dass er seit seiner Geburt konfes
+sionslos sei.
+Das KStA, Sektion Quellensteuer, gibt an, dass der Rekurrent
+bei der Anmeldung auf der Gemeinde X. seine Konfession als katho
+lisch angegeben habe. Deshalb sei von ihm die Kirchensteuer zu er
+heben. Mit Verfügung vom 13. Oktober 2017 wurden dementspre
+chend für den Zeitraum von Oktober 2015 bis Dezember 2016 die
+Kirchensteuer nachgefordert.
+3.2.
+3.2.1.
+Steuersubjekt der Kirchensteuer sind die Kirchenangehörigen,
+die kraft persönlicher oder wirtschaftlicher Zugehörigkeit in der ent
+sprechenden Kirchgemeinde der Kirchensteuerpflicht unterliegen
+(vgl. § 154 Abs. 1 und 2 StG). Voraussetzung für die Steuerpflicht ist
+somit die Zugehörigkeit zu einer der mit Steuerhoheit ausgestatteten
+Religionsgemeinschaften (vgl. § 113 Abs. 1 KV). Kantonseinwohner
+gehören der Landeskirche ihrer Konfession an, wenn sie die im Or
+ganisationsstatut (OS) genannten Erfordernisse erfüllen (vgl. § 111
+Abs. 1 KV; vgl. auch VGE vom 21. April 2010 (WBE.2009.372),
+Erw. 2.2).
+3.2.2.
+
+Für die Beurteilung der Frage, ob der Rekurrent Mitglied der
+Römisch Katholischen Landeskirche des Kantons Aargau ist, ist also
+auf die Regelung dieser Kirche abzustellen.
+Art. 1 OS lautet wie folgt:
+"1 Die Römisch Katholische Landeskirche des Kantons Aargau
+umfasst alle römisch katholischen Kirchgemeinden.
+2 Sie ist eine selbständige Körperschaft des kantonalen öffentli
+chen Rechts mit Sitz in Aarau."
+Art. 21 OS führt das Folgende aus:
+"1 Die Kirchgemeinde umfasst sämtliche innerhalb ihres Gebie
+tes wohnhaften Angehörigen der römisch katholischen Konfession.
+2 Sie ist eine selbständige Körperschaft des kantonalen öffentli
+chen Rechts.
+3 Der Austritt aus der Kirchgemeinde kann jederzeit erfolgen.
+Er setzt die Erklärung der austretenden Person voraus, dass sie der
+römisch katholischen Konfession nicht mehr angehören will. Diese
+Erklärung ist beim Pfarramt oder bei der Kirchenpflege zu hinterle
+gen."
+3.2.3.
+Im Kanton Aargau ist Mitglied der römisch katholischen Kirche
+jeder Angehörige dieser Konfession, der im Kanton seinen Wohnsitz
+hat und nicht ausdrücklich seinen Austritt erklärt hat (Art. 21 Abs. 1
+und Abs. 3 OS). Der Erwerb der Konfession und damit der Mitglied
+schaft erfolgt durch die Taufe (vgl. Codex des kanonischen Rechtes
+vom 25. Januar 1983, Canon 849; vgl. auch Wegleitung des Bistums
+Basel vom 1. Oktober 2013 betreffend "Kirchenaustritt" ("Austritt
+aus der staatskirchenrechtlichen Körperschaft und Abwendung von
+der sakramental verfassten röm. kath. Kirche"), S.3f.; Urteil des
+Bundesgerichts vom 13. Dezember 2010 (2C_510/2010), Erw. 3.1).
+Es ist somit abzuklären, ob der Rekurrent Mitglied der römisch
+katholischen Kirche war.
+3.3.
+3.3.1.
+Als Regel gilt für die Beweislastverteilung, dass die Steuerbe
+hörden nach der im Steuerrecht allgemein gültigen Regel die Be
+weislast für steuerbegründende Tatsachen tragen, während der Be
+
+weis für steueraufhebende oder steuermindernde Tatsachen der steu
+erpflichtigen Person obliegt. Sie hat steuermindernde Tatsachen nicht
+nur zu behaupten, sondern auch zu belegen. Hinsichtlich des Be
+weismasses ist grundsätzlich vom Vollbeweis auszugehen. Das be
+deutet, dass die in Frage stehende Tatsache erst dann als nachgewie
+sen gilt, wenn ein so hoher Grad an Wahrscheinlichkeit für deren
+Vorhandensein spricht, dass keine vernünftigen Zweifel bleiben. Die
+Wahrheitsüberzeugung der Behörde oder des Gerichts muss auf kon
+kreten Gründen, der allgemeinen Lebenserfahrung und der prakti
+schen Vernunft beruhen. Das Beweismass kann aufgrund ausdrückli
+cher gesetzlicher Anordnung herabgesetzt sein (so etwa bei der Er
+messensveranlagung). Beweiserleichterungen greifen nach Lehre und
+Rechtsprechung aber auch dann, wenn ein strikter Beweis nach der
+Natur der Sache nicht möglich oder nicht zumutbar ist. Blosse Be
+weisschwierigkeiten im konkreten Einzelfall, weil der beweisbelaste
+ten Partei die Beweismittel fehlen, führen indessen nicht zu Be
+weiserleichterungen (VGE vom 21. August 2013 (WBE.2012.361),
+mit Verweisen, insbesondere auf BGE130III321).
+3.3.2.
+Für die Bewertung der Beweise gilt der Grundsatz der freien
+Beweiswürdigung. Die Steuerbehörde und in der Folge die Steuer
+justizbehörden sind an keine Regeln über den Wert bestimmter Be
+weismittel gebunden, und es gibt keine hierarchische Abstufung der
+zugelassenen Beweismittel nach ihrem Beweiswert. Steuer und
+Steuerjustizbehörden messen den Beweisen nach ihrer eigenen,
+freien Überzeugung ein bestimmtes Gewicht bei. Es ist sachlich zu
+begründen, weshalb ein Beweis erbracht bzw. als nicht stichhaltig
+betrachtet wird (VGE vom 21. August 2013 (WBE.2012.361), mit
+Verweisen).
+3.3.3.
+Der Rekurrent hat somit die steueraufhebende Tatsache, keiner
+Landeskirche anzugehören, nachzuweisen.
+3.4.
+Vorliegend liegt eine Bestätigung des Pfarramts von Z. vom
+29.Januar 2019 vor, dass der Rekurrent nicht in den Taufregistern
+seines Geburtsorts eingetragen ist. Zudem legt der Rekurrent eine
+
+Aufenthaltsbescheinigung von W. für den Zeitraum vom 3.Novem
+ber 1998 bis zum 3.September 1999 vor, aus der hervorgeht, dass
+keine Religionszugehörigkeit vorhanden ist. Das KStA, Sektion
+Quellensteuer, beruft sich demgegenüber auf das Anmeldeformular
+der Gemeinde X. Aus dem besagten Anmeldeformular der Gemeinde
+X. geht jedoch hervor, dass die Konfession nachträglich eingetragen
+wurde. Stiftfarbe und Schriftbild weichen von den übrigen Angaben
+auf dem Formular ab. Zudem wurde auch der Vermerk "gemäss
+Vorgemeinde" angebracht. Es ist daher davon auszugehen, dass diese
+Angabe nicht vom Rekurrenten stammt. Vielmehr ist davon
+auszugehen, dass sie nachträglich durch die Angestellten der
+Gemeindekanzlei eingefügt wurde. Gemäss Einspracheentscheid des
+KStA, Sektion Quellensteuer, vom 29.Januar 2018 wurden die ori
+ginal Anmeldeunterlagen des Rekurrenten auf der Gemeinde Y. in
+folge Wegzug vernichtet. Folglich lässt sich nicht mehr eruieren,
+welche Angaben der Rekurrenten auf diesem Anmeldeformular ge
+macht hat. Gemäss Abklärungen des Spezialverwaltungsgerichts
+wurde zudem während des Aufenthaltes des Rekurrenten im Kanton
+V. keine Kirchensteuer abgezogen (E Mail vom 18. Januar 2019).
+3.5.
+Zusammenfassend ist festzustellen, dass die vom KStA, Sektion
+Quellensteuer, angerufenen Unterlagen die Zugehörigkeit des Rekur
+renten zur römisch katholischen Kirche nicht zu belegen vermögen.
+Aufgrund der Bestätigung des Pfarramts von Z. vom 29. Januar 2019
+ist vielmehr davon auszugehen, dass der Rekurrent nie getauft wurde
+und folglich nie Mitglied der römisch katholischen Kirche war. So
+mit wurde er auch nie Mitglied der betreffenden römisch
+katholischen Kirchgemeinden im Kanton Aargau und konnte folglich
+auch nicht Steuersubjekt der römisch katholischen Kirchensteuer
+sein. An diesem Ergebnis ändert nichts, dass der Rekurrent mit
+Schreiben vom 25. Oktober 2017 aus der römisch katholischen Kir
+che ausgetreten ist, gibt er doch auch dort seine Konfessionslosigkeit
+als Austrittsgrund an.
+
+47 Vermögenssteuer; Bewertung von Wertpapieren ohne Kurswert;
+Pauschalabzug für vermögensrechtliche Beschränkungen (Minderheits
+abzug; §46Abs. 1 StG; § 47 StG; § 50 Abs. 1 StG; § 33 Abs. 1 StGV)
+Die Ermittlung der Rendite ist aus der Sicht des Steuerpflichtigen (Ein
+zelbetrachtung) vorzunehmen.
+Aus dem Entscheid des Spezialverwaltungsgerichts, Abteilung Steuern,
+vom 24. Oktober 2019 in Sachen F. + S.D. (3RV.2018.42).
+Aus den Erwägungen
+2.
+Die Vertreterin der Rekurrenten beantragt, es sei für die Bemes
+sung der Vermögenssteuer der Abzug von 30 % für vermögensrecht
+liche Beschränkungen (Minderheitsabzug) auf dem Vermögenssteu
+erwert der von der Rekurrentin gehaltenen 30 Vorzugsaktien der A
+AG zu gewähren.
+3.
+3.1.
+Der Vermögenssteuer unterliegt das gesamte Reinvermögen
+(§46 Abs. 1 StG). Das Vermögen wird gemäss § 47 StG zum Ver
+kehrswert bewertet, soweit die nachfolgenden Bestimmungen (§§48
+ff. StG) nichts anderes vorsehen. Wertpapiere sind nach dem Ver
+kehrswert zu bewerten. Dieser entspricht dem Kurswert oder, wenn
+kein solcher besteht, in der Regel dem inneren Wert (§ 50 Abs.1
+StG).
+3.2.
+Für die Bewertung von Wertpapieren, welche, wie die Aktien
+der A AG, nicht über einen Kurswert verfügen, wird in der Regel auf
+die "Wegleitung zur Bewertung von Wertpapieren ohne Kurswert für
+die Vermögenssteuer" (= Kreisschreiben Nr. 28 [KS 28]) der
+Schweizerischen Steuerkonferenz vom 28. August 2008 abgestellt
+(vgl. § 33 Abs. 1 StGV). Die Wegleitung bezweckt im Interesse der
+Steuerharmonisierung zwischen den Kantonen eine in der Schweiz
+einheitliche Bewertung nicht kotierter Wertpapiere für die Vermö
