@@ -1,0 +1,524 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2018.70"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2018.70"
+decided: "2019-03-27"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2302"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2302"
+cites_decisions: ["2P.34/2002", "6B_656/2012", "BGE 127 I 69", "BGE 135 I 306", "BGE 135 I 307", "BGE 142 I 180", "BGE 143 I 278"]
+cites_law: ["switzerland/bund/acts/101/art-050.md", "switzerland/bund/acts/101/art-082.md", "switzerland/bund/acts/741.01/art-106.md", "switzerland/bund/acts/741.013/art-001.md", "switzerland/bund/acts/741.013/art-003.md", "switzerland/bund/acts/741.013/art-005.md", "switzerland/bund/acts/741.013/art-009.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2018.70
+
+## Regeste
+
+Stationäre automatische Verkehrsüberwachungsanlage ("Blitzer") 
+Von einer Gemeinde beabsichtigter Einsatz einer stationären automatischen Verkehrsüberwachungsanlage (AVÜ) auf einer Kantonsstrasse innerorts; rechtliche Beurteilung unter besonderer Berücksichtigung der Gemeindeautonomie.
+
+## Text
+
+14 Stationäre automatische Verkehrsüberwachungsanlage ("Blitzer")
+Von einer Gemeinde beabsichtigter Einsatz einer stationären automati
+schen Verkehrsüberwachungsanlage (AVÜ) auf einer Kantonsstrasse in
+nerorts; rechtliche Beurteilung unter besonderer Berücksichtigung der
+Gemeindeautonomie.
+Aus dem Entscheid des Verwaltungsgerichts, 3.Kammer, vom 27.März
+2019, in Sachen Stadt Baden gegen Regierungsrat (WBE.2018.70).
+Aus den Erwägungen:
+2.
+2.1.
+Die Vorinstanz prüfte, ob für die Nutzung der kantonalen Infra
+struktur eine kantonale Bewilligung erforderlich ist und gegebenen
+falls ob diese erteilt werden kann. Dass für den Einsatz der AVÜ die
+kantonale Infrastruktur genutzt werden soll, trifft zunächst zu: Einer
+seits ist vorgesehen, dass die Überwachungs und Kontrollgeräte der
+Beschwerdeführerin an Bestandteilen der Kantonsstrasse (Signalträ
+ger) installiert werden (vgl. §80 Abs.2 lit.c BauG); andererseits sol
+len die Rotlichtmissachtungen ab dem Steuergerät der Lichtsignalan
+lage (der Kantonsstrasse) erfasst werden. Es erscheint daher nach
+vollziehbar, wenn mit Blick auf §§102ff. BauG geprüft wurde, ob
+eine kantonale Bewilligung erforderlich ist und gegebenenfalls ob
+diese erteilt werden kann. Offen bleiben kann dabei, ob die AVÜ als
+"Bestandteil" der öffentlichen Strasse zu qualifizieren ist (vgl. §80
+Abs.2 BauG). Selbst wenn dem nämlich so wäre, müsste geprüft
+werden, ob die Nutzung der kantonalen Infrastruktur durch die Be
+schwerdeführerin – welche nicht Eigentümerin der Kantonsstrasse ist
+(vgl. §81 Abs.1 und 2 BauG) – einer kantonalen Bewilligung bedarf
+und, falls ja, ob eine solche Bewilligung erteilt werden kann.
+2.2.
+
+Die Nutzung von öffentlichen Sachen richtet sich in erster Linie
+nach kantonalem Recht. Dieses umschreibt insbesondere, in wel
+chem Rahmen und Ausmass öffentliche Sachen im Gemeingebrauch
+genutzt werden dürfen und wie namentlich öffentlicher Grund von
+der Allgemeinheit benützt werden darf. Dabei unterscheiden die kan
+tonalen Rechtsordnungen und die Praxis meist zwischen schlichtem
+Gemeingebrauch, gesteigertem Gemeingebrauch und Sondernutzung.
+Die Rechtsprechung und die Verwaltungsrechtswissenschaft haben
+diese Einteilung konkretisiert (BGE 135 I 306 mit Hinweisen;
+ULRICH HÄFELIN/GEORG MÜLLER/FELIX UHLMANN, Allgemeines
+Verwaltungsrecht, 7.Auflage, Zürich/St.Gallen 2016, Rz.2252ff.;
+PIERRE TSCHANNEN/ULRICH ZIMMERLI/MARKUS MÜLLER, Allge
+meines Verwaltungsrecht, 4.Auflage, Bern 2014, §51 N1ff.). Dies
+ändert nichts am Umstand, dass insbesondere die Begriffe des
+schlichten bzw. des gesteigerten Gemeingebrauchs kantonalrechtlich
+bestimmt sind (BGE 135 I 306f.).
+Nach §46 KV stellt der Kanton Vorschriften über die öffentli
+chen Sachen sowie über deren Gebrauch und Nutzung auf. Die
+öffentlichen Strassen dürfen im Rahmen ihrer Zweckbestimmung,
+ihrer Gestaltung, der örtlichen Verhältnisse und der geltenden Vor
+schriften durch jedermann unentgeltlich und ohne besondere Erlaub
+nis benutzt werden (Gemeingebrauch; §102 Abs.1 BauG). Jede über
+den Gemeingebrauch hinausgehende Benutzung einer öffentlichen
+Strasse ist nur mit Bewilligung und gegen Gebühr zulässig (bewilli
+gungspflichtige Benutzung; §103 Abs.1 BauG). Durch Erlaubnis
+kann eine über den Gemeingebrauch hinausgehende Benutzung einer
+öffentlichen Strasse gestattet werden (Erlaubnis; §104 Abs.1
+BauG). Durch Verleihung schliesslich werden Rechtsverhältnisse an
+dauernden, fest mit dem Boden verbundene Bauten und Anlagen auf
+dem Gebiet von Strassen geordnet (Verleihung; §105 Abs.1 BauG).
+2.3.
+2.3.1.
+Zum Gemeingebrauch (§102 BauG) gehört die Benutzung
+einer öffentlichen Strasse, soweit sie bestimmungsgemäss und ge
+meinverträglich ist. Ob der Gebrauch bestimmungsgemäss ist, muss
+mit Blick auf die Zweckbestimmung der Sache beurteilt werden.
+
+Diese Zweckbestimmung ergibt sich ihrerseits aufgrund einer Wid
+mung, aufgrund der natürlich gegebenen oder menschlich gestalteten
+Beschaffenheit oder aufgrund des traditionellen Gebrauchs der
+Sache. Die Gemeinverträglichkeit ist solange gegeben, als die
+gleichartige und gleichzeitige Benutzung der Sache durch mehrere
+interessierte Personen praktisch möglich ist, einzelne Interessierte
+mithin nicht erheblich an der Nutzung gehindert werden (vgl. BGE
+135 I 307; zum Ganzen: TSCHANNEN/ZIMMERLI/MÜLLER, a.a.O.,
+§51 N3ff.; HÄFELIN/MÜLLER/UHLMANN, a.a.O., Rz.2253ff.;
+ANDREAS BAUMANN, in: Kommentar zum Baugesetz des Kantons
+Aargau, Bern2013 [nachfolgend: Kommentar Baugesetz], §102
+N2).
+Der Gemeingebrauch erstreckt sich bei der öffentlichen Strasse
+auf alle Bestandteile, die dem entsprechenden Verkehr zu dienen be
+stimmt sind, d.h. auf die eigentlichen Verkehrsflächen (Fahrbahnen,
+Rad und Gehwege, Kreuzungen, Über und Unterführungen, Brü
+cken, Tunnels, Treppen), nicht aber auf Bestandteile wie Böschun
+gen, Dämme, Gräben, Stützmauern, Trenn und Sicherheitsstreifen,
+Grünstreifen, Bepflanzungen etc. (vgl. ERICH ZIMMERLIN, Baugesetz
+des Kantons Aargau vom 2.Februar 1971, Kommentar, 2.Auflage,
+Aarau 1985, §49 N4; BAUMANN, Kommentar Baugesetz, §102
+N9). Notwendigerweise erstreckt sich der Gemeingebrauch auch auf
+den Luftraum über den Verkehrsflächen, soweit er in Anspruch ge
+nommen werden muss (ZIMMERLIN, a.a.O., §49 N4; BAUMANN,
+Kommentar Baugesetz, §102 N9).
+2.3.2.
+Vorliegend sollen – wie dargelegt (Erw.2.1) – die Signalträger
+als Bestandteile der Kantonsstrasse zur Installation der Überwa
+chungs und Kontrollgeräte sowie der Anschluss / die Schnittstelle
+zum Steuergerät der Lichtsignalanlage genutzt bzw. beansprucht
+werden. Weder die Signalträger noch der Anschluss / die Schnitt
+stelle zum Steuergerät der Lichtsignalanlage bezwecken indes, von
+jedermann unentgeltlich und ohne besondere Erlaubnis benutzt zu
+werden. Ein Anwendungsfall von §102 BauG fällt schon aus diesem
+Grund ausser Betracht. Abgesehen davon spricht auch die fixe Instal
+
+lation von neuen, zusätzlichen Geräten (namentlich an den Signal
+trägern) gegen (schlichten) Gemeingebrauch.
+2.4.
+2.4.1.
+Gehen Benutzungen öffentlicher Sachen über den Gemeinge
+brauch hinaus, so unterscheiden Lehre und Praxis zwischen gestei
+gertem Gemeingebrauch und Sondernutzung (vgl. Erw.2.2). Da es
+aber oft schwierig ist, die Grenze zwischen diesen Benutzungsarten
+zu ziehen, wurde im Kanton Aargau darauf verzichtet, die Begriffe
+"gesteigerter Gemeingebrauch" und "Sondernutzung" ins Gesetz auf
+zunehmen (vgl. ZIMMERLIN, a.a.O., §§50–53 N2 [zum alten Bauge
+setz vom 2.Februar 1971]). Was über den Gemeingebrauch (§102
+BauG) hinausgeht, fällt unter den Begriff der "bewilligungspflich
+tigen Benutzung". Dabei geht es um Benutzungsarten, die der
+blossen Erlaubnis bedürfen (§104 BauG), und um solche, die eine
+Verleihung (Konzession) voraussetzen (§105 BauG) (vgl.
+ZIMMERLIN, a.a.O., §§50–53 N2).
+Gemäss §103 BauG ist jede über den Gemeingebrauch hinaus
+gehende Benutzung einer öffentlichen Strasse nur mit Bewilligung
+und gegen Gebühr zulässig (Abs.1). Die Bewilligung setzt voraus,
+dass ein beachtliches, auf andere Weise nicht oder nur mit unverhält
+nismässigen Kosten zu befriedigendes Bedürfnis besteht und weder
+für die Strasse noch für den Verkehr schwerwiegende Nachteile er
+wachsen (Abs.2). Die Bewilligungspflicht dient nicht nur (oder nur
+mittelbar) dem Schutz von Polizeigütern, sondern vielmehr der
+Koordination und Prioritätensetzung zwischen verschiedenen
+Nutzungen an öffentlichen Strassen und Wegen (vgl. BGE 135 I 307;
+127 I 169; BAUMANN, Kommentar Baugesetz, §103 N5; HÄFE
+LIN/MÜLLER/UHLMANN, a.a.O., Rz.2285).
+2.4.2.
+Die Vorinstanzen verweigerten die Bewilligung weder aus
+Gründen der Koordination und Prioritätensetzung zwischen ver
+schiedenen Nutzungen an der öffentlichen Strasse noch mit der Be
+gründung, dass durch die Nutzung der kantonalen Infrastruktur – d.h.
+durch die Installation der Überwachungs und Kontrollgeräte am
+Signalträger sowie dem Anschluss zum Steuergerät der Lichtsignal
+
+anlage – für die Strasse oder den Verkehr schwerwiegende Nachteile
+entstünden. Die Vorinstanz verweigerte die Bewilligung vielmehr aus
+anderen Gründen, nämlich deshalb, weil ihrer Ansicht nach eine
+AVÜ nur dann zum Einsatz gelangen solle, wenn der "Bedarf durch
+die Unfallstatistik und Unfallanalyse nachgewiesen" und vom Ein
+satz der Anlage eine "signifikante Verbesserung der Verkehrssicher
+heit" zu erwarten sei, was vorliegend nicht der Fall sei. Die von der
+Vorinstanz vorgenommene Beurteilung bzw. Begründung ist sach
+fremd, sie betrifft nicht die im Rahmen einer Bewilligung gemäss
+§103 Abs.2 BauG zu prüfenden Punkte (Erw.2.4.1), sondern sie
+bezieht sich auf die Frage, ob beim Knoten "Gstühl" aus verkehrs
+polizeilicher Sicht (ihrer Ansicht nach) eine AVÜ eingesetzt werden
+soll oder nicht. Die Beurteilung dieser Frage fällt indes in den Auf
+gaben und Autonomiebereich der Beschwerdeführerin (vgl. hinten
+Erw.3.2 und 3.3.1).
+Dass die Beschwerdeführerin an der Nutzung der kantonalen
+Infrastruktur ein beachtliches Bedürfnis hat, zeigt sich bereits darin,
+dass die Überwachung und Kontrolle des fliessenden Strassenver
+kehrs beim Knoten "Gstühl" in den Aufgaben und Autonomie
+bereich der Beschwerdeführerin fällt (Erw.3.2 und 3.3.1). Weiter
+liegt auf der Hand, dass eine konstante Kontrolle rund um dieUhr
+nicht auf andere Weise bzw. nur mit unverhältnismässigen Kosten er
+reicht werden könnte: Es wäre nicht realistisch, mit einer mobilen
+Kontrolle in vergleichbarer Weise konstant und gleichzeitig mehrere
+Spuren überwachen zu wollen; dies umso mehr, als Rotlicht und Ge
+schwindigkeit kontrolliert werden müssten. Zudem wäre die mobile
+Kontrolle auch mit unverhältnismässigen Kosten (namentlich Perso
+nalaufwand) verbunden. Dass ein beachtliches, auf andere Weise
+nicht oder nur mit unverhältnismässigen Kosten zu befriedigendes
+Bedürfnis im Sinne von §103 Abs.2 BauG besteht, lässt sich bei
+richtiger Betrachtung somit nicht abstreiten. Mit der Inanspruchnah
+me der kantonalen Infrastruktur erwachsen für die Strasse und den
+Verkehr auch keine schwerwiegenden Nachteile (vgl. §103 Abs.2
+BauG). Im Gegenteil, soll mit der AVÜ doch gerade die Verkehrs
+sicherheit erhöht werden (Standortdisziplinierung beim Knoten
+"Gstühl").
+
+Nach dem Gesagten sind die Voraussetzungen für die Erteilung
+einer Bewilligung nach §103 Abs.2 BauG im Grundsatz somit er
+füllt. In einem weiteren Schritt ist zu prüfen, ob der Einsatz einer
+AVÜ auch in verkehrspolizeilicher Hinsicht zulässig ist.
+3.
+3.1.
+Gemäss Art.82 Abs.1 BV erlässt der Bund Vorschriften über
+den Strassenverkehr. Es steht ihm die umfassende Ge
+setzgebungskompetenz im Bereich der polizeilichen Verkehrsrege
+lung zu (BGE 127 I 69; Urteil des Bundesgerichts vom 14.Juni 2013
+[6B_656/2012], Erw.1.3.3). Der Vollzug der Strassengesetzgebung
+obliegt den Kantonen, welche die dafür notwendigen Massnahmen
+treffen und die zuständigen kantonalen Behörden bezeichnen
+(Art.106 Abs.2 SVG; Urteil des Bundesgerichts vom 14.Juni 2013
+[6B_656/2012], Erw.1.3.3; Urteil des Bundesgerichts vom 25.Juli
+2002 [2P.34/2002], Erw.2.3). Der Bundesrat wird in Art.106 Abs.1
+SVG ermächtigt, die zum Vollzug dieses Gesetzes notwendigen Vor
+schriften zu erlassen und das Bundesamt für Strassen (ASTRA) mit
+der Regelung von Einzelheiten zu betrauen. An entsprechende Rege
+lungen, insbesondere an Vorschriften über technische Anforderungen
+zur verkehrspolizeilichen Überwachungen, sind die Kantone gebun
+den (Urteil des Bundesgerichts vom 14.Juni 2013 [6B_656/2012],
+Erw.1.3.3). Die Verkehrskontrollen, die damit zusammenhängenden
+Massnahmen, Meldungen und statistischen Erhebungen werden
+durch die Verordnung über die Kontrolle des Strassenverkehrs vom
+28.März 2007 (Strassenverkehrskontrollverordnung, SKV;
+SR741.013) geregelt (vgl. Art.1 SKV). Die Kontrolle des Verkehrs
+auf öffentlichen Strassen obliegt der nach kantonalem Recht zustän
+digen Polizei (vgl. Art.3 Abs.1 Satz1 SKV). Die kantonalen Behör
+den richten die Kontrollen schwerpunktmässig nach sicherheitsrele
+vantem Fehlverhalten, den Gefahrenstellen und der Unterstützung
+des Verlagerungsziels nach dem Bundesgesetz über die Verlagerung
+des alpenquerenden Güterschwerverkehrs von der Strasse auf die
+Schiene vom 19.Dezember 2008 (Güterverkehrsverlagerungsgesetz,
+GVVG; SR740.1) aus (Art.5 Abs.1 SKV). Die Kontrollen erfolgen
+stichprobenweise, systematisch oder im Rahmen von Grosskontrol
+
+len (Art.5 Abs.2 Satz1 SKV). Nach Möglichkeit sind bei den Kon
+trollen technische Hilfsmittel einzusetzen, insbesondere bei der Kon
+trolle der Geschwindigkeit (Art.9 Abs.1 lit.a SKV) oder der Beach
+tung von Lichtsignalen (Art.9 Abs.1 lit.b SKV). Nach Art.10 der
+Verordnung des ASTRA zur Strassenverkehrskontrollverordnung
+vom 22.Mai 2008 (VSKV ASTRA; SR741.013.1) dienen Rotlicht
+überwachungssysteme in erster Linie der Feststellung von Wider
+handlungen gegen das Haltegebot durch Lichtsignale (Abs.1); sie
+können mit Systemen zur Geschwindigkeitsmessung kombiniert
+werden (Abs.2). Bei den Messarten, welche bei der Durchführung
+von Geschwindigkeitskontrollen in erster Linie zu wählen sind,
+nennt Art.6 VSKV ASTRA u.a. explizit "Messungen mit stationären
+Messsystemen, die autonom betrieben werden" (Art.6 lit.b VSKV
+ASTRA).
+3.2.
+3.2.1.
+Art.50 BV gewährleistet die Gemeindeautonomie nach Mass
+gabe des kantonalen Rechts. Gemäss §106 KV sind die Gemeinden
+im Rahmen von Verfassung und Gesetz befugt, sich selbst zu organi
+sieren, ihre Behörden und Beamten zu wählen, ihre Aufgaben nach
+eigenem Ermessen zu erfüllen und ihre öffentlichen Sachen selbst
+ständig zu verwalten. Nach der Praxis des Bundesgerichts sind Ge
+meinden in einem Sachbereich autonom, wenn das kantonale Recht
+diesen nicht abschliessend ordnet, sondern ihn ganz oder teilweise
+der Gemeinde zur Regelung überlässt und ihr in diesem Bereich eine
+relativ erhebliche Entscheidungsfreiheit einräumt (statt vieler: BGE
+143 I 278; 142 I 180; 138 I 150; AGVE 2013, S.269f.; 2011,
+S.199f.; 2003, S.470; HÄFELIN/MÜLLER/UHLMANN, a.a.O.,
+Rz.1910). Der geschützte Autonomiebereich kann sich auf die Be
+fugnis zum Erlass oder Vollzug eigener kommunaler Vorschriften be
+ziehen oder einen entsprechenden Spielraum bei der Anwendung des
+kantonalen oder eidgenössischen Rechts betreffen. Der Schutz der
+Gemeindeautonomie setzt eine solche nicht in einem ganzen Aufga
+bengebiet, sondern lediglich im streitigen Bereich voraus (vgl. BGE
+142 I 180; 139 I 172f.; 138 I 244f.; 136 I 397). Im Einzelnen ergibt
+sich der Umfang der kommunalen Autonomie aus dem für den ent
+
+sprechenden Bereich anwendbaren kantonalen Verfassungs und Ge
+setzesrecht (BGE 142 I 180; 136 I 397f.). "Verfassung und Gesetz",
+die den "Rahmen" gemäss §106 Abs.1 KV abgeben, sind grossteils
+kantonales Recht, können aber auch eidgenössisches, interkantonales
+und internationales sein. Das der Kantonsverfassung nachgeordnete
+kantonale Recht muss nicht ausschliesslich in Gesetzesform gegos
+sen sein; es gelten die üblichen Regeln der Rechtsetzungszuständig
+keiten, insbesondere §78 (Grosser Rat: Gesetze; Dekrete) und §91
+KV (Regierungsrat: Entwürfe zu Verfassungsänderungen, Gesetzen
+und Dekreten; Verordnungen) (vgl. KURT EICHENBERGER, Verfas
+sung des Kantons Aargau, Textausgabe mit Kommentar,
+Aarau/Frankfurt am Main/Salzburg 1986, §106 N4).
+3.2.2.
+Nach §27 KV gewährleisten Kanton und Gemeinden die
+öffentliche Ordnung und Sicherheit. Sie schützen insbesondere Le
+ben, Freiheit, Gesundheit und Sittlichkeit, wobei der Polizeigüter
+schutz zu den klassischen Aufgaben der Gemeinden gehört
+(AGVE2003, S.453; ANDREAS BAUMANN, Aargauisches Polizeige
+setz, Praxiskommentar, Zürich/Basel/Genf 2006 [nachfolgend: Poli
+zeigesetz], Rz.87; ANDREAS BAUMANN, Aargauisches Gemeinde
+recht, 4.Auflage, Zürich/Basel/Genf 2017 [nachfolgend: Gemeinde
+recht], S.287). Gestützt auf §37 Abs.2 lit.f GG obliegt dem Ge
+meinderat die Sorge für die lokale Sicherheit gemäss Polizeigesetz
+sowie der Erlass eines entsprechenden Reglements. Das Gesetz über
+die Gewährleistung der öffentlichen Sicherheit vom 6.Dezember
+2005 (Polizeigesetz, PolG; SAR531.200) bestimmt in §4 Abs.1 so
+dann, dass die Gemeinden (nach Massgabe von §19 PolG) die lokale
+Sicherheit auf dem Gemeindegebiet gewährleisten. Die lokale
+Sicherheit umfasst u.a. die Überwachung und Kontrolle des ruhenden
+Strassenverkehrs auf dem ganzen Gemeindegebiet sowie des flies
+senden Strassenverkehrs innerorts und auf Gemeindestrassen ausser
+orts (§4 Abs.2 lit.c PolG; vgl. auch AGVE 2013, S.258f.). In §3
+Abs.1 lit.b des Dekrets über die Gewährleistung der öffentlichen
+Sicherheit vom 6.Dezember 2005 (Polizeidekret, PolD;
+SAR531.210) wird abermals explizit festgehalten, dass die Überwa
+chung und Kontrolle des fliessenden Strassenverkehrs auf dem Ge
+
+meindegebiet (ausgenommen Kantonsstrassen ausserorts) zu den
+verkehrspolizeilichen Aufgaben der Gemeinden gehört.
+Aus dem kantonalen Recht ergibt sich somit klar, dass die lo
+kale Sicherheit, namentlich die Überwachung und Kontrolle des
+fliessenden Strassenverkehrs auf dem Gemeindegebiet (ausgenom
+men Kantonsstrassen ausserorts), in den Aufgabenbereich der Ge
+meinden fällt. Innerhalb der Schranken des höherrangigen Rechts
+haben die kommunalen Behörden in diesem Bereich eine relativ er
+hebliche Entscheidungsfreiheit, d.h. sie geniessen Autonomie. §2
+Abs.2 PolG sieht im Weiteren zwar vor, dass die Kantonspolizei die
+Führungsfunktion bei der allgemeinen Polizeitätigkeit im Kanton
+wahrnimmt und Weisungen zur Sicherstellung der Koordination und
+der einheitlichen Praxis der Polizeitätigkeit erlassen kann. Und §1
+Abs.2 PolD hält fest, dass die Kantonspolizei eine einheitliche Ein
+satzdoktrin aller Polizeikräfte sicherstellt. Blosse Weisungen
+und/oder eine Einsatzdoktrin der Kantonspolizei vermögen jedoch
+die sich aus dem kantonalen Verfassungs und Gesetzesrecht erge
+bende Gemeindeautonomie (siehe Erw.3.2.1) nicht zu beschränken.
+3.3.
+3.3.1.
+Der Knoten "Gstühl" liegt an der Kantonsstrasse K117 im
+Innerortsbereich, womit die Überwachung und Kontrolle der Einhal
+tung der Lichtsignale sowie der Geschwindigkeit an diesem Ort in
+den Autonomiebereich der Gemeinde, d.h. der Beschwerdeführerin,
+fällt. Nach der bundesrechtlichen Vorgabe von Art.5 Abs.1 SKV
+haben sich die Kontrollen schwerpunktmässig nach sicherheitsrele
+vantem Fehlverhalten und den Gefahrenstellen (und der Unter
+stützung des Verlagerungsziels nach dem GVVG) auszurichten. Die
+Kontrollen erfolgen stichprobenweise, systematisch oder im Rahmen
+von Grosskontrollen (Art.5 Abs.2 Satz1 SKV). Gemäss Art.9
+Abs.1 SKV sind bei den Kontrollen zudem nach Möglichkeit tech
+nische Hilfsmittel einzusetzen, insbesondere bei der Kontrolle der
+Geschwindigkeit (lit.a) sowie der Beachtung von Lichtsignalen
+(lit.b) (vgl. zum Ganzen bereits Erw.3.1).
+Auf den Knoten "Gstühl" treffen von vier Seiten neun Fahrspu
+ren, es hat vier Fussgängerstreifen mit je einer Mittelinsel und über
+
+die Kreuzung führt auch der Veloverkehr. Im Jahre 1994 wurde nörd
+lich des Knotens "Gstühl" (auf der Bruggerstrasse) ein durchschnitt
+licher täglicher Verkehr (DTV) von 25'300 gemessen, wobei die
+Vorinstanz darauf hinweist, dass die Strassenbelastung (seit 1994)
+grundsätzlich zugenommen habe. Von einem wenig befahrenen
+Knoten kann insoweit keine Rede sein. Eine Erhebung der Rotlicht
+verstösse motorisierter Verkehrsteilnehmer beim Knoten "Gstühl"
+ergab sodann, dass an den drei kontrolliertenTagen – die Lichtsig
+nalanlagen waren während insgesamt 55 Stunden in ordentlichem
+Betrieb – das Rotlicht 621 mal missachtet wurde, davon 473 mal in
+den Hauptfahrtrichtungen. 10% der Rotlichtübertretungen waren
+von einer Dauer von mehr als 2Sekunden, was selbst nach Darstel
+lung der Vorinstanz zu einem direkten Konflikt mit andern Verkehrs
+strömen führen könne. Auf der Bruggerstrasse ist – so die Beschwer
+deführerin – zudem von rund 100 bis 200 Geschwin
+digkeitsübertretungen proTag auszugehen. Unbestritten ist weiter,
+dass es beim Knoten "Gstühl" seit dem Jahr 2011 zu verschiedenen
+Unfällen gekommen ist. Die Antwort des Regierungsrats vom
+5.April 2017 auf die Motion Martin Keller (betreffend Verhinderung
+von Radarfallen auf Kantonsstrassen; Grosser Rat, Ges. Nr.17.18)
+spricht – unter Hinweis auf die Unfallstatistik – z.B. von zwölf "poli
+zeilich registrierten Unfällen" an der "Gstühl" Kreuzung zwischen
+1.Januar 2012 und 30.Juni 2016 (S.2). Die Unfallkarte des ASTRA
+weist zwischen April 2011 und September 2017 neun Unfälle mit
+Personenschäden (Leichtverletzte) beim bzw. im näheren Bereich des
+Knotens aus (Karte abrufbar: https://www.astra.ad
+min.ch/astra/de/home/dokumentation/unfalldaten.html [Seite besucht
+am 27.März 2019]); Unfälle mit blossen Sachschäden sind in dieser
+Karte (soweit ersichtlich) nicht eingetragen.
+Dass die Beschwerdeführerin vor diesem Hintergrund eine AVÜ
+einsetzen will, um die Verkehrssicherheit zu erhöhen, ist unter Be
+achtung der rechtlichen Vorgaben – namentlich des relativ erheb
+lichen Entscheidungsspielraums der Beschwerdeführerin (Gemein
+deautonomie) – nicht zu beanstanden: Es sprengt den Spielraum der
+Beschwerdeführerin jedenfalls nicht, wenn sie die Rotlichtmissach
+tungen und die Geschwindigkeitsüberschreitungen beim Knoten
+
+"Gstühl" als sicherheitsrelevantes Fehlverhalten und den Knoten als
+Gefahrenstelle einstuft und eine (systematische) stationäre Kontrolle
+als erforderlich erachtet (vgl. Art.5 Abs.1 und 2 SKV). Ob die in
+den letzten Jahren verzeichneten Unfälle beim Knoten "Gstühl" mit
+einer AVÜ mutmasslich verhindert worden wären, ist letztlich nicht
+entscheidend (und wäre teilweise wohl auch spekulativ). Es ent
+spricht jedoch den gesetzlichen Vorgaben, wenn die für die Gewähr
+leistung der lokalen Sicherheit zuständige Beschwerdeführerin (bzw.
+der Stadtrat) präventiv – im Sinne einer Standortdisziplinierung – das
+Risiko vermindern will, dass es beim Knoten "Gstühl" wegen Rot
+lichtmissachtungen und Geschwindigkeitsüberschreitungen zu ge
+fährlichen Situationen bzw. Unfällen kommt. Standorte von stationä
+ren Kontrollanlagen sind erfahrungsgemäss relativ schnell bekannt,
+weshalb schon dieses Wissen allein disziplinierende Wirkung haben
+dürfte. Der Stadtrat rechnet z.B. mit einer Verbesserung der Rot
+lichtmissachtungen von 95% und bei den Geschwindigkeitsüber
+schreitungen dürfte sich ebenfalls eine Verbesserung ergeben. Mit
+mobilen Rotlicht und Geschwindigkeitskontrollen könnte das ver
+folgte Ziel beim Knoten "Gstühl" im Übrigen nicht gleichwertig er
+reicht werden. Mobile Kontrollen werden nur sporadisch und wäh
+rend ein paar Stunden durchgeführt. Mit einer AVÜ kann dagegen
+sichergestellt werden, dass der Knoten konstant, d.h. rund um
+dieUhr, überwacht und kontrolliert wird. Ob hinter dem geplanten
+Einsatz einer AVÜ teilweise auch fiskalische Motive eine Rolle spie
+len, ist mit Blick auf die Vorgeschichte zwar nicht auszuschliessen,
+ändert am ausgewiesenen öffentlichen Interesse an der Erhöhung der
+Verkehrssicherheit beim Knoten "Gstühl" (Standortdisziplinierung)
+jedoch nichts. Abgesehen davon sind allfällige finanzielle Interessen
+ohnehin zu relativieren, da Standorte von stationären Kontrollanla
+gen – wie dargelegt – relativ schnell bekannt sind und die Anzahl
+Verfehlungen entsprechend abnehmen dürfte. Von selbst ergibt sich
+im Übrigen, dass das mit der AVÜ verfolgte öffentliche Interesse an
+der Erhöhung der Verkehrssicherheit (Standortdisziplinierung) höher
+wiegt als das private Interesse der fehlbaren Verkehrslenker, einer
+Ordnungsbusse bzw. Strafverfolgung zu entgehen.
+
+Der von der Beschwerdeführerin geplante Einsatz einer AVÜ
+beim Knoten "Gstühl" ist somit auch in verkehrspolizeilicher Hin
+sicht zulässig, d.h. mit den massgeblichen gesetzlichen Vorgaben
+vereinbar.
+3.3.2.
+Der aktenkundige Dienstbefehl216 "Policy für die Durchfüh
+rung von Geschwindigkeitskontrollen" der Kantonspolizei (letzte
+Änderung: 01.04.2017 [nachfolgend: Dienstbefehl216]) ändert an
+diesem Ergebnis im Übrigen nichts. Blosse Weisungen und/oder die
+Einsatzdoktrin der Kantonspolizei (vgl. §2 Abs.2 PolG; §1 Abs.2
+PolD) vermögen die Gemeindeautonomie nicht zu beschränken (vgl.
+Erw.3.2.2). (…)
+4.
+Soweit die Vorinstanz im angefochtenen Entscheid unter Bezug
+nahme auf die "Beantwortung der Motion Keller" festhielt, eine AVÜ
+solle nur dann zum Einsatz gelangen, wenn der Bedarf durch die Un
+fallstatistik und Unfallanalyse nachgewiesen sei und vom Einsatz der
+Anlage eine signifikante Verbesserung der Verkehrssicherheit zu er
+warten sei, ist darauf hinzuweisen, dass dies zwar die Meinung des
+Regierungsrats ist, dies jedoch gesetzlich so nicht ausdrücklich ver
+ankert ist und von der Beschwerdeführerin in ihrem Autono
+miebereich nicht mitgetragen werden muss (siehe Erw.3.2). Wollte
+man solches im Zuständigkeitsbereich der Gemeinden erreichen,
+müsste eine stufengerechte und klare gesetzliche Grundlage geschaf
+fen werden.
+Keiner vertieften Erwägungen bedarf es sodann zu den Ausfüh
+rungen im Zusammenhang mit dem "disziplinarischen Nutzen von
+fest installierten Blitzern", zumal selbst die Vorinstanz diesen Nutzen
+im Bereich des jeweiligen Standorts bejaht und es vorliegend gerade
+um die Erhöhung der Verkehrssicherheit konkret beim Knoten
+"Gstühl" geht (Standortdisziplinierung).
+Nicht gefolgt werden kann schliesslich den Ausführungen der
+Vorinstanz betreffend Gemeindeautonomie. Die Vorinstanz erwog, es
+könne keine Rede davon sein, dass das kantonale Recht die Nutzung
+und den Gebrauch der Kantonsstrasse nicht regle und der Beschwer
+deführerin in diesem Bereich Autonomie zukomme. Die Beschwer
+
+deführerin machte dies jedoch gar nicht so geltend. Sie berief sich
+vielmehr bereits vor Vorinstanz darauf, dass für die Überwachung
+und Kontrolle des fliessenden Strassenverkehrs innerorts einzig die
+Gemeinde zuständig sei. Damit müsse es auch den Gemeinden über
+lassen werden, auf welche Art und Weise sie diese verkehrspolizeili
+chen Aufgaben gemäss PolG und PolD erfüllen möchten, zumal kei
+ne gesetzliche Regelung ersichtlich sei, die den Handlungsspielraum
+der Gemeinden rechtmässig einschränke. Indem der Kanton die Be
+willigung zur Nutzung der Signalanlage verweigere, schränke er den
+Handlungsspielraum der Gemeinde ein. Damit schreibe der Kanton
+den Gemeinden indirekt vor, wie sie ihre verkehrspolizeilichen Auf
+gaben wahrnehmen müssten und greife in den Zuständigkeitsbereich
+der Gemeinde ein. Die Einschränkung des Handlungsspielraums der
+Beschwerdeführerin stelle eine Verletzung der Gemeindeautonomie
+dar. Mit dieser Argumentation setzte sich die Vorinstanz nicht aus
+einander. Wie die vorstehenden Erwägungen zeigen, ist im Übrigen
+auch die pauschale Behauptung der Vorinstanz unzutreffend, wonach
+die Bestimmungen des Baugesetzes betreffend öffentliche Sachen
+dem §4 Abs.2 lit.c PolG "offensichtlich" vorgingen.
+5.
+Zusammenfassend ist die Beschwerde gutzuheissen. Die
+Voraussetzungen für den Einsatz einer AVÜ sowie die Erteilung einer
+Bewilligung nach §103 Abs.2 BauG sind erfüllt, weshalb der Be
+schwerdeführerin zu erlauben ist, die kantonale Infrastruktur für die
+Installation einer AVÜ auf der Kantonsstrasse K117 beim Knoten
+"Gstühl" zu nutzen. Mit andern Worten sind die Signalträger für die
+Installation der Überwachungs und Kontrollgeräte freizugeben, und
+der Zugang zum Steuergerät der Lichtsignalanlage zur Phasen
+abnahme ist zu gewähren. Die Sache ist zur Erteilung einer entspre
+chenden Bewilligung an das BVU zurückzuweisen. Das BVU wird
+zu entscheiden haben, ob dies in Form einer Erlaubnis oder einer
+Verleihung zu erfolgen hat (§104 bzw. §105 BauG, §59 BauV).
+
+15 Behindertengerechtes bzw. hindernisfreies Bauen
+Die in der Norm SIA 500 "Hindernisfreie Bauten", Ausgabe 2009,
+festgehaltenen (Mindest )Anforderungen bei einem Mehrfamilien
+haus Neubau mit 28 Wohnungen müssen von Anfang an erfüllt sein.
+Eine "Variabilität" bzw. "Flexibilität" ist erst dann zulässig, wenn
+bzw. solange die Mindestanforderungen gemäss Norm SIA 500 er
+füllt sind (zweistufiges Konzept).
+Unzulässigkeit verschiebbarer Wände
+Aus dem Entscheid des Verwaltungsgerichts, 3.Kammer, vom 30.August
+2019, in Sachen A. AG gegen Gemeinderat B. und Departement Bau, Verkehr
+und Umwelt (WBE.2019.40).
+Aus den Erwägungen:
+2.
+In materieller Hinsicht umstritten ist zunächst, ob bezüglich der
+Nasszellen die in Ziff.10.2.1 der Norm SIA 500, Ausgabe 2009, des
+Schweizerischen Ingenieur und Architektenvereins (nachfolgend:
+SIA Norm 500) geforderte minimale Raumabmessung von 1.70m
+zwingend einzuhalten ist, oder ob die von der Beschwerdeführerin
+geplante "variable" Lösung mit einer "verschiebbaren" Wand (mit
+welcher die Raumtiefe je nach Bedarf von 1.40m auf die in der SIA
+Norm 500 geforderten 1.70m angepasst/vergrössert werden könne)
+zulässig ist.
+2.1. (…)
+2.2.
+2.2.1.
+Vorab festzuhalten ist, dass der projektierte Neubau
+28Wohnungen umfasst, womit das Gebäude als Mehrfamilienhaus
+gilt (vgl. §23b ABauV i.V.m. §64 Abs.1 BauV; vgl. auch §18
+Abs.1 BauV). Gemäss §53 Abs.1 BauG sind Mehrfamilienhäuser,
+die neu erstellt oder erneuert werden, für Menschen mit Behinde
+rungen zugänglich und benutzbar zu gestalten; diese Pflicht entfällt,
+wenn der für Behinderte zu erwartende Nutzen in einem Missver
