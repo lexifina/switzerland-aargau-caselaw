@@ -1,0 +1,323 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2018.250"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2018.250"
+decided: "2019-03-27"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2321"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2321"
+cites_decisions: ["5A_341/2019", "BGE 118 II 115"]
+cites_law: ["switzerland/bund/acts/210/art-655.md", "switzerland/bund/acts/210/art-779.md", "switzerland/bund/acts/210/art-974a.md", "switzerland/bund/acts/211.432.1/art-022.md", "switzerland/bund/acts/211.432.1/art-083.md", "switzerland/bund/acts/211.432.2/art-025.md", "switzerland/bund/acts/220/art-019.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2018.250
+
+## Regeste
+
+Grundbuch 
+Die flächenmässige Aufteilung eines selbstständigen und dauernden Baurechts unter Mitwirkung der Parteien des Dienstbarkeitsvertrags führt zu einem zusätzlichen dinglichen Recht, welches für die Mindestdauer von 30 Jahren zu begründen ist.
+
+## Text
+
+33 Grundbuch
+Die flächenmässige Aufteilung eines selbstständigen und dauernden Bau
+rechts unter Mitwirkung der Parteien des Dienstbarkeitsvertrags führt
+zu einem zusätzlichen dinglichen Recht, welches für die Mindestdauer
+von 30Jahren zu begründen ist.
+Aus dem Entscheid des Verwaltungsgerichts, 3.Kammer, vom 27.März
+2019, in Sachen Ortsbürgergemeinde A., B. AG und C. AG gegen
+Departement Volkswirtschaft und Inneres (WBE.2018.250).
+Aus den Erwägungen
+3.
+Die Beschwerdeführerinnen verlangen die Eintragung des ab
+gewiesenen Rechtsgeschäfts. Sie berufen sich im Wesentlichen
+darauf, dass die "flächenmässige Aufteilung" eines Baurechtsgrund
+stücks entsprechend der Berner Grundbuchpraxis zulässig sei. Zwar
+könnten selbstständige und dauernde Baurechte nicht wie Liegen
+schaften "parzelliert" werden, hingegen könne eine Aufteilung im
+Rahmen einer formgültigen Abänderung des Dienstbarkeitsvertrags
+erfolgen. Die flächenmässige Aufteilung eines selbstständigen und
+dauernden Baurechts bedürfe nebst Messurkunde und Situationsplan
+zur Planänderung eines öffentlich beurkundeten Vertrags, an wel
+chem mindestens die baurechtsbelastete und die baurechtsberechtigte
+Partei mitwirkten. Für die Zulässigkeit entsprechender Aufteilungen
+plädierten insbesondere der langjährige Grundbuchverwalter des
+Grundbuchamts Thun Oberland, Prof. Dr. iur. Roland Pfäffli, sowie
+dessen Nachfolger Adrian Mühlematter.
+4. – 5. (…)
+6.
+
+6.1.
+Art.655 Abs.2 Ziff.2 ZGB bezeichnet die in das Grundbuch
+aufgenommenen selbstständigen und dauernden Rechte als Grund
+stücke im Sinne des Gesetzes. Gemäss Art.655 Abs.3 ZGB kann
+eine Dienstbarkeit an einem Grundstück als selbstständiges und
+dauerndes Recht in das Grundbuch aufgenommen werden, wenn sie
+weder zugunsten eines berechtigten Grundstücks noch ausschliess
+lich zugunsten einer bestimmten Person errichtet ist (Ziff.1) und auf
+wenigstens 30 Jahre oder auf unbestimmte Zeit begründet ist
+(Ziff.2). Als solches kann es Gegenstand des Rechtsverkehrs, insbe
+sondere Belastungsobjekt von beschränkten dinglichen Rechten wie
+Dienstbarkeiten und Grundpfandrechten sein, sofern es Sachherr
+schaft vermittelt (LORENZ STREBEL/HERMANN LAIM, in: Basler
+Kommentar, Zivilgesetzbuch II [BSK ZGB II], Art.457 977 ZGB,
+5.Auflage, 2015, Art.655 N11 mit Hinweisen). Dies gilt
+insbesondere für das Baurecht (vgl. Art.779 Abs.3 ZGB).
+Das Bundesgericht führte in einem Urteil vom 19. Mai 1992
+aus, es sei anerkannt, dass die selbstständigen und dauernden Rechte
+durch diese gesetzgeberische Fiktion nicht zu Grundstücken, d.h. zu
+Sachobjekten gemacht würden, an denen Eigentum begründet wer
+den könnte; die Bestimmungen über die Grundstücke könnten dem
+gemäss nur analog auf sie angewendet werden, indem den Besonder
+heiten ihres Charakters als Dienstbarkeitsrechte Rechnung getragen
+werde (BGE 118 II 115, Erw.2 mit Hinweisen). Unter Verweis auf
+die grundsätzlich fehlende Sachqualität lehnt die herrschende Lehre
+eine "Parzellierung" bzw. Teilung selbstständiger und dauernder
+Rechte ab (vgl. PETER LIVER, Die Grunddienstbarkeiten, in: Kom
+mentar zum Schweizerischen Zivilgesetzbuch, Zürich 1980
+[ZK LIVER], Art.743 N13f.; ADRIAN MÜHLEMATTER, Teilung und
+Vereinigung von Grundstücken, in: BN2017, S.36f.).
+6.2.
+6.2.1.
+Nach Auffassung der Vorinstanz ist die "Konstruktion der Auf
+teilung bzw. Abänderung des ursprünglichen Baurechts LIG
+Nr.4143 1 in ein reduziertes Baurechtsgrundstück LIG Nr.4143 1
+sowie in ein neues Baurechtsgrundstück LIG Nr.4143 5 […]" nicht
+
+eintragungsfähig. Soweit sich die Vorinstanz damit auf die fehlende
+Sachqualität des selbstständigen und dauernden Baurechts beruft,
+überzeugt ihre Argumentation nur beschränkt. Die Einräumung eines
+selbstständigen und dauernden Rechts zu Gunsten der Beschwerde
+führerin 3 erfolgt – wie die Beschwerdeführerinnen zu Recht vor
+bringen – entsprechend ihrer Vorstellung nicht einseitig durch die
+Beschwerdeführerin 2 als Baurechtsnehmerin. Im Hinblick auf die
+Beteiligung der Grundeigentümerin und Baurechtsgeberin ist anzu
+nehmen, dass die Vertragsparteien eine Abänderung des ursprüng
+lichen Dienstbarkeitsvertrags (unter Einbezug einer weiteren Partei)
+beabsichtigten. Dies ist insbesondere naheliegend, da die Vertrags
+parteien den ursprünglichen Baurechtsvertrag zum integrierenden
+Bestandteil des neuen Dienstbarkeitsvertrags erklärten und der Be
+schwerdeführerin 3 obligatorische Verpflichtungen wie die Bau
+rechtszinsverpflichtung (teilweise) überbunden werden sollten.
+6.2.2.
+Die Verlegung der Baurechtsfläche und Flächenveränderungen
+in Form der Ausweitung oder Verkleinerung der Baurechtsfläche
+können anerkanntermassen durch eine Änderung des Dienstbarkeits
+vertrags bewirkt werden (vgl. CHRISTIAN BRÜCKNER/MATHIAS
+KUSTER, Die Grundstücksgeschäfte, Zürich/Basel/Genf 2016,
+Rz.516, 1556ff.). In diesem Zusammenhang können im Grundbuch
+– wie die Vorinstanz zu Recht ausführt – insbesondere Teil
+löschungen des ursprünglichen Baurechtsgrundstücks (im Sinne
+einer Flächenverkleinerung) erfolgen. Auch Erweiterungen der
+Baurechtsparzelle können auf diesem Weg vereinbart werden (vgl.
+Nachtrag zum Kurzgutachten von Prof. Dr. iur. Roland Pfäffli).
+Die Vertragsparteien haben sich indessen nicht für eine (aner
+kanntermassen zulässige) "Flächenverschiebung" der aneinander
+grenzenden Baurechtsparzellen (der Beschwerdeführerinnen 2 und 3)
+entschieden; vielmehr möchten sie für die ungenutzte Teilfläche von
+SDR Nr.4143 1 ein selbstständiges und dauerndes Baurecht aus
+scheiden (SDR Nr.4143 5). Dieses soll der Beschwerdeführerin 3
+zustehen, welche als Drittpartei in das Baurechtsverhältnis zwischen
+den Beschwerdeführerinnen 1 und 2 eintritt. Aus den Akten geht
+nicht schlüssig hervor, welche Motive gegen eine flächenmässige
+
+Verkleinerung von SDR Nr.4143 1 und eine Vergrösserung von SDR
+Nr.4143 2 sprachen.
+6.2.3.
+Nach der bernischen Grundbuchpraxis kann auch die "flächen
+mässige Aufteilung" eines Baurechtsgrundstücks durch eine formgül
+tige Abänderung des bisherigen Dienstbarkeitsvertrags erfolgen (vgl.
+Handbuch für den Verkehr mit den Grundbuchämtern und die
+Grundbuchführung der bernischen Justiz , Gemeinde und Kirchen
+direktion, Ziff.3.7, S.39; MÜHLEMATTER, a.a.O., S.37). Damit hat
+auch diese Praxis ihren Anwendungsbereich bei der Abänderung von
+Dienstbarkeitsverträgen unter Beteiligung des Baurechtsgebers. Die
+Vorinstanz erwähnte die Möglichkeit der Teillöschung des ursprüng
+lichen Baurechts und der Neuerrichtung eines Baurechts auf der frei
+gegebenen Teilfläche. So oder so dürfte bei der Abänderung des ur
+sprünglichen Dienstbarkeitsvertrags kein Widerspruch zum Grund
+satz der "Unteilbarkeit von Dienstbarkeiten" (ZK LIVER, Art.730
+N47) entstehen, wenn Baurechtsgeber und nehmer eine Aufteilung
+eines Baurechtsgrundstücks vereinbaren. Auch Art.25 Abs.1 VAV
+spricht von der Teilung flächenmässig ausgeschiedener selbstständi
+ger und dauernder Rechte. Diesbezüglich berufen sich die Be
+schwerdeführerinnen zu Recht auf Art.19 OR, wonach der Inhalt
+eines Baurechtsvertrags unter Beachtung des sachenrechtlichen
+Typenzwangs festgestellt werden kann (vgl. Nachtrag zum Kurzgut
+achten von Prof. Dr. iur. Roland Pfäffli; CHRISTINA SCHMID
+TSCHIRREN, "Numerus clausus" – Bemerkungen zum sachenrecht
+lichen Typenzwang, in: BN2014, S.444). Insoweit ist insbesondere
+nicht zwingend, dass (einseitig durch den Baurechtsnehmer) ein
+Unterbaurecht errichtet wird (in ZK LIVER, Art.743 N14, als
+"rechtliches Mittel der Parzellierung des Baurechtsgrundstücks"
+bezeichnet). In der Kommentierung von PETER LIVER wird die
+Teilung bzw. "Parzellierung" eines Baurechts im Hinblick auf die
+Befugnisse des Baurechtsnehmers abgelehnt, nicht jedoch die
+Änderung des Dienstbarkeitsvertrags (vgl. ZK LIVER, Art.743
+N13f.).
+6.3.
+6.3.1.
+
+Weder die Literatur noch die angesprochene "Berner Praxis"
+äussern sich zu den Voraussetzungen und Konsequenzen einer
+"flächenmässigen Aufteilung" eines selbstständigen und dauernden
+Baurechts. Unabhängig davon ist festzuhalten, dass die vereinbarte
+Aufteilung des Baurechts zur Errichtung eines neuen selbstständigen
+und dauernden Rechts führt. Insoweit ist – in Bezug auf den vorlie
+genden Fall – wesentlich, welche Bedeutung Art.655 Abs.3 Ziff.2
+ZGB zukommt, wonach dieses auf wenigstens 30Jahre zu begründen
+ist.
+6.3.2.
+Im Gegensatz zu Verschiebungen und Flächenveränderungen
+des Baurechtsgrundstücks, wo kein zusätzliches dingliches Recht er
+richtet wird, geht eine "flächenmässige Aufteilung" mit der Errich
+tung eines zusätzlichen (selbstständigen und dauernden) Baurechts
+einher. (…)
+6.3.3.
+Vorliegend wurde das bestehende Baurecht (SDR Nr.4143 1)
+für die Dauer von 50Jahren, d.h. bis 16.Mai 2038, vereinbart.
+Dessen Verlängerung ist im Rahmen der Abänderung des Dienstbar
+keitsvertrags nicht vorgesehen. Nach der Vorstellung der Vertragspar
+teien soll das der Beschwerdeführerin 2 zustehende Baurecht
+flächenmässig verkleinert und auf der freigegebenen Fläche ein wei
+teres selbstständiges und dauerndes Baurecht (zu Gunsten der Be
+schwerdeführerin 3) begründet werden, letzteres für die (Rest )Dauer
+von ca. 20Jahren. Bei der blossen Verlängerung eines selbststän
+digen und dauernden Baurechts, d.h. der Fortsetzung des bisherigen
+Rechtsverhältnisses, müsste die Mindestdauer von Art.655 Abs.3
+Ziff.2 ZGB nicht beachtet werden (vgl. STEPHAN SPYCHER, in:
+STEPHAN WOLF [Hrsg.], Dienstbarkeiten im Wandel von "Weg und
+Steg" zum Energie Contracting, INR Institut für Notariatsrecht und
+Notarielle Praxis, Band/Nr.16, Bern 2014, S.125). Hingegen führt
+die Aufteilung eines Baurechtsgrundstücks zur Errichtung eines wei
+teren selbstständigen und dauernden Rechts (vorliegend SDR
+Nr.4143 5). Dem Privatgutachter kann nicht gefolgt werden, wenn
+dieser ausführt, dass keine "formelle Parzellierung" erfolge, und
+darauf verweist, das bestehende Baurecht sei seinerzeit auf eine
+
+Dauer von über 30Jahren begründet worden (vgl. Nachtrag zum
+Kurzgutachten von Prof. Dr. iur. Roland Pfäffli). Diesbezüglich ist
+zwischen der Abänderung und der Begründung eines selbstständigen
+und dauernden Rechts zu differenzieren. Die vereinbarte Aufteilung
+des Baurechtsgrundstücks (unter Einbezug einer weiteren Partei in
+den Dienstbarkeitsvertrag) würde zu einer Umgehung der Bestim
+mungen über die Mindestdauer von selbstständigen und dauernden
+Rechten führen (zur Prüfungsbefugnis des Grundbuchverwalters vgl.
+hinten Erw.6.5).
+Ob diese Problematik nicht besteht, wenn ein Baurechtsgrund
+stück durch einen neu angelegten Weg flächenmässig aufgeteilt wird,
+muss vorliegend nicht geklärt werden (vgl. Kurzgutachten von Prof.
+Dr. iur. Roland Pfäffli). Ergänzend ist jedoch festzuhalten, dass sich
+die Aufteilung einer Liegenschaft durch eine Wegparzelle (und die
+gemäss Art.974a ZGB damit verbundene Bereinigung der Dienst
+barkeiten) nicht mit der beabsichtigten Aufteilung bzw. Begründung
+eines selbstständigen und dauernden Baurechts vergleichen lässt.
+Mit der Revision des Immobiliarsachenrechts (in Kraft getreten
+am 1.Januar 2012) wurde die Mindestdauer von selbstständigen und
+dauernden Rechten auf Gesetzesstufe geregelt (vgl. Botschaft zur
+Änderung des Schweizerischen Zivilgesetzbuches [Register Schuld
+brief und weitere Änderungen im Sachenrecht] vom 27.Juni 2007,
+07.061, in: BBl 2007 5304). Insoweit berufen sich die Be
+schwerdeführerinnen vergeblich auf eine fehlende gesetzliche
+Grundlage (zur Prüfungsbefugnis des Grundbuchverwalters vgl. hin
+ten Erw.6.5). Die Rechtfertigung für die Mindestdauer kann mitunter
+in der Belastbarkeit als Grundstück gesehen werden (vgl. PETER R.
+ISLER/DOMINIQUE GROSS, in: BSK ZGB II, Art.779 N30; JÜRG
+SCHMID, in: BSK ZGB II, Art.943 N18, 20). Die Vorinstanz ver
+weist diesbezüglich zu Recht auf Bedürfnisse des Investitions
+schutzes. Unabhängig davon erscheint fraglich, ob seitens von ge
+werblichen Baurechtsnehmern ein praktisches Bedürfnis besteht,
+selbstständige und dauernde Baurechte für eine Dauer von unter
+30Jahren errichten zu können (zu üblicherweise definierten Dauern
+vgl. URS BÜRGY/ADRIAN FRITZ/MARC HENDRY, Der Baurechtsver
+trag und seine Komplexität, in: SREJ 15/2017, S.36).
+
+Dieselbe Problematik würde sich im Übrigen auch bei der Er
+richtung eines selbstständigen und dauernden Unterbaurechts stellen:
+Dessen Dauer dürfte einerseits diejenige des bestehenden Baurechts
+nicht überschreiten und andererseits wäre es auf wenigstens 30Jahre
+zu begründen (vgl. ISLER/GROSS, a.a.O., Art.779 N36f.; Kurzgut
+achten von Prof. Dr. iur. Roland Pfäffli; Nachtrag zum Kurzgutach
+ten von Prof. Dr. iur. Roland Pfäffli).
+6.4.
+Von den Beschwerdeführerinnen herangezogene Vergleichsfälle
+können zu keiner anderen Beurteilung führen. Dies betrifft insbeson
+dere eine mögliche "Parzellierung" eines (Baurechts )Grundstücks
+im Rahmen von öffentlich rechtlichen Enteignungen bzw. diesbezüg
+licher rechtsgeschäftlicher Vereinbarungen. In diesem Zusammen
+hang erwähnte Verbreiterungen von Strassenparzellen sind nicht ver
+gleichbar, denn hier entsteht kein zusätzliches selbstständiges und
+dauerndes Baurecht zu Gunsten eines Dritten (vgl. Kurzgutachten
+von Prof. Dr. iur. Roland Pfäffli). Schliesslich handelt es sich beim
+Beispiel "LIG D./183 1" nach Darstellung der Vorinstanz um eine
+flächenmässige Erweiterung eines Baurechtsgrundstücks, welche an
+erkanntermassen zulässig ist (vgl. vorne Erw.6.2.2).
+6.5.
+Es kann somit festgehalten werden, dass die vereinbarte Auftei
+lung des Baurechtsgrundstücks nicht eintragungsfähig ist. Für die
+Aufnahme einer neuen Baurechtsparzelle ins Grundbuch würde
+vorausgesetzt, dass die Vertragsparteien für diese eine Mindestdauer
+von 30 Jahren vorsähen.
+Das Grundbuchamt prüft, gestützt auf die mit der Anmeldung
+eingereichten weiteren Belege, ob die gesetzlichen Voraussetzungen
+für die Eintragung in das Hauptbuch erfüllt sind (Art.83 Abs.1
+GBV). Insbesondere zu prüfen hat es die Verfügungsberechtigung
+der anmeldenden Person (Art.83 Abs.2 lit.c GBV) sowie die
+Rechtsgrundausweise, insbesondere deren Form (lit.g; vgl. dazu
+BETTINA HÜRLIMANN KAUP, Die Änderung von Dienstbarkeiten –
+ausgewählte Fragen, in: BN2013, S.131f.). Bei der Mindestdauer
+für selbstständige und dauernde Rechte gemäss Art.655 Abs.3
+Ziff.2 ZGB handelt es sich um eine zwingende Bestimmung, ohne
+
+deren Einhaltung kein Hauptbuchblatt angelegt werden darf (vgl.
+Art.22 GBV). Bei der vereinbarten Aufteilung der Baurechtsparzelle
+erscheint die Aufnahme des neu auszuscheidenden Baurechtsgrund
+stücks und damit dessen (Mindest )Dauer objektiv und subjektiv we
+sentlich (in diesem Sinne: Urteil des Handelsgerichts des Kantons
+Zürich vom 25.Oktober 2002, Erw.2c/ee, in: ZBGR 86/2005,
+S.294; vgl. auch BRÜCKNER/KUSTER, a.a.O., Rz. 1536). Insoweit
+unterscheidet sie sich von der blossen Eintragung einer Bau
+rechtsdienstbarkeit, welche grundsätzlich nicht von der Möglichkeit
+abhängt, diese im Zeitpunkt der Eintragung oder danach als selbst
+ständiges und dauerndes Recht ins Grundbuch aufzunehmen (vgl.
+§22 Abs.1 GBV, wonach die Aufnahme auf schriftliches Begehren
+der berechtigten Person erfolgt; STREBEL/LAIM, a.a.O., Art.655
+N10; SCHMID, a.a.O., Art.943 N19ff.).
+Die gegenteilige Auffassung des privaten Rechtsgutachters
+gründet darin, dass dieser in unzutreffender Weise annimmt, die
+Mindestdauer für selbstständige und dauernde Rechte sei für die neu
+auszuscheidende Baurechtsparzelle unbeachtlich (vgl. Nachtrag zum
+Kurzgutachten von Prof. Dr. iur. Roland Pfäffli).
+(Anmerkung: Gegen das Urteil des Verwaltungsgerichts wurde
+Beschwerde in Zivilsachen erhoben [5A_341/2019].)
+
+34 Art. 276 Abs. 2 und 289 Abs. 2 ZGB
+Bevorschusste Kindesschutzkosten können von den Eltern oder einem El
+ternteil nur auf dem zivilrechtlichen Weg zurückgefordert werden. Die
+hoheitliche Verfügung über die Festsetzung und Rückerstattung des El
+ternbeitrags an von der Gemeinde bevorschusste Kindesschutzkosten mit
+Gemeinderatsbeschluss ist nichtig.
+Aus dem Entscheid des Obergerichts, 4. Zivilkammer, vom 25.November
+2019, i.S. Einwohnergemeinde A. gegen M.S. (ZSU.2019.215)
+Aus den Erwägungen
+2.3.2.
+Vorliegend hat der Gemeinderat A. mit Beschluss vom 25.April
+2017 entschieden, dass die Pflegeplatzkosten für den Sohn der Be
+klagten abzüglich der Kinderzulagen und des Elternbeitrags der
+Kindsmutter rückwirkend ab 1.Januar 2016 zu Lasten der Sozialhilfe
+übernommen werden. Gleichzeitig wurde vom Gemeinderat erwo
+gen, dass der im Rahmen der Unterhaltspflicht zu leistende Eltern
+beitrag der Beklagten auf monatlich Fr.664.50 festgesetzt werde und
+beschlossen, dass der Beklagten eine monatliche Rechnung über die
+se Fr.664.50 zu stellen sei. Ebenfalls wurde die Beklagte mit glei
+chem Beschluss aufgefordert, der Abteilung Soziale Dienste einen
+Abzahlungsvorschlag für die offenen Elternbeiträge von Januar 2016
+bis April 2017 (16 x Fr.664.50 = Fr.10'632. ) zu unterbreiten.
+Damit ist davon auszugehen, dass die Klägerin vollumfänglich
+die anfallenden Pflegeplatzkosten von Fr.2'700.00 pro Monat bevor
+schusst, jedoch nur bereit ist, einen Teil (Pflegeplatzkosten abzüglich
+Kinderzulagen und Elternbeitrag der Beklagten) des bevorschussten
+Betrages zu Lasten der Sozialhilfe zu übernehmen. Der vom Ge
