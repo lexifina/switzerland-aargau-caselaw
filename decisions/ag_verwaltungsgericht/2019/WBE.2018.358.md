@@ -1,0 +1,300 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2018.358"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "WBE.2018.358"
+decided: "2019-05-01"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2294"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2294"
+cites_decisions: ["2C_634/2012"]
+cites_law: ["switzerland/bund/acts/642.11/art-060.md", "switzerland/bund/acts/642.14/art-024.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — WBE.2018.358
+
+## Regeste
+
+Steuerrecht 
+Ausbuchung eines Guthabens gegenüber einer Tochtergesellschaft zugunsten der Reserven (welche sodann zur Auflösung eines Verlustvortrags verwendet werden) ist keine steuerneutrale Kapitaleinlage. Dennoch ist der Vorgang steuerneutral, da das entsprechende Aktionärsdarlehen zusätzlich im Hinblick auf den schlechten Geschäftsgang der Tochtergesellschaften gewährt wurde und von einem unabhängigen Dritten nicht gewährt worden wäre.
+
+## Text
+
+6 Steuerrecht
+Ausbuchung eines Guthabens gegenüber einer Tochtergesellschaft zu
+gunsten der Reserven (welche sodann zur Auflösung eines Verlustvortrags
+verwendet werden) ist keine steuerneutrale Kapitaleinlage. Dennoch ist
+der Vorgang steuerneutral, da das entsprechende Aktionärsdarlehen zu
+sätzlich im Hinblick auf den schlechten Geschäftsgang der Tochtergesell
+schaften gewährt wurde und von einem unabhängigen Dritten nicht ge
+währt worden wäre.
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom 1.Mai 2019,
+in Sachen B. AG gegen KStA und Gemeinderat X. (WBE.2018.358).
+Aus den Erwägungen
+1.
+1.1
+Das Spezialverwaltungsgericht, Abt. Steuern, stufte die Vor
+gänge bei der Beschwerdeführerin als echten (erfolgswirksamen)
+Sanierungsgewinn ein und begründete dies damit, dass die Mutter
+gesellschaft im Umfang von CHF8Mio. einen Forderungsverzicht
+vorgenommen und keine Gegenleistung dafür erhalten habe. Die
+Darlehen würden zudem nicht als "neu oder "fortgeführt" gelten und
+ein Sanierungszweck der Darlehen sei aufgrund der Absicht, die Be
+schwerdeführerin zu verkaufen, in Frage zu stellen.
+1.2.
+Die Beschwerdeführerin bestreitet demgegenüber das Vorliegen
+eines Forderungsverzichts und macht geltend, die Muttergesellschaft
+habe mit der Umwandlung von Fremdkapital in Eigenkapital auf
+keine Vermögenswerte verzichtet, sondern gleichzeitig die Ge
+stehungskosten der Beteiligung an der Tochtergesellschaft um
+CHF8Mio. erhöht. Es handle sich daher um eine steuerneutrale Ka
+pitaleinlage. Diese Vorgänge seien ausschliesslich in der Bilanz er
+folgt, was die Vorinstanz in Verletzung des Massgeblichkeitsprinzips
+nicht beachtet habe. Eventualiter macht sie geltend, es liege – wenn
+überhaupt – ein erfolgsneutraler Forderungsverzicht vor, da die Dar
+
+lehen wegen des schlechten Geschäftsganges gewährt worden seien
+und Dritte nicht zu denselben Konditionen Darlehen in dieser Höhe
+gesprochen hätten.
+2.
+2.1.
+Als erfolgsneutrale Vorgänge beschreibt §70 lit.a StG (über
+einstimmend mit Art.24 Abs.2 lit.a StHG; und Art.60 lit.a DBG)
+Kapitaleinlagen von Mitgliedern von Kapitalgesellschaften und Ge
+nossenschaften, einschliesslich Aufgelder und Leistungen à fonds
+perdu. Dadurch entsteht kein steuerbarer Gewinn. Entgegen der Leh
+re, welche unter einer Kapitaleinlage jede Erhöhung der Eigenkapi
+talbasis durch die Gesellschafter in der Eigenschaft als Inhaber von
+Kapitalanteilsrechten versteht, stellt das Bundesgericht (Urteil
+2C_634/2012 vom 20.Oktober 2014) und die Eidgenössische
+Steuerverwaltung (ESTV Kreisschreiben Nr.32 vom 23.Dezember
+2010, Ziff.4.1.1.1), zumindest für die Beurteilung von Forderungs
+verzichten durch Aktionäre im Zusammenhang mit Sanierungen, auf
+objektive Kriterien ab. Die Qualifikation einer Leistung als Kapital
+einlage fusst auf der Form, Art und den Umständen der erbrachten
+Leistung (PETER BRÜLISAUER/OLIVER KRUMMENACHER, in:
+MARTIN ZWEIFEL/MICHAEL BEUSCH [Hrsg.], Bundesgesetz über die
+Harmonisierung der direkten Steuern der Kantone und Gemeinden
+[StHG], 3. Auflage, Basel 2017, Art.24 N379f.). Offene Kapital
+einlagen sind solche, welche bei der leistenden Muttergesellschaft
+und der empfangenden Tochtergesellschaft bewertungs und buch
+mässig als solche gekennzeichnet sind. Sie sind mit dem tatsäch
+lichen Wert in den jeweiligen Jahresrechnungen aufgeführt und
+können handelsrechtlich erfolgsneutral oder wirksam verbucht wer
+den, was auf den konkreten Sachverhalt ankommt. Als Beispiele
+werden formelle Kapitalerhöhungen und à fonds perdu Zuschüsse
+genannt. In der Lehre werden i.d.R. auch von Anteilsinhabern im
+Rahmen von Sanierungen geleistete Forderungsverzichte zu den Ka
+pitaleinlagen gezählt, was gemäss der Rechtsprechung des Bundes
+gerichts nur ausnahmsweise der Fall sein soll (BRÜLISAUER/
+KRUMMENACHER, a.a.O., Art.24 N385).
+2.2.
+
+Eine formelle Kapitalerhöhung führte die Beschwerdeführerin
+im Zuge der Umwandlung von Fremd in Eigenkapital nicht durch,
+obwohl im Detailkontoauszug der Buchhaltung der Muttergesell
+schaft die Bezeichnung Kapitalerhöhung verwendet wird. Stattdessen
+wurden die bestehenden Darlehen um CHF8Mio. gegen Reserven
+ausgebucht und der den gesetzlichen Reserven zugeführte Betrag von
+CHF8Mio. gegen Gewinnvortrag verbucht. Damit verschwand der
+Verlustvortrag von CHF6.5Mio. in der Bilanz der Beschwerde
+führerin vollständig. Als "Gegenleistung" erhöhte die Muttergesell
+schaft die Gestehungskosten ihrer Beteiligung um CHF 8Mio. Der
+Beschwerdeführerin ist zwar zuzustimmen, dass es bei einer zu
+100% am Nominalkapital der Tochtergesellschaft beteiligten Mutter
+gesellschaft grundsätzlich nicht darauf ankommen kann, ob sie für
+die Umwandlung von Fremdkapital in Eigenkapital Aktien erhält, um
+den Vorgang als steuerneutral einzustufen, da die Beteiligungsquote
+auf jeden Fall unverändert bei 100% bleibt. Das ist vorliegend jedoch
+nicht ausschlaggebend – die Vermögenslage der leistenden Mutter
+gesellschaft verändert sich nämlich grundsätzlich nicht bei solchen
+Geschäften, da Gegenleistung und Wertzunahme der Beteiligung zu
+sammen immer ein äquivalentes Entgelt für die erbrachte Leistung
+darstellen (MARKUS REICH, Verdeckte Vorteilszuwendungen
+zwischen verbundenen Unternehmen, in: ASA, Band 54 1985/86,
+S.625) – vielmehr ist bedeutsam, dass eben gerade keine formelle
+Kapitalerhöhung wie sie §70 lit.a StG fordert, vorgenommen wur
+de. Indem §70 lit.a StG ausdrücklich die Zuschüsse à fonds perdu
+erwähnt und diese als unentgeltliche Leistungen der Beteiligten an
+die Kapitalgesellschaft ausserhalb einer Kapitalerhöhung umschrie
+ben werden (BRÜLISAUER/KRUMMENACHER, a.a.O., Art.24 N415;
+Urteil des Bundesgerichts 2C_634/2012 vom 20.Oktober 2014,
+E.5.2.2), kann es sich bei den Kapitalerhöhungen nur um solche
+formeller Art handeln. Die Beschwerdeführerin hätte also eine Kapi
+talerhöhung mittels Verrechnungsliberierung (debt equity swap) ge
+mäss Art.650 und 652c OR i.V.m. Art.634a Abs.2 und 635 Ziff.2
+OR vornehmen und die in diesem Zusammenhang aufgestellten ge
+setzlichen Vorschriften einhalten müssen (PETER LOCHER, Kommen
+tar zum DBG, Therwil/Basel 2004, Art.60 N31). Damit wären die
+
+Verpflichtungen der Gesellschaft vermindert und gleichzeitig das
+nominelle Eigenkapital entsprechend erhöht worden. Weil die
+Beschwerdeführerin mit ihrem Verzicht auf die Darlehensforderung
+und gleichzeitiger Erhöhung der ursprünglichen Gestehungskosten
+ihrer Beteiligung den informellen Weg ohne Kapitalerhöhung
+gewählt hat und die entsprechenden Vorschriften nicht eingehalten
+hat, ist der Vorgang als blosser Forderungsverzicht und nicht als
+Kapitaleinlage zu qualifizieren.
+2.3.
+Daran vermag auch das von der Beschwerdeführerin angerufene
+Massgeblichkeitsprinzip nichts zu ändern. Die (formelle) Mass
+geblichkeit bedeutet zwar, dass die Steuerbehörde auf die von den
+Organen der Gesellschaft verabschiedete konkrete Jahresrechnung
+abzustellen hat (vgl. ERNST BLUMENSTEIN/PETER LOCHER, System
+des schweizerischen Steuerrechts, 7. Aufl., Zürich 2016, S.326 mit
+Hinweisen; vgl. zur Unterscheidung zwischen formeller und mate
+rieller Massgeblichkeit ROLF BENZ, Handelsrechtliche und steuer
+rechtliche Grundsätze ordnungsmässiger Bilanzierung, Zürich 2000,
+S.195). Kommt aber die Steuerbehörde wie hier zum Schluss, es lie
+ge entgegen der Verbuchung in der Jahresrechnung ein erfolgswirk
+samer Vorgang vor, darf sie für steuerliche Zwecke eine Bilanz
+berichtigung vornehmen. In diesem Fall hilft der Beschwerdeführerin
+auch die Bestätigung der handelsrechtskonformen Verbuchung durch
+die Revsionsstelle nicht weiter (MARKUS BERGER, Probleme der
+Bilanzberichtigung, ASA 70 2001/2002, S.552f.).
+Die von der Beschwerdeführerin gerügte unterschiedliche
+Qualifikation desselben Vorgangs bei der Emissionsabgabe (Kapital
+einlage) und bei den direkten Steuern (erfolgswirksamer Forde
+rungsverzicht) mag zwar unbefriedigend erscheinen, ist aber auf
+grund der Unterschiede dieser beiden Steuerarten hinzunehmen.
+Art.5 Abs.2 lit.a des Bundesgesetzes vom 27.Juni 1973 über die
+Stempelabgaben (SR641.10) behandelt Forderungsverzichte durch
+die Gesellschafter als Kapitaleinlage, was die ESTV in ihrem Kreis
+schreiben Nr.32 in Ziff.4.1.3 nochmals explizit festhält. Die im
+selben Kreisschreiben Nr.32 enthaltene Einschätzung der ESTV
+über die Erfolgswirksamkeit von Forderungsverzichten bei den
+
+direkten Steuern, hat das Bundesgericht – wie erwähnt – geschützt.
+Auch an der Ungleichbehandlung von Forderungsverzichten
+zwischen Schwestergesellschaften, welche dem Konzept als geld
+werte Leistungen (Drittvergleich) folgen, einerseits und Forderungs
+verzichten zwischen Mutter und Tochtergesellschaften, welche stets
+erfolgswirksam sind, andererseits, ist nichts zu ändern, nachdem das
+Bundesgericht an seiner mit BGE 115 Ib 269 entwickelten Praxis
+festgehalten hat und zwar unter ausdrücklicher Verwerfung der ent
+gegenstehenden Lehrmeinungen (Urteil 2C_634/2012 vom 20.Okto
+ber 2014).
+Damit ist vorliegend grundsätzlich von einer erfolgswirksamen
+Sanierungsleistung auszugehen.
+3.
+3.1.
+Zu prüfen bleibt, ob eine Ausnahme gemäss Kreisschreiben
+Nr.32 der ESTV, Ziff.4.1.1.1 vorliegt und der Forderungsverzicht
+im konkreten Fall nicht doch eine steuerneutrale Kapitaleinlage dar
+stellt. Dabei ist die Frage zu beantworten, ob es sich, wie die Be
+schwerdeführerin geltend macht, um ein Aktionärsdarlehen handelt,
+das im Hinblick auf den schlechten Geschäftsgang gewährt worden
+ist und ihr unter den gleichen Umständen von unabhängigen Dritten
+nicht zugestanden worden wäre.
+3.2.
+Die Muttergesellschaft gewährte der Beschwerdeführerin per
+31.Dezember 2010 Darlehen über CHF3Mio. (Zinssatz 1.86%,
+Laufzeit bis Ende 2013) und CHF25Mio. (Zinssatz 2.66%, Laufzeit
+bis Ende 2016). Dafür wurden neue Darlehensverträge aufgesetzt.
+Für die Darlehensgewährung verlangte die Muttergesellschaft keine
+Sicherheiten. Mit der Beschwerdeführerin und entgegen der Vorin
+stanz ist festzuhalten, dass dem Darlehen in der Höhe von
+CHF3Mio. der Sanierungszweck nicht mit dem Hinweis auf den
+Ablauf per Ende 2013, also der hier massgebenden Steuerperiode,
+abgesprochen werden kann. Wie die Beschwerdeführerin zu Recht
+geltend macht, ist der Zeitpunkt der Darlehensgewährung im Jahr
+2010 relevant für die Beurteilung, ob das Aktionärsdarlehen im
+Hinblick auf den schlechten Geschäftsgang gewährt worden ist und
+
+ein unabhängiger Dritter ein solches Darlehen nicht zu denselben
+Konditionen gewährt hätte. Die Beschwerdeführerin hat dazu mit
+Eingabe vom 28.Februar 2019 folgende Übersicht über ihre
+Geschäftszahlen (jeweils per 31.12.) eingereicht:
+2003 CHF 3'173'903.00
+2004 CHF 366'939.00
+2005 CHF 1'257'807.00
+2006 CHF 1'030'102.00
+2007 CHF 2'140'477.00
+2008 CHF 25'554.00
+2009 CHF 4'008'526.00
+2010 CHF 1'107'232.00
+2011 CHF 63'718.00
+2012 CHF 1'903'065.00
+2013 CHF 242'666.00
+Aus den beim KStA eingeforderten Jahresrechnungen der Be
+schwerdeführerin geht für das Jahr 2002 ein Jahresgewinn von
+CHF1'370'721.00 und für 2001 ein solcher von CHF6'318'201.00
+hervor. Im Jahr 2004 erfolgte wegen Auslaufens des langfristigen
+Darlehens und aufgrund reduzierter Erwartungen an die budgetierten
+Zahlen für das Geschäftsjahr 2004 eine Umschuldung mit einer Er
+höhung des Langfristdarlehens. Dass es sich bei den umstrittenen
+Darlehen im Jahre 2010 um neu gewährte Darlehen handelt, zeigt
+auch die Entwicklung der langfristigen Verbindlichkeiten "Aktionär"
+in der Bilanz (2008: CHF28Mio.; 2009: CHF0; 2010:
+CHF28Mio.) und der kurzfristigen Verbindlichkeiten "Aktionär"
+(2008: CHF1.5Mio.; 2009: CHF32Mio.; 2010: 2Mio.). Die 2010
+abgeschlossenen Darlehen weisen denn auch im Vergleich zu den
+früheren Darlehen andere Summen, verschiedene Laufzeiten und
+veränderte Zinskonditionen auf. Im Anhang der Jahresrechnung 2010
+erklärte die Muttergesellschaft überdies gegenüber der Beschwerde
+führerin wegen der Gefahr einer Überschuldung (der Verlust lag
+bereits über dem hälftigen buchmässigen Eigenkapital) einen Rang
+rücktritt in der Höhe von CHF2Mio.
+
+3.3.
+Die von der Vorinstanz angeführte Tatsache, wonach die Be
+schwerdeführerin in der Steuerperiode 2013 zum Verkauf gestanden
+habe, hat keinen erkennbaren Einfluss auf den Sanierungszweck der
+im Jahre 2010 gewährten Darlehen. Es ergibt durchaus Sinn, eine
+Gesellschaft vor dem Verkauf zu sanieren, um einen höheren Ver
+kaufspreis zu erzielen oder sie überhaupt verkaufen zu können. Eben
+so wenig schadet in diesem Zusammenhang die Aufhebung des
+zwischenzeitlich auf CHF6Mio. angehobenen Rangrücktritts der
+Muttergesellschaft zu Gunsten der Beschwerdeführerin per 30.Sep
+tember 2013. Diese Ereignisse beziehen sich auf die Steuerperiode
+2013, ausschlaggebend sind jedoch gemäss Bundesgericht (Urteil
+2C_634/2012 vom 20.Oktober 2014 E.6.1.2) und ESTV Kreis
+schreiben Nr.32 Ziff.4.1.1.1. lit.a die Verhältnisse im Zeitpunkt der
+Darlehensgewährung im Jahre 2010.
+3.4.
+Zu fragen ist in diesem Zusammenhang, ob ein unabhängiger
+Dritter, angesichts der ausgewiesenen finanziellen Verhältnisse der
+Beschwerdeführerin, die von der Muttergesellschaft gesprochenen
+Darlehen zu denselben Konditionen gewährt hätte. Dies ist vorlie
+gend auch bei der vom Bundesgericht angemahnten restriktiven An
+wendung der Ausnahmen (Urteil des Bundesgerichts 2C_634/2012
+vom 20.Oktober 2014 E.5.2.4) zu verneinen. Ein unabhängiger
+Dritter hätte der Beschwerdeführerin angesichts deren schwierigen
+finanzieller Lage und der wirtschaftlich schlechten Aussichten kein
+langfristiges Darlehen ohne Sicherheiten in dieser Grössenordnung
+gewährt und falls doch, hätte er einen höheren Zins für das Eingehen
+dieses höheren Risikos ohne Sicherheiten verlangt. Dem Forde
+rungsverzicht ist daher im vorliegenden Fall ausnahmsweise die Er
+folgswirksamkeit abzusprechen.
+
+7 Schenkungssteuer
+Privilegierter Steuersatz bei Schenkungssteuer für in Wohngemeinschaft
+Lebende: Voraussetzungen, unter denen eine Wohngemeinschaft ange
+nommen werden kann
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom 1.Mai 2019,
+in Sachen C. gegen KStA (WBE.2018.378).
+Aus den Erwägungen
+1.
+1.1.
+Die Vorinstanz verneinte das Vorliegen einer Wohngemeinschaft
+im Sinne von §147 Abs.2 lit.a StG, weil die Beschwerdeführerin
+eine 3 Zimmer Wohnung im ersten Stock links und der Lebens
+partner eine 3 Zimmer Wohnung im Parterre links bewohnen würden
+und somit zwei eigenständige, voll ausgerüstete Wohnungen mit
+zwei separaten Eingängen zur Verfügung stünden.
+1.2.
+Die Beschwerdeführerin macht dagegen geltend, sie und ihr
+Lebenspartner bewohnten nicht je eine separate Wohnung, sondern
+gemeinsam vor allem die Wohnung im ersten Stock. Die Wohnung
+im Parterre werde aus Platzgründen gemeinsam bspw. für Besuche
+von Familienangehörigen benutzt. Sie würden gemeinsam in den
+beiden Wohnungen zusammenwohnen.
+1.3.
+Das KStA will demgegenüber, gleich wie die Vorinstanz, den
+privilegierten Tarif der Klasse 1 nur dann gewähren, wenn eine
+klassische Wohngemeinschaft vorliegt. Darunter sei eine Gemein
+schaft in einer einzigen Wohnung oder in einem Einfamilienhaus zu
+verstehen. Dabei müsse das Näheverhältnis vollständig ausgeblendet
+werden, da der Art der Beziehung keinerlei Bedeutung zukomme.
