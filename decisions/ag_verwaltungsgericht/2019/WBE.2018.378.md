@@ -1,0 +1,414 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2018.378"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "WBE.2018.378"
+decided: "2019-05-01"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2295"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2295"
+cites_decisions: ["2C_658/2017", "2C_685/2017", "BGE 117 II 467", "BGE 138 III 97"]
+cites_law: ["switzerland/bund/acts/210/art-159.md", "switzerland/bund/acts/642.11/art-169.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — WBE.2018.378
+
+## Regeste
+
+Schenkungssteuer 
+Privilegierter Steuersatz bei Schenkungssteuer für in Wohngemeinschaft Lebende: Voraussetzungen, unter denen eine Wohngemeinschaft angenommen werden kann
+
+## Text
+
+7 Schenkungssteuer
+Privilegierter Steuersatz bei Schenkungssteuer für in Wohngemeinschaft
+Lebende: Voraussetzungen, unter denen eine Wohngemeinschaft ange
+nommen werden kann
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom 1.Mai 2019,
+in Sachen C. gegen KStA (WBE.2018.378).
+Aus den Erwägungen
+1.
+1.1.
+Die Vorinstanz verneinte das Vorliegen einer Wohngemeinschaft
+im Sinne von §147 Abs.2 lit.a StG, weil die Beschwerdeführerin
+eine 3 Zimmer Wohnung im ersten Stock links und der Lebens
+partner eine 3 Zimmer Wohnung im Parterre links bewohnen würden
+und somit zwei eigenständige, voll ausgerüstete Wohnungen mit
+zwei separaten Eingängen zur Verfügung stünden.
+1.2.
+Die Beschwerdeführerin macht dagegen geltend, sie und ihr
+Lebenspartner bewohnten nicht je eine separate Wohnung, sondern
+gemeinsam vor allem die Wohnung im ersten Stock. Die Wohnung
+im Parterre werde aus Platzgründen gemeinsam bspw. für Besuche
+von Familienangehörigen benutzt. Sie würden gemeinsam in den
+beiden Wohnungen zusammenwohnen.
+1.3.
+Das KStA will demgegenüber, gleich wie die Vorinstanz, den
+privilegierten Tarif der Klasse 1 nur dann gewähren, wenn eine
+klassische Wohngemeinschaft vorliegt. Darunter sei eine Gemein
+schaft in einer einzigen Wohnung oder in einem Einfamilienhaus zu
+verstehen. Dabei müsse das Näheverhältnis vollständig ausgeblendet
+werden, da der Art der Beziehung keinerlei Bedeutung zukomme.
+
+2.
+2.1.
+Gemäss §147 Abs.1 StG, in der vom 1.Januar 2011 bis
+31.Dezember 2012 geltenden Fassung, wird die Steuer nach dem
+steuerbaren Betrag des Vermögensanfalls und nach dem Verwandt
+schaftsgrad der steuerpflichtigen Person zur erblassenden, schenken
+den oder zuwendenden Person berechnet. Für die Verwandtschafts
+grade gelten gemäss Abs.2 folgende Klassen:
+a) Klasse 1: Eltern, Stiefeltern und Pflegeeltern, sofern das
+Pflegeverhältnis während mindestens 2 Jahren bestanden hat, sowie
+Personen, die mit der zuwendenden Person während mindestens 5
+Jahren in Wohngemeinschaft (gleicher Wohnsitz) gelebt haben;
+b) Klasse 2: Geschwister und Grosseltern;
+c) Klasse 3: alle weiteren steuerpflichtigen Personen.
+Die Steuersätze für die verschiedenen Klassen sind in §149
+Abs.1 StG festgelegt. §54a Abs.2 StGV konkretisiert die Wohnge
+meinschaft als gemeinsamen Haushalt an gleicher Adresse am
+gleichen steuerlichen Wohnsitz. Der gemeinsame Haushalt muss bis
+zum Zeitpunkt des Vermögensanfalls ununterbrochen angedauert
+haben (§54a Abs.1 StGV). Obwohl die Bestimmung erst am
+1.Januar 2014 und damit nach der hier umstrittenen Schenkung in
+Kraft getreten ist, darf diese bei der Auslegung des geltenden Rechts
+mitberücksichtigt werden. Eine solche Konkretisierung bewirkt keine
+unzulässige Vorwirkung (vgl. dazu Urteile des Verwaltungsgerichts
+WBE.2013.524 vom 11.September 2014 E.2.1 sowie BGE 117 II
+467 E.5a).
+2.2.
+Daraus hat das Verwaltungsgericht in seiner Rechtsprechung in
+einem Erbschaftssteuerfall geschlossen, dass das Erfordernis des ge
+meinsamen Haushalts gemäss §147 Abs.2 StG i.V.m. §54a Abs.2
+StGV angesichts der vom Gesetzgeber gewollten moralischen Bei
+standspflicht ebenfalls als eng zu verstehende Wohngemeinschaft
+auszulegen ist. Konkret muss danach zum einen ein gemeinsamer
+Wohnsitz der Betroffenen vorliegen (Urteil des Verwaltungsgerichts
+WBE.2013.524 vom 11.September 2014 E.2.3). Darüber hinaus ist
+erforderlich, dass der Erblasser mit der bedachten Person zwar nicht
+
+im Konkubinat, aber in Wohngemeinschaft gelebt haben muss. Dabei
+liegt die Beweislast für das Vorliegen einer solchen Wohngemein
+schaft als steuermindernde Tatsache beim Bedachten. Bei der
+Nutzung von zwei vollständig ausgestatteten Wohnungen ist nicht
+von einem gemeinsamen Haushalt im Sinne dieser Bestimmung aus
+zugehen, da jede Person ihren Alltag völlig autonom in der eigenen
+Wohnung verbringen kann. Damit erfolgte eine Abgrenzung, die un
+abhängig von weiteren Kriterien im Einzelfall für die Frage einer
+Wohngemeinschaft auf das Merkmal der gemeinsamen Wohnung ab
+stellt. Die auf diese Weise vorgenommene Abgrenzung, nämlich dass
+eine Wohngemeinschaft bei zwei komplett ausgestatteten Woh
+nungen auszuschliessen ist, ist vor dem Hintergrund, dass in dieser
+Situation das Leben jederzeit vollumfänglich auf die eigene Woh
+nung beschränkt werden kann, sachlich begründet (Urteil des Ver
+waltungsgerichts WBE.2017.74 vom 9.Juni 2017 E.2.3 und 2.4, be
+stätigt durch das Urteil des Bundesgerichts 2C_685/2017 vom
+6.Februar 2018 E.4.4.4).
+2.3.
+Im Unterschied zu den soeben zitierten Urteilen, wo eine Erb
+schaft respektive eine Wohngemeinschaft unter Geschwistern zu be
+urteilen war, handelt es sich vorliegend um eine Schenkung zwischen
+zwei Konkubinatspartnern. Solche nicht verwandtschaftlichen, je
+doch unter Umständen einer Ehe ähnlichen Beziehungen sind erst
+mit Erlass des Steuergesetzes vom 15. November 1998 privilegiert
+worden und auch dann nur, wenn während fünf Jahren eine Wohn
+gemeinschaft bestanden hat. Davor fielen solche Konstellationen in
+die damals noch existierende Klasse 6 unter die Kategorie "alle wei
+teren steuerpflichtigen Personen" (§90 aStG vom 13.Dezember
+1983). Die Aufnahme von mindestens fünfjährigen Wohngemein
+schaften begründete der Gesetzgeber mit der Nähe, welche zwischen
+den in langjährigen Wohngemeinschaften lebenden Personen ent
+stehe (vgl. nichtständige Kommission Nr.07 "Steuergesetz", 23.
+Sitzung vom 27.November 1997, Votum Dr. U. Hofmann, S.378).
+Diese stünden sich oftmals näher als Kinder und Eltern, Stiefeltern
+und Pflegekinder, welche zu dieser Zeit noch in der ersten respektive
+zweiten Klasse eingestuft waren. Solche Personen sollten steuerlich
+
+honoriert werden, als wären sie Ehepaare (1. Lesung, 47. Sitzung des
+Grossen Rats vom 5.Mai 1998, Votum M. Kuhn, S.934).
+Dabei wurde der Begriff "Konkubinat" bewusst vermieden, da
+der Nachweis eines solchen kaum zu erbringen sei. "Eine Wohn
+gemeinschaft unter gleichem steuerlichen Wohnsitz lässt sich hin
+gegen alleine aus den Akten belegen. Die Frist von fünf Jahren soll
+sicherstellen, dass nur bevorzugt behandelt wird, wer zur zuwenden
+den Person ein persönliches Verhältnis hat, welches aufgrund seiner
+Dauer nicht nur Rechte, sondern auch Beistandspflichten moralischer
+Art begründet hat." (Botschaft des Regierungsrats vom 21.Mai 1997
+zur Totalrevision der aargauischen Steuergesetze 97.002968, Bericht
+und Entwurf zur 1. Beratung, §146 S.106). Das KStA wies bereits
+in seinem Kurzkommentar vom 26.November 1993 zu den Vorent
+würfen für das revidierte Steuergesetz in den Ausführungen zu § 90
+StG darauf hin, dass mit der Vermeidung des Begriffs "Konkubinat"
+eine Ausweitung des Kreises der Begünstigten über das Konkubi
+natsverhältnis hinaus einhergehe.
+2.4.
+In Erbschaftssachen ist die Tatsache, ob der Erblasser mit einer
+Person während fünf Jahren in Wohngemeinschaft gelebt hat, im
+Nachhinein oft schwer überprüfbar. In solchen Fällen ist eine Beur
+teilung gestützt auf gewisse schematische Abgrenzungen zulässig
+(Urteil des Bundesgerichts 2C_685/2017 vom 6. Februar 2018
+E.4.4.4). Solche Abklärungen zu Wohngemeinschaften bereiten
+unter Umständen auch in Schenkungssteuerfällen Schwierigkeiten,
+doch können hier, im Unterschied zu Sachverhalten bei der Erb
+schaftssteuer, wo der Erblasser naturgemäss nicht mehr befragt wer
+den kann, der Schenker und die Beschenkte Auskunft geben. Der
+vorliegende Fall gibt daher Anlass, die mit Urteil des Verwaltungs
+gerichts WBE.2017.74 vom 9.Juni 2017 E.2.3 und 2.4 (bestätigt
+durch das Urteil des Bundesgerichts 2C_658/2017 vom 6. Februar
+2018 E.4.4.4) eingeführte Auslegung für die Belange der
+Schenkungssteuer zu präzisieren.
+Entgegen der Befürchtung des KStA erweisen sich die Beweis
+schwierigkeiten in Schenkungssteuerfällen nicht als unüberwindbar.
+Infolgedessen ist eine schematische Beurteilung, wie sie in Erb
+
+schaftsfällen als richtig erscheint, jedenfalls dann nicht gerechtfer
+tigt, wenn sich ein wirklich gelebtes gefestigtes Konkubinat in einer
+Wohngemeinschaft nachweisen lässt. Der Gesetzgeber hat zwar auf
+die formalen Kriterien einer Wohngemeinschaft bei gleichem steuer
+lichem Wohnsitz abgestellt. Aus den Gesetzesmaterialien ergibt sich
+indessen klar, dass er dadurch in erster Linie Beweisschwierigkeiten
+vermeiden, nicht jedoch gefestigte Konkubinate, bei denen die Part
+ner am gemeinsamen steuerlichen Wohnsitz zusammenleben, allein
+deswegen, weil sie zwar räumlich eng miteinander verbunden, aber
+nicht notwendigerweise in einer einzigen Wohnung zusammenleben,
+von der durch §147 Abs.1 StG gewährten Privilegierung ausschlies
+sen wollte. Die Beschwerdeführerin ist daher zum Nachweis der
+Wohngemeinschaft zuzulassen. Grundsätzlich bleibt es aber dabei,
+dass eine Wohngemeinschaft das Zusammenleben von mindestens
+zwei Personen in einer Wohnung, respektive in einem Einfamilien
+haus erfordert. Verfügen die Bewohner über mehrere Wohnungen,
+bedarf es für die Annahme einer Wohngemeinschaft einer besonde
+ren Begründung durch den Nachweis eines langjährig gelebten Kon
+kubinats. Sehr gute nachbarliche Beziehungen in einem Mehrfami
+lienhaus fallen nicht unter den Begriff der Wohngemeinschaft
+(MARTIN IMTHURN, in: MARIANNE KLÖTI WEBER/DAVE
+SIEGRIST/DIETER WEBER [Hrsg.], Kommentar zum Aargauer Steuer
+gesetz, 4. Auflage, Muri/Bern 2015, §147 N4).
+3.
+3.1.
+Die Beschwerdeführerin und ihr Lebenspartner führen seit An
+fang der neunziger Jahre eine Paarbeziehung und bewohnen seit
+1998 zwei Wohnungen im Mehrfamilienhaus des Lebenspartners,
+welches über sechs Wohnungen verfügt. Unbestrittenermassen
+handelt es sich bei der Lebensform der Beschwerdeführerin und ihres
+Lebenspartners um ein Konkubinat. Während die Vorinstanz von
+einer eheähnlichen Beziehung ausgeht, ist das KStA der Ansicht, die
+Art der Beziehung müsse vollständig ausgeblendet werden. Entgegen
+dieser Meinung ist die Art der Beziehung jedoch nicht unbedeutend,
+denn der Gesetzgeber hatte den Begriff des Konkubinats ausschliess
+lich wegen Beweisschwierigkeiten vermieden und nicht, weil die
+
+Beziehungsebene keine Rolle spielen sollte. Dies zeigt sich auch
+darin, dass er Beistandspflichten moralischer Art, welche durch ein
+enges und langjähriges Konkubinat entstehen, privilegieren wollte.
+Ziel war es denn auch, eheähnliche Lebensweisen steuerlich zu
+begünstigen (vgl. vorne E.2.3).
+3.2.
+Wie aus der Rechtsprechung zum Ehe und Scheidungsrecht
+hervorgeht, wird unter einem gefestigten Konkubinat "eine auf
+längere Zeit, wenn nicht auf Dauer angelegte umfassende Lebensge
+meinschaft zweier Personen (…) mit grundsätzlich Ausschliesslich
+keitscharakter, die sowohl eine geistig seelische als auch eine
+wirtschaftliche Komponente aufweist", verstanden. In diesem Zu
+sammenhang ist auch von Wohn , Tisch und Bettgemeinschaft die
+Rede. Massgebend sind die gesamten Umstände des Zusammen
+lebens. Ein gefestigtes Konkubinat hat zudem zur Folge, dass ein all
+fälliger Unterhaltsanspruch gegenüber dem (früheren) Ehepartner
+entfällt, wenn eine derart enge Beziehung besteht, die ähnliche Vor
+teile bietet wie eine Ehe. Entscheidend ist dabei, ob der Unterhalts
+berechtigte mit seinem neuen Partner eine so enge Lebensgemein
+schaft bildet, dass dieser bereit ist, ihm Beistand und Unterstützung
+zu leisten, wie es Art.159 Abs.3 ZGB von Ehegatten fordert (BGE
+138 III 97 E.2.3.3).
+3.3.
+Die Beschwerdeführerin vereinbarte mit ihrem Ex Mann im
+Jahre 2004, aufgrund des gelebten Konkubinats auf Unterhalt zu ver
+zichten. Bereits geraume Zeit davor, per 1.Dezember 1997, hatte der
+aktuelle Lebenspartner eine Lebensversicherung über
+CHF250'000.00 abgeschlossen und die Beschwerdeführerin als Be
+günstigte eingesetzt. Im Jahre 2010 meldete der Lebenspartner die
+Beschwerdeführerin ausserdem bei seiner Pensionskasse für eine Le
+benspartnerrente an. Im Unterschied zum Urteil des Verwaltungs
+gerichts WBE.2017.74 vom 9.Juni 2017, in dem es sich um eine
+Erbschaft zwischen zwei Geschwistern handelte und die gesetzliche
+Erbfolge zum Zug kam, geht es vorliegend um eine Schenkung von
+CHF250'000.00 zwischen zwei Konkubinatspartnern. Eine
+Schenkung in dieser Grössenordnung zeigt bereits an sich eine er
+
+hebliche Verbundenheit, wie sie einer Ehe gemeinhin nachgesagt
+wird. Nach dem Willen des Gesetzgebers sollten denn auch solche
+Konkubinatspaare von der privilegierten Besteuerung gemäss der
+Klasse 1 profitieren können. Jedenfalls zeigen diese Umstände ein
+deutig, dass es sich um ein gefestigtes Konkubinat handelt, was
+durch die gerichtliche Befragung des Beschwerdeführers sowie ihres
+Konkubinatspartners zur Wohnsituation bestätigt wurde.
+4.
+4.1.
+4.1.1.
+Befragt zur Wohnsituation führten die Beschwerdeführerin und
+ihr Lebenspartner aus, dass sämtliche Wohnungen im Mehrfamilien
+haus vermietet seien mit Ausnahme der Parterre Wohnung links,
+welche zusammen mit der an die Beschwerdeführerin vermieteten
+Wohnung im ersten Stock als Wohngemeinschaft genutzt werde. Die
+anfangs verfolgte Absicht, die Parterre Wohnung links mit jener
+rechts zu verbinden und damit zu einer gemeinsamen Wohnung um
+zubauen, wofür auch Architekten Pläne ausgearbeitet worden seien,
+zeigt, dass eine tatsächlich gelebte Nähe zwischen der Beschwerde
+führerin und ihrem Lebenspartner bestand (und immer noch besteht)
+sowie ein Bedürfnis nach einer grösseren, gemeinsamen Wohnung.
+Aus sozialen Gründen – einer langjährigen Mieterin wollte der Le
+benspartner nicht kündigen – wurde das Projekt schliesslich nicht
+mehr weiterverfolgt. Nach dem Versterben der langjährigen Mieterin
+wäre zwar grundsätzlich die Gelegenheit zum Verbinden der beiden
+Wohnungen da gewesen, da jedoch bereits etliche Sanierungsmass
+nahmen an der Parterre Wohnung durchgeführt worden seien, habe
+man aus ökonomischen Gründen darauf verzichtet. Der Verzicht ist
+unter diesen Umständen durchaus nachvollziehbar – auch weil der
+Lebenspartner bei der Befragung glaubhaft ausführte, es mache für
+ihn keinen Unterschied, ob er nun innerhalb oder ausserhalb der
+Wohnung in den ersten Stock gelange.
+4.1.2.
+Während die Küche im ersten Stock gemeinsam für die Ein
+nahme des Frühstücks und des Mittagessens genutzt werde, diene die
+Küche im Parterre vorwiegend als Abstellplatz für grössere oder sel
+
+ten genutzte Küchengeräte sowie als Kochgelegenheit anlässlich von
+"Männerabenden" des Lebenspartners. Beim Einzug der Beschwer
+deführerin in die vom Lebenspartner vorher allein bewohnte Woh
+nung hätten sich die Möbel in dem Sinne vermischt, dass einige der
+Möbel im ersten Stock geblieben und einige in das Parterre verscho
+ben worden seien. Dies und die Tatsache, dass die Kleider auf beide
+Wohnungen verteilt sind, spricht eher für das gemeinsame Bewohnen
+beider Wohnungen.
+Unter Berücksichtigung der konkreten Umstände – die Be
+schwerdeführerin arbeitete bis zur Pensionierung im Jahre 2012 im
+Unternehmen des Beschwerdeführers, welches sich im selben Ge
+bäude wie die beiden Wohnungen befindet – spricht die Inanspruch
+nahme der unteren Wohnung als temporärer Rückzugsort für den
+Lebenspartner während ungefähr einer Stunde proTag nicht gegen
+die Annahme einer Wohngemeinschaft in zwei Wohnungen. Auch in
+einer grossen Wohnung mit zwei Etagen oder einem Einfamilienhaus
+kann eine solche räumliche Trennung ohne weiteres ebenfalls statt
+finden. Beide Konkubinatspartner verfügen zudem über Schlüssel für
+beide Wohnungen, wobei die Haustüren die meiste Zeit nicht abge
+schlossen seien.
+4.1.3.
+Gegen das Bestehen eines gemeinsamen Haushalts spricht der
+von der Beschwerdeführerin mit dem Lebenspartner abgeschlossene
+Mietvertrag über die Wohnung im ersten Stock. Anlässlich der Be
+fragung erklärten beide unabhängig voneinander, dass dieser zu Ab
+sicherungszwecken für die Beschwerdeführerin im Falle eines Vor
+versterbens des Lebenspartners erstellt worden sei, was nachvoll
+ziehbar erscheint. Eher ungewöhnlich erscheint, dass die Beschwer
+deführerin den Mietzins tatsächlich bezahlt. Der Lebenspartner be
+zahle im Gegenzug jedoch Einkäufe, Auswärtsessen und Ferien, wo
+bei er die Entrichtung des Mietzinses als Beitrag an das gemeinsame
+Wohnverhältnis erachte. Eine solche Aufteilung der Lebenshaltungs
+kosten zwischen Konkubinatspaaren spricht nicht per se gegen ein
+Vorliegen einer Wohngemeinschaft. Auch das Bestehen von zwei se
+paraten Festnetzanschlüssen erscheint zwar eher eigentümlich. Da
+der Lebenspartner aber nach wie vor beruflich aktiv ist und sein Tele
+
+fonanschluss auf das Unternehmen lautet, wobei nicht entgegen
+genommene Anrufe offenbar in die Büroräumlichkeiten umgeleitet
+werden, spricht auch dieser Umstand nicht gegen die Annahme einer
+Wohngemeinschaft. Schliesslich verfügen die Beschwerdeführerin
+und ihr Lebenspartner mit Ausnahme des Mietzinskontos für eine
+gemeinsam erworbene Liegenschaft über kein gemeinsames Konto,
+welches als Indiz für eine Gemeinschaftlichkeit der Mittel für die
+Haushaltskosten zu werten wäre, doch werden die Haushaltskosten
+offenbar tatsächlich gemeinsam bestritten. Es existiere weder ein
+Budget, noch werde Buch geführt, mit Ausnahme betreffend den
+Wohnraum.
+Auf die Frage, ob sich die Beschwerdeführerin und ihr Lebens
+partner auch das Schlafzimmer teilen würden, machten sie folgende
+Angaben: Während die Beschwerdeführerin ausführte, dass sie ein
+schmales Bett in einem Zimmer habe und in der unteren Wohnung
+ein Doppelbett stehe, wo gemeinsam genächtigt werde, sagte der Le
+benspartner aus, dass im ersten Stock ein "Eheschlafzimmer" bestehe
+und dort gemeinsam geschlafen werde – im Parterre könne man aber
+ebenso gemeinsam nächtigen. In besonderen Situationen (Schnar
+chen, medizinische Gründe) würden sie separat schlafen – in solchen
+Fällen packe sie ihre Sachen und gehe hinauf in den ersten Stock.
+Ungefähr drei Mal in der Woche würden sie beieinander schlafen.
+Auf nachträgliche schriftliche Aufforderung hin, ihre Ausführungen
+zu konkretisieren, stellte die Beschwerdeführerin dem Gericht am
+19.Februar 2019 fotografische Aufnahmen von der Schlafsituation
+zur Verfügung. Auf diesen Aufnahmen befinden sich ein Einzelbett
+und ein Bettsofa in je einem Zimmer in der Wohnung im ersten
+Stock und ein Doppelbett, aufgenommen in einem Zimmer der Par
+terre Wohnung. Die Vertreterin der Beschwerdeführerin wies in die
+sem Zusammenhang darauf hin, dass gemäss übereinstimmenden
+Aussagen der Beschwerdeführerin und des Lebenspartners in beiden
+Wohnungen gemeinsam geschlafen werden könne. Beide Woh
+nungen würden gemeinsam genutzt und es werde regelmässig im
+selben Bett genächtigt.
+4.2.
+
+Gestützt auf die gerichtliche Befragung ist davon auszugehen,
+dass die Beschwerdeführerin und ihr Lebenspartner tatsächlich eine
+Wohngemeinschaft in zwei übereinanderliegenden Wohnungen des
+selben Gebäudes führen.
+Der Begriff "Konkubinat" wurde im Gesetzgebungsverfahren,
+wie ausgeführt, bloss deshalb bewusst vermieden, weil der Nachweis
+eines solchen problematisch ist. Ist aber in einem Schenkungssteuer
+fall eine Wohn , Tisch und Bettgemeinschaft mit einer über 20
+jährigen Dauer und entsprechenden moralischen Beistandspflichten
+nachgewiesen, darf die steuerliche Privilegierung nicht einfach mit
+dem formalen Kriterium "Vorliegen von zwei Wohnungen" verwehrt
+werden, wenn Umstände wie hier gegeben sind (zwei direkt über
+einander liegende Wohnungen, gesamte Liegenschaft im Eigentum
+eines Konkubinatspartners, langjährige Mitarbeit der Beschwerde
+führerin im Betrieb des Lebenspartners, Begünstigung der Be
+schwerdeführerin durch eine Lebensversicherung auf das Leben des
+Lebenspartners, Schenkung dieses Versicherungskapitals von
+CHF250'000.00 im Erlebensfall, Anmeldung der Beschwerdeführe
+rin für eine Lebenspartnerrente bei der Pensionskasse des Lebens
+partners) und ein "echtes" Konkubinat vorliegt. In einer solchen
+Konstellation erscheint es gerechtfertigt, vom Erfordernis abzu
+weichen, wonach die Wohngemeinschaft in ein und derselben Woh
+nung gelebt werden muss.
+4.3.
+Entgegen dem KStA liegt im vorliegenden Fall auch keine
+systemwidrige Öffnung des Begünstigtenkreises vor, handelt es sich
+doch eben gerade um ein langjähriges Konkubinat, welches der Ge
+setzgeber privilegieren wollte. Die vom KStA befürchteten Beweis
+schwierigkeiten sprechen auch nicht gegen die Zulassung des Nach
+weises einer Wohngemeinschaft in zwei unmittelbar angrenzenden
+Wohnungen durch die Steuerpflichtigen. Der Beweis für solche
+steuermindernden Tatsachen obliegt bekanntlich nicht den Steuer
+behörden, daher geht die Beweislosigkeit zu Lasten der Steuerpflich
+tigen. Die Steuerbehörden werden damit, entgegen der Befürchtung
+des KStA, nicht wesentlich durch aufwendige und unangenehme
+Beweisverfahren belastet, dies auch aufgrund der Tatsache, dass eher
+
+von einer geringen Anzahl von Schenkungssteuerfällen auszugehen
+ist, in denen eine tatsächlich gelebte Wohngemeinschaft in zwei un
+mittelbar benachbarten Wohnungen behauptet wird. In der Mehrzahl
+solcher Sachverhaltskonstellationen mit zwei separaten Wohnungen
+dürfte eben gerade keine vom Gesetz privilegierte Wohngemein
+schaft vorliegen.
+8 Sicherstellungsverfügung
+Voraussetzungen für den Erlass einer Sicherstellungsverfügung
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom 20.Juni
+2019, in Sachen Stadtrat X. gegen D. (WBE.2019.55).
+Aus den Erwägungen
+2.
+2.1.
+Hat die steuerpflichtige Person keinen Wohnsitz in der Schweiz
+oder erscheint die Bezahlung der von ihr geschuldeten Steuer ge
+fährdet, kann die Bezugsbehörde auch vor der rechtskräftigen Fest
+stellung des Steuerbetrags jederzeit Sicherstellung verlangen (§232
+Abs.1 StG).
+Für die direkte Bundessteuer enthält Art.169 DBG eine inhalt
+lich übereinstimmende Regelung, so dass Lehre und Rechtsprechung
+dazu bei der Anwendung von §232 Abs.1 StG ebenfalls herangezo
+gen werden können.
+2.2.
+Mit der umstrittenen Sicherstellungsverfügung vom 7.August
+2018 will die Abteilung Finanzen der Stadt X. den Bezug der von der
+Beschwerdegegnerin geschuldeten, definitiv veranlagten Kantons
+und Gemeindesteuern 2016 im noch offenen Gesamtbetrag von
+CHF16'518.00 sicherstellen. Da die Beschwerdegegnerin ihren
