@@ -1,0 +1,121 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2019.112"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "WBE.2019.112"
+decided: "2019-07-04"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2297"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2297"
+cites_decisions: ["2C_156/2010", "2C_200/2014"]
+cites_law: ["switzerland/bund/acts/831.42/art-005.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — WBE.2019.112
+
+## Regeste
+
+Steuerrecht 
+Keine Verwirkung des Besteuerungsanspruchs betreffend zu Unrecht erfolgte Kapitalzahlung aus 2. Säule, wenn Veranlagung betreffend Kapitalzahlung vor Einreichen der Steuererklärung (in welcher Auszahlungsgrund behauptet wurde, der nicht vorliegt) vorgenommen wurde.
+
+## Text
+
+ten Umständen erforderlich. Ein milderes Mittel zur Erreichung des
+Zwecks ist nicht ersichtlich. Die Sicherstellungsverfügung ist somit
+auch verhältnismässig.
+9 Steuerrecht
+Keine Verwirkung des Besteuerungsanspruchs betreffend zu Unrecht
+erfolgte Kapitalzahlung aus 2. Säule, wenn Veranlagung betreffend
+Kapitalzahlung vor Einreichen der Steuererklärung (in welcher
+Auszahlungsgrund behauptet wurde, der nicht vorliegt) vorgenommen
+wurde.
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom 4.Juli 2019,
+in Sachen KStA und Gemeinderat X. gegen G. (WBE.2019.112).
+Aus den Erwägungen
+2.
+2.1.
+Das Bundesgericht hat die Möglichkeit einer Revision der
+Veranlagung, mit welcher eine Jahressteuer auf einer Kapitalleistung
+festgesetzt wird, in einem Fall verneint, in dem der Steuerpflichtige
+von einer unselbstständigen Erwerbstätigkeit bei seinem bisherigen
+Arbeitgeber zu einer Anstellung bei einer von ihm beherrschten
+GmbH gewechselt und der Steuerbehörde gegenüber nie erklärt
+hatte, er nehme eine selbstständige Erwerbstätigkeit auf. Bei dem
+vom Bundesgericht beurteilten Sachverhalt war der Steuerbehörde
+bei Vornahme der Veranlagung betreffend die Kapitalleistung
+bekannt, dass der Steuerpflichtige keine selbstständige
+Erwerbstätigkeit aufgenommen hatte. Damit beruhte die Veranlagung
+der Jahressteuer nicht auf der Unkenntnis der Steuerbehörde von der
+Nichtverwirklichung des Auszahlungsgrunds (Aufnahme einer
+selbstständigen Erwerbstätigkeit gemäss Art.5 Abs.1 lit.b FZG),
+
+sondern auf einem Subsumtionsirrtum bzw. auf einem rechtlichen
+Irrtum der Steuerbehörde (Urteil des Bundesgerichts 2C_200/2014
+vom 4.Juni 2015 E.2.4.4.2 und 2.4.5.3). Auch wenn die Möglichkeit
+einer Revision der Veranlagung einer Jahressteuer von Amtes wegen
+bei Bekanntwerden der fehlenden Voraussetzungen für den Bezug
+des Vorsorgeguthabens bejaht wird, fällt damit eine Revision stets
+ausser Betracht, wenn der Steuerbehörde dieser Umstand bei
+Vornahme der Jahressteuerveranlagung bekannt war oder hätte
+bekannt sein müssen (vgl. Art.51 Abs.1 lit.a und Abs.2 StHG und
+§201 Abs.1 lit.a und Abs.2 StG).
+2.2.
+Ein solcher Fall liegt hier indessen offensichtlich nicht vor. Der
+vorliegende Fall, bei dem der Kapitalbezug am 7.November 2013
+gemeldet wurde, die Veranlagung der Kapitalleistung am
+20.November 2014 erfolgte und die Steuererklärung 2013 erst am
+5.Januar 2015 eingereicht wurde, ist vielmehr in tatsächlicher
+Hinsicht weithin mit dem vom Bundesgericht im Urteil 2C_156/2010
+vom 7.Juni 2011 beurteilten Sachverhalt vergleichbar, bei dem die
+Auszahlung der Kapitalleistung am 30. November 2003 erfolgte, die
+Jahressteuer am 18.Februar 2004 veranlagt wurde und die
+Steuerpflichtigen die Steuererklärung am 4.März 2004 einreichten.
+In dieser Situation erklärte das Bundesgericht den Einwand des Be
+schwerdeführers, wonach die Jahressteuerveranlagung rechtskräftig
+sei und der Besteuerung der Freizügigkeitsleistung zusammen mit
+dem übrigen Einkommen im Rahmen der ordentlichen Veranlagung
+entgegenstehe, ausdrücklich als unbehelflich, weil die
+Veranlagungsbehörde wegen Entdeckung einer erheblichen Tatsache
+revisionsweise auf die Veranlagung der Jahressteuer zurückkommen
+könne (Urteil 2C_156/2010 vom 7.Juni 2011 E.3.2).
+Auch hier wusste die Veranlagungsbehörde um das Fehlen einer
+selbstständigen Erwerbstätigkeit zumindest bis zur Einreichung der
+Steuererklärung 2013 am 5.Januar 2015, d.h. einem Zeitpunkt, wo
+die Veranlagung der Jahressteuer vom 20.November 2014 bereits in
+Rechtskraft erwachsen gewesen sein dürfte bzw. deren Rechtskraft
+unmittelbar bevorstand, nichts. Einer Revision dieser Veranlagung
+im Anschluss an das mit der ordentlichen Veranlagung definitiv (und
+
+damit auch erst definitiv bekannt) werdende Fehlen eines
+Barauszahlungsgrunds gemäss Art.5 Abs.1 lit.b FZG steht damit
+nichts entgegen. Damit steht die Jahressteuerveranlagung aber auch
+der Vornahme der ordentlichen Veranlagung unter Hinzurechnung
+des zu Unrecht erfolgten Bezugs des Vorsorgeguthabens nicht
+entgegen.
+Es geht zu weit, wenn die Vorinstanz in den fehlenden
+Nachforschungen der Steuerkommission über das allfällige Fehlen
+des mit der Meldung über Kapitalleistungen deklarierten
+Auszahlungsgrunds der Aufnahme einer selbstständigen
+Erwerbstätigkeit eine Verletzung der Untersuchungspflicht der
+Steuerbehörde erblicken will. Solange für die Steuerbehörde nicht
+offensichtlich erkennbar ist, dass es an einem Auszahlungsgrund
+fehlt, darf sie sich vielmehr auf die Steuermeldung verlassen und
+ohne weitere Untersuchungen eine Jahressteuerveranlagung
+vornehmen. Dies ergibt sich bereits aus der angeführten bundes
+gerichtlichen Rechtsprechung und bedarf keiner weiteren
+Begründung. Der angefochtene Entscheid steht nicht im Einklang
+mit der bundesgerichtlichen Rechtsprechung. Das führt zur
+teilweisen Gutheissung der Beschwerde und zur Aufhebung des
+angefochtenen Entscheids. Die Angelegenheit ist zur weiteren Be
+handlung im Sinn der Erwägungen – insbesondere zur Untersuchung,
+ob der Auszahlungsgrund von Art.5 Abs.1 lit.b FZG verwirklicht
+ist – ans Spezialverwaltungsgericht zurückzuweisen.
+10 Grundstückschätzung
+Kognition des Verwaltungsgerichts (E.I./2.)
+Berücksichtigung einer im Zusammenhang mit der Erschliessung vorzu
+nehmenden Bachöffnung (E.II./2.3.)
+Feststellung bundesrechtswidrig tiefer Schätzwerte (E.II./2.5.)
+Aus dem Entscheid des Verwaltungsgerichts, 2. Kammer, vom 6.November
+2019, in Sachen F. gegen KStA und Stadtrat Q. (WBE.2019.167).
