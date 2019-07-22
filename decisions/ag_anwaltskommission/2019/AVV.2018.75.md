@@ -1,0 +1,158 @@
+---
+decision_id: "ag_anwaltskommission_AVV.2018.75"
+court: "AG Anwaltskommission"
+court_id: "ag_anwaltskommission"
+chamber: "AVV"
+docket: "AVV.2018.75"
+decided: "2019-07-22"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2339"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2339"
+cites_law: ["switzerland/bund/acts/220/art-021.md", "switzerland/bund/acts/935.61/art-012.md"]
+---
+
+# Anwaltskommission — AVV.2018.75
+
+## Regeste
+
+Art. 12 lit. i BGFA 
+Verletzung der Berufspflichten; der Anwalt hat entgegen der schriftlich vereinbarten Pauschale mehr als den doppelten Aufwand abgerechnet. Es lag keine schriftliche Abrede zur Vertragsänderung vor.
+
+## Text
+
+51 Art. 12 lit. i BGFA
+Verletzung der Berufspflichten; der Anwalt hat entgegen der schriftlich
+vereinbarten Pauschale mehr als den doppelten Aufwand abgerechnet. Es
+lag keine schriftliche Abrede zur Vertragsänderung vor.
+Aus dem Entscheid der Anwaltskommission vom 22. Juli 2019
+(AVV.2018.75), i.S. Aufsichtsanzeige
+Aus den Erwägungen
+4.
+4.1. (…)
+4.2.
+Nach Art. 12 lit. i BGFA haben Anwälte ihre Klientschaft bei
+Übernahme des Mandats über die Grundsätze ihrer Rechnungs
+stellung aufzuklären. Weiter sind sie verpflichtet, ihre Klienten perio
+disch oder auf Verlangen über die Höhe des geschuldeten Honorars
+zu informieren. Zur Aufklärung über die Grundsätze der Rechnungs
+stellung gehören Hinweise auf allfällige gewünschte Vorschüsse, den
+Zeitpunkt der Rechnungsstellung, die Art des Honorars (Pauschale
+oder Honorar nach Stundenaufwand) sowie allfällige Zahlungsfris
+ten. Zur erforderlichen Information gehören auch Angaben zu einem
+allfälligen Stundenansatz (WALTER FELLMANN in: WALTER FELL
+MANN/GAUDENZ G. ZINDEL [Hrsg.], Kommentar zum Anwaltsge
+setz, 2.Auflage, Zürich 2011, Art. 12 N 157). Haben Anwalt und
+Klient ein Pauschalhonorar vereinbart, darf der Anwalt auch dann
+keine Erhöhung fordern, wenn er mehr Arbeit leisten musste, als er
+ursprünglich prognostizierte. Umgekehrt hat der Klient auch dann
+die volle Vergütung zu entrichten, wenn die Besorgung der über
+nommenen Geschäfte oder die Leistung der aufgetragenen Dienste
+weniger Arbeit verursachte, als Anwalt und Klient bei Abschluss der
+Vereinbarung erwartet hatten. Vorbehalten bleibt der Fall, dass der
+Mehr oder Minderaufwand auf einer Änderung des Vertragsgegen
+stands beruht, indem der Anwalt zusätzliche oder weniger Leistun
+gen zu erbringen hatte, als ursprünglich vereinbart wurde. Eine sol
+
+che Abrede zieht eine entsprechende Erhöhung bzw. Reduktion des
+Honorars nach sich (FELLMANN, BGFA Kommentar, a.a.O.,
+Art.12 N 165).
+4.3.
+Zuständig für die Überprüfung der Angemessenheit der Hono
+rarforderung ist grundsätzlich der Richter. Die Aufsichtsbehörde hat
+nur einzuschreiten, wenn die Rechnung des Anwalts krass übersetzt
+ist. Dies ist etwa dann der Fall, wenn der Anwalt das Dreifache des
+angemessenen Betrags fordert (FELLMANN, BGFA Kommentar,
+a.a.O., Art. 12 N 169). Begründet die Honorarvereinbarung ein
+offenbares Missverhältnis zwischen der Leistung des Anwalts und
+der Gegenleistung des Klienten und hat der Anwalt dieses Ergebnis
+durch Ausbeutung der Notlage, der Unerfahrenheit oder des Leicht
+sinns seines Klienten erreicht, so ist die Vereinbarung für den Klien
+ten nach Art. 21 OR unverbindlich. Eine solche Übervorteilung hat
+auch disziplinarrechtliche Konsequenzen (FELLMANN, BGFA
+Kommentar, a.a.O., Art. 12 N 162).
+5.
+5.1. 5.2. (…)
+6.
+6.1. 6.2. (…)
+6.3.
+6.3.1.
+Ein Pauschalhonorar bedarf als spezielle Form des Honorars
+einer ausdrücklichen Vereinbarung. Dass ursprünglich ein Pauschal
+honorar vereinbart worden ist, wird vom beanzeigten Anwalt zwar
+nicht bestritten (vgl. oben, Ziff. 5.2). Indes macht er geltend, dass er
+mit dem Klienten lediglich ein "Kostendach" abgemacht hätte und
+dass sich die Kosten infolge der sich im Laufe des Verfahrens erge
+benen Weiterungen (u.a. Beizug einer Rechtsvertretung durch die
+Gegenpartei) erhöht hätten (vgl. oben, Ziff. 5.2). Wie bereits ausge
+führt (vgl. oben, Ziff. 4.2), darf der Anwalt bei Vereinbarung eines
+Pauschalhonorars keine Erhöhung fordern, wenn er mehr Arbeit leis
+ten musste, als er ursprünglich prognostizierte. Vorbehalten bleibt der
+Fall, dass der Mehr oder Minderaufwand auf einer Änderung des
+Vertragsgegenstands beruht, indem der Anwalt zusätzliche oder we
+
+niger Leistungen zu erbringen hatte, als ursprünglich vereinbart wur
+de.
+6.3.2.
+Der Anzeiger macht diesbezüglich geltend, es habe keine Extra
+aufgaben, keine Extrarunden, keine aussergewöhnlichen Aufgaben
+stellungen und keine unerwarteten Sachzwänge gegeben. Auch sei er
+nie über Mehraufwände in Kenntnis gesetzt worden (vgl. oben,
+Ziff.5.1).
+6.3.3.
+Demgegenüber macht der beanzeigte Anwalt geltend, dass er
+seinen Mandanten wiederholt mündlich darüber informiert habe, dass
+die anwaltlichen Aufwendungen den Rahmen des ursprünglich ver
+einbarten Kostendachs sprengen würde (vgl. oben, Ziff. 5.2).
+6.3.4.
+Aus dem Schreiben vom 31. Juli 2017 ("Wegen des grösseren
+anwaltlichen Aufwandes infolge der von Ihrer Ehefrau beigezogenen
+Gegenanwältin ist die Rechnung etwas höher als ursprünglich veran
+schlagt ausgefallen. Besten Dank für Ihr Verständnis"; vgl. SB 7) und
+der Aussage des beanzeigten Anwalts im Schreiben vom 23. Oktober
+2017 (er habe sich "erlaubt", das Honorar entsprechend seinen Auf
+wendungen zu berechnen; vgl. SB 8) ergibt sich, dass er seinen Kli
+enten nicht über zusätzliche Leistungen aufgeklärt hat. Aus den Ak
+ten ergibt sich vielmehr, dass der beanzeigte Anwalt seinen Klienten
+erst mit der Schlussrechnung im Juli 2017 schriftlich über den
+"grösseren Aufwand" informiert hat. Im Schreiben vom 31. Juli 2017
+fehlen insbesondere Hinweise, wonach der beanzeigte Anwalt den
+Klienten entgegen der Behauptung des beanzeigten Anwalts (vgl.
+oben, Ziff. 5.2) wiederholt mündlich informiert hätte, dass die an
+waltlichen Aufwendungen das vereinbarte "Kostendach" sprengen
+würden. Bei einer Abänderung der ursprünglich vereinbarten Pau
+schale wäre dies ohnehin aufgrund der Pflicht zur unmissverständ
+lichen Aufklärung über die Grundsätze der Rechnungsstellung klar
+und vorab zu kommunizieren gewesen. Entsprechende Hinweise
+durfte der beanzeigte Anwalt aber keinesfalls nur mündlich machen.
+Dies gilt umso mehr, als der Betrag wie vorliegend derart massiv
+über dem vereinbarten Pauschalhonorar liegt; so liegt der mit
+
+Schlussrechnung vom 31. Juli 2017 geforderte Betrag (CHF
+3'951.80) mehr als das Doppelte über dem ursprünglich vereinbarten
+Pauschalbetrag (CHF 1'500.00). (…) Der Beizug einer Anwältin
+durch die Gegenpartei führte zudem noch nicht zu einer Änderung
+des eigentlichen Vertragsgegenstandes, zumal der beanzeigte Anwalt
+von Anfang an mit diesem Umstand rechnen musste (…). Es gilt
+demnach festzuhalten, dass der beanzeigte Anwalt entgegen der
+schriftlich vereinbarten Pauschale mit der Schlussrechnung vom
+31.Juli 2017 mehr Aufwand geltend gemacht hat. Wie gezeigt, ist
+davon auszugehen, dass keine Abrede zur Vertragsveränderung vor
+liegt. Der beanzeigte Anwalt hat deshalb gegen die Berufspflicht von
+Art. 12 lit. i BGFA (Pflicht zur Aufklärung über die Grundsätze der
+Rechnungsstellung) verstossen.
+52 Art. 12 lit. c BGFA
+Keine Verletzung der Berufspflichten; kein unzulässiger Parteiwechsel,
+da die Anwältin wegen fehlenden Sachzusammenhangs keine gegenläufi
+gen Interessen wahrnimmt und auch keine Kenntnisse aus dem ersten
+Mandat verwendet.
+Aus dem Entscheid der Anwaltskommission vom 4.Dezember 2019
+(AVV.2018.54), i.S. Aufsichtsanzeige
+Aus den Erwägungen
+2.
+2.1.
+Der beanzeigten Anwältin wird zunächst ein unzulässiger Inte
+ressenkonflikt vorgeworfen, indem sie die Rechtsvertretung von A.
+übernommen habe, die Forderungen gegen ihre ehemalige Klientin
+(B., Anzeigerin) geltend machen würde. Dabei nehme die beanzeigte
+Anwältin gegenläufige Interessen wahr und verwende Kenntnisse
