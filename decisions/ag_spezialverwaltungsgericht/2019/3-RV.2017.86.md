@@ -1,0 +1,191 @@
+---
+decision_id: "ag_spezialverwaltungsgericht_3-RV.2017.86"
+court: "AG Spezialverwaltungsgericht"
+court_id: "ag_spezialverwaltungsgericht"
+chamber: "Abteilung Steuern"
+docket: "3-RV.2017.86"
+decided: "2019-09-19"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2328"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2328"
+cites_decisions: ["2C_629/2017", "BE.2002.000589", "BE.2002.00366", "BGE 121 V 45", "RV.2017.86"]
+---
+
+# Spezialverwaltungsgericht / Abteilung Steuern — 3-RV.2017.86
+
+## Regeste
+
+§ 27 Abs. 1 und 2 StG 
+Verkauf einer Marke / Abgrenzung zwischen Privatvermögen und Geschäftsvermögen: Beim Verkauf der Markenrechte ist von einem Verkauf von Geschäftsvermögen auszugehen, da der Nachweis der Überführung ins Privatvermögen nicht erbracht wurde. Dementsprechend stellt der erzielte Kapitalgewinn Einkommen aus selbständiger Erwerbstätigkeit dar.
+
+## Text
+
+40 § 27 Abs. 1 und 2 StG
+Verkauf einer Marke / Abgrenzung zwischen Privatvermögen und Ge
+schäftsvermögen: Beim Verkauf der Markenrechte ist von einem Verkauf
+von Geschäftsvermögen auszugehen, da der Nachweis der Überführung
+ins Privatvermögen nicht erbracht wurde. Dementsprechend stellt der er
+zielte Kapitalgewinn Einkommen aus selbständiger Erwerbstätigkeit dar.
+Aus dem Entscheid des Spezialverwaltungsgerichts, Abteilung Steuern,
+vom 19. September 2019, in Sachen A. und B. (3 RV.2017.86)
+Aus den Erwägungen
+4.
+4.1.
+Gemäss § 27 Abs. 1 StG sind alle Einkünfte aus einem Han
+dels , Industrie und Gewerbebetrieb, aus einem freien Beruf sowie
+aus jeder anderen selbständigen Erwerbstätigkeit steuerbar. Zu den
+Einkünften aus selbständiger Erwerbstätigkeit zählen auch alle Kapi
+talgewinne aus Veräusserung, Verwertung oder buchmässiger Auf
+wertung von Geschäftsvermögen. Der Veräusserung gleichgestellt ist
+die Überführung von Geschäftsvermögen in das Privatvermögen. Als
+Geschäftsvermögen gelten alle Vermögenswerte, die ganz oder vor
+wiegend der selbständigen Erwerbstätigkeit dienen (§ 27
+Abs.2StG).
+4.2.
+Markenrechte gehören wie etwa Darlehen zu den sog. Alterna
+tivgütern. Es handelt sich um Vermögenswerte, die nicht aufgrund
+ihrer Beschaffenheit und Funktion von vornherein unzweifelhaft
+entweder dem Geschäftsvermögen oder dem Privatvermögen zuzu
+ordnen sind. Für die Bestimmung, ob ein Vermögenswert dem Ge
+
+schäfts oder Privatvermögen zuzuordnen ist, ist auf die Gesamtheit
+der objektiv feststellbaren tatsächlichen Verhältnisse abzustellen. Von
+besonderer Bedeutung ist die technisch wirtschaftliche Funktion des
+Vermögenswertes, d.h. ob dieser dem Geschäft tatsächlich dient. Ist
+dies nicht der Fall, liegt in aller Regel kein Geschäftsvermögen vor.
+Dass der Vermögenswert für den Betrieb aber zwingend notwendig
+ist, wird nicht vorausgesetzt. Weiter können als Indizien die Eigen
+tumsverhältnisse, die buchmässige Behandlung – soweit sie auf den
+Willen des Steuerpflichtigen hinweist, den Vermögenswert dem ge
+schäftlichen bzw. dem privaten Bereich zuzuordnen – und das Er
+werbsmotiv in Betracht fallen. Der subjektive Wille des Steuerpflich
+tigen ist für sich allein nicht massgebend, sondern nur, soweit er sich
+in der tatsächlichen Gestaltung der Verhältnisse niederschlägt
+(BGE133 II 420; SGE vom 26. Januar 2017, bestätigt durch
+VGEvom 9.Juni 2017 (WBE.2017.110) und Bundesgerichtsurteil
+vom 5. Juni 2018 (2C_629/2017); BStPra XVIII S. 564, mit Hinwei
+sen; vgl. StR 2000 S. 482, mit Hinweisen).
+4.3.
+Zuerst ist folglich zu prüfen, ob die Marke "C." im Zeitpunkt
+des Verkaufes dem Privat oder Geschäftsvermögen des Rekurrenten
+zuzurechnen war. Erfolgte der Verkauf aus seinem Geschäftsvermö
+gen, ist von steuerbarem Einkommen aus selbständiger Erwerbstä
+tigkeit im Sinne von § 27 Abs. 1 und 2 StG auszugehen.
+5.
+5.1.
+Vorerst ist zu Recht unbestritten, dass die Marke "C." im Zeit
+punkt des Verkaufes zum Vermögen des Rekurrenten gehörte.
+Das ergibt sich einerseits aus den Einträgen im Markenregister
+des Eidgenössischen Instituts für Geistiges Eigentum (Swissregaus
+zug Marken vom 18. September 2019; Marke Nr. (…) "C."). Die
+Eintragung der Marke "C." in das Markenregister erfolgte am
+23.Januar 1978. Als Haupthinterleger wurde die D. AG eingetragen.
+Am 31. Januar 1991 bzw. 15. April 1992 wurde die Marke auf A.
+übertragen. Am 7. Januar 1997 wurde eine Sitzverlegung des Mar
+keninhabers A. nachgetragen. Per 2. Juni 2010 wurde neu F. als In
+
+haber der Marke im Register ausgewiesen. Am 8. Mai 2018 ging die
+Marke auf die Gesellschaft G. über.
+Anderseits ergibt sich das Eigentum des Rekurrenten im Zeit
+punkt des Verkaufes der Marke "C." aus dem Schreiben des Kon
+kursamtes Y. vom 25. September 2002. Der Rekurrent habe an der
+Marke "C." sein Eigentum geltend gemacht, was von der Konkurs
+verwaltung vorbehältlich der Gläubigerrechte anerkannt worden sei.
+In der Folge erfolgte keine Admassierung.
+5.2.
+5.2.1.
+Zum Erwerb der Marke "C." führte der Rekurrent im Schreiben
+vom 6. April 2015 an das Gemeindesteueramt X. aus:
+"Nach einem langen Erbstreit konnte ich die D. AG ohne die
+dazugehörige Marke 'C.' von der Erbengemeinschaft übernehmen.
+Die D. AG war nicht die Inhaberin der Marke 'C.'. Richtig ist: Inha
+ber der Marke war ursprünglich mein Vater und noch zu dessen Leb
+zeiten ging die Marke auf mich über."
+5.2.2.
+Aus dem Schreiben des Patentanwaltsbüros H. vom 27. März
+1991 ergibt sich zur Übertragung der Marke "C.", dass diese auf die
+"Firma I. in W." übertragen worden sei. Daraus ist zu schliessen, dass
+es sich ab dem Zeitpunkt dieser Übertragung um Geschäftsvermögen
+der genannten Firma handelte.
+5.2.3.
+Aus dem Schreiben desselben Patentanwaltsbüros vom 18. Mai
+1992 ist sodann zu schliessen, dass die Marke "C." "von der Firma I.
+auf Herrn A." übertragen wurde. Dass damals eine Überführung aus
+dem Geschäftsvermögen der Einzelunternehmung in das Privatver
+mögen stattgefunden haben soll, wurde weder behauptet, noch nach
+gewiesen.
+5.3.
+5.3.1.
+Spätestens mit der Übertragung der Markenrechte auf die Ein
+zelunternehmung ist die Marke "C." dem Geschäftsvermögen (Wid
+mung) zuzurechnen. Das gilt selbst dann, wenn sie zuvor bei der
+
+Übertragung vom Vater auf den Rekurrenten in das Privatvermögen
+zu überführen gewesen wäre.
+5.3.2.
+Gemäss Auszug aus dem Handelsregister des Kantons W. vom
+6. November 2018 ist die Einzelunternehmung "I." erst am 7. Januar
+1993 erloschen. Die zum Geschäftsvermögen einer Einzelunterneh
+mung des Rekurrenten gehörende Marke konnte von diesem dement
+sprechend ohne Überführung in das Privatvermögen nur als Ge
+schäftsvermögen übernommen werden.
+5.3.3.
+Dass die Marke "C." noch im Jahr 2006 zum Geschäftsvermö
+gen des Rekurrenten gehörte, ergibt sich auch aus dem Urteil des
+Versicherungsgerichtes des Kantons Aargau vom 19. Mai 2009, in
+dem bezüglich von Lizenzzahlungen für die Marke "C." von AHV
+beitragspflichtigem Einkommen ausgegangen wurde.
+5.3.4.
+Weiter liess der Rekurrent in der Ruling Anfrage der M. AG
+vom 4. November 2011 ausführen, dass er von seinem Vater die Ein
+zelfirma I. übernommen habe. In Bezug auf den Verkauf der Marke
+"C." wurde in dieser Anfrage für den Verkauf von einem Liquida
+tionsgewinn und von einer selbständigen Erwerbstätigkeit ausgegan
+gen.
+Zwar hat der Rekurrent die "Eingabe der M. AG und von mir
+betreffend Liq. Gewinn Alter 55" zurückgezogen (Schreiben vom
+4.Januar 2017). Nach einer vor allem im Sozialversicherungsrecht
+begründeten ständigen Praxis des Bundesgerichts ist gemäss einem
+allgemeinen Beweisgrundsatz den "Aussagen der ersten Stunde" im
+Zweifelsfall grössere Bedeutung beizumessen als späteren abwei
+chenden Äusserungen, weil diese letzteren nicht selten durch das an
+gestrebte Ergebnis geprägt sind (BGE 121 V 45, 47). Diese Recht
+sprechung wendet das aargauische Verwaltungsgericht auch im Steu
+errecht an (VGE vom 17. März 2003 (BE.2002.00366); VGE vom
+17. März 2003 (BE.2002.000589).
+Dementsprechend ist gestützt auf diese Angaben "der ersten
+Stunde" ebenfalls von Geschäftsvermögen auszugehen. Ausdrücklich
+ist festzustellen, dass der Rekurrent bei dieser Anfrage zweifellos
+
+fachkundig vertreten war und seine mehrfachen Verweise auf sein
+fehlendes steuerliches Wissen hier ins Leere stossen.
+5.4.
+5.4.1.
+Da der Rekurrent bis heute nicht geltend gemacht, geschweige
+denn nachgewiesen hat, dass gegenüber den Steuerbehörden bezüg
+lich der Marke "C." je eine Überführung aus dem Geschäfts in das
+Privatvermögen verlangt wurde, muss beim zu beurteilenden Verkauf
+der Markenrechte von einem Verkauf von Geschäftsvermögen aus
+gegangen werden. Dementsprechend stellt der erzielte Kapitalgewinn
+Einkommen aus selbständiger Erwerbstätigkeit im Sinne von § 27
+Abs. 1 und 2 StG dar.
+5.4.2.
+Die Marke war nach den Angaben des Rekurrenten in der Re
+plik zwar in vielen Ländern geschützt, "jedoch auf Grund der Mar
+kenschutzrechte der Gesellschaft J. (Tochtergesellschaft der Gesell
+schaft K.) aber nicht verkäuflich und somit wertlos." Werthaltig wur
+de die Marke nach den Angaben des Rekurrenten erst, nachdem L.
+sich im Jahr 2003 für die Marke "C." interessierte (E Mail vom
+18.Oktober 2003; Replikbeilage).
+5.4.3.
+Die Höhe des erzielten Gewinnes und dessen Berechnung sind
+denn auch nicht nur in den Vorjahren, sondern auch im Jahr 2013 un
+bestritten geblieben. Sie geben zu keinen Beanstandungen Anlass.
+5.5.
+Insgesamt erweist sich der Rekurs damit als unbegründet und ist
+abzuweisen.
+41 § 36 Abs. 1 StG; § 44 StG
+Kiesabbauentschädigung / Satzbestimmung bei Schlusszahlung / Ein
+kommensrealisation / passive Rechnungsabgrenzung: Die Kiesabbauent
+schädigung stand unter keiner Bedingung, weshalb der gesamte Betrag
