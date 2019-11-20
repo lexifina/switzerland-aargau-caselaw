@@ -1,0 +1,1001 @@
+---
+decision_id: "ag_regierungsrat_RRB Nr. 2019-001400"
+court: "AG Regierungsrat"
+court_id: "ag_regierungsrat"
+docket: "RRB Nr. 2019-001400"
+decided: "2019-11-20"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2341"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2341"
+cites_decisions: ["BGE 139 II 481"]
+cites_law: ["switzerland/bund/acts/101/art-076.md", "switzerland/bund/acts/451/art-021.md", "switzerland/bund/acts/700/art-027.md", "switzerland/bund/acts/814.20/art-036a.md", "switzerland/bund/acts/814.201/art-041a.md", "switzerland/bund/acts/814.201/art-041b.md"]
+---
+
+# Regierungsrat — RRB Nr. 2019-001400
+
+## Regeste
+
+Gewässerraum 
+- Der Gewässerraum kann kleiner festgelegt werden als gemäss der "Fachkarte Gewässerraum", wenn sich die natürliche Gewässerbreite aus naturnahen Vergleichsstrecken und alten Pläne herleiten und sich so die Abweichung gegenüber den –auf abstrakten Korrekturfaktoren fussenden –Berechnungen der Fachkarte begründen lässt (Erw. 4.4.1 und 4.4.2). 
+- Die Festlegung darf in zweckmässigen Abschnitten erfolgen und muss nicht Meter um Meter begründet werden (Erw. 4.4.2). 
+- Die kantonale Fachkarte legt den Gewässerraum behördenverbindlich fest und macht, dass die Festlegungen im Übergangsrecht des Bundes nicht mehr anwendbar sind (Erw. 4.7.5). 
+- Die Gemeinde muss fundiert begründen, wenn sie für ein künstlich angelegtes Gewässer keinen Gewässerraum ausscheidet. Rückweisung zur Neubeurteilung, wenn diese Begründung fehlt (Erw. 5)
+
+## Text
+
+53 Gewässerraum
+Der Gewässerraum kann kleiner festgelegt werden als gemäss der
+"Fachkarte Gewässerraum", wenn sich die natürliche Gewässerbrei
+te aus naturnahen Vergleichsstrecken und alten Pläne herleiten und
+sich so die Abweichung gegenüber den – auf abstrakten Korrek
+turfaktoren fussenden – Berechnungen der Fachkarte begründen
+lässt (Erw.4.4.1 und 4.4.2).
+Die Festlegung darf in zweckmässigen Abschnitten erfolgen und
+muss nicht Meter um Meter begründet werden (Erw. 4.4.2).
+Die kantonale Fachkarte legt den Gewässerraum behördenverbind
+lich fest und macht, dass die Festlegungen im Übergangsrecht des
+Bundes nicht mehr anwendbar sind (Erw. 4.7.5).
+Die Gemeinde muss fundiert begründen, wenn sie für ein künstlich
+angelegtes Gewässer keinen Gewässerraum ausscheidet. Rückwei
+sung zur Neubeurteilung, wenn diese Begründung fehlt (Erw.5)
+Aus dem Entscheid des Regierungsrats vom 20. November 2019
+(RRBNr.2019001400)
+Aus den Erwägungen
+4. Möhlinbach (Fliessgewässer mit mittlerer Breite)
+…
+4.3 Festlegung des Gewässerraums in der Nutzungsplanung
+Das Gewässerschutzgesetz verlangt von den Kantonen die Fest
+legung von Gewässerräumen entlang der oberirdischen Gewässer.
+Der Gewässerraum steht dem Gewässer zur Verfügung und gewähr
+leistet insbesondere den Schutz vor Hochwasser sowie die natürli
+chen Funktionen. Zu den natürlichen Funktionen gehören insbeson
+dere der Transport von Wasser und Geschiebe, die Sicherstellung der
+
+Entwässerung, die Selbstreinigung des Wassers und die Erneuerung
+des Grundwassers, die Ausbildung einer naturnahen Strukturvielfalt
+in den aquatischen, amphibischen und terrestrischen Lebensräumen,
+die Entwicklung standorttypischer Lebensgemeinschaften, die dyna
+mische Entwicklung des Gewässers und die Vernetzung der Lebens
+räume. Aufgabe von Kantonen beziehungsweise von Gemeinden,
+denen der Auftrag delegiert wurde, ist es, die Festlegung, Gestaltung
+und Bewirtschaftung des Gewässerraumes im Rahmen eines Pla
+nungsverfahrens sinnvoll und für die Grundeigentümer verbindlich
+umzusetzen (BPUK, LDK, BAFU, ARE, BLW: Gewässerraum. Mo
+dulare Arbeitshilfe zur Festlegung und Nutzung des Gewässerraums
+in der Schweiz, Stand Juni 2019 [nachfolgend: Arbeitshilfe Gewäs
+serraum 2019], Modul 2, Seite 3).
+Gemäss Art.36a GSchG legen die Kantone nach Anhörung der
+betroffenen Kreise den Raumbedarf der oberirdischen Gewässer
+(Gewässerraum) fest, der für die Gewährleistung folgender Funktio
+nen erforderlich ist: (a) die natürlichen Funktionen der Gewässer; (b)
+den Schutz vor Hochwasser; (c) die Gewässernutzung (Absatz 1).
+Der Bundesrat regelt (in der GSchV) die Einzelheiten (Absatz 2).
+Die Kantone sorgen dafür, dass der Gewässerraum bei der Richt und
+Nutzungsplanung berücksichtigt sowie extensiv gestaltet und bewirt
+schaftet wird (Absatz 3 Satz 1).
+In Gebieten ausserhalb von Biotopen von nationaler Bedeutung,
+kantonalen Naturschutzgebieten, Moorlandschaften von besonderer
+Schönheit und nationaler Bedeutung, Wasser und Zugvogelreserva
+ten von internationaler und nationaler Bedeutung sowie Landschaf
+ten von nationaler Bedeutung und kantonalen Landschaftsschutzge
+bieten gemäss Art.41a Abs.1 GSchV muss die Breite des Gewässer
+raums mindestens betragen: (a) für Fliessgewässer mit einer Gerinne
+sohle von weniger als 2 m natürlicher Breite 11 m; (b) für Fliessge
+wässer mit einer Gerinnesohle von 2–15 m natürlicher Breite die 2,5
+fache Breite der Gerinnesohle plus 7 m (Art.41a Abs.2 GSchV). Die
+nach den Absätzen 1 und 2 berechnete Breite des Gewässerraums
+muss erhöht werden, soweit dies erforderlich ist zur Gewährleistung:
+(a) des Schutzes vor Hochwasser; (b) des für eine Revitalisierung er
+forderlichen Raums; (c) der Schutzziele von Objekten gemäss Absatz
+
+1 sowie anderer überwiegender Interessen des Natur und Land
+schaftsschutzes; (d) einer Gewässernutzung (Art.41a Abs.3
+GSchV). Soweit der Hochwasserschutz gewährleistet ist, kann die
+Breite des Gewässerraums den baulichen Gegebenheiten in dicht
+überbauten Gebieten angepasst werden (Art.41a Abs.4 lit. a
+GSchV). Auf die Festlegung des Gewässerraums kann verzichtet
+werden, wenn das Gewässer künstlich angelegt ist, soweit keine
+überwiegenden Interessen entgegenstehen (Art41a Abs.5 lit. c
+GSchV). Im Gewässerraum dürfen gemäss Art.41cAbs.1 GSchV
+vorbehältlich der dort genannten Ausnahmen nur standortgebundene,
+im öffentlichen Interesse liegende Anlagen wie Fuss und Wander
+wege, Flusskraftwerke oder Brücken erstellt werden.
+Die Kantone legen den Gewässerraum gemäss den Art.41a und
+41b GSchV bis zum 31.Dezember 2018 fest. Solange sie den Ge
+wässerraum nicht festgelegt haben, gelten die Vorschriften für Anla
+gen gemäss Art.41c Abs.1 und 2 GSchV entlang von Gewässern auf
+einem beidseitigen Streifen mit einer Breite von je: (a) 8 m plus die
+Breite der bestehenden Gerinnesohle bei Fliessgewässern mit einer
+Gerinnesohle bis 12 m Breite; (b) 20 m bei Fliessgewässern mit einer
+bestehenden Gerinnesohle von mehr als 12 m Breite; (c) 20 m bei
+stehenden Gewässern mit einer Wasserfläche von mehr als 0,5 ha
+(ÜbgBest GSchV vom 4. Mai 2011, Abs.1 und 2). Die beidseitigen,
+gleich breiten Uferstreifen unterscheiden sich insofern vom Gewäs
+serraum gemäss Art.41a GSchV, als letzterer ein Korridor ist, in dem
+das Gewässer nicht in der Mitte fliessen muss (Erläuternder Bericht
+des BAFU vom 20. April 2011 zu A. Parlamentarische Initiative
+Schutz und Nutzung der Gewässer 07.492 – Änderung der Gewäs
+serschutz , Wasserbau , Energie und Fischereiverordnung, B. Ver
+sickerung von Abwasser – Änderung der Gewässerschutzverord
+nung, C. Anpassung der Fischnahmen – Änderung der Fischereiver
+ordnung [nachfolgend: Erläuternder Bericht BAFU], Seite 10 und
+30; CHRISTOPH FRITSCHE, in: PETER HETTICH/LUC JANSEN/ROLAND
+NORER [Hrsg.], Kommentar zum Gewässerschutzgesetz und zum
+Wasserbaugesetz, Zürich/Basel/Genf 2016, Art.36a GSchG N 70);
+vgl.VGE III/25 vom 1.März 2018, Seite11 f.).
+
+4.4 Mindestbreite aufgrund der natürlichen Breite der Gerinne
+sohle
+4.4.1 Bestimmung der natürlichen Gerinnesohlenbreite
+Gemäss Art.36a GSchG legen die Kantone nach Anhörung der
+betroffenen Kreise den Raumbedarf der oberirdischen Gewässer fest,
+der erforderlich ist für die Gewährleistung der natürlichen Funktio
+nen der Gewässer, des Schutzes vor Hochwasser sowie die Gewäs
+sernutzung. Die Bemessung der erforderlichen Breite dieses Raum
+bedarfs basiert auf Art.41a GSchV.
+Als Grundlage für die Festlegung der Gewässerräume muss die
+sogenannte natürliche Gerinnesohlenbreite (nGSB) eines Fliessge
+wässers bekannt sein.
+Ein naturnahes Fliessgewässer wird auf seinem Lauf meist un
+terschiedlich breite Gerinnesohlen ausbilden (sogenannte Breitenva
+riabilität). Das Bachbett entspricht bei naturnahen Fliessgewässern in
+der Regel der natürlichen Gerinnesohlenbreite. Begradigte und ver
+baute Fliessgewässer hingegen weisen oft eine eingeschränkte oder
+gar fehlende Breitenvariabilität auf und ihre Sohlenbreite entspricht
+nicht mehr der natürlichen Gerinnesohlenbreite.
+In solchen Fällen muss die natürliche Gerinnesohlenbreite her
+geleitet werden. Hierzu stehen verschiedene Methoden zur Verfü
+gung. Die Wahl der Methode ist abhängig von der konkreten Si
+tuation. Idealerweise werden verschiedenen Methoden ergänzend
+kombiniert und gegenseitig plausibilisiert. Folgende Ansätze haben
+sich bei der Ermittlung der natürlichen Gerinnesohlenbreite in der
+Praxis bisher bewährt (zum Ganzen: Arbeitshilfe Gewässerraum
+2019, Modul 2, Seite5):
+• anhand der Breite naturnaher/natürlicher Vergleichsstrecken (Re
+ferenzstrecken);
+• unter Einbezug historischer Dokumente (zum Beispiel historische
+Karten und Bilder, Plangrundlagen von früheren Wasserbaupro
+jekten);
+• anhand hydraulischer, empirischer Methoden …;
+• unter Anwendung eines Korrekturfaktors; dieser beträgt bei ein
+geschränkter Breitenvariabilität (Wasserspiegelbreite) 1,5, bei
+fehlender Breitenvariabilität 2,0.
+
+Gemäss den Ausführungen der Fachperson der Abteilung Land
+schaft und Gewässer des Departements Bau, Verkehr und Umwelt im
+Fachbericht vom 25.Juli 2018 sind in der kantonalen Fachkarte Ge
+wässerraum, die vom Regierungsrat als behördenverbindliche
+Grundlage für die Umsetzung in der Nutzungsplanung verabschiedet
+worden ist, die Gewässerraumbreiten aufgrund des ökomorphologi
+schen Zustands und des vorgenannten Korrekturfaktors berechnet
+worden. Wie die Fachstelle im Fachbericht weiter festhält, müssen
+gemäss der kantonalen Arbeitshilfe zur Umsetzung der Gewässer
+räume in der Nutzungsplanung (Stand Januar 2017) diese Gewässer
+raumbreiten der Fachkarte überprüft und allenfalls angepasst werden
+(Seite 14, Schritt4), sofern gestützt auf Referenzstrecken oder alte
+Dokumente die natürliche Gewässerbreite von der Fachkarte ab
+weicht. Die berechneten Werte stellen keine Minimalbreite dar, die in
+jedem Fall mindestens übernommen werden muss. Die Werte sind im
+Detail zu verifizieren.
+Diese Ausführungen sind nachvollziehbar und überzeugen. Die
+genannten Methoden (oder ein allfälliger Methodenmix) zur Be
+stimmung der natürlichen Sohlenbreite entsprechen heute der ge
+meinsamen Auffassung der zuständigen eidgenössischen und kanto
+nalen Behörden sowie der interkantonalen Konferenzen und gelten
+somit als unter Fachleuten allgemein anerkannt. Die Anwendung ei
+nes schematischen Korrekturfaktors auf die bestehende Sohlenbreite
+steht dabei zu Recht nicht mehr im Vordergrund. Die genannten
+Korrekturfaktoren basieren auf der Annahme, dass früher künstlich
+begradigte Gewässer eher verschmälert wurden, was aber nicht gene
+rell zutrifft. Vorliegend hat der Möhlinbach seinen gewundenen na
+türlichen Lauf weitgehend beibehalten. Vor allem aber wurden in der
+Vergangenheit die Gewässer namentlich bei Durchlässen unter
+Brücken und vor Eindolungen oft aufgeweitet, um die Hochwasser
+gefahr etwa durch Verklausungen und das Risiko der Beschädigung
+der Bauwerke zu reduzieren. In diesen Bereichen dürfte ein Faktor,
+der deutlich über 1,0 liegt, selten angemessen sein. Vielmehr müsste
+je nach Verbauung des Gewässers teilweise ein Faktor unter
+1,0angewendet werden, um zur natürlichen Breite zu gelangen. In
+Auslegung des unbestimmten Rechtsbegriffs der "natürlichen Breite"
+
+ergibt sich aber ohnehin, dass eine deutliche Verbreiterung auf einem
+sehr kurzen Abschnitt für die natürlichen Funktionen des Gewässers
+(Art.36a Abs.1 lit. a GSchG) nicht erforderlich ist. Für die weiteren
+Funktionen des Gewässerraums wiederum (Schutz vor Hochwasser
+und Gewässernutzung) bildet bei einem Fliessgewässer nicht die na
+türliche Breite des Gewässers den Ausgangspunkt, sondern sind die
+konkreten Anforderungen im Einzelfall massgebend, die zu einer Er
+höhung der Mindestbreite des Gewässerraums gestützt auf Art.41a
+Abs.3 GSchV führen können.
+4.4.2 Umsetzung beim Möhlinbach
+In der Gemeinde Zeiningen ist der Möhlinbach der prägende
+Hauptbach, der das Gemeindegebiet von Südosten nach Nordwesten
+quert. Gemäss Fachkarte Gewässerraum variiert die Breite seines
+Gewässerraums je nach aktueller Gerinnesohlenbreite und Verbau
+ungsgrad (Breitenvariabilität) zwischen 14,5 m und 27 m (bei Kunst
+bauten bis 32 m). Zu den Abschnitten des Möhlinbachs ergibt sich
+laut Fachbericht Folgendes:
+Möhlinbach ausserhalb des Dorfs (Kulturlandplan)
+Die Fachstelle führt in ihrem Fachbericht aus, dass alte Pläne
+der früheren Korrektion des Möhlinbachs (aus den Jahren 1910/11)
+zeigen, dass der Möhlinbach ausserhalb des Dorfs vor dieser Korrek
+tion eine Sohlenbreite von rund 3,5 m bis 4,5 m aufgewiesen hat.
+Dies führt gemäss Art.41a Abs.2 lit. b GSchV (für Fliessgewässer
+mit einer Gerinnesohle von 2–15 m natürlicher Breite; die 2,5 fache
+Breite der Gerinnesohle plus 7 m) zu einer Gewässerraumbreite von
+16–18 m. Gemäss vorliegender Änderung der kommunalen Nut
+zungsplanung soll der Gewässerraum am Möhlinbach ausserhalb
+Bauzone daher eine Breite von 18 m aufweisen.
+Möhlinbach innerhalb des Dorfs (Bauzonenplan)
+Wie die Fachperson in ihrem Fachbericht weiter festhält, war
+innerhalb des Dorfkerns der Möhlinbach bereits damals abschnitts
+weise verbaut, da an mehreren Stellen Wasser für die Nutzung abge
+leitet worden ist. Der Möhlinbach erfahre jedoch auf dem Gemein
+degebiet keine wesentlichen Zuflüsse von Seitenbächen, die seine
+Breite und den Charakter wesentlich verändern würden. Daher könne
+man für den vorliegend betroffenen Abschnitt des Möhlinbachs in
+
+Zeiningen im Dorf davon ausgehen, dass die theoretische minimale
+Gewässerraumbreite ebenfalls mindestens 16–18 m betrage.
+Der Regierungsrat schliesst sich dieser Beurteilung der Fach
+person an. Die konkrete Festlegung der Breite des Gewässerraums in
+den kommunalen Nutzungsplänen Siedlung und Kulturland mittels
+naturnaher oder natürlicher Vergleichsstrecken (Referenzstrecken)
+sowie unter Einbezug historischer Dokumente (alte Pläne der frühe
+ren Korrektion des Möhlinbachs aus den Jahren 1910/11) ermöglicht
+eine möglichst situationsgerechte Festlegung des Gewässerraums
+sowohl innerhalb als auch ausserhalb des Dorfs und erscheint sach
+gerecht und nachvollziehbar. Sie vermag vorliegendenfalls besser zu
+überzeugen als beispielsweise die Anwendung der abstrakten
+Korrekturfaktoren bei eingeschränkter Breitenvariabilität (Wasser
+spiegelbreite) 1,5 beziehungsweise bei fehlender Breitenvariabilität
+2,0, welche zu Gewässerraumbreiten von bis rund 24 m respektive
+27 m führen würden. Diese Mindestbreiten des Gewässerraums wür
+den den tatsächlichen Verhältnissen entlang des Möhlinbachs sowohl
+im Dorf als auch ausserhalb des Dorfs nicht gerecht. Geht man dem
+gegenüber vorliegend von der Referenzbreite der Gewässersohle von
+3,5–4,5m aus, resultiert eine minimale Gewässerraumbreite von
+15,75–18,25m oder im Durchschnitt 17m.
+Vorliegend beträgt künftig die Breite der Gewässerraumzone
+innerhalb der Bauzonen 20 m, gemessen beidseitig je 10 m ab Ge
+wässermitte (somit symmetrisch zur Gewässerachse), ausser bei den
+Parzellen 21 und 24, wo sie sich aus dem Bauzonenplan ergibt
+(vgl.§12a Abs.1 BNO), ausserhalb der Bauzonen 18m, gemessen
+beidseitig je 9m ab Gewässermitte (vgl.§20a Abs.2 BNO). Die
+Gewässerraumzone ist folglich innerhalb der Bauzonen durchschnitt
+lich 3m breiter als die bundesrechtlich erforderliche Minimalbreite
+gemäss Art.41a Abs.2 lit. b GSchV, ausserhalb der Bauzonen durch
+schnittlich 1m.
+Die Beschwerdeführenden rügen, dass die Festlegung des Ge
+wässerraums zu abstrakt erfolgt sei beziehungsweise dass die lokalen
+Gegebenheiten vorliegend zu wenig konkret berücksichtigt worden
+seien. Dass die lokalen Gegebenheiten eines Gewässers bei der Um
+setzung der Gewässerräume berücksichtigt werden müssen, trifft zu.
+
+Dies bedeutet von der Systematik her jedoch nicht, dass ein Gewäs
+serraum von Meter zu Meter neu beurteilt werden muss. Bei der
+Festlegung und Umsetzung des Gewässerraums muss ein zweckmäs
+siges Plangebiet gewählt werden. Der Perimeter für die Gewässer
+raumausscheidung soll so gewählt werden, dass über eine grössere
+Fläche eine sachgerechte Gesamtlösung erzielt werden kann. Dies ist
+auch planerisch und finanziell sinnvoll (vgl.HANS W. STUTZ, Ufer
+streifen und Gewässerraum – Umsetzung durch die Kantone, in:
+URP 2/2012, Seite122). Das Festlegungsverfahren muss eine Einzel
+fallprüfung umfassen, wobei diese gewässerabschnittsweise oder ge
+bietsweise erfolgen darf. Eine einzelfallweise (individuell konkrete)
+Gewässerraumausscheidung erfolgt individuell, weil der Gewässer
+raum in einer Art planerischem Akt oder mit Einzelverfügung festge
+legt wird, und konkret, weil dies an einem bestimmten Gewässerab
+schnitt erfolgt (HANS MAURER, Gewässerraum im Nichtbaugebiet,
+in: URP 7/2016, Seite 733 f.).
+Ein naturnahes Gewässer verfügt oft über eine variierende Soh
+lenbreite innerhalb kurzer Abschnitte. Diesem Aspekt wird mit dem
+Gewässerraum jedoch Rechnung getragen, indem dies bei der Be
+rechnung der Breite berücksichtigt wird und der Gewässerraum als
+Korridor dienen soll, worin sich das Gewässer bewegen kann. So ist
+es im Sinn des Gesetzgebers, dass bei einem naturnahen Gewässer
+der Gewässerraum bei gleichem Charakter und vergleichbarer Situa
+tion mit gleicher Breite definiert werden kann und das Bachbett darin
+trotzdem nicht durchgehend die gleiche Breite aufweist. Beim
+Möhlinbach ist diesem Aspekt Rechnung getragen worden, indem
+die Abschnitte oberhalb, innerhalb und unterhalb des Dorfs betrach
+tet und verglichen worden sind.
+Die Abschnitte ausserhalb der Bauzonen sind von der Breite
+und vom Zustand des Bachs her vergleichbar. Ihnen wird daher auch
+die gleiche Gewässerraumbreite zugewiesen. Der Schutz des Gewäs
+sers vor Dünger oder Pflanzenschutzmitteleintrag wird grundsätz
+lich durch die bundesrechtlichen Verbotsbereiche von seitlich 3 m
+(ab Ufer oder ab Aussenrand Bestockung) beziehungsweise (bei
+Pflanzenschutzmitteleinsatz unter Geltung der Direktzahlungsver
+ordnung) 6 m gewährleistet. Geht die Gewässerraumzone darüber
+
+hinaus, nimmt der zusätzliche Nutzen für das Gewässer in dieser
+Hinsicht deutlich ab. Bei einer bestehenden Sohlenbreite von 4,5m
+deckt eine (symmetrische) Gewässerraumzone mit einer Breite von
+16,5 m (6 m x 2 + 4,5m) den bundesrechtlichen Verbotsbereich voll
+ständig ab. Die angefochtene Gewässerraumzone mit einer Breite
+von 18 m bietet hier somit in Bezug auf den Pflanzenschutzmittel
+verbotsbereich einen gewissen zusätzlichen Schutz für das Gewässer,
+in Bezug auf das Düngeverbot einen erheblichen. Was die Freihal
+tung von Bauten betrifft, unterstehen Bauten ausserhalb der Bauzo
+nen den Einschränkungen des RPG und benötigen die Zustimmung
+des Kantons sowie eine Prüfung von Alternativstandorten, was auch
+Lösungen mit mehr Gewässerabstand umfasst. Der Druck auf das
+Gewässer ist somit gegenüber dem Bereich innerhalb der Bauzonen
+geringer. Angesichts der Einschränkungen für die Landwirtschaft,
+welche die Gewässerraumzone auf die Bewirtschaftung bewirkt, er
+scheint folglich eine Breite von 18m ausserhalb der Bauzone und
+somit 2m weniger als innerhalb der Bauzonen gerechtfertigt.
+Innerhalb der Bauzonen ist der Möhlinbach stärker beeinträch
+tigt, jedoch ebenfalls ohne grosse Veränderungen auf diesem Ab
+schnitt. Aus diesem Grund ist es vertretbar, dass für den Möhlinbach
+innerhalb des Dorfs ebenfalls eine einheitliche Gewässerraumbreite
+definiert wird. Die Umsetzung des Gewässerraums ausserhalb und
+innerhalb Bauzonen in Abschnitten macht im vorliegenden Fall ge
+stützt auf die vorgenannten Erwägungen durchaus Sinn, da sich we
+der der bauliche Zustand noch der Charakter oder die Grösse des
+Gewässers in diesen Abschnitten markant verändert. Eine parzellen
+weise Festlegung des Gewässerraums ist weder aus raumplanerischer
+Sicht sinnvoll noch aus ökologischen Interessen erforderlich. Die
+Breite der Gewässerraumzone von 20 m, die überall die bundesrecht
+lich erforderliche Mindestbreite einhält und sie ausgehend von einer
+natürlichen Sohlenbreite von 4m um 3 m übertrifft, erscheint als zu
+lässig.
+…
+
+4.7.5 Fachkarte Gewässerraum
+4.7.5.1 Behördenverbindliche Festlegung (Art.36a Abs.1
+GSchG)
+Die Pflicht der Kantone zur Festlegung des Gewässerraums und
+dessen extensive Gestaltung und Bewirtschaftung ist seit Januar 2011
+im Gewässerschutzgesetz verankert und wurde im Juni 2011 auf
+Verordnungsstufe (GSchV) konkretisiert. Demnach legen die Kanto
+ne den Gewässerraum gemäss den Art.41a und 41b GSchV bis zum
+31.Dezember 2018 fest (Absatz 1 ÜbgBest GSchV). Solange an den
+oberirdischen Gewässern der Gewässerraum nicht ausgeschieden ist,
+ist seit dem 1.Juni 2011 die Errichtung von Bauten und Anlagen in
+einem relativ breiten – bei Fliessgewässern beidseitigen – Uferstrei
+fen grundsätzlich unzulässig. Diese Nutzungseinschränkungen stüt
+zen sich direkt auf Gesetz und Verordnung ab und gelten gegenüber
+Grundeigentümerinnen und Grundeigentümern unmittelbar; die
+Rechtswirkungen dieser öffentlichrechtlichen Eigentumsbeschrän
+kung gegenüber Behörden und betroffenen Privaten treten mithin
+ein, ohne dass es noch eines kantonalen Umsetzungsakts bedarf
+(vgl.Absatz 1 und 2 ÜbgBest GSchV). Mit den ÜbgBest GSchV soll
+sichergestellt werden, dass im Gewässerraum keine unerwünschten
+neuen Anlagen mehr errichtet werden, welche die Anliegen des Ge
+wässerschutzes durchkreuzen könnten.
+Strittig war in der Vergangenheit, ab welchem Zeitpunkt der
+Kanton Aargau den Gewässerraum in Erfüllung der bundesrecht
+lichen Vorgaben genügend bestimmt festgesetzt hat, so dass die
+ÜbgBest GSchV nicht mehr Anwendung finden. Das Verwaltungsge
+richt des Kantons Aargau kam in seinem Entscheid vom 1. März
+2018 (VGE III/25 vom 1.März 2018, publiziert in: URP 2018 425)
+zum Schluss, dass die Festlegung des Gewässerraums in der behör
+denverbindlichen Gewässerraumkarte des Kantons Aargau die
+ÜbgBest GSchV nicht abzulösen vermöge, da die hierzu erforder
+liche umfassende Interessenabwägung beziehungsweise die Anhö
+rung der von der Festlegung des Gewässerraums betroffenen Kreise
+auf dieser Planungsebene noch nicht umfassend genug erfolgt sei
+(vgl.VGE III/25 vom 1. März 2018, Seite 17 ff.). Ebenso erachtete
+das Verwaltungsgericht die Gewässerräume, welche gemäss der Ge
+
+wässerschutzverordnung des Bundes bis 2018 durch die Kantone
+festgelegt werden müssen, mit der am 1.Mai 2017 in Kraft gesetzten
+Änderung des kantonalen Baugesetzes als noch nicht ausreichend
+grundeigentümerverbindlich umgesetzt. §127 BauG kann gemäss
+Beurteilung des Verwaltungsgerichts nicht direkt angewendet werden
+und stellt damit lediglich eine behördenverbindliche (nicht aber
+grundeigentümerverbindliche) Bestimmung zur Umsetzung in einem
+Nutzungsplanungsverfahren dar. Damit könnten die Bestimmungen
+von §127 BauG auch nicht direkt auf konkrete Bauvorhaben ange
+wendet werden.
+Im Zentrum der Argumentation steht demzufolge, dass bei einer
+(rein) behördenverbindlichen Festlegung des Gewässerraums "bereits
+Fakten geschaffen worden sein könnten" (Seite18), also Baubewilli
+gungen erteilt und nicht verhindert werden könnten für Bauten, die
+später im Gewässerraum liegen.
+Demgegenüber kam das BAFU, dessen Entwurf der ÜbgBest
+GSchV der Bundesrat seinerzeit unverändert beschlossen hatte, in
+einer Aktennotiz vom 18.Dezember 2018 zuhanden der Bau und
+Planungsdirektorenkonferenz (BPUK) zum Schluss, dass eine behör
+denverbindliche Festlegung der Gewässerräume bis Ende 2018 den
+Anforderungen der Übergangsbestimmungen genüge. Im Einzelnen
+führte das BAFU (Abteilungen Recht und Wasser; Refe
+renz/Aktenzeichen R502 0449) Folgendes aus (Hervorhebungen
+auch im Original):
+"Nach eingehender Prüfung ist die Abteilung Recht des BAFU
+zur Auffassung gelangt, dass eine rein behördenverbindliche Festle
+gung bis Ende 2018 den Anforderungen der Übergangsbestimmung
+genügt:
+Ziel und Zweck der übergangsrechtlichen Norm war, dass neue
+Bauten im Gewässerraum verhindert werden, solange er nicht festge
+legt ist (übertriebene Bautätigkeit sollte verhindert werden). Die ein
+geschränkte landwirtschaftliche Nutzung war demgegenüber kein
+Thema im Zusammenhang mit der Übergangsbestimmung. Dies zeigt
+sich auch in der knappen Frist: Die eigentümerverbindliche Festle
+gung in der Nutzungsplanung bis Ende 2018 in der gesamten
+Schweiz wäre eine unrealistische Forderung gewesen.
+
+Unbestritten ist, dass der Gewässerraum gemäss Artikel 36a
+GSchG im Endeffekt eigentümerverbindlich auf Stufe Nutzungs
+planung festgelegt werden muss, damit er seine volle Wirkung ent
+falten kann und die rechtliche Forderung erfüllt wird.
+Der Begriff 'behördenverbindlich' umfasst nicht nur die Richt
+planung, sondern ist weit auszulegen. Alles, was die Baubewilli
+gungsbehörde bei ihrem Entscheid tatsächlich bindet, d.h. auch ver
+bindliche Weisungen, rechnerisch ausgewiesene Gewässerräume etc.
+können dazu führen, dass die Übergangsbestimmung nicht mehr zur
+Anwendung kommt. …
+Diskussion der Frist 2018 mit den Kantonen
+Bei der Erarbeitung der GSchV Anpassung zur Umsetzung der
+Motion 15.3001 UREK S wurde im 2015 die Frage der Auslegung
+der Frist 2018 unter anderem im Rahmen der BPUK Austauschplatt
+form Gewässerraum diskutiert. Die Plattform erachtete es damals
+weder als notwendig, in der Gewässerschutzverordnung den Termin
+31. Dezember 2018 mit 'behördenverbindlich' zu ergänzen, noch den
+Termin zu verschieben, oder einen zweiten Termin für die eigentü
+merverbindliche Festlegung aufzunehmen. Dies wurde auch an der
+BPUK Hauptversammlung vom September 2015 so traktandiert und
+war unbestritten."
+Im Anschluss an eine Umfrage unter den Kantonen anfangs des
+Jahrs 2019 hat das BAFU im Hinblick auf den Beschluss der Ar
+beitshilfe Gewässerraum 2019 seine Haltung erneut bestätigt.
+Die Rechtsabteilung des BVU teilt die rechtliche Beurteilung
+des BAFU schon lange, wie sie bereits mehrfach, unter anderem mit
+Eingaben beim Verwaltungsgericht des Kantons Aargau, erläutert hat
+(siehe RRB 2017 001273 vom 25.Oktober2017). In redaktioneller
+Hinsicht bevorzugt sie lediglich, im einleitenden Fazit der Aktenno
+tiz nicht von einer "rein behördenverbindlichen Festlegung" (parti
+elle Hervorhebung auch im Original) zu sprechen, sondern nur von
+einer "behördenverbindlichen Festlegung", um möglichen Missver
+ständnissen vorzubeugen. Da die Festlegung im Baubewilligungsver
+fahren mittelbar auch bei der Bauherrschaft zur Anwendung gelangt,
+wovon auch das BAFU ausgeht, gilt die Festlegung indirekt auch für
+die Grundeigentümerschaft. Eine "rein" auf die Behörden beschränk
+
+te Verbindlichkeit könnte missverstanden werden. Die Festlegung
+gilt über das Baubewilligungsverfahren letztlich auch für die Grund
+eigentümerschaft.
+Die Bauherrschaft kann sich jedoch gegen den Inhalt dieser
+(vorläufigen) Festlegung im Rechtsmittelverfahren wehren; ebenso
+können die Nachbarn und die legitimierten Verbände Rechtsmittel
+dagegen ergreifen. Insofern ist die Festlegung auch für die Grund
+eigentümer und die Bauherrschaft verbindlich, aber inhaltlich an
+fecht und somit überprüfbar. Damit das Verbandsbeschwerderecht
+umfassend gewährleistet ist, verlangt das BVU von den Gemeinden,
+dass sie alle Baugesuche im Bereich der ÜbgBest GSchV auch im
+kantonalen Amtsblatt publizieren und dem Kanton zur Zustimmung
+vorlegen, bis die Festlegung des Gewässerraums in der Nutzungspla
+nung (definitiv) umgesetzt ist (vgl.Schreiben der Abteilung für Bau
+bewilligungen und Abteilung für Raumentwicklung an sämtliche
+Gemeinden im Kanton Aargau vom 30. August 2017, im Internet:
+www.ag.ch > Verwaltung > BVU > Umwelt, Natur & Landschaft >
+Hochwasserschutz & Gewässer > Gewässerraum). So werden die be
+schwerdelegitimierten Verbände und Dritte verfahrensmässig so be
+handelt, als ob die ÜbgBest GSchV noch gelten würden.
+Die Kantone haben bei der Form der Festlegung des Gewässer
+raums einen grossen Spielraum. Die Bundesgesetzgebung macht (bis
+auf die nötige Anhörung) keine Vorgaben zum Verfahren. Es muss
+jedoch eine lagegenaue Festlegung erfolgen. Entstehungsgeschicht
+lich betrachtet ist Art.36a GSchG im Wesentlichen eine redaktionell
+überarbeitete Fassung von Art.21 Wasserbauverordnung (WBV), im
+Parlament lediglich ergänzt mit der Verpflichtung der Anhörung der
+betroffenen Kreise. In der Praxis zu den Gefahrenkarten Hochwasser
+ist unbestritten, dass eine behördenverbindliche Gefahrenkarte bei
+der Erteilung einer Baubewilligung zwingend zu berücksichtigen ist.
+Der Begriff "behördenverbindlich" ist nicht der Gegensatz zu
+"grundeigentümerverbindlich". Es darf aus ihm nicht geschlossen
+werden, dass behördenverbindliche Regeln für Grundeigentümer
+nicht wirksam seien. Vielmehr gibt es eine unmittelbare und eine
+bloss mittelbare Verbindlichkeit, die aber die gleiche Wirkung zeitigt.
+Die Diskussion wurde vor über einem Jahrzehnt bereits bei der Ge
+
+fahrenkarte Hochwasser geführt. Diese Karte ist anerkanntermassen
+behördenverbindlich. Der Umkehrschluss (für alle anderen als die
+Behörden unverbindlich) ist jedoch nicht zulässig und somit ein
+Fehlschluss. Die Baupolizeibehörde muss die Gefahrenkarte im Bau
+bewilligungsverfahren berücksichtigen. Die Bauherrschaft ihrerseits
+kann nur auf geeigneten Parzellen bauen, was die Hochwassersicher
+heit voraussetzt. Mittelbar hat die Gefahrenkarte somit Geltung auch
+gegenüber der Bauherrschaft und der Grundeigentümerschaft. In den
+Baubewilligungsverfahren kann jedoch eingewendet werden, die Ge
+fahrenkarte treffe sachlich nicht zu (vgl.zum Ganzen: RALPH VAN
+DEN BERGH, Gefahren und Gefahrenhinweiskarte Hochwasser,
+Gutachten über ihren Stellenwert in der Rechtsordnung des Kantons
+Aargau und des Bundes, Rechtsgutachten vom 10. November 2011).
+Das Gleiche gilt für eine Gewässerraumkarte. Diese ist mittelbar
+auch gegenüber der Bauherrschaft gültig. Baugesuche für Bauten
+und Anlagen, die den Gewässerraum beanspruchen, erfordern eine
+kantonale Zustimmung (vgl.§63 Abs.1 lit. c BauG). Damit erfolgt
+eine Prüfung durch die kantonale Behörde auch dort, wo die Ge
+meinden zuständig sind. Solche mittelbaren Wirkungen sind keines
+wegs neu oder einzigartig. Es gibt sie auch bei anderen behördenver
+bindlichen "Karten" (vgl.Altlastenkataster, Gewässerschutzbereiche
+usw., beziehungsweise ihre Vorläufer wie Hinweis oder Verdachts
+flächenkarten).
+Auch in der Literatur wird die Auffassung vertreten, dass die
+Kantone den Gewässerraum in einer Gewässerraum Karte festlegen
+können, die bei der Richt und Nutzungsplanung berücksichtigt wird
+(vgl.Erläuternder Bericht des BAFU vom 20.April 2011, Seite 13;
+CHRISTOPH FRITZSCHE, in: PETER HETTICH/LUC JANSEN/ROLAND
+NORER [HRSG.], GSchG WBG – Kommentar zum Gewässerschutz
+gesetz und zum Wasserbaugesetz, Zürich/Basel/Genf 2016, Art.36a
+N 36; BPUK/KOLAS/BAFU/BLW/ ARE, Regionale Workshops zur
+Umsetzung des Gewässerraums nach Gewässerschutzgesetz, Synthe
+sebericht, genehmigt von der BPUK Hauptversammlung vom
+20.September 2012 [Synthesebericht 2012], Seite 2 f.; HANS W.
+STUTZ, Uferstreifen und Gewässerraum – Umsetzung durch die Kan
+tone, in: URP 2012 90, Seite 116 ff.). Das Bundesgericht hatte die
+
+Frage soweit ersichtlich noch nicht zu prüfen und verwies auf die
+Meinung in der vorgenannten Literatur (vgl.BGE 139 II 481).
+Daher ist der Auffassung des BAFU zu folgen. Seit der Festle
+gung des Gewässerraums in der Fachkarte Gewässerraum können
+mittels Baubewilligungen im Gewässerraum keine "Fakten geschaf
+fen" werden. Das Zustimmungserfordernis der zuständigen kantona
+len Behörde, das Beschwerderecht der Nachbarschaft und das Ver
+bandsbeschwerderecht bieten Gewähr, dass der Gewässerraum in ei
+ner zweiten Stufe (Nutzungsplanung) im bundesrechtlich geforderten
+Minimum umgesetzt werden kann. Somit sind nur noch wenige
+Konstellationen denkbar, in denen eine beeinträchtigende Baubewil
+ligung erteilt wird: Dies würde für den Fall zutreffen, dass eine Ge
+meinde eine Nutzungsplanung beschliesst mit einem über die Fach
+karte (oder die Gesetzgebung) hinausgehenden Gewässerraum, der
+zudem im Baubewilligungsverfahren aufgrund der konkreten Einzel
+fallprüfung weder von den Behörden noch den Beschwerdeführen
+den gefordert worden war. Oder neue Beschwerdelegitimierte ver
+langen im Rechtsmittelverfahren gegen die Nutzungsplanung, dass
+ein solcher Gewässerraum umgesetzt wird. Solche Konstellationen
+dürften sehr selten und erfahrungsgemäss eher theoretischer Natur
+sein. Die ÜbgBest GSchV dienen nicht dazu, diesen weiten Spiel
+raum sicherzustellen. Sie nehmen die Absicherungsziele einer Pla
+nungszone wahr und dienen vor allem als (negativer) Anreiz, dass
+der Gewässerraum rasch festgelegt wird.
+Entgegen einzelnen anderslautenden oder unpräzisen Ausfüh
+rungen in Literatur und Rechtsprechung übernehmen sie jedoch nicht
+einfach die Funktion einer Planungszone. Sie greifen viel stärker in
+die Eigentumsfreiheit ein. Von einer Planungszone unterscheiden sie
+sich in mindestens drei zentralen Punkten (vgl. Art.27 RPG): Pla
+nungszonen sind nur soweit zulässig, als planerisch begründete An
+liegen abgesichert werden sollen; die von den ÜbgBest GSchV ge
+sicherten Breiten des Gewässerraums sind in der Mehrzahl der Fälle
+innerhalb der Bauzonen jedoch sachlich nicht begründet oder gar
+willkürlich. Ferner können Bauvorhaben, die die künftige (und die
+heutige) Rechtslage einhalten, trotz Planungszone bewilligt werden,
+was bei den ÜbgBest GSchV grundsätzlich nicht der Fall ist (die
+
+Festlegung muss im Regelfall über die Bauparzelle hinaus und in ei
+nem grösseren Rahmen erfolgen). Schliesslich ist die Planungszone
+zeitlich relativ eng befristet; die Bauherrschaft wird somit zeitlich
+nur beschränkt (in der Regel maximal 5 Jahre) im Ungewissen gelas
+sen oder blockiert. Vorliegend traten die ÜbgBest GSchV am 1. Juni
+2011 in Kraft und gelten über das für die Umsetzung geltende Fris
+tende hinaus. Der Bundesgesetzgeber hat im hier relevanten Bereich
+nur die Grundsatzgesetzgebungskompetenz (anders im Wasserbau;
+dort gelten aber die Gefahrenkarten unabhängig von den ÜbgBest
+GSchV weiterhin; vgl.Art.76 BV). Angesichts des erheblichen Ein
+griffs in die Eigentumsfreiheit durch den Verordnungsgeber gibt es
+keinen Grund, dass nur … grundeigentümerverbindliche Festlegun
+gen des Gewässerraums … die ÜbgBest GSchV ablösen können. Das
+würde letztlich auf Nutzungsplanungen hinauslaufen, womit die an
+gesetzte Frist für die Kantone vom Verfahren her unrealistisch wäre,
+zumal es nicht genügend Fachbüros gibt, die solche Planungen quali
+tativ ausreichend vorbereiten können. Das kann nicht dem Willen des
+Verordnungsgebers entsprechen und wäre nicht sinnvoll.
+Die Festlegung des Gewässerraums erfolgte im vorliegenden
+Fall des Abschnitts des Möhlinbachs in den Bauzonen mit dem Er
+lass der kantonalen Gewässerraumkarte. Mit RRB Nr.2016 000289
+vom 16.März 2016 wurde die Gewässerraumkarte beschlossen. Der
+Regierungsrat setzte damit Art.36a Abs.1 GSchG und somit die ers
+te Stufe um. Diese Gewässerraumkarte ist behördenverbindlich. Das
+heisst, dass sowohl Baubewilligungsbehörden im Rahmen einer Er
+teilung einer Baubewilligung im Einzelfall an die Vorgaben der Ge
+wässerraukarte gebunden sind, ebenso die Gemeindebehörden im
+Rahmen der Umsetzung der Gewässerräume im kommunalen Nut
+zungsplanungsverfahren. … Im Rahmen der Festlegung der kantona
+len Gewässerraumkarte wurden die massgeblichen Interessenverbän
+de bereits miteinbezogen. Wenn nun argumentiert wird, man habe die
+betroffenen Grundeigentümer (und Pächter und weitere Direktbe
+troffene) nicht in die Interessenabwägung miteinbezogen, so ist zum
+einen zu bemerken, dass bei der öffentlichen Auflage und Publikati
+on im kantonalen Amtsblatt alle Grundlagen für die Fachkarte offen
+gelegt wurden und die Privaten mitwirken konnten, zum anderen
+
+dass die Festlegung in Baubewilligungsverfahren von Bauten rele
+vant werden, die den Gewässerraum gemäss Gewässerraumkarte
+tangieren oder in denselben zu stehen kommen, und sich der be
+troffene Bauherr und weitere Beschwerdelegitimierte dort zur Wehr
+setzen können. Der Gewässerraum in der Gewässerraumkarte ver
+steht sich als behördenverbindlicher Richtwert, der im Einzelfall den
+vorliegenden Verhältnissen angepasst werden kann und muss. Es be
+steht also durchaus die Möglichkeit des Bauherrn, auch noch im
+Baubewilligungsverfahren seine Interessen darzutun und eine erneu
+te, konkretere, Interessenabwägung zu verlangen. Dasselbe gilt na
+türlich bei der Umsetzung des Gewässerraums auf kommunaler Ebe
+ne auf Stufe Nutzungsplanung. Auch hier haben die kommunalen
+Planungsbehörden auf Grundlage der Gewässerraumkarte bei der
+Festlegung des Gewässerraums nochmals eine Interessenabwägung
+vorzunehmen. Hier steht den betroffenen Grundeigentümern eben
+falls der Rechtsweg offen. Es ist damit nicht so, dass mit der kanto
+nalen Gewässerraumkarte bereits eine weitergehende Interessenab
+wägung verhindert würde und Präjudizien geschaffen würden.
+Im Übrigen erfordert eine Festlegung des Gewässerraums, die
+später in der Nutzungsplanung umgesetzt wird, anders als in der Li
+teratur teilweise vertreten, keine umfassende Interessenabwägung.
+Das Bundesgericht verwendet diesen Begriff im Bau und Planungs
+recht eng begrenzt; oft sind es Literaturzitate. Vorliegend ist er offen
+sichtlich nicht angebracht, handelt es sich beim Gewässerraum doch
+um eine grundsätzlich einseitige Interessenabwägung; der Bundes
+verordnungsgeber hat die Mindestbreiten festgelegt, die nur sehr ein
+geschränkt in definierten wenigen Fällen unterschritten werden kön
+nen. Auch würde eine umfassende Interessenabwägung voraussetzen,
+dass diese aufgrund eines Entscheids zustande gekommen ist, dem
+eine Anhörung aller Rechtsmittellegitimierten vorangegangen war
+und der mit einem Rechtsmittel anfechtbar ist. Dies verlangt Art.36a
+Abs.1 GSchG jedoch nicht. Im Parlament bezeichneten verschiedene
+Votanten die von Seiten des Parlaments vorgeschlagene Anhörung
+mit Blick auf die weitere Anhörung und Mitwirkung im Nutzungs
+planverfahren (Art.36a Abs.3 GSchG) denn auch vielmehr als sinn
+los und "absolut doppelt gemoppelt" (Filippo Leutenegger) oder
+
+"überflüssig" (Elvira Bader); sie sei auch keine zusätzliche "Rekurs
+oder Einsprachemöglichkeit" (Hans Killer; zum Ganzen: AB 2009 N
+652 ff.).
+Gestützt auch auf die Darlegungen des BAFU erachtet der Re
+gierungsrat die Voraussetzung für den Wegfall der ÜbgBest GSchV
+mit der behördenverbindlichen Festlegung des Gewässerraums in der
+kantonalen Gewässerraumkarte als grundsätzlich erfüllt. Vorsorglich
+sind die Gemeinden jedoch angewiesen worden, die Baugesuchsver
+fahren zur Wahrung der Rechte Dritter so durchzuführen, als ob die
+ÜbgBest GSchV noch gelten würden (Zustimmung des Kantons und
+Publikation im Amtsblatt des Kantons; vgl.erwähntes Schreiben der
+Abteilung für Baubewilligungen und Abteilung für Raumentwick
+lung an sämtliche Gemeinden im Kanton Aargau vom 30.August
+2017). …
+5. Sagikanal (künstlich angelegtes Gewässer) …
+5.3 Rechtliche Beurteilung …
+Die GSchV zählt abschliessend auf, in welchen Fällen die Kan
+tone auf die Festlegung des Gewässerraums verzichten können. Sie
+können im kantonalen Recht keine weiteren Verzichtsgründe auf
+nehmen. Auf die Festlegung kann in folgenden Fällen verzichtet
+werden, sofern keine überwiegenden Interessen entgegenstehen:
+• Gewässer im Wald oder Sömmerungsgebiet
+• eingedolte Fliessgewässer
+• künstlich angelegte Gewässer
+• sehr kleine Fliessgewässer
+• stehende Gewässer mit einer Wasserfläche < 0,5 ha.
+Die Kantone können auf die Festlegung des Gewässerraums in
+den oben angegebenen Fällen verzichten, sie sind aber nicht dazu
+verpflichtet. Der Verzicht auf die Festlegung des Gewässerraums
+muss immer im Einzelfall erfolgen und verlangt eine Interessenab
+wägung, die alle massgebenden Interessen umfasst. Dies ergibt sich
+aus dem Wortlaut der Verordnungsbestimmung "soweit keine über
+wiegenden Interessen entgegenstehen" (Art.41a Abs.5 GSchV be
+ziehungsweise Art.41b Abs.4 GSchV). Ein Verzicht auf die Festle
+gung des Gewässerraums muss nicht dauerhaft gültig sein. Eine Ge
+wässerraumfestlegung kann zu einem späteren Zeitpunkt je nach Si
+
+tuation erforderlich werden. Wurde beispielsweise in einem Waldge
+biet auf die Festlegung verzichtet und ist dann eine Aktivität vorge
+sehen, welche die Gewässerfunktionen tangieren könnte, muss nach
+träglich ein entsprechender Gewässerraum definiert werden. Auch
+muss der Gewässerraum festgelegt werden, wenn eine Ausdolung
+und Revitalisierung eines eingedolten Gewässers verwirklicht wer
+den soll.
+Überwiegende Interessen, die einem Verzicht auf die Festlegung
+des Gewässerraums bei künstlich angelegten Gewässern entgegen
+stehen, sind insbesondere Interessen des Hochwasserschutzes sowie
+die allenfalls vorhandene besondere ökologische Bedeutung des Ge
+wässers. Beispiele für künstlich angelegte Gewässer mit besonderer
+ökologischer Bedeutung sind (Arbeitshilfe Gewässerraum 2019,
+Modul 2, Seite 17 ff.):
+• Binnenkanäle entlang kanalisierter Flüsse wie dem Alpenrhein
+• Gewässer, die eine Bedeutung als Lebensraum oder für die Ver
+netzung von Lebensräumen haben, beispielsweise der Klingnauer
+Stausee im Kanton Aargau, Umgehungsgerinne oder künstliche
+Weiher, welche aufgrund der Natur und Landschaftsschutzge
+setzgebung geschaffen wurden
+• Fälle, in denen entlang eines Kanals eine wertvolle Uferbe
+stockung vorkommt, die als wichtiges Vernetzungselement dient
+• Fälle, in denen beispielsweise eine seltene Fisch oder Krebsart
+ihr Habitat in ebendiesem Kanal hat
+• Kanäle, die trotz künstlicher Anlage kaum verbaut sind und na
+turnah erscheinen.
+Die Abteilung Landschaft und Gewässer beurteilt die Situation
+beim Sagikanal … hinsichtlich der Hochwasserthematik sowie in
+ökologischer Hinsicht in ihren Fachberichten wie folgt:
+…"Beim Sagikanal handelt es sich um einen künstlich angeleg
+ten Kanal. Er ist erstellt worden, um aus dem Möhlinbach Wasser
+abzuleiten und zur Sägerei auf den Parzellen Nrn. 1380 und 4049 auf
+Gemeindegebiet von Möhlin zu führen. Zu früheren Zeiten ist der Sä
+gereibetrieb mit Wasserkraft betrieben worden. Diese Nutzung der
+Wasserkraft wird heute nicht mehr aufrechterhalten.
+
+Im Zusammenhang mit der Sanierung Wasserkraft, d.h. der
+Wiederherstellung der Fischgängigkeit gestützt auf die revidierte
+Gewässerschutz und Fischereigesetzgebung, ist die Anlage auf mög
+liche und erforderliche Massnahmen hin beurteilt worden. Nach reif
+licher Überlegung hat sich der Eigentümer der Sägerei dazu ent
+schlossen, das bisher noch vorhandene Kleinwasserkraftwerk defini
+tiv stillzulegen und die Anlage zurückzubauen. Der Sagikanal soll je
+doch als Element mit Bezug zum früheren Nutzen als Wasserwerks
+kanal und als Landschaftselement mit industriekulturellem Hinter
+grund erhalten bleiben. Der Einlaufbereich aus dem Möhlinbach in
+den Sagikanal wird jedoch so umgebaut, dass das heutige Wander
+hindernis für die Fische im Möhlinbach mit einer Blockrampe ver
+netzt und durchgängig gemacht wird. Der Sagikanal wird mit unge
+fähr 50 l/s Wasser gespeist, das restliche Wasser fliesst im Möhlin
+bach. Für diese Wasserentnahme ist dem Inhaber des früher ehehaf
+ten Wasserrechts eine Wasserentnahmebewilligung erteilt worden.
+Die Realisierung steht kurz bevor.
+Der Sagikanal hat somit weiterhin den Status eines öffentlichen
+Gewässers, das heisst, dass das Wasser darin im Eigentum des Kan
+tons liegt, das Bett des Sagikanals jedoch im Eigentum der S. ver
+bleibt. Der Sagikanal verfügt über eine Breite von 0,5 m bis ca. 1 m.
+Sein Bett ist bis kurz vor der Gemeindegrenze kaum oder nur punk
+tuell verbaut, hat optisch aber einen typischen Kanalcharakter, d.h.
+beidseitig steile Böschungen und eine durchgehend ziemlich gleich
+mässige Breite.
+Vom Sagikanal geht keine Hochwassergefährdung für Bauzonen
+aus. Mit der Erstellung des Hochwasserrückhaltebeckens (HRB) ent
+lang der Gemeindegrenze zu Möhlin ist er in den Einflussbereich des
+HRBs geraten, indem bei einem hundertjährlichen Hochwasser
+(HQ100) der Einstau bis zum Sagikanal reicht. Die Hochwasserge
+fährdung dient daher nicht als Argument, welches für einen Gewäs
+serraum am Sagikanal spricht.
+Aus Sicht der Ökologie kann festgehalten werden, dass der
+Sagikanal selbstverständlich ein Lebensraum für einzelne Wasserle
+bewesen darstellt und aufgrund seiner Bestockung auch als Lebens
+raum und Vernetzungskorridor für Vögel und Kleinsäugetiere dienen
+
+kann. Es ist jedoch keine besondere ökologische Bedeutung erkenn
+bar, welche eine Gewässerraumumsetzung erfordern würde. Der
+Hauptwanderkorridor und Lebensraum mit grosser Bedeutung ist
+der Möhlinbach. Mit der kurz vor der Realisierung stehenden Vernet
+zung des Möhlinbachs beim Einlauf des Sagikanals wird dem Rech
+nung getragen. Aus Sicht der Sektion Gewässernutzung kann beim
+Sagikanal daher gestützt auf Art.41a Abs.5 GSchV auf die Umset
+zung eines Gewässerraums verzichtet werden.
+Bei einem solchen Verzicht zur Umsetzung eines Gewässer
+raums gelten die bisherigen Pufferstreifen für die landwirtschaftliche
+Bewirtschaftung trotzdem (3 m ab Ufer oder ab Aussenrand Be
+stockung keine Dünger und Pflanzenschutzmittel, 6 m keine Pflan
+zenschutzmittel). Hinsichtlich des Schutzes des Kanals vor Bauten
+und Anlagen wird darauf hingewiesen, dass allfällige Bauvorhaben
+ausserhalb Bauzone in jedem Fall eine Zustimmung des Kantons be
+dürfen und in diesem Verfahren dem Schutz dieses Kanals und der
+Ufergehölze Rechnung getragen werden muss.
+Es wird erneut darauf hingewiesen, dass ein allfälliger Verzicht
+eines Gewässerraums beim Sagikanal Aufwertungsmassnahmen in
+diesem Bereich zwischen Möhlinbach und Sagikanal oder eine weite
+re Extensivierung nicht verhindert. Beim Sagikanal bleibt zu erwäh
+nen, dass mit dem Bau des Rückhaltebeckens zusätzliche Aufwer
+tungsmassnahmen in diesem Bereich angrenzend an den Möhlinbach
+erstellt worden sind. Zudem liegt inzwischen über die Hälfte der Flä
+che in diesem Gebiet im Eigentum des Kantons, so dass die Interes
+sen der Gewässer und des Hochwasserschutzes sowieso vom Kanton
+gewahrt werden.
+Fazit:
+Beim Sagikanal kann auf eine Umsetzung eines Gewässerraums
+verzichtet werden, da der Kanal über keine besondere ökologische
+Bedeutung verfügt und keine Hochwassergefährdung von ihm aus
+geht. Kurz: Es sprechen keine überwiegenden Anliegen gegen den
+Verzicht. Der Kanal und seine Bestockung erfahren durch andere
+rechtliche Vorgaben einen Schutz als Lebensraum. Weitere aufwer
+tende Massnahmen in diesem Bereich zwischen Möhlinbach und
+Sagikanal sind weiterhin möglich. Es bleibt dabei zu bedenken, dass
+
+sich diese Fläche im Einstauperimeter des HRBs befindet. Die Um
+setzung eines Gewässerraums hätte keinen wesentlich grösseren
+Mehrwert als der Schutz, welcher trotz eines Verzichts besteht."
+Gestützt auf die Gewässerschutzverordnung kann auf die Fest
+legung des Gewässerraums verzichtet werden, wenn das Gewässer
+künstlich angelegt ist und keine überwiegenden Interessen entgegen
+stehen (Art.41a Abs.5 lit. c GSchV). §127 Abs.1bis lit. a BauG
+formuliert die Bedingung umgekehrt und beschränkt dem reinen
+Wortlaut nach die entgegenstehenden Interessen auf die ökologische
+Bedeutung: Für Fliessgewässer wird kein Gewässerraum festgelegt,
+wenn sie künstlich angelegt und ohne besondere ökologische Bedeu
+tung sind.
+Die meisten Gewässer haben eine ökologische Bedeutung als
+Vernetzungs und Lebensraum. Dies war dem Gesetzgeber auch be
+wusst, weshalb eine allgemeine ökologische Bedeutung nicht genügt
+als Kriterium, welches einem Verzicht auf einen Gewässerraum ent
+gegenstehen vermag. Sowohl Art.41a Abs.5 GSchV als auch §127
+Abs.1bis lit. a BauG verlangen daher ein überwiegendes Interesse be
+ziehungsweise eine besondere ökologische Bedeutung, welche einem
+Verzicht auf einen Gewässerraum entgegenstehen muss.
+Der unbestimmte Rechtsbegriff "ohne besondere ökologische
+Bedeutung" im kantonalen Recht meint also nichts wesentlich ande
+res als die Formulierung im Bundesrecht "soweit keine überwiegen
+den Interessen entgegenstehen", fokussiert aber auf das letztlich wohl
+meistens relevante Interesse der ökologischen Bedeutung und ver
+deutlicht, dass es ein besonders gewichtiges Interesse braucht; denn
+letztlich haben alle offen und ebenerdig verlaufenden Gewässer eine
+ökologische Bedeutung. Der Hochwasserschutz dürfte hier selten be
+troffen sein, weil Kanäle oder Stauseen meist reguliert werden kön
+nen. Auch die Gewässernutzung oder die weiteren natürlichen Funk
+tionen der Gewässer (vgl. Art.36a Abs.1 GSchG) stehen bei künst
+lich angelegten Gewässern in der Regel nicht im Vordergrund für ei
+nen Gewässerraum. Daher hat der kantonale Gesetzgeber nur die
+ökologische Bedeutung explizit aufgeführt. Inhaltlich ist damit kein
+erleichterter Verzicht gegenüber dem Bundesrecht verbunden.
+
+Als politische Bestrebungen bestanden, die Bundesverordnung
+wieder deutlich zu entschärfen, wurde von Seiten des Bundesrats als
+Verordnungsgeber dem Parlament gegenüber versichert, dass bei
+künstlich angelegten Gewässern ein Spielraum besteht, um auf einen
+Gewässerraum zu verzichten (vgl. die Unterlagen zur Motion
+12.3334; AB 2012 N 1062 f.). Eine Art Umkehr der Beweislast hatte
+der Verordnungsgeber nicht vorgesehen; ein Verzicht erfordert nicht,
+dass mit einem detaillierten Expertenbericht (über den IST Zustand
+und das ökologische Potenzial) nachgewiesen wird, dass keine über
+wiegende ökologische Bedeutung vorliegt, wie die Beschwerdefüh
+renden anzunehmen scheinen.
+Unstrittig ist, dass es sich beim Sagikanal um ein künstlich an
+gelegtes Fliessgewässer handelt. Indes bemängeln die Beschwerde
+führenden, beim Sagikanal sei der Hochwasserschutz nicht genügend
+ausgewiesen und es sei aus ökologischer Hinsicht die Festlegung des
+Gewässerraums erforderlich. Es ist davon auszugehen, dass sich die
+Beschwerdeführenden bei dieser Behauptung betreffend mangelnden
+Hochwasserschutz nicht auf die aktuellen Unterlagen stützen. Das
+Hochwasserschutzprojekt Möhlintal 2016 lag vom 9.September
+2016 bis 10.Oktober 2016 öffentlich auf (2. Projektauflage). Das
+Teilprojekt für die Massnahmen in Zeiningen ist mit RRB Nr. 2018
+001427 vom 5.Dezember 2018 genehmigt worden. Das Hochwas
+serrückhaltebecken beim Sagikanal wurde bereits realisiert. Aus den
+Ausführungen der Abteilung Landschaft und Gewässer sowie des
+Gemeinderats Zeiningen geht hervor, dass der Hochwasserschutz im
+Bereich des Sagikanals genügend gewährleistet ist. Der Regierungs
+rat sieht keinen Anlass, diese Aussagen in Zweifel zu ziehen. Dies
+umso mehr, als in diesem Gebiet das Hochwasserrückhaltebecken für
+ein hundertjährliches Hochwasser bereits realisiert wurde. Entgegen
+der nicht substantiierten Behauptung der Beschwerdeführenden in ih
+rer Stellungnahme zum Fachbericht vom 12.April 2019 besteht kei
+ne Hochwassergefahr für das betroffene Gebiet, welche die Festle
+gung eines Gewässerraums beim Sagikanal erforderlich machen
+würde.
+Die Abteilung Landschaft und Gewässer attestiert dem Sagika
+nal eine ökologische Bedeutung. Zwar stellt der Sagikanal ein Le
+
+bensraum für einzelne Wasserlebewesen dar und kann aufgrund sei
+ner Bestockung auch als Lebensraum und Vernetzungskorridor für
+Vögel und Kleinsäugetiere dienen. Es ist jedoch keine besondere
+ökologische Bedeutung erkennbar, welche eine Gewässerraum
+umsetzung zwingend erfordern würde. Der Hauptwanderkorridor
+und Lebensraum mit grosser Bedeutung ist der Möhlinbach. Es ist
+nicht vorgesehen, den Bereich der Wiedereinleitung des Kanals in
+den Möhlinbach natürlich zu gestalten und erstmalig eine Längsver
+netzung herzustellen; das Wanderungshindernis im ehemaligen
+Kraftwerksgebäude, der teilweise unterirdisch verlaufende Unter
+wasserkanal und der teilweise eingedolte Oberwasserkanal mit der
+Zulaufsteuerung verbleiben als unüberwindbare Hindernisse. Die
+Auffassung der Beschwerdeführenden, die Fischgängigkeit werde
+wiederhergestellt, trifft somit auf den Sagikanal nicht zu (anders als
+auf den Möhlinbach beim Wehr). Entgegen der Annahme der Be
+schwerdeführenden hat der Kanal auch künftig keine Vernetzungs
+funktion.
+Damit verzeichnet der Sagikanal nicht eine besondere ökologi
+sche Bedeutung, welche als überwiegendes ökologisches Interesse
+einem Verzicht auf die Festlegung des Gewässerraums entgegen
+stehen würde. Die Abteilung Landschaft und Gewässer legt ausser
+dem dar, dass die Bedürfnisse der Flora und Fauna mit den geltenden
+gesetzlichen Vorgaben auch ohne Gewässerraum genügenden Schutz
+finden. Für die landwirtschaftliche Bewirtschaftung gelten trotz Ver
+zicht einer Gewässerraumfestlegung auch entlang von diesen künst
+lich angelegten Gewässern die Einschränkungen gemäss Verordnung
+über die Direktzahlungen an die Landwirtschaft (auf 6 m keine
+Pflanzenschutzmittel) und Verordnung zur Reduktion von Risiken
+beim Umgang mit bestimmten besonders gefährlichen Stoffen, Zube
+reitungen und Gegenständen (auf 3 m kein Dünger). Zwar findet bei
+künstlich angelegten Gewässern gemäss §127 Abs.1bis lit. a BauG
+(im Gegensatz zu lit.b derselben Bestimmung, die einen Abstand für
+Bauten und Anlagen von 6 m ausdrücklich vorsieht) kein Mindestab
+stand von 6 m für Bauten und Anlagen zum Rand der Gerinnesohle
+Anwendung, es ist aber darauf hinzuweisen, dass allfällige Bauvor
+haben ausserhalb Bauzone in jedem Fall einer Zustimmung des Kan
+
+tons bedürfen und in diesem Verfahren dem Schutz dieses Kanals
+und der Ufergehölze Rechnung getragen werden muss. Allerdings
+trifft auch zu, dass ohne Abstand für Bauten und Anlagen der Schutz
+des Kanalbereichs schwächer ist und namentlich vom Vollzug durch
+die kantonalen und kommunalen Baupolizeibehörden abhängt. Da
+der Kanal ausserhalb der Bauzonen liegt, müssen Baugesuche in Ka
+nalnähe im kantonalen Amtsblatt publiziert werden, was der (auswär
+tigen) Nachbarschaft und den legitimierten Verbänden ermöglicht,
+eine Kontrolle der Verwaltungstätigkeit vorzunehmen.
+Wesentlich ist im vorliegenden Fall jedoch, dass der Planungs
+bericht vom 16.Januar 2018 zum Sagikanal keine nachvollziehbaren
+inhaltlichen Aussagen macht.
+Es wird im Bericht zum Sagikanal einzig festgehalten, er sei ein
+künstliches Gewässer ohne besondere ökologische Bedeutung. Er
+wird im gleichen Satz erwähnt wie der Fischzuchtkanal, der prak
+tisch kein Wasser mehr führt, der in keiner Weise mit dem Sagikanal
+vergleichbar ist und separat zu behandeln wäre. Ferner heisst es, der
+Gewässerraum sei an allen Bächen geprüft worden. Das ist eine
+selbstverständliche Mindestanforderung für eine kostenpflichtige
+Planungstätigkeit und ein unspezifisch gehaltener Textbaustein, der
+in alle Berichte passt. Es wird nicht gesagt, wie, durch wen (Fach
+kompetenz), wie aufwendig und wann geprüft worden ist. Derart all
+gemeine Ausführungen sind nichtssagend. In jeder Gemeinde sind
+die Gewässer individuell zu prüfen. Der Bericht lässt eine fundierte
+Interessensabwägung beim Sagikanal vermissen, obwohl die
+kommunalen Behörden bereits im abschliessenden Vorprüfungsbe
+richt der Abteilung Raumentwicklung des Departements Bau, Ver
+kehr und Umwelt vom 3. September 2017 darauf hingewiesen wor
+den sind, dass die konkrete Festlegung des Gewässerraums bezie
+hungsweise der Verzicht auf einen Gewässerraum Aufgabe der
+kommunalen Behörden darstellt und ein summarischer Verweis auf
+die kantonalen Bestimmungen zum Gewässerraum (§127 BauG)
+nicht ausreichend ist (vgl.abschliessender Vorprüfungsbericht vom
+3.September 2017). Es ist nun nicht die Aufgabe der kantonalen Be
+hörden, die fehlenden Aussagen nachzuholen und erstmalig eine In
+teressenabwägung vorzunehmen. Zwar hat die Beschwerdeinstanz
+
+zwei Fachgutachten zum Sagikanal eingeholt, diese ersetzen jedoch
+vorliegend nicht die Interessenabwägung und die Entscheidung über
+eine Festsetzung des Gewässerraums beziehungsweise über einen
+Verzicht auf den Gewässerraum, welche die kommunale Behörde im
+Rahmen ihrer Gemeindeautonomie vorzunehmen hat.
+Vorliegend ist Folgendes zu bedenken: Die Interessenabwägung
+kann auch einen teilweisen Verzicht auf den Gewässerraum ergeben.
+Möglich ist etwa eine reduzierte Breite oder ein Abstand für Bauten
+und Anlagen, wie ihn §127 BauG für verschiedene Konstellationen
+vorsieht. Ein solcher beschränkt die landwirtschaftliche Nutzung
+praktisch nicht, verbessert aber den Schutz vor Bauten und Anlagen,
+indem er grundsätzlich einen klaren Bauverbotsbereich festhält. Die
+Uferbestockung ist teilweise sehr einseitig, was sich auch in der Sig
+natur wiederspiegelt. Sie steht auch ohne Gewässerraum unter
+strengem Schutz (Art.21 f. NHG). Allerdings wird die Verpflich
+tung, die Voraussetzungen für eine ergänzende Bestockung zu schaf
+fen (vgl.Art.21 Abs.2 NHG), ohne Gewässerraum nicht berücksich
+tigt. Im Gewässerraum bestünde grundsätzlich auch eine gewisse
+Pflicht zu einer "extensiven Gestaltung" (vgl. Art.36a Abs.3
+GSchG), was die Bestockung fördern würde, wie vom Gesetzgeber
+verlangt. Schliesslich ist auf die besondere Situation bei der Parzelle
+1820 der Ortsbürgergemeinde Zeiningen hinzuweisen. Die Parzelle
+liegt bei der Ausleitung des Sagikanals zwischen Kanal und Möhlin
+bach. Dort erfolgte im Jahr 2013 eine Umzonung in eine Zone für
+Freizeitaktivitäten. Die Ortsbürger errichteten dort in der Folge ein
+Blockhaus. Die Zone lässt gemäss BNO weitere Bauten ohne Ab
+standsvorschriften zum Gewässer zu (vgl.§28 Zone für Freizeitakti
+vitäten). Bei der Umzonierung wurden auch der Wildtierkorridor und
+die Landschaftsschutzzone ohne erkennbare Begründung und Ersatz
+unterbrochen. Ein Gewässerraum könnte solche Freihalte und Ver
+netzungsfunktionen teilweise übernehmen. Es wäre daher fundiert zu
+prüfen, ob bei dieser Parzelle beziehungsweise bei diesem Gewäs
+serabschnitt nicht nur ein Abstand für Bauten und Anlagen, sondern
+auch ein umfassender Gewässerraum notwendig ist. Die nötigen
+Grundlagen für eine Beurteilung fehlen jedoch und sind von der Ge
+meinde beizubringen. Insofern wird der Antrag auf eine Expertise,
+
+den die Beschwerdeführenden stellten, um weitere Erkenntnisse zu
+erhalten, gutgeheissen.
+Demgemäss ist die Beschwerde bezüglich des Sagikanals teil
+weise gutzuheissen. Die Planung kann im Bereich Sagikanal noch
+nicht genehmigt werden. Die Vorlage ist an den Gemeinderat zu
+rückzuweisen zur Neuvorlage an die Einwohnergemeindeversamm
+lung im Sinn der Erwägungen. Der Gemeinderat hat eine fundierte
+Interessenabwägung vorzunehmen und entsprechend diesem Ergeb
+nis beim Sagikanal grundsätzlich zumindest einen Abstand für Bau
+ten und Anlagen und namentlich auf der Parzelle 1820 gegebenen
+falls einen weitergehenden Gewässerraum festzusetzen. Bei den nö
+tigen Abklärungen soll dann auch die neue Situation mit der Einlauf
+regulierung des Sagikanals berücksichtigt werden. …
+54 Zone für öffentliche Bauten und Anlagen (ÖBA)
+Zonenkonforme Erschliessung einer privaten Bauparzelle über eine
+ÖBAZone
+Aus dem Entscheid des Departements Bau, Verkehr und Umwelt vom
+25.Januar 2019 (EBVU 18.69)
+Aus den Erwägungen
+4.2 Streitig ist vorliegend die Zonenkonformität der über die
+Gemeindeparzelle 545 führenden Zufahrt zum geplanten Mehrfami
+lienhaus. Die Parzelle 545 liegt in der Zone für öffentliche Bauten
+und Anlagen, welche für Bauten und Anlagen bestimmt ist, die dem
+öffentlichen Interesse dienen (§25 Abs.1BNO). Die Zone für
+öffentliche Bauten und Anlagen dient im Allgemeinen der Sicherung
+des Landbedarfs, auf den das Gemeinwesen für die Erfüllung seiner
+öffentlichen Aufgaben durch Erstellung von Bauten und Anlagen an
+gewiesen ist (CHRISTIAN HÄUPTLI, in: Kommentar zum Baugesetz
