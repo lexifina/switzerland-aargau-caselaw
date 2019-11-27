@@ -1,0 +1,270 @@
+---
+decision_id: "ag_verwaltungsgericht_WBE.2018.344"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "3. Kammer"
+docket: "WBE.2018.344"
+decided: "2019-11-27"
+language: "de"
+decision_type: "Leitentscheid"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/2306"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/2306"
+cites_decisions: ["1C_121/2019"]
+---
+
+# Obergericht / Verwaltungsgericht / 3. Kammer — WBE.2018.344
+
+## Regeste
+
+Gestaltungsplan 
+- § 21 BauG kennt für das Gestaltungsplangebiet im Gegensatz zum früheren Recht (aBauG vom 2. Februar 1971) keine Mindestfläche; entscheidend für die Festlegung des Perimeters sind allein die qualitativen Anforderungen an den Gestaltungsplan (Erw. 3.1.2). 
+- Mit einem Gestaltungsplan kann nach Massgabe von § 21 BauG, § 8 Abs. 2 BauV und allfälliger ergänzender Vorschriften in den kommunalen Bauvorschriften grundsätzlich auch von den ordentlichen Grenzabständen gegenüber Parzellen ausserhalb des Planungsgebiets abgewichen werden (Erw. 3.3.2.3).
+
+## Text
+
+Tätigkeiten (Registrierung Baugesuch, Weiterleitung an externe
+Bauverwaltung, öffentliche Auflage usw.). Diese rechtfertigen jedoch
+nicht die (zu den Kosten der externen Bauverwaltung hinzukom
+mende) zusätzliche Forderung der vollen Gebühr nach Ziffer 1 lit.b.
+Eine angemessene Reduktion ist im Hinblick auf das
+Äquivalenzprinzip zwingend geboten. Nachdem das Gebührenreg
+lement eine Anrechnung weder vorgibt noch beziffert, kann – wie
+von der Beschwerdeführerin verlangt im vorliegenden Fall auf die
+im Gebührenreglement festgelegte Minimalgebühr abgestellt werden.
+Die in der Beschwerdeantwort beschriebenen administrativen Tätig
+keiten fallen unabhängig von der Grösse des Bauvorhabens bzw. der
+Bausumme an. Es ist davon auszugehen, dass diese mit der im Ge
+bührenreglement festgelegten Minimalgebühr abgedeckt sind. (…)
+18 Gestaltungsplan
+§21 BauG kennt für das Gestaltungsplangebiet im Gegensatz zum
+früheren Recht (aBauG vom 2.Februar 1971) keine Mindestfläche;
+entscheidend für die Festlegung des Perimeters sind allein die quali
+tativen Anforderungen an den Gestaltungsplan (Erw.3.1.2).
+Mit einem Gestaltungsplan kann nach Massgabe von §21 BauG, §8
+Abs.2 BauV und allfälliger ergänzender Vorschriften in den kommu
+nalen Bauvorschriften grundsätzlich auch von den ordentlichen
+Grenzabständen gegenüber Parzellen ausserhalb des Planungsge
+biets abgewichen werden (Erw.3.3.2.3).
+Aus dem Entscheid des Verwaltungsgerichts, 3.Kammer, vom 27.Novem
+ber 2019, in Sachen A. und B. gegen die Stadt C., das Departement Bau,
+Verkehr und Umwelt und die D. AG (WBE.2018.344).
+Aus den Erwägungen
+3.1.2.
+
+Nach §141 Abs.1 Satz 2 des alten Baugesetzes vom 2.Februar
+1971 (aBauG; AGS Band 8, S.125ff.) bezweckten Gestaltungspläne
+die wohnhygienisch, architektonisch und städtebaulich gute Über
+bauung "grösserer zusammenhängender Flächen". Das geltende
+BauG (vom 19.Januar 1993) enthält das Tatbestandsmerkmal der
+"grösseren zusammenhängenden Flächen" in Bezug auf den der Ge
+staltungsplanung zugrunde liegenden Perimeter dagegen nicht mehr.
+Der Gesetzgeber hat darauf verzichtet, eine entsprechende Vorgabe
+in §21 BauG aufzunehmen. Aus den Materialien ergibt sich auch,
+dass eine "Mindestfläche" als Voraussetzung für eine Gestaltungspla
+nung im Gesetzgebungsverfahren kein Thema war. Als massgebend
+wurden vielmehr die vorgegebenen qualitativen Anforderungen er
+achtet (vgl. Protokolle der Sitzungen der Spezialkommission Bauge
+setzrevision vom 26.Oktober 1990, S.91–95, vom 9.Oktober 1991,
+S.363f., und vom 24.September 1992, S.623–634; Protokoll der
+Sitzung des Grossen Rats vom 17.März 1992, S.2776, und vom
+12.Januar 1993, S.3791f.). Aus einem Zitat von ERICH ZIMMERLIN
+können die Beschwerdeführer nichts Gegenteiliges ableiten, da
+dieser §141 aBauG kommentiert hat (vgl. ERICH ZIMMERLIN, Bau
+gesetz des Kantons Aargau vom 2.Februar 1971 [aBauG], Kommen
+tar, 2.Auflage, Aarau 1985 [zit. ERICH ZIMMERLIN, Kommentar
+aBauG], §141 N1 lit.b, S.334). Dessen Aussagen beziehen sich
+nicht auf §21BauG.
+In diesem Zusammenhang ist auch das publizierte Urteil des
+Verwaltungsgerichts AGVE 2007, S.146f. zu präzisieren, soweit es
+noch auf §141 Abs.1 Satz 2 aBauG und auf die oben angegebene
+Kommentarstelle bei ERICH ZIMMERLIN referenzierte. Es hielt indes
+sen zu Recht fest, dass das BauG (1993) kein "Mindest oder
+Höchstmass" für einen Gestaltungsplanperimeter vorschreibe. Aus
+zugehen ist vom geltenden BauG, das in Bezug auf die Fläche eines
+Planungsgebiets keine Vorgaben macht. Entscheidend ist vielmehr im
+Einzelfall, dass die richtige Abgrenzung des Plangebiets sich nach
+dem Zweck und den zu lösenden planerischen Aufgaben in der Ge
+staltungsplanung richtet. An der Rechtsprechung ist allerdings dahin
+gehend festzuhalten, dass eine territoriale Begrenzung nach unten
+besteht, soweit das Verbot von Kleinbauzonen zur Verhinderung
+
+einer Streubauweise tangiert sein kann (AGVE 2007, S.146f. mit
+Hinweisen). In einem Urteil aus dem Jahr 2013 erachtete das Verwal
+tungsgericht eine aus zwei Parzellen bestehende Perimeterfläche von
+rund 2'500m2 als möglich. Dabei wurde weiter ausgeführt, auch ein
+Gestaltungsplan, der sich auf eine Parzelle beschränke, könne bei
+Einhaltung der Planungsziele und der Vorgaben des kantonalen und
+kommunalen Baurechts zulässig sein (VGE vom 17.Dezember 2013
+[WBE.2012.342], Erw.II/5.4.3). Gerade um dem Gebot der bau
+lichen Verdichtung nachzukommen oder um auf besondere Lärm
+problematiken zu reagieren, kann sich ein Gestaltungsplan heute
+auch für kleinere Gebiete vermehrt als ein wichtiges Planungs
+instrument erweisen.
+Die Vorinstanz geht somit zu Recht davon aus, dass der streitge
+genständliche Gestaltungsplan über eine Parzelle mit einer Fläche
+von 1'666 m2 rechtlich zulässig ist. Das entscheidende Kriterium ist
+dabei nicht die Grösse eines Gestaltungsplanperimeters, sondern die
+Einhaltung der in §21Abs.1 BauG statuierten qualitativen Anforde
+rungen. Dass in Bezug auf ein Planungsgebiet in der Grösse der Par
+zelle Nr.XXX von vornherein kein wesentliches öffentliches Interes
+se an der Gestaltung der Überbauung und keine qualitativen Mass
+stäbe bestehen sollen bzw. verfolgt werden können, wie die Be
+schwerdeführer insinuieren, ist nicht ersichtlich. Aus den gesetz
+lichen Grundlagen lässt sich auch nicht herleiten, ein Gestaltungs
+plan dürfe nur dann ausgearbeitet werden, wenn die Überbauung
+eines Gebiets für die "Gesamtheit der Ortsplanung" einer Gemeinde
+von Belang sei. Mit dem vorgesehenen Gestaltungsplan wird nicht
+gegen das Verbot von Kleinbauzonen verstossen. Die Beschränkung
+des Perimeters auf die Fläche der Parzelle Nr.XXX ergibt sich
+offensichtlich aus der tatsächlichen Situation bezüglich Überbauung
+und Interessen der angrenzenden Liegenschaftseigentümer. Die Par
+zelle Nr.YYY ist bereits mit einem Mehrfamilienhaus überbaut und
+aus den Akten ergeben sich keine Hinweise darauf, dass die Be
+schwerdeführer Interesse signalisiert hätten, mit ihrer Parzelle
+Nr.ZZZ an der Gestaltungsplanung teilzunehmen. Die Rüge des zu
+kleinflächigen Gestaltungsplanperimeters ist demnach unbegründet.
+3.2. (…)
+
+3.3.
+3.3.1.
+Nach §21 Abs.2 BauG können Gestaltungspläne von den all
+gemeinen Nutzungsplänen abweichen, wenn dadurch ein siedlungs
+und landschaftsgestalterisch besseres Ergebnis erzielt wird, die
+zonengemässe Nutzungsart nicht übermässig beeinträchtigt wird und
+keine überwiegenden Interessen entgegenstehen. Gemäss §8 Abs.2
+lit.a BauV dürfen Gestaltungspläne, wenn die Gemeinden nichts
+anderes festlegen, von den allgemeinen Nutzungsplänen abweichen
+bezüglich Bauweise, Baumasse (höchstens jedoch um ein zusätz
+liches Geschoss), Gestaltung der Bauten (Gebäude und Dachform)
+und Abständen. Die BNO der Stadt C. schliesst im Gebiet, in wel
+chem die Parzelle Nr.XXX liegt, Abweichungen vom allgemeinen
+Nutzungsplan nicht aus. Die Zulässigkeit eines weiteren Geschosses
+wird in §4 Abs.1 BNO davon abhängig gemacht, dass damit eine
+städtebaulich einwandfreie Lösung erreicht wird und die Nachbar
+grundstücke nicht übermässig beeinträchtigt werden. Ansonsten gilt
+§8 Abs.2 lit.a BauV unverändert.
+Der vorliegende Gestaltungsplan weicht in Bezug auf den klei
+nen Grenzabstand (gegenüber der Parzelle Nr.ZZZ der Beschwerde
+führer), den Strassenabstand (zur E. strasse) sowie den grossen
+Grenzabstand, die Geschosszahl und die Gebäudehöhe von der
+Grundnutzung ab.
+3.3.2.
+3.3.2.1.–3.3.2.2. (…)
+3.3.2.3.
+Zur Frage, ob im Rahmen einer Gestaltungsplanung auch von
+den Abständen zu Parzellen ausserhalb des Perimeters abgewichen
+werden darf, finden sich in der Rechtsprechung und in der Literatur
+kaum Hinweise. In seinem Artikel "Ausgewählte Fragen zum Gestal
+tungsplan im Kanton Schwyz" (erschienen im ZBl 101/2000, S.409)
+kommt MARK GISLER zum Schluss, die Frage, ob durch einen Ge
+staltungsplan mittels Gewährung entsprechender Ausnahmen auch
+"externe" Abstände (Grenzabstand zu ausserhalb des Einzugsgebietes
+liegenden Grundstücken, Waldabstand usw.) unterschritten werden
+dürfen, sei zu verneinen. Allerdings lässt sich die (vormalige)
+
+Rechtslage im Kanton Schwyz nicht ohne weiteres mit derjenigen im
+Kanton Aargau vergleichen. Im Unterschied zu §24 Abs.2 PBG SZ
+(SRSZ 400.100) in der bis 1.April 2010 geltenden Fassung differen
+ziert §8 Abs.2 lit.a BauV nicht zwischen "internen" und "externen"
+Grenzabständen und lässt insofern auch nicht nur für die ersteren
+eine Abweichung vom allgemeinen Nutzungsplan zu. Für den Ge
+staltungsplan im Kanton Solothurn hält die Richtlinie 6/2004 "Der
+Gestaltungsplan" des Amts für Raumplanung auf S.14 fest:
+"Unterschreitungen von Grenz und Gebäudeabstand gegenüber
+nicht einbezogenen Nachbargrundstücken sind ausserhalb des
+Gestaltungsplanverfahrens und nach §27 und §29 der Kantonalen
+Bauverordnung (KBV) nur zulässig, wenn keine erheblichen
+öffentlichen oder nachbarlichen Interessen beeinträchtigt werden und
+das Grundstück ohne Unterschreitung nicht zweckmässig überbaut
+werden kann." Daraus ist der Umkehrschluss zu ziehen, dass mit
+dem Gestaltungsplan bzw. im Rahmen des Gestal
+tungsplanverfahrens auch von "externen" Grenzabständen
+abgewichen werden darf, ohne dass dafür die allgemeinen
+Voraussetzungen gemäss den §§27 und 29 KBV erfüllt sein müssten.
+Immerhin dürfte im konkreten Anwendungsfall zu prüfen sein, ob ein
+Überbauungsprojekt vorliegt, das alle Auswirkungen hinsichtlich
+Belichtung, Beschattung, Ein und Aussicht, Feuerpolizei, Ästhetik,
+Immissionen auf die Nachbarschaft etc. genau ausweist.
+In den Sondernutzungsvorschriften zu Gestaltungsplänen trifft
+man ab und zu auf Bestimmungen, in denen zwischen "internen" und
+"externen" Grenzabständen unterschieden wird. Oftmals wird darin
+geregelt, dass zu Grundstücken ausserhalb des Gestaltungsplanperi
+meters die ordentlichen Grenzabstände einzuhalten sind. Daraus lässt
+sich nun aber nicht ableiten, dass eine entsprechende Rechtslage
+schon kraft der Baugesetzgebung gelten würde. Dagegen spricht,
+dass §8 Abs.2 lit.a BauV ganz allgemein von "Abständen" handelt,
+von denen der Gestaltungsplan (unter bestimmten Voraussetzungen)
+abweichen darf. Der Wortlaut dieser Bestimmung umfasst unter
+schiedslos alle im Planungsperimeter geltenden Grenz und Gebäu
+deabstände, ungeachtet dessen, ob sich diese nur innerhalb oder auch
+ausserhalb des Planungsperimeters (gegenüber benachbarten Parzel
+
+len) auswirken. Im Gegensatz dazu sieht §39 Abs.4 lit.b BauV für
+Arealüberbauungen explizit vor, dass gegenüber Nachbarparzellen
+der zonengemässe Grenzabstand einzuhalten ist. Dass der Verord
+nungsgeber hier eine solche Festlegung getroffen hat, berechtigt zur
+Annahme, dass im Anwendungsbereich von §8 Abs.2 lit.a BauV
+bewusst auf eine entsprechende Regelung verzichtet wurde. Ein re
+daktionelles Versehen erscheint dagegen eher unwahrscheinlich. Mit
+der Beigeladenen ist davon auszugehen, dass im Sondernutzungs
+planverfahren schon aus demokratiepolitischen Gründen weiter
+gehende Abweichungen vom allgemeinen Nutzungsplan zugestanden
+werden dürfen als im Rahmen von Arealüberbauungen, die nur im
+Baubewilligungsverfahren (ohne Mitwirkungsmöglichkeit einer brei
+teren Bevölkerung) überprüft werden. §21 Abs.2 BauG schliesst
+Abweichungen von "externen" Grenzabständen nicht in allgemeiner
+Weise aus. Der Vorinstanz ist zudem darin beizupflichten, dass die
+übrigen möglichen Abweichungen vom allgemeinen Nutzungsplan,
+insbesondere hinsichtlich der Baumasse, für die an den Planungs
+perimeter angrenzenden Parzellen respektive die Bewohner von sich
+darauf befindlichen Bauten ähnlich nachteilige oder einschränkende
+Auswirkungen haben können wie ein verkürzter Grenzabstand. Sol
+che (faktischen) Auswirkungen (z.B. auf die Wohnhygiene) dürfen
+nicht mit den Rechtswirkungen eines Gestaltungsplans verwechselt
+werden, welche auf das Planungsgebiet begrenzt sein müssen. Die
+Zulässigkeit eines verkürzten "externen" Grenzabstandes muss nach
+zutreffender Gesetzesauslegung der Vorinstanz im Lichte der konkre
+ten Auswirkungen auf die benachbarten Parzellen beurteilt werden.
+Es gilt eine Interessenabwägung vorzunehmen. Für einen generellen
+Ausschluss privilegierter Grenzabstände gegenüber Parzellen
+ausserhalb des Planungsperimeters besteht hingegen keine gesetz
+liche Grundlage. Ebenso wenig verlangt das Gesetz den Nachweis,
+dass eine Parzelle unter Wahrung des ordentlichen Grenzabstandes
+zu Parzellen ausserhalb des Perimeters nicht überbaubar ist. Es ge
+nügt, dass der verkürzte Grenzabstand zu einem siedlungs und land
+schaftsgestalterisch besseren Gesamtergebnis beiträgt, die zonen
+gemässe Nutzung nicht übermässig beeinträchtigt wird und keine
+überwiegenden Interessen entgegenstehen (§21 Abs.2 BauG).
+
+An dieser Beurteilung ändert auch die Empfehlung
+"Gestaltungsplan nach §21 BauG" des BVU, Abteilung Raument
+wicklung, vom Januar 2009 (Stand September 2011), nichts. Zwar
+lassen sich die Liste mit Minimalinhalten von Gestaltungsplänen in
+Ziff.3.1, S.7, besagter Empfehlung und die dortigen Ausführungen
+zu den "internen" Grenz und Gebäudeabständen durchaus dahin
+gehend interpretieren, dass im Aussenverhältnis (zu Parzellen
+ausserhalb des Perimeters) keine speziellen, mithin vom allgemeinen
+Nutzungsplan abweichende Regelungen möglich sind. Doch kommt
+der erwähnten Empfehlung lediglich der Charakter einer generellen
+Dienstanweisung und damit einer Verwaltungsverordnung zu. Als
+solche ist sie für das Verwaltungsgericht nicht bindend und wird nur
+insoweit berücksichtigt, als sie eine dem Einzelfall gerecht werdende
+Auslegung der einschlägigen Rechtssätze zulässt, welche diese über
+zeugend konkretisiert (vgl. BGE144III353, Erw.2.2; Urteil des
+Bundesgerichts vom 23.Juli 2019 [1C_121/2019], Erw.3.2; ULRICH
+HÄFELIN/GEORG MÜLLER/FELIX UHLMANN, Allgemeines Verwal
+tungsrecht, 7.Auflage, Zürich/St.Gallen 2016, Rz.81ff.). Wie ge
+sehen, liefern §21 Abs.2 BauG und §8 Abs.2 lit.a BauV keinerlei
+Anhaltspunkte dafür, dass eine Überbauung nach Gestaltungsplan
+den ordentlichen Grenzabstand gegenüber einer Parzelle ausserhalb
+des Planungsperimeters nicht unterschreiten darf. Weder der Wortlaut
+dieser Bestimmungen (für sich allein und im systematischen Gefüge
+betrachtet) noch die ratio legis gebieten ein solches Auslegungs
+ergebnis. Hinzu kommt, dass die Vorinstanz als Herausgeberin der
+Empfehlung dem in Frage stehenden Inhalt offenbar selbst zumindest
+nicht jene Bedeutung zumisst, welche die Beschwerdeführer ihr ge
+ben wollen.
+(…)
+19 Erschliessungsplanung
+Die Koordinationsvorschriften sind auf die Erschliessungsplanung sinn
+gemäss anwendbar, sofern damit Lage und Ausdehnung öffentlicher
