@@ -1,0 +1,454 @@
+---
+decision_id: "ag_versicherungsgericht_VBE.2022.462"
+court: "AG Versicherungsgericht"
+court_id: "ag_versicherungsgericht"
+chamber: "4. Kammer"
+docket: "VBE.2022.462"
+decided: "2023-08-08"
+language: "de"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/7738"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/7738"
+cites_decisions: ["2C_443/2012", "5A_623/2016", "8C_353/2019", "8C_370/2010", "8C_468/2016", "8C_51/2017", "8C_669/2016", "8C_760/2016", "8C_835/2016", "8C_931/2015", "8C_996/2012", "9C_307/2018", "9C_436/2017", "9C_639/2012", "9C_682/2018", "9C_692/2013", "9C_757/2017", "9C_795/2007", "9C_908/2012", "BGE 125 V 32", "BGE 126 V 143", "BGE 132 V 200", "BGE 142 III 138", "BGE 142 V 342"]
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/172.021/art-005.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-046.md", "switzerland/bund/acts/173.110/art-090.md", "switzerland/bund/acts/830.1/art-037.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-055.md", "switzerland/bund/acts/830.1/art-059.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# Obergericht / Versicherungsgericht / 4. Kammer — VBE.2022.462
+
+## Text
+
+Versicherungsgericht
+4. Kammer
+VBE.2022.462 / lf / nl
+Art. 91
+Urteil vom 8. August 2023
+Besetzung Oberrichter Roth, Oberrichter
+Oberrichterin Fischer
+Oberrichterin Merkofer
+Gerichtsschreiberin Fricker
+Beschwerde A._____
+führer vertreten durch lic. iur. Patrick Stutz, Rechtsanwalt,
+Mellingerstrasse 6, 5401 Baden
+Beschwerde SVA Aargau, IV-Stelle, Bahnhofplatz 3C, Postfach, 5001 Aarau
+gegnerin
+Gegenstand Beschwerdeverfahren betreffend unentgeltliche Verbeiständung im
+Verwaltungsverfahren / IVG allgemein
+(Verfügung vom 22. November 2022)
+
+- 2 -
+Das Versicherungsgericht entnimmt den Akten:
+1.
+1.1.
+Der 1972 geborene Beschwerdeführer bezog von der Eidgenössischen In-
+validenversicherung (IV) seit August 1996 eine Hilflosenentschädigung
+leichten Grades aufgrund hochgradiger Sehschwäche sowie eine halbe In-
+validenrente. Im März 2014 machte der Beschwerdeführer eine Ver-
+schlechterung seines Gesundheitszustandes geltend und beantragte eine
+Rentenerhöhung. Die Beschwerdegegnerin holte Arztberichte ein, nahm
+Rücksprache mit dem Regionalen Ärztlichen Dienst (RAD) und wies das
+Erhöhungsgesuch mit Verfügung vom 5. Juni 2015 ab. In teilweiser Gut-
+heissung der dagegen erhobenen Beschwerde hob das hiesige Versiche-
+rungsgericht mit Urteil VBE.2015.378 vom 21. Januar 2016 die Verfügung
+vom 5. Juni 2015 auf und wies die Sache zur weiteren Abklärung und an-
+schliessenden Neuverfügung an die Beschwerdegegnerin zurück.
+1.2.
+Zwischenzeitlich hatte der Beschwerdeführer im August 2015 um Erhöhung
+der Hilflosenentschädigung ersucht. Die Beschwerdegegnerin tätigte me-
+dizinische Abklärungen und führte eine Abklärung an Ort und Stelle durch.
+Im Nachgang zum Rückweisungsurteil und auf Empfehlung des RAD
+wurde ein polydisziplinäres Gutachten erstellt (Gutachten der Aerztliches
+Begutachtungsinstitut GmbH, Basel [ABI], vom 4. April 2017). Nach Rück-
+sprachen mit dem RAD hob die Beschwerdegegnerin die Hilflosenentschä-
+digung mit Verfügung vom 12. Juli 2017 auf. Diese Verfügung erwuchs un-
+angefochten in Rechtskraft. Mit Verfügung vom 13. Dezember 2017 zog die
+Beschwerdegegnerin die Mitteilung vom 26. September 2012, mit der sie
+den unveränderten Anspruch auf eine Rente letztmals bestätigt hatte, in
+Wiedererwägung und hob die halbe Invalidenrente des Beschwerdeführers
+auf. Dies wurde vom hiesigen Versicherungsgericht mit Urteil VBE.2018.1
+vom 14. August 2018 bestätigt. Auf die dagegen erhobene Beschwerde trat
+das Bundesgericht mit Urteil 9C_682/2018 vom 11. Oktober 2018 nicht ein.
+1.3.
+In der Zwischenzeit hatte sich der Beschwerdeführer am 29. Mai 2018 er-
+neut bei der Beschwerdegegnerin zum Bezug einer Hilflosenentschädi-
+gung und am 24. Januar 2019 zum Bezug einer Invalidenrente angemeldet.
+Die Beschwerdegegnerin nahm Rücksprache mit dem RAD und trat mit
+Verfügung vom 17. März 2020 mangels Glaubhaftmachung einer an-
+spruchserheblichen Tatsachenänderung nicht auf das Rentenbegehren
+des Beschwerdeführers ein. Diese Verfügung erwuchs unangefochten in
+Rechtskraft. Am 24. März 2020 ging ein Antrag um Kostengutsprache für
+einen Handrollstuhl bei der Beschwerdegegnerin ein. Nach Rücksprachen
+mit dem RAD und durchgeführtem Vorbescheidverfahren wies die Be-
+
+- 3 -
+schwerdegegnerin das Gesuch um Kostengutsprache für einen Handroll-
+stuhl mit Verfügung vom 14. April 2021 ab. Mit Verfügung vom 30. April
+2021 verneinte die Beschwerdegegnerin den Anspruch des Beschwerde-
+führers auf eine Hilflosenentschädigung.
+Das Versicherungsgericht führt das Verfahren gegen die Verfügung vom
+14. April 2021 unter der Verfahrensnummer VBE.2021.254 und das Ver-
+fahren gegen die Verfügung vom 30. April 2021 unter der Verfahrensnum-
+mer VBE.2021.282.
+1.4.
+Am 5. Oktober 2021 meldete sich der Beschwerdeführer erneut bei der Be-
+schwerdegegnerin zum Leistungsbezug der IV an. Nach Rücksprache mit
+dem RAD teilte die Beschwerdegegnerin dem Beschwerdeführer mit Mit-
+teilung vom 25. Oktober 2021 mit, dass eine polydisziplinäre Begutachtung
+angezeigt sei. Gestützt auf die Eingabe des Beschwerdeführers vom
+27. Oktober 2021 sistierte das Versicherungsgericht die beiden Verfahren
+VBE.2021.254 und VBE.2021.282 bis zum Vorliegen des in Aussicht ge-
+stellten polydisziplinären Gutachtens.
+1.5.
+Am 21. März 2022 stellte der Beschwerdeführer ein Gesuch um unentgelt-
+liche Rechtsverbeiständung. Dieses wies die Beschwerdegegnerin mit Ver-
+fügung vom 22. November 2022 mangels Notwendigkeit ab.
+2.
+2.1.
+Gegen die Verfügung vom 22. November 2022 erhob der Beschwerdefüh-
+rer mit Eingabe vom 20. Dezember 2022 fristgerecht Beschwerde und
+stellte folgende Rechtsbegehren:
+"1. Die angefochtene Verfügung der Beschwerdegegnerin vom
+22.11.2022 sei aufzuheben und es sei dem Beschwerdeführer die
+notwendige, unentgeltliche Rechtsverbeiständung in der Person des
+Unterzeichnenden zu bewilligen.
+2.
+2.1. Es sei zu einer Gerichtsverhandlung vorzuladen und der Beschwer-
+deführer anlässlich einer Parteibefragung zu befragen (Art. 61 lit. e
+ATSG).
+2.2. Es sei eventualiter in Anwendung von Art. 6 Ziff. 1 EMRK eine Partei-
+anhörung in öffentlicher Verhandlung durchzuführen.
+3. Dem Beschwerdeführer seien auch im vorliegenden Beschwerdever-
+fahren die unentgeltliche Rechtspflege zu bewilligen und der Unter-
+zeichnende als sein unentgeltlicher Rechtsvertreter richterlich einzu-
+setzen.
+Unter Kosten- und Entschädigungsfolgen zzgl. 7.7 % MWST."
+
+- 4 -
+2.2.
+Mit Vernehmlassung vom 20. Januar 2023 beantragte die Beschwerdegeg-
+nerin die Abweisung der Beschwerde.
+2.3.
+Mit Eingabe vom 20. Februar 2023 reichte der Beschwerdeführer weitere
+Arztberichte zu den Akten.
+Das Versicherungsgericht zieht in Erwägung:
+1.
+1.1.
+Streitig und zu prüfen ist, ob die Beschwerdegegnerin den Anspruch des
+Beschwerdeführers auf unentgeltliche Rechtsverbeiständung im Verwal-
+tungsverfahren mit Verfügung vom 22. November 2022 (Vernehmlas-
+sungsbeilage [VB] 437) zu Recht verneint hat.
+1.2.
+Hinsichtlich der vom Beschwerdeführer geltend gemachten widerrechtli-
+chen Rechtsverzögerung durch die Beschwerdegegnerin (vgl. Beschwerde
+S. 4 f.) ist festzuhalten, dass die Beschwerdegegnerin mit Eröffnung der
+vorliegend angefochtenen Verfügung vom 22. November 2022 (VB 437)
+der Forderung nach Erlass einer entsprechenden Verfügung nachgekom-
+men ist. Es fehlt damit in Bezug auf den Vorwurf der Rechtsverzögerung
+bereits bei der Anhebung der Beschwerde an einem aktuellen Rechts-
+schutzinteresse i.S.v. Art. 59 ATSG, weshalb darauf nicht weiter einzuge-
+hen ist.
+2.
+2.1.
+Der Anspruch auf unentgeltliche Rechtspflege, einschliesslich unentgeltli-
+che Rechtsverbeiständung, besteht nach ständiger Rechtsprechung des
+Bundesgerichts gestützt auf Art. 29 Abs. 3 BV in jedem staatlichen Verfah-
+ren, in welches die gesuchstellende Person einbezogen wird oder dessen
+sie zur Wahrung ihrer Rechte bedarf. Der verfassungsmässige Anspruch
+auf unentgeltliche anwaltliche Verbeiständung besteht indessen nicht vo-
+raussetzungslos. Verlangt sind die Bedürftigkeit des Rechtsuchenden und
+die Nichtaussichtslosigkeit des verfolgten Verfahrensziels. Erforderlich ist
+überdies die sachliche Gebotenheit der unentgeltlichen Rechtsverbeistän-
+dung im konkreten Fall (BGE 132 V 200 E. 4.1 S. 200 f.; 127 I 202 E. 3b
+S. 205; 125 V 32 E. 4b S. 35 f.; SVR 2009 IV Nr. 3 S. 4, I 415/06 E. 4.2).
+
+- 5 -
+2.2.
+Gemäss Art. 37 Abs. 4 ATSG wird im Sozialversicherungsverfahren der ge-
+suchstellenden Person, wo die Verhältnisse es erfordern, ein unentgeltli-
+cher Rechtsbeistand bewilligt. Damit besteht eine bundesrechtliche Rege-
+lung der unentgeltlichen Verbeiständung im Verwaltungsverfahren
+(BGE 132 V 200 E. 4.1 S. 200 f., 131 V 153 E. 3.1 S. 155 f.). Die sachliche
+Gebotenheit einer anwaltlichen Verbeiständung im Verwaltungsverfahren
+ist nur in Ausnahmefällen zu bejahen. Es müssen sich schwierige Fragen
+rechtlicher oder tatsächlicher Natur stellen und eine Interessenwahrung
+durch Verbandsvertreter, Fürsorgestellen oder andere Fach- und Vertrau-
+ensleute sozialer Institutionen muss ausser Betracht fallen (BGE 132 V 200
+E. 4.1 in fine S. 201; Urteil des Bundesgerichts 9C_307/2018 vom 21. De-
+zember 2018 E. 4.2). Zu berücksichtigen ist auch die Fähigkeit der versi-
+cherten Person, sich im Verfahren zurechtzufinden (BGE 125 V 32 E. 4b
+S. 35). Mit Blick darauf, dass das Verfahren vom Untersuchungsgrundsatz
+beherrscht wird, die IV-Stelle also den rechtserheblichen Sachverhalt unter
+Mitwirkung der Parteien zu ermitteln hat (Art. 43 ATSG), drängt sich eine
+Verbeiständung nur in Ausnahmefällen auf (Urteile des Bundesgerichts
+8C_835/2016 vom 3. Februar 2017 E. 3; 8C_468/2016 vom 13. September
+2016 E. 3.1; 9C_639/2012 vom 20. November 2012 E. 3.1 mit Hinweisen).
+Die Voraussetzungen für die Bejahung der sachlichen Gebotenheit einer
+Rechtsverbeiständung im Verwaltungsverfahren sind demnach gemäss
+ständiger Rechtsprechung sehr streng (Urteil des Bundesgerichts
+8C_835/2016 vom 3. Februar 2017 E. 6.4.2 mit Hinweis auf nicht publ.
+E. 7.2 des Urteils BGE 142 V 342; BGE 132 V 200 E. 5.1.3 S. 204 f.;
+SVR 2016 IV Nr. 17 S. 50 E. 5.2), ansonsten die unentgeltliche Rechts-
+pflege praktisch in allen Fällen gewährt werden müsste, was jedoch der
+Konzeption von Art. 37 Abs. 4 ATSG widerspräche. Dabei ist zu bedenken,
+dass das Sozialversicherungsrecht stets von einer gewissen Komplexität
+geprägt ist, es somit für die Gewährung der unentgeltlichen Rechtspflege
+im Verwaltungsverfahren einer überdurchschnittlichen Komplexität bedarf
+(vgl. Urteile des Bundesgerichts 8C_353/2019 vom 2. September 2019
+E. 5; 9C_757/2017 vom 5. Oktober 2018 E. 5.2.1; 9C_908/2012 vom
+22. Februar 2013 E. 5.2).
+3.
+3.1.
+Der Beschwerdeführer macht insbesondere geltend, er habe schwerwie-
+gende gesundheitliche Defizite. Er sei aufgrund der diagnostizierten ge-
+sundheitlichen Einschränkungen nicht mehr in der Lage, zu lesen und zu
+schreiben. Er sei nicht mehr fähig, für seine eigenen Belange, sei es admi-
+nistrativ, rechtlich oder organisationstechnisch, in seinem Leben und im All-
+tag für sich selber zu schauen, und sei komplett auf fremde Hilfe und damit
+zwingend auf eine Rechtsverbeiständung angewiesen (vgl. Beschwerde
+S. 6 f., 10 f.). Bereits im Hinblick auf die Auswahl der Gutachter hätten sich
+
+- 6 -
+erste rechts-formalistische Hürden gestellt, indem ein Ausstandsbegehren
+gestellt, Zusatzfragen eingereicht und die Erweiterung der zu beurteilenden
+Fachrichtungen erwirkt hätten werden müssen (vgl. Beschwerde S. 9). Er
+sei zudem aufgrund der Komplexität des Krankheitsbildes zu einer fachli-
+chen Begutachtung in sechs Fachdisziplinen aufgeboten worden. Schon
+allein diese Ausgangslage zeige, dass ein äusserst komplexes Abklärungs-
+verfahren bevorstehe, welches nach Vorliegen des Gutachtens entspre-
+chend ausgewertet, eingeordnet und die notwendigen sachlichen, aber
+auch rechtlichen Schlüssen daraus gezogen werden müssten, zumal dem
+Gutachten praxisgemäss ein hoher Grad an Präjudizierung im Hinblick auf
+die Beurteilung der beantragten IV-Rente zukomme (vgl. Beschwerde S. 7,
+10). Der Sozialhilfedienst könne ihm nicht helfen, gehöre es bekanntlich
+nicht zu dessen Anforderungsprofil, sich für seine Klienten bei externen Be-
+hörden einzusetzen und die persönliche Betreuung mit Informationsfluss
+sicherzustellen. Im Übrigen würden einem Sozialdienst in komplexen me-
+dizinischen und rechtlichen Fällen, wie dem vorliegenden, die entsprechen-
+den fachkundigen Kenntnisse fehlen (vgl. Beschwerde S. 7). Völlig reali-
+tätsfremd und abwegig sei in diesem Zusammenhang auch der Hinweis der
+Beschwerdegegnerin, wonach noch anderweitige geeignete, fachkundige
+Unterstützungsmöglichkeiten bestehen würden. Der vorliegende Fall habe
+längstens jegliche Dimension gesprengt, welche durch irgendwelche,
+rechtlich und fachlich nicht kundigen und nicht ausgebildete Personen be-
+treut werden könnte (vgl. Beschwerde S. 8 ff.). Insgesamt seien damit die
+strengen Anforderungen für die Notwendigkeit der unentgeltlichen Rechts-
+verbeiständung im vorliegenden Fall erfüllt (vgl. Beschwerde S. 10 ff.).
+3.2.
+3.2.1.
+Die vorgebrachten verminderten persönlichen Fähigkeiten und erschwe-
+renden Lebensumstände, die fehlenden Fähigkeiten in administrativen,
+rechtlichen und organisatorischen Belangen sowie die gesundheitlichen
+Probleme des Beschwerdeführers (vgl. Beschwerde S. 6 f., 10 f.) vermö-
+gen keine Notwendigkeit einer anwaltlichen Vertretung im Verwaltungsver-
+fahren respektive keinen "Ausnahmefall" im Sinne der Rechtsprechung zu
+begründen. Bei der Frage der Notwendigkeit der Rechtsvertretung im Ver-
+waltungsverfahren geht es nämlich nicht darum, ob sich der Beschwerde-
+führer selbst hätte vertreten können. Zu beantworten ist die Frage, ob eine
+Verbeiständung durch Verbandsvertreter, Fürsorger oder andere Fach-
+und Vertrauensleute sozialer Institutionen ausser Betracht gefallen wäre
+(vgl. E. 2.2. hiervor).
+Es ist davon auszugehen, dass eine derartige Unterstützung im vorliegen-
+den Fall – entgegen der Ansicht des Beschwerdeführers – genügt hätte. So
+steht in rechtlicher Hinsicht eine Neuanmeldung vom 5. Oktober 2021
+(VB 370) und damit die Prüfung einer Veränderung des Gesundheitszu-
+
+- 7 -
+standes seit Erlass der letzten Verfügung in Frage. Vom Zeitpunkt des Ge-
+suchs vom 21. März 2022 um Gewährung der unentgeltlichen Rechtsver-
+beiständung (VB 402) bis zum Erlass der vorliegend strittigen Verfügung
+vom 22. November 2022 (VB 437) ging es ausweislich der Akten insbeson-
+dere um eine Aktualisierung des Dossiers durch Einholung von Verlaufs-
+berichten und um die Klärung der Rahmenbedingungen der durch die Be-
+schwerdegegnerin als angezeigt erachteten polydisziplinären Begutach-
+tung (Fachdisziplinen, Zusatzfragen zur Ergänzung des Fragenkatalogs an
+die Gutachterstelle und allfällige Ausstandsgründe). Auch wenn es sich vor-
+liegend um ein eher umfangreiches Dossier handelt, ist ein solches weder
+aussergewöhnlich, noch waren im vorliegend massgebenden Verfahrens-
+stadium besondere juristische Kenntnisse erforderlich. Ausführungen zu
+den erforderlichen Fachrichtungen und dem Fragenkatalog hätten durch
+eine Fach- und Vertrauensperson einer sozialen Institution vorgenommen
+werden können. Soweit der Beschwerdeführer hiergegen einwendet, dass
+die Sozialämter nicht über die Ressourcen verfügen würden, um sich um
+jedes sozialversicherungsrechtliche Verfahren eines jeden Klienten zu
+kümmern (vgl. Beschwerde S. 7), ist ihm entgegenzuhalten, dass er weder
+vorbrachte noch belegte, eine entsprechende Anfrage an die sozialen
+Dienste oder eine andere Anlaufstelle gerichtet zu haben (vgl. Urteil des
+Bundesgerichts 8C_835/2016 vom 3. Februar 2017 E. 6.5). Vielmehr be-
+schränkte sich der Beschwerdeführer darauf, Angebote aufzulisten, welche
+für ihn nicht in Frage kommen würden.
+3.2.2.
+Die Notwendigkeit der anwaltlichen Verbeiständung im Verwaltungsverfah-
+ren ist, wie der Beschwerdeführer zu Recht vorbringt (vgl. Beschwerde
+S. 7, 10), prospektiv zu beurteilen. Dies heisst aber nicht, dass alle erdenk-
+lichen Entwicklungen, die künftig allenfalls eine Verbeiständung begründen
+könnten, zu berücksichtigen wären, solange es an konkreten Anzeichen für
+deren Verwirklichung fehlt (vgl. Urteil des Bundesgerichts 8C_931/2015
+vom 23. Februar 2016 E. 5.2). Solche konkreten Anzeichen waren vorlie-
+gend zum Verfügungszeitpunkt nicht gegeben und es stellten sich keine
+rechtlich besonders schwierigen Fragen, selbst wenn der Beurteilungszeit-
+raum auf die Verfahrensphase der anschliessenden Gutachtenserstellung
+und der Prüfung des Beweiswertes des Gutachtens ausgedehnt würde.
+Denn es geht in einer Mehrheit der IV-Fälle darum, den Beweiswert einer
+medizinischen Grundlage, insbesondere eines Gutachtens, zu beurteilen.
+Die hohe Bedeutung medizinischer Gutachten (vgl. Beschwerde S. 7) ver-
+mag dabei für sich allein genommen die Notwendigkeit einer anwaltlichen
+Vertretung nicht zu begründen (Urteile des Bundesgerichts 9C_436/2017
+vom 14. Dezember 2017 E. 3.5, 8C_669/2016 vom 7. April 2017 E. 3.2 und
+9C_692/2013 vom 16. Dezember 2013 E. 4.2). Zwar erfordert das Erken-
+nen von Schwachstellen einer fachärztlichen Expertise aufgrund der dies-
+bezüglich massgebenden Rechtsprechung und deren rechtlicher Relevanz
+
+- 8 -
+in der Regel gewisse medizinische Kenntnisse und juristischen Sachver-
+stand (Urteil des Bundesgerichts 8C_835/2016 vom 3. Februar 2017
+E. 6.3). Trotzdem kann allein deswegen nicht von einer komplexen Frage-
+stellung gesprochen werden, die eine anwaltliche Vertretung rechtfertigen
+würde (vgl. Urteil des Bundesgerichts 8C_353/2019 vom 2. September
+2019 E. 5). Zudem kommt die Aufgabe der Beurteilung der medizinischen
+Situation gemäss bundesgerichtlicher Rechtsprechung allein den Medizi-
+nern zu. Ist im Verwaltungsverfahren einzig die Beurteilung des Gesund-
+heitszustandes der versicherten Person strittig, stellt dies per se keinen
+Ausnahmefall mit schwierigen rechtlichen oder tatsächlichen Fragen, son-
+dern grundsätzlich einen Fall von durchschnittlicher Komplexität dar (vgl.
+Urteile des Bundesgerichts 8C_760/2016 vom 3. März 2017 E. 4.2.1;
+8C_370/2010 vom 7. Februar 2011 E. 7.1). Die Anforderung an die Schwie-
+rigkeit der rechtlichen oder tatsächlichen Fragen misst sich nämlich, wie
+bereits vorangehend ausgeführt, nicht am Wissen eines Laien, sondern an
+den zu erwartenden Fachkenntnissen der möglichen Anlaufstellen (Ver-
+bandsvertreter, Fürsorgestellen oder andere Fach- und Vertrauensleute
+sozialer Institutionen). So liegt vorliegend, auch prospektiv betrachtet, ein
+Sachverhalt vor, wie er sich in unzähligen invalidenversicherungsrechtli-
+chen Fällen präsentiert, stellt sich doch in den meisten IV-Renten-Fällen
+die Frage nach dem Beweiswert von Gutachten. Die gegenteilige Auffas-
+sung liefe darauf hinaus, dass in praktisch allen Verwaltungsverfahren von
+– wie hier – keineswegs überdurchschnittlicher Komplexität der Anspruch
+auf unentgeltliche Rechtsverbeiständung bejaht werden müsste, was der
+Konzeption von Art. 37 Abs. 4 ATSG als Ausnahmeregelung widerspräche
+(vgl. E. 2.2. hiervor).
+3.2.3.
+Soweit der Beschwerdeführer sodann auf das Urteil des Versicherungsge-
+richts VBE.2017.823 verweist (vgl. Beschwerde S. 10), ist darauf hinzuwei-
+sen, dass in diesem Urteil die Notwendigkeit einer anwaltlichen Vertretung
+im Verwaltungsverfahren insbesondere aufgrund der zuvor erfolgten ge-
+richtlichen Rückweisung an die Verwaltung zur weiteren Abklärung (wobei
+der Versicherte bereits im gerichtlichen Verfahren anwaltlich vertreten ge-
+wesen war), der siebenjährigen Verfahrensdauer sowie einer Änderung der
+Rechtsprechung bejaht wurde (vgl. E. 3.1.2. f. des besagten Entscheids).
+Vorliegend sind alle diese Faktoren nicht erfüllt, womit der Beschwerdefüh-
+rer mit dem Verweis auf das vorgenannte Urteil nichts zu seinen Gunsten
+abzuleiten vermag.
+3.2.4.
+Da folglich insgesamt keine besonderen Umstände gegeben sind, welche
+die Sache als nicht (mehr) einfach erscheinen lassen würden, vermag auch
+die Tatsache, dass der Beschwerdeführer bereits zuvor durch denselben
+Rechtanwalt vertreten war (vgl. Beschwerde S. 11), nichts zu ändern (vgl.
+Urteil des Bundesgerichts 8C_669/2016 vom 7. April 2017 E. 3.3.3).
+
+- 9 -
+3.3.
+In Würdigung aller Umstände lagen damit – auch prospektiv betrachtet –
+weder in rechtlicher noch in tatsächlicher Hinsicht über einen durchschnitt-
+lichen Fall hinausreichende Fragestellungen vor und der Beschwerdeführer
+hätte sich mit dem Beizug von Fachkräften einer sozialen Institution oder
+der unentgeltlichen Rechtsberatung behelfen können, womit keine Notwen-
+digkeit einer unentgeltlichen Rechtsverbeiständung bestand (vgl. E. 2.2.
+hiervor). Auf die Prüfung der weiteren Voraussetzungen wird verzichtet,
+nachdem diese kumulativ erfüllt sein müssen (vgl. E. 2.1. hiervor). Die Ab-
+weisung des Gesuchs um unentgeltliche Rechtsverbeiständung mit Verfü-
+gung vom 22. November 2022 (VB 437) erfolgte daher zu Recht.
+4.
+4.1.
+Des Weiteren beantragt der Beschwerdeführer, es sei ihm auch für das
+vorliegende Beschwerdeverfahren die unentgeltliche Rechtsverbeistän-
+dung zu gewähren (vgl. Rechtsbegehren Ziff. 3; Beschwerde S. 13 f.).
+4.2.
+4.2.1.
+Der Anspruch auf unentgeltliche Rechtspflege, einschliesslich unentgeltli-
+che Rechtsverbeiständung, besteht nach ständiger Rechtsprechung des
+Bundesgerichts aufgrund von Art. 29 Abs. 3 BV in jedem staatlichen Ver-
+fahren, in welches die gesuchstellende Person einbezogen wird oder des-
+sen sie zur Wahrung ihrer Rechte bedarf (vgl. E. 2.1. hiervor).
+4.2.2.
+Nach konstanter Rechtsprechung des Bundesgerichts gelten Prozessbe-
+gehren als aussichtslos, wenn die Gewinnaussichten beträchtlich geringer
+sind als die Verlustgefahren und deshalb kaum als ernsthaft bezeichnet
+werden können. Dagegen gilt ein Begehren nicht als aussichtslos, wenn
+sich Gewinnaussichten und Verlustgefahren ungefähr die Waage halten
+oder jene nur wenig geringer sind als diese. Massgebend ist, ob eine Partei,
+die über die nötigen finanziellen Mittel verfügt, sich bei vernünftiger Über-
+legung zu einem Prozess entschliessen würde. Eine Partei soll einen Pro-
+zess, den sie auf eigene Rechnung und Gefahr nicht führen würde, nicht
+deshalb anstrengen können, weil er sie nichts kostet (BGE 142 III 138
+E. 5.1; Urteile des Bundesgerichts 8C_51/2017 vom 9. März 2017 E. 5 und
+5A_623/2016 vom 24. Mai 2017 E. 2.2).
+4.3.
+Angesichts der klaren, konsequenten und strengen Rechtsprechung des
+Bundesgerichts zur Frage der sachlichen Gebotenheit einer anwaltlichen
+Verbeiständung im Verwaltungsverfahren (vgl. E. 2.2. hiervor) muss die
+vorliegende Beschwerde als aussichtslos bezeichnet werden, da, wie dar-
+
+- 10 -
+gelegt, in der vorliegend zu beurteilenden Verfahrensphase und auch pros-
+pektiv betrachtet nicht eine die üblichen rechtlichen und tatsächlichen Fra-
+gen übersteigende Sache im Streit lag und auch eine gehörige Interessen-
+wahrung durch Dritte (Verbandsvertreter, Fürsorgestellen oder andere
+Fach- und Vertrauensleute) nicht ausser Betracht fiel (vgl. E. 3.2. f. hier-
+vor). Das Gesuch um unentgeltliche Rechtsverbeiständung im Beschwer-
+deverfahren ist daher wegen Aussichtslosigkeit abzuweisen. Damit kann
+das Vorliegen der weiteren, kumulativ zu erfüllenden Voraussetzungen of-
+fengelassen werden.
+5.
+Soweit der Beschwerdeführer zudem eine öffentliche Verhandlung bean-
+tragt (vgl. Rechtsbegehren Ziff. 2), ist darauf hinzuweisen, dass es sich bei
+der angefochtenen Verfügung um einen prozessleitenden Zwischenent-
+scheid im Sinne von Art. 55 Abs. 1 ATSG i.V.m. Art. 5 Abs. 2 VwVG handelt,
+welcher das IV-Verfahren nicht abschliesst. Prozessleitende Zwischenver-
+fügungen betreffen keine zivil- oder strafrechtlichen Verhältnisse im Sinne
+von Art. 6 Ziff. 1 EMRK. Es handelt sich hierbei nicht um die Zusprache
+bzw. Verweigerung von allfälligen Leistungsansprüchen des Beschwerde-
+führers gemäss IVG, sondern um verfahrensrechtliche Fragen im Zusam-
+menhang mit der Gewährung der unentgeltlichen Rechtspflege. Demge-
+mäss besteht kein Anspruch auf Durchführung einer öffentlichen Verhand-
+lung nach Art. 6 Ziff. 1 EMRK (vgl. Urteile des Bundesgerichts
+8C_996/2012 vom 28. März 2013 E. 2; 2C_443/2012 vom 27. November
+2012 E. 4.4; 9C_795/2007 vom 21. Dezember 2007).
+6.
+6.1.
+Nach dem Dargelegten ist die Beschwerde abzuweisen.
+6.2.
+Da es vorliegend nicht um eine Streitigkeit über IV-Leistungen geht, ist das
+Verfahren nicht kostenpflichtig (Art. 69 Abs. 1bis IVG).
+6.3.
+Dem Beschwerdeführer steht nach dem Ausgang des Verfahrens
+(Art. 61 lit. g ATSG) und der Beschwerdegegnerin aufgrund ihrer Stellung
+als Sozialversicherungsträgerin (BGE 126 V 143 E. 4 S. 149 ff.) kein An-
+spruch auf Parteientschädigung zu.
+Das Versicherungsgericht beschliesst:
+Das Gesuch um Gewährung der unentgeltlichen Rechtsverbeiständung im
+Beschwerdeverfahren wird abgewiesen.
+
+- 11 -
+Das Versicherungsgericht erkennt:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Es werden keine Verfahrenskosten erhoben.
+3.
+Es werden keine Parteientschädigungen zugesprochen.
+Beschwerde in öffentlich-rechtlichen Angelegenheiten
+Gegen diesen Entscheid kann innert 30 Tagen seit der Zustellung beim
+Bundesgericht Beschwerde eingereicht werden (Art. 82 ff. in Verbindung
+mit Art. 90 ff. BGG). Die Frist steht während folgender Zeiten still: vom sieb-
+ten Tag vor Ostern bis und mit dem siebten Tag nach Ostern, vom 15. Juli
+bis und mit 15. August sowie vom 18. Dezember bis und mit dem 2. Januar
+(Art. 46 BGG).
+Die Beschwerdeschrift ist dem Bundesgericht, Schweizerhofquai 6, 6004
+Luzern, zuzustellen.
+Die Beschwerdeschrift hat die Begehren, deren Begründung mit Angabe
+der Beweismittel und die Unterschrift des Beschwerdeführers oder seines
+Vertreters zu enthalten; der angefochtene Entscheid sowie die als Beweis-
+mittel angerufenen Urkunden sind beizulegen, soweit die Partei sie in Hän-
+den hat (Art. 42 BGG).
+Aarau, 8. August 2023
+Versicherungsgericht des Kantons Aargau
+4. Kammer
+Der Präsident: Der Gerichtsschreiberin:
+Roth Fricker
