@@ -1,0 +1,324 @@
+---
+decision_id: "ag_verwaltungsgericht_WPR.2026.8"
+court: "AG Verwaltungsgericht"
+court_id: "ag_verwaltungsgericht"
+chamber: "2. Kammer"
+docket: "WPR.2026.8"
+decided: "2026-01-28"
+language: "de"
+source_url: "https://gesetzessammlungen.ag.ch/app/de/decrees/12239"
+pdf_url: "https://decwork.ag.ch/api/main/v1/de/decrees_pdf/12239"
+cites_decisions: ["2C_846/2021", "BGE 127 II 174", "BGE 129 I 139"]
+cites_law: ["switzerland/bund/acts/142.20/art-076.md", "switzerland/bund/acts/142.20/art-080.md", "switzerland/bund/acts/142.20/art-090.md"]
+---
+
+# Obergericht / Verwaltungsgericht / 2. Kammer — WPR.2026.8
+
+## Text
+
+Verwaltungsgericht
+2. Kammer
+WPR.2026.8 / dg / Bu
+ZEMIS [***]; N [***]
+Urteil vom 28. Januar 2026
+Besetzung Verwaltungsrichter Busslinger, Vorsitz
+Gerichtsschreiber i.V. Grunder
+Gesuchsteller Amt für Migration und Integration Kanton Aargau,
+Sektion Asyl und Rückkehr, Bahnhofstrasse 88, 5001 Aarau
+vertreten durch Marcel Schneider, Bahnhofstrasse 88, 5001 Aarau
+Gesuchsgegner A._____, geboren am tt.mm.jjjj, von Senegal
+z.Zt. im Zentrum für ausländerrechtliche Administrativhaft, 8058 Zürich
+amtlich vertreten durch lic. iur. Dominic Frey, Rechtsanwalt,
+Bachstrasse 57, Postfach, 5001 Aarau
+Gegenstand Ausschaffungshaft gestützt auf Art. 76 AIG / Haftüberprüfung
+
+- 2 -
+Der Einzelrichter entnimmt den Akten:
+A.
+Der Gesuchsgegner reiste eigenen Angaben zufolge am 10. Mai 2023
+illegal in die Schweiz ein und stellte gleichentags ein Asylgesuch (Akten
+des Amts für Migration und Integration [MI-act.] 18, 61, 1).
+Ein Abgleich der Fingerabdrücke mit der europäischen Datenbank Eurodac
+ergab, dass der Gesuchsgegner zuerst in Italien aufgegriffen worden war.
+In der Folge versuchten die Schweizer Behörden den Gesuchsgegner nach
+Italien zu überstellen, allerdings ohne Erfolg (MI-act. 1, 18). Nachdem die
+Frist zur Überstellung abgelaufen war und die Zuständigkeit auf die
+Schweiz überging, hob das Staatssekretariat für Migration (SEM) mit
+Schrieben vom 14. Mai 2024 die Verfügung vom 21. September 2023 auf
+und verfügte die Wiederaufnahme des Asylverfahrens (MI-act. 1).
+Mit Entscheid vom 3. Juli 2024 lehnte das SEM das Asylgesuch des Ge-
+suchsgegners ab, wies ihn aus der Schweiz weg und verpflichtete ihn, die
+Schweiz und den Schengen-Raum bis zum Tag nach Eintritt der Rechts-
+kraft zu verlassen (MI-act. 7 ff.).
+Mit Urteil vom 22. Juli 2024 wies das Bundesverwaltungsgericht die
+Beschwerde des Gesuchsgegners ab, womit der Asylentscheid in Rechts-
+kraft erwuchs (MI-act. 17 ff.). In der Folge setzte das SEM dem Gesuchs-
+gegner eine neue Ausreisefrist bis zum 26. August 2024 an (MI-act. 30).
+Anlässlich des am 17. September 2024 mit dem Amt für Migration und
+Integration Kanton Aargau (MIKA) geführten Ausreisegesprächs gab der
+Gesuchsgegner mehrfach zu Protokoll, er sei nicht bereit in den Senegal
+zurückzukehren, da er dort getötet werde (MI-act. 56 ff.).
+Am 6. Januar 2025 wurde der Gesuchsgegner von den senegalesischen
+Behörden als Staatsangehöriger von Senegal identifiziert (MI-act. 79).
+Am 26. Januar 2026 führte das MIKA mit dem Gesuchsgegner ein weiteres
+Ausreisegespräch, anlässlich dessen sich der Gesuchsgegner erneut
+weigerte die Schweiz zu verlassen (MI-act. 90 ff.).
+B.
+Im Rahmen der Befragung durch das MIKA wurde dem Gesuchsgegner am
+26. Januar 2026 das rechtliche Gehör betreffend die Anordnung einer
+Ausschaffungshaft gewährt (MI-act. 90 ff.). Im Anschluss an die Befragung
+wurde dem Gesuchsgegner die Anordnung der Ausschaffungshaft wie folgt
+eröffnet (act. 1):
+
+- 3 -
+1.
+Es wird eine Ausschaffungshaft angeordnet.
+2.
+Die Haft begann am 26. Januar 2026, 09.30 Uhr. Sie wird in Anwendung
+von Art. 76 AIG für drei Monate bis zum 25. April 2026, 12.00 Uhr, ange-
+ordnet.
+3.
+Die Haft wird im Zentrum für ausländerrechtliche Administrativhaft Zürich
+(ZAA) oder im Gefängnis Bässlergut vollzogen. Soweit für die Befragung
+oder die Durchführung einer Haftverhandlung zwingend, erfolgt die
+Inhaftierung für die notwendige Dauer im Bezirksgefängnis Aarau.
+C.
+Anlässlich der heutigen Verhandlung vor dem Einzelrichter des Verwal-
+tungsgerichts wurden der Gesuchsteller und der Gesuchsgegner befragt.
+D.
+Der Gesuchsteller beantragte die Bestätigung der Haftanordnung (Proto-
+koll S. 4, act. 43).
+Der Gesuchsgegner liess folgende Anträge stellen (Protokoll S. 4, act. 43):
+1.
+Der Antrag auf Anordnung der Ausschaffungshaft sei abzuweisen. Herr
+A._____ sei per sofort aus der Haft zu entlassen.
+2.
+Herrn A._____ sei als amtlicher Rechtsbeistand der Sprechende zu
+bestellen bzw. sei der Sprechende in dieser Funktion zu bestätigen.
+3.
+Die Verfahrens- und Vollzugskosten seien auf die Staatskasse zu nehmen.
+4.
+Dem amtlichen Rechtsvertreter sei eine angemessene Entschädigung
+zuzusprechen.
+Der Einzelrichter zieht in Erwägung:
+I.
+1.
+Das angerufene Gericht überprüft die Rechtmässigkeit und
+Angemessenheit einer durch das MIKA angeordneten Ausschaffungshaft
+aufgrund einer mündlichen Verhandlung spätestens nach 96 Stunden
+(Art. 80 Abs. 2 des Bundesgesetzes über die Ausländerinnen und
+Ausländer und über die Integration vom 16. Dezember 2005 [Ausländer-
+und Integrationsgesetz, AIG; SR 142.20], § 6 des Einführungsgesetzes
+zum Ausländerrecht vom 25. November 2008 [EGAR; SAR 122.600]). Die
+
+- 4 -
+Haftüberprüfungsfrist beginnt mit der ausländerrechtlich motivierten
+Anhaltung der betroffenen Person zu laufen (vgl. BGE 127 II 174, Erw. 2.
+b/aa).
+2.
+Im vorliegenden Fall wurde der Gesuchsgegner am 26. Januar 2026,
+09.30 Uhr, angehalten. Die mündliche Verhandlung begann am 28. Januar
+2026, 11.35 Uhr; das Urteil wurde um 12.05 Uhr eröffnet. Die richterliche
+Haftüberprüfung erfolgte somit innerhalb der Frist von 96 Stunden.
+II.
+1.
+Wurde ein erstinstanzlicher Weg- oder Ausweisungsentscheid eröffnet
+oder wurde die betroffene Person mit einer erstinstanzlichen Landesver-
+weisung belegt, kann die zuständige kantonale Behörde die betroffene
+Person zur Sicherstellung des Vollzugs in Haft nehmen (Art. 76 AIG).
+Zuständige kantonale Behörde im Sinne von Art. 76 Abs. 1 AIG ist bei
+migrationsamtlichen Wegweisungen gemäss § 13 Abs. 1 EGAR und bei
+Landesverweisungen gemäss § 89 der Verordnung über den Vollzug von
+Strafen und Massnahmen vom 23. September 2020 (Strafvollzugsver-
+ordnung, SMV; SAR 253.112) das MIKA. Im vorliegenden Fall wurde die
+Haftanordnung durch das MIKA und damit durch die zuständige Behörde
+erlassen (act. 1 ff.).
+2.
+2.1.
+Das MIKA begründet seine Haftanordnung damit, dass es den
+Gesuchsgegner aus der Schweiz ausschaffen und mit der Haft den Vollzug
+sicherstellen wolle. Der Haftzweck ist damit erstellt.
+2.2.
+Der Haftrichter hat sich im Rahmen der Prüfung, ob die Ausschaffungshaft
+rechtmässig ist, Gewissheit darüber zu verschaffen, ob ein erstinstanzlicher
+Weg- oder Ausweisungsentscheid eröffnet oder eine erstinstanzliche
+Landesverweisung ausgesprochen wurde (Art. 76 Abs. 1 AIG).
+Mit Entscheid vom 3. Juli 2024 lehnte das SEM das Asylgesuch des
+Gesuchsgegners ab und wies ihn aus der Schweiz weg (MI-act. 7 ff.). Die
+dagegen erhobene Beschwerde wies das Bundesverwaltungsgericht mit
+Urteil vom 22. Juli 2024 ab (MI-act. 17 ff.), womit der Wegweisungsent-
+scheid des SEM in Rechtskraft erwachsen ist. Damit liegt ein rechtsge-
+nüglicher Wegweisungsentscheid vor.
+
+- 5 -
+2.3.
+Gemäss Art. 80 Abs. 6 lit. a AIG ist die Haft zu beenden, wenn sich erweist,
+dass der Vollzug der Wegweisung aus rechtlichen oder tatsächlichen
+Gründen undurchführbar ist.
+Es sind keine Anzeichen vorhanden, die an der Ausschaffungsmöglichkeit
+in tatsächlicher oder rechtlicher Hinsicht Zweifel aufkommen lassen
+würden.
+3.
+3.1.
+Das MIKA stützt seine Haftanordnung auf Art. 76 Abs. 1 lit. b Ziff. 3 AIG,
+wonach ein Haftgrund dann vorliegt, wenn konkrete Anzeichen befürchten
+lassen, dass sich die betroffene Person der Ausschaffung entziehen will,
+insbesondere, weil sie der Mitwirkungspflicht nach Art. 90 AIG und Art. 8
+Abs. 1 lit. a oder Art. 47 Abs. 1 des Asylgesetzes vom 26. Juni 1998
+(AsylG, SR 142.31) nicht nachkommt. Ob im Sinne dieser Gesetzes-
+bestimmung konkrete Anzeichen befürchten lassen, dass sich eine Person
+der Ausschaffung entziehen will, ist aufgrund des ganzen bisherigen
+Verhaltens, insbesondere auch gegenüber den Behörden, sowie ihrer
+eigenen Aussagen zu beurteilen. Auch wenn einzelne Fakten für sich eine
+Ausschaffungshaft nicht rechtfertigen, kann dies aufgrund der Gesamtheit
+der Vorkommnisse der Fall sein. Erforderlich sind gewichtige Anhalts-
+punkte dafür, dass die betroffene Person sich der Ausschaffung entziehen
+und untertauchen will. Die blosse Vermutung, dass sie sich der Weg-
+weisung entziehen könnte, genügt nicht; deren Vollzug muss erheblich
+gefährdet erscheinen (vgl. BGE 129 I 139, Erw. 4.2.1).
+Von einer Untertauchensgefahr und damit von einem Haftgrund ist zudem
+auch dann auszugehen, wenn das bisherige Verhalten der betroffenen
+Person darauf schliessen lässt, dass sie sich behördlichen Anordnungen
+widersetzt (Art. 76 Abs. 1 lit. b Ziff. 4 AIG).
+Eine klare Trennung der beiden genannten Haftgründe ist in der Praxis
+kaum möglich. Vielmehr ist Art. 76 Abs. 1 lit. b Ziff. 4 AIG wohl als
+Präzisierung von Art. 76 Abs. 1 lit. b Ziff. 3 AIG zu verstehen, womit die
+beiden Bestimmungen als einheitlicher Haftgrund zu betrachten sind (vgl.
+ANDREAS ZÜND, in: Spescha/Bolzli/de Weck/Hruschka/Priuli/Zünd [Hrsg.],
+Kommentar Migrationsrecht, 6. Aufl., Zürich 2026, N. 7 zu Art. 76 AIG;
+JANINE SERT, in: Caroni/Thurnherr [Hrsg.], Stämpflis Handkommentar zum
+Ausländer- und Integrationsgesetz [AIG], 2. Aufl., Bern 2024, N. 17 zu
+Art. 76).
+3.2.
+Der Gesuchsgegner äusserte sich mehrfach anlässlich der Ausreise-
+gespräche und dem rechtlichen Gehör am 17. September 2024 bzw.
+
+- 6 -
+26. Januar 2026 gegenüber dem MIKA, dass er nicht bereit sei, freiwillig in
+den Senegal zurückzukehren. Auch anlässlich der heutigen Verhandlung
+gab der Gesuchgegner auf Nachfrage des Vorsitzenden zu Protokoll, er
+könne nicht zurück in sein Heimatland (Protokoll S. 3, act. 42). Die
+Vorbringen des Vertreters des Gesuchsgegners, es seien auch das weitere
+Verhalten des Gesuchsgegners zu würdigen, treffen zwar zu (act. 49).
+Richtig ist, dass sich der Gesuchsgegner stets an behördliche
+Anordnungen gehalten und den Vorladungen in der Vergangenheit Folge
+geleistet hat. Auch kann den Akten entnommen werden, dass der
+Gesuchsgegner selbstständig am konsularischen Ausreisegespräch teil-
+nahm. Dennoch weigerte und weigert sich der Gesuchsgegner beständig
+und nachdrücklich, die Schweiz zu verlassen und in sein Heimatland
+zurückzukehren. In der stetigen Weigerung, seiner Ausreisepflicht
+nachzukommen ist ein klares Anzeichen zu erkennen, dass sich der
+Gesuchsgegner der Ausschaffung entziehen will, daran vermag auch seine
+in der Vergangenheit gezeigte Kooperation nichts zu ändern. Der
+Gesuchsgegner bietet nach Auffassung des Gerichts keine Gewähr zur
+freiwilligen Ausreise, womit der Haftgrund von Art. 76 Abs. 1 lit. b Ziff. 3 und
+4 AIG erfüllt ist.
+4.
+Bezüglich der Haftbedingungen liegen keine Beanstandungen vor
+(Protokoll S. 3, act. 42).
+5.
+Es liegen auch keine Anzeichen dafür vor, dass das MIKA dem
+Beschleunigungsgebot (Art. 76 Abs. 4 AIG) nicht ausreichend Beachtung
+geschenkt hätte.
+6.
+Das MIKA ordnete die Ausschaffungshaft für drei Monate an. Nachdem der
+Vollzug der Rückführung massgeblich vom Verhalten des Gesuchsgegners
+abhängig ist und es diesbezüglich zu Verzögerungen kommen kann, ist die
+beantragte Haftdauer nicht zu beanstanden. Im Übrigen ist festzuhalten,
+dass das MIKA bisher stets bemüht war, Ausschaffungen so rasch wie
+möglich zu vollziehen. Sollte das MIKA entgegen seiner bisherigen
+Gewohnheit das Beschleunigungsgebot verletzen, besteht die Möglichkeit,
+ein Haftentlassungsgesuch zu stellen.
+7.
+Abschliessend stellt sich die Frage, ob die Haftanordnung deshalb nicht zu
+bestätigen sei, weil sie im konkreten Fall gegen das Prinzip der
+Verhältnismässigkeit verstossen würde. Eine mildere Massnahme zur
+Sicherstellung des Vollzugs der Wegweisung ist nicht ersichtlich, nachdem
+sich der Gesuchsgegner beharrlich weigert, auszureisen. Bezüglich der
+familiären Verhältnisse ergeben sich keine Anhaltspunkte, welche gegen
+
+- 7 -
+eine Haftanordnung sprechen würden. Der Gesuchsgegner macht auch
+nicht geltend, er sei nicht hafterstehungsfähig und führt auch sonst nicht
+aus, inwiefern die Haft unverhältnismässig wäre. Insgesamt sind keinerlei
+Gründe ersichtlich, welche die angeordnete Haft als unverhältnismässig
+erscheinen liessen.
+III.
+1.
+Gemäss § 28 Abs. 1 EGAR ist das Verfahren betreffend Haftüberprüfung
+unentgeltlich. Demgemäss werden keine Kosten erhoben.
+2.
+Dem Gesuchsgegner ist gemäss § 27 Abs. 2 EGAR zwingend ein amtlicher
+Rechtsvertreter zu bestellen, da der Gesuchsteller eine Haft für eine Dauer
+von mehr als 30 Tagen anordnete. Der Vertreter des Gesuchsgegners wird
+aufgefordert, nach Haftentlassung des Gesuchsgegners seine Kostennote
+im Verfahren WPR.2026.8 einzureichen.
+IV.
+1.
+Der Gesuchsgegner wird darauf hingewiesen, dass ein Haftentlassungs-
+gesuch frühestens einen Monat nach Haftüberprüfung gestellt werden
+kann (Art. 80 Abs. 5 AIG) und beim MIKA einzureichen ist (§ 15 Abs. 1
+EGAR).
+2.
+Soll die Haft gegebenenfalls verlängert werden, ist nicht zwingend eine
+Verhandlung mit Parteibefragung durchzuführen (Aargauische Gerichts-
+und Verwaltungsentscheide [AGVE] 2009, S. 359 ff., Erw. I/4.3 ff.). Im
+Rahmen der Befragung zwecks Gewährung des rechtlichen Gehörs hat
+das MIKA dem Gesuchsgegner daher die Frage zu unterbreiten, ob er die
+Durchführung einer mündlichen Verhandlung wünscht und ob er in diesem
+Fall eine Präsenzverhandlung verlangt oder mit einer Verhandlung via
+Videotelefonie einverstanden ist (Urteil des Bundesgerichts 2C_846/2021
+vom 19. November 2021). Die Anordnung einer allfälligen Haftver-
+längerung ist dem Verwaltungsgericht spätestens acht Arbeitstage vor
+Ablauf der bewilligten Haft einzureichen.
+3.
+Der vorliegende Entscheid wurde den Parteien zusammen mit einer kurzen
+Begründung anlässlich der heutigen Verhandlung mündlich eröffnet. Das
+Dispositiv wurde den Parteien ausgehändigt.
+
+- 8 -
+Der Einzelrichter erkennt:
+1.
+Die am 26. Januar 2026 angeordnete Ausschaffungshaft wird bis zum
+25. April 2026, 12.00 Uhr, bestätigt.
+2.
+Die Haft ist im Zentrum für ausländerrechtliche Administrativhaft Zürich
+(ZAA) oder im Gefängnis Bässlergut Basel zu vollziehen. Für die Dauer der
+Befragung oder die Durchführung einer Haftverhandlung kann die Inhaftie-
+rung, soweit zwingend notwendig, im Bezirksgefängnis Aarau erfolgen.
+3.
+Der Gesuchsgegner ist spätestens am 29. Januar 2026 ins Zentrum für
+ausländerrechtliche Administrativhaft Zürich (ZAA) oder in eine andere
+Haftanstalt, welche den Anforderungen an eine Haftanstalt für Ausschaf-
+fungshaft entspricht, zu überführen. Erfolgt keine Überführung, ist der Ge-
+suchsgegner aus der Haft zu entlassen.
+4.
+Es werden keine Kosten auferlegt.
+5.
+Als amtlicher Rechtsvertreter wird lic. iur. Dominic Frey, Rechtsanwalt,
+Aarau, bestätigt. Der Rechtsvertreter wird aufgefordert, nach Haftentlas-
+sung des Gesuchsgegners seine detaillierte Kostennote im Verfahren
+WPR.2026.8 einzureichen.
+Zustellung an:
+den Gesuchsgegner (Vertreter, im Doppel)
+das MIKA (mit Rückschein)
+das Staatssekretariat für Migration, 3003 Bern
+Beschwerde in öffentlich-rechtlichen Angelegenheiten
+Dieser Entscheid kann wegen Verletzung von Bundesrecht, Völkerrecht,
+kantonalen verfassungsmässigen Rechten sowie interkantonalem Recht
+innert 30 Tagen seit der Zustellung mit Beschwerde in öffentlich-
+rechtlichen Angelegenheiten beim Schweizerischen Bundesgericht,
+1000 Lausanne 14, angefochten werden. Die unterzeichnete Beschwerde
+muss das Begehren, wie der Entscheid zu ändern sei, sowie in gedrängter
+Form die Begründung, inwiefern der angefochtene Akt Recht verletzt, mit
+Angabe der Beweismittel enthalten. Der angefochtene Entscheid und als
+
+- 9 -
+Beweismittel angerufene Urkunden sind beizulegen (Art. 82 ff. des Bun-
+desgesetzes über das Bundesgericht vom 17. Juni 2005 [Bundesgerichts-
+gesetz; BGG; SR 173.110]).
+Aarau, 28. Januar 2026
+Verwaltungsgericht des Kantons Aargau
+2. Kammer
+Der Einzelrichter: Der Gerichtsschreiber i.V.:
+Busslinger Grunder
