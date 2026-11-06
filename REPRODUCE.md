@@ -1,0 +1,33 @@
+# Reproducing this repository
+
+Input: the Parquet files listed below, revision `fecc2c971945cacd914c63b54ee22db9149e58c9` of the `voilaj/swiss-caselaw` dataset
+(`https://huggingface.co/datasets/voilaj/swiss-caselaw/resolve/fecc2c971945cacd914c63b54ee22db9149e58c9/<file>`), plus `graph/statute_references.parquet`
+from the same revision, and lexifina/switzerland-law `main` for the overlay's `law_commit`.
+
+```
+python tools/build.py ag <cache with data/ and graph/> <empty folder> --today 2026-11-06
+```
+
+Needs Python 3 and `duckdb`. Gives 13,385 decision commits and one documentation commit, hash for hash.
+
+## SHA-256 of the input files
+
+```
+6590001eefe7c1e646d6c591bd4109fdaf4721bccc1b4dbe2e354d8737c55471 *ag_anwaltskommission.parquet
+0eb2574da0fe623aaaf8e190c6315f90250ac3fd7a88bd144220595db1c242bc *ag_aufsichtskommission.parquet
+033a4523ba580127d528f14840ba47f41a0eb8894975ac6bcda0f905689edbdb *ag_baugesetzgebung.parquet
+1791965d9ecdca4e217331260ddb0a9d51c4a1621d9e842ae393fb2b473c947a *ag_departement_bks.parquet
+2edfbfa942d30992c533667ec1b171e336ff3d3631b24e1e142eec8c7d430fab *ag_departement_bvu.parquet
+d5e967315eb84bb8689b4aa6714623c87840f06d305fb8fc0b92fb7dd73b87f1 *ag_departement_gs.parquet
+179a8ae041cc1f48379a700e21cbe42a3b9956e2ff1d036161c8c9e4678359a0 *ag_departement_vi.parquet
+ac07f30fdcfde0472d59475b17a94e5f17d4fb6bbd86c15765db339a1f98f9ca *ag_gerichte.parquet
+56d5273936ae1ce24ec0eccb753d078416e501cd410f8575d5280dd6b148eab1 *ag_handelsgericht.parquet
+fcdc73fb063b76a3ea92c2f067d8c66f144406ed2468b70fd7129c0f20594715 *ag_justizgericht.parquet
+29bebf286eb2cad198626a59a3dfd033b796cf80b28cfef411060d990f01efa8 *ag_regierungsrat.parquet
+13fe57914b77c90c996efc0c382ecac21a54dc642ba7dc9c044d72112fb41742 *ag_spezialverwaltungsgericht.parquet
+aef2a19ebce18d66374a5019f6a0d8494b27e2c74380e12090e6646abd8c8b35 *ag_strafgericht.parquet
+c76d0f1212ff5b21ca1a67f64373472d37853ad9e31bc63272693113c0bd0d9c *ag_versicherungsgericht.parquet
+2204ae54d790a10fa1e470845c556b87f384b31da180b59f79d01cdc5e87d531 *ag_verwaltungsgericht.parquet
+de92e60918ffff6d711c910738b8abc9e34786b86992b7568d7eee18b3e6f057 *ag_weitere.parquet
+70f409dc2f4506b98d0d15004a688d73074243feaa21570d8f56d5c655616682 *ag_zivilgericht.parquet
+```
